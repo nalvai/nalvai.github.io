@@ -772,7 +772,7 @@
     },
     {
         "word": "bangu",
-        "gloss": "language",
+        "gloss": "language &mdash; to use (a language) &mdash; to be expressed with a language",
         "type": "gismu",
         "freq": "34280",
         "rank": "143",
@@ -784,11 +784,55 @@
             {
                 "meaning": [
                     {
-                        "exp": "$x_{1}$ is a/the language/dialect used by $x_{2}$ to express/communicate $x_{3}$ (si'o/du'u, not quote)."
+                        "exp": "x_1 is a/the language/dialect used by x_2 to express/communicate x_3 (si'o/du'u, not quote).",
+                        "note": "For \"(of a text) to be written in a language\", both x_2 and x_3 are attested, though using x_3 is more common. See quotes.",
+                        "example": [
+                            {
+                                "lojban": ".i pe'i cizra milxe fa lo nu krici lo du'u lo jugbau cu {{bangu}} le ceizda",
+                                "english": "I think it's a little strange to believe that Chinese {{is the language of}} Heaven.",
+                                "source-id": "rolj",
+                                "speaker": "la nalvai",
+                                "source": "roljbogu'e chatlog"
+                            },
+                            {
+                                "lojban": ".i ku'i mu'a la'a cu'i so'o da {{co'a se bangu}}",
+                                "english": "But, for example, there might be some {{emerging speakers [of the language]}}.",
+                                "source-id": "asse",
+                                "source": "Assessment of EGIDS Levels",
+                                "author": "M. Paul Lewis and Gary F. Simons",
+                                "translator": "la nalvai"
+                            },
+                            {
+                                "lojban": ".i le dei pagbu cu ro roi {{se bangu la .gliban}}.",
+                                "english": "This page is always {{in English}}.",
+                                "note": "Example of \"(of a text) to be written in a language\" expressed with x_2 of {{bangu}}.",
+                                "source-id": "nict",
+                                "source": "la nicte cadzu",
+                                "author": "Robin Lee Powell"
+                            },
+                            {
+                                "lojban": "ni'o da ze'u krici lo du'u lo tai selse'analka'e cukta cu {{te bangu}} fi lo prutce ja darno",
+                                "english": "For a long time it was believed that those impenetrable books {{were in}} ancient or distant {{languages}}.",
+                                "note": "Example of \"(of a text) to be written in a language\" expressed with x_3 of {{bangu}}.",
+                                "source-id": "libr",
+                                "source": "The Library of Babel",
+                                "author": "Jorge Luis Borges",
+                                "translator": "la .xorxes."
+                            },
+                            {
+                                "lojban": ".i mi jinvi lo du'u lo me zoi gy jbo.wikipedia.org gy cu bilga co {{te bangu fi lo jbobau}}",
+                                "english": "I think stuffs in jbo.wikipedia.org should {{be in Lojban}}.",
+                                "note": "Example of \"(of a text) to be written in a language\" expressed with x_3 of {{bangu}}.",
+                                "source-id": "rolj",
+                                "speaker": "la srasu",
+                                "source": "roljbogu'e chatlog"
+                            }
+                        ]
                     }
                 ]
             }
-        ]
+        ],
+        "good": true
     },
     {
         "word": "banli",
@@ -4820,7 +4864,7 @@
     },
     {
         "word": "cinri",
-        "gloss": "interesting",
+        "gloss": "interesting event &mdash; to find interesting, to be interested in",
         "type": "gismu",
         "freq": "37240",
         "rank": "129",
@@ -4832,11 +4876,44 @@
             {
                 "meaning": [
                     {
-                        "exp": "$x_{1}$ (abstraction) interests/is interesting to $x_{2}$; $x_{2}$ is interested in $x_{1}$."
+                        "exp": "x_1 (abstraction) interests/is interesting to x_2; x_2 is interested in x_1.",
+                        "example": [
+                            {
+                                "lojban": "&mdash; .i xu do viska lo cnino trene<br>&mdash; .i go'i lo pixra be lo 777moi klesi trene .i ri na {{jai cinri}} mi",
+                                "english": "&mdash; Did you see the new train?<br>&mdash; Yep, saw the picture of the Class 777. It didn't {{interest}} me.",
+                                "source-id": "rolj",
+                                "speaker": "latkerlo, la samflir",
+                                "source": "roljbogu'e chatlog"
+                            },
+                            {
+                                "lojban": "xu nai lo zekri poi .i bu gasnu ke'a cu {{cinri}} do",
+                                "english": "Doesn't the crime it ( = the word <b>ie'o</b>) caused {{interest}} you?",
+                                "source-id": "rolj",
+                                "speaker": "la lunbe",
+                                "note": "This example doesn't need {{jai}} because the x_1 of {{zekri}} is already an event",
+                                "source": "roljbogu'e chatlog"
+                            },
+                            {
+                                "lojban": ".i lo nu citka cu cizra {{cinri}} sy.",
+                                "english": "The (act of) eating is strangely {{interesting}} to her ( = Susan).",
+                                "source-id": "nict",
+                                "source": "la nicte cadzu",
+                                "author": "Robin Lee Powell"
+                            },
+                            {
+                                "lojban": ".i mi ka'e binxo lo makcu prenu noi {{se cinri}} no na'e bo lo namcu",
+                                "english": "I may become like the grown-ups who are {{interested in}} anything nothing other than figures.",
+                                "source-id": "litt",
+                                "source": "The Little Prince",
+                                "author": "Antoine de Saint-Exupéry",
+                                "translator": "la .xorxes."
+                            }
+                        ]
                     }
                 ]
             }
-        ]
+        ],
+        "good": true
     },
     {
         "word": "cinse",
@@ -5665,7 +5742,7 @@
     },
     {
         "word": "cliva",
-        "gloss": "leave",
+        "gloss": "to leave &mdash; place where x<sub>1</sub> leaves from &mdash; route of leaving",
         "type": "gismu",
         "freq": "43720",
         "rank": "111",
@@ -5677,11 +5754,37 @@
             {
                 "meaning": [
                     {
-                        "exp": "$x_{1}$ leaves/goes away/departs/parts/separates from $x_{2}$ via route $x_{3}$."
+                        "exp": "x_1 leaves/goes away/departs/parts/separates from x_2 via route x_3.",
+                        "example": [
+                            {
+                                "lojban": ".i .e'a ko mi {{cliva}}",
+                                "english": "Go ahead and {{leave}} me",
+                                "source-id": "stil",
+                                "source": "Still Alive",
+                                "author": "Jonathan Coulton",
+                                "translator": "la solpa'i"
+                            },
+                            {
+                                "lojban": ".i ri'a tu'a lo ckule cidja mi binxo co bilma lo za'i ru'i {{se cliva lo ciblu lo kanla}}",
+                                "english": "Because of the school's food, I became sick, with {{blood}} continuously {{goes out through my eyes}}.",
+                                "source-id": "muhe",
+                                "source": "la mu'e cuxna lo bradi",
+                                "author": "la blutolpinxe"
+                            },
+                            {
+                                "lojban": "ni'o xu lo prenu co vajni cu ge'i ca ranji lo nu kansa ku gi ve'u sepli do gi'e {{pu co'a cliva fi lo drata se litru}}",
+                                "english": "As for the people important [to you], do they continue to accompany you? Or are they now distant and separated from you, {{having departed via their own paths}}?",
+                                "source-id": "lett",
+                                "source": "letter song",
+                                "author": "doriko",
+                                "translator": "tetsusquared (la .tirprij.)"
+                            }
+                        ]
                     }
                 ]
             }
-        ]
+        ],
+        "good": true
     },
     {
         "word": "clupa",
@@ -9436,7 +9539,7 @@
     },
     {
         "word": "drata",
-        "gloss": "other",
+        "gloss": "different, other &mdash; what x<sub>1</sub> is different from",
         "type": "gismu",
         "freq": "36440",
         "rank": "132",
@@ -9448,11 +9551,36 @@
             {
                 "meaning": [
                     {
-                        "exp": "$x_{1}$ isn't the-same-thing-as/is different-from/other-than $x_{2}$ by standard $x_{3}$; $x_{1}$ is something else."
+                        "exp": "x_1 isn't the-same-thing-as/is different-from/other-than x_2 by standard x_3; x_1 is something else.",
+                        "example": [
+                            {
+                                "lojban": ".i zo ratcu zo ractu cu {{drata}}",
+                                "english": "\"ratcu\" and \"ractu\" {{are different}}.",
+                                "source-id": "rolj",
+                                "speaker": "la janbe",
+                                "source": "roljbogu'e chatlog"
+                            },
+                            {
+                                "lojban": "lo voksa nu cenba cu {{na drata}} lo se bilma be fi lo lenku",
+                                "english": "The change in his voice {{was no different from}} the sign of a cold.",
+                                "source-id": "meta",
+                                "source": "The Metamorphosis",
+                                "author": "Franz Kafka",
+                                "translator": "la .xorxes."
+                            },
+                            {
+                                "lojban": ".i {{no drata be lo troci}} ka'e ba snada prenu",
+                                "english": "{{Nobody other than those who try}} can be a successful person.",
+                                "source-id": "tens",
+                                "source": "tensaia",
+                                "author": "Djemynai"
+                            }
+                        ]
                     }
                 ]
             }
-        ]
+        ],
+        "good": true
     },
     {
         "word": "drudi",
@@ -24861,6 +24989,7 @@
                                 "lojban": ".i ja'e bo ca ku mi {{cinmo lo mutce}} gi'e kakne co zukte no da",
                                 "english": "As a result I {{am overwhelmed}} and cannot do anything now.",
                                 "source-id": "rolj",
+                                "speaker": "la nalvai",
                                 "note": "To be overwhelmed = To feel an extreme emotion",
                                 "source": "roljbogu'e chatlog"
                             }
@@ -43371,7 +43500,7 @@
                 "meaning": [
                     {
                         "exp": "x_1 observes/[notices]/watches/beholds x_2 using senses/means x_3 under conditions x_4.",
-                        "note": "Attested usage of this word displays family resemblance, ranging from \"to <u>watch</u> a video\" (but never \"to <u>read</u> a book/comic\") to \"to behold\" to \"to feel\" to \"to notice\". Most usage aligns with the English usage of \"watch\". I didn't find usage of the x3 and x4 places.",
+                        "note": "Attested usage of this word displays family resemblance, ranging from \"to watch\" to \"to behold\" to \"to feel\" to \"to notice\". Community usage usually aligns with the English usage of \"watch\" (e.g. {{zgana lo skina}} is common but {{zgana lo pixra}} is rare). I didn't find usage of the x<sub>3</sub> and x<sub>4</sub> places.",
                         "example": [
                             {
                                 "lojban": ".i ko'e {{zgana}} le nu le cifnu cu cliva vo'a",

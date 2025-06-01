@@ -71,17 +71,22 @@ sources = {}
 with open("sources.json", "r", encoding="utf-8") as file:
     sources = json.load(file)
 
+quotes_total = 0
 def process_quotes(entry):
+    global quotes_total
     result = False
     for definition in entry["definition"]:
         for meaning in definition["meaning"]:
             if "example" in meaning and len(meaning["example"]) > 0:
                 for quote in meaning["example"]:
                     if "source-id" in quote:
+                        quotes_total += 1
                         index = quote["source-id"]
                         source = sources[index]
                         for attrib in source:
                             quote[attrib] = source[attrib]
+                    else:
+                        print(f"Warning: unsourced quote at {entry[word]}!")
                 result = True
     return result
 
@@ -109,4 +114,6 @@ with open("output_all.json", "w", encoding="utf-8") as json_file:
 with open("output.json", "w", encoding="utf-8") as json_file:
     json.dump(good_data, json_file, ensure_ascii=False, indent=4)
 
+print(f"{len(good_data)} words recorded")
+print(f"{quotes_total} quotes recorded")
 print("Conversion complete. Output saved to output.json.")

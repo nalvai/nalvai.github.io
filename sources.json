@@ -1,68 +1,23 @@
 {
-    "eggq": {
-        "source": "The Egg",
-        "author": "Andy Weir",
-        "translator": "la nalvai"
+    "aisl": {
+        "source": "Aisle",
+        "author": "Ibuki Tsubasa",
+        "translator": "tetsusquared (la .tirprij.)"
     },
     "alic": {
         "source": "Alice in Wonderland",
         "author": "Lewis Carroll",
         "translator": "la .xorxes."
     },
-    "zaho": {
-        "source": "za'o",
-        "author": "Djemynai"
-    },
-    "rolj": {
-        "source": "roljbogu'e chatlog"
-    },
     "alwa": {
         "source": "Always With Me",
         "author": "Youmi Kimura",
         "translator": ".la guskant."
     },
-    "clax": {
-        "source": "claxu be do crisa",
-        "author": "la .cogas."
-    },
-    "lagt": {
-        "source": "Lagtrain (short ver.)",
-        "author": "inabakumori",
-        "translator": "tetsusquared (la .tirprij.)"
-    },
-    "rest": {
-        "source": "The Restaurant of Many Orders",
-        "author": "Kenji Miyazawa",
-        "translator": "la .tijlan."
-    },
-    "odds": {
-        "source": "ODDS&ENDS",
-        "author": "ryo",
-        "translator": "tetsusquared (la .tirprij.)"
-    },
-    "layo": {
-        "source": "The Lay of the Land",
-        "author": "Worldbuilding Notes"
-    },
-    "head": {
-        "source": "Headphone Actor",
-        "author": "Jin",
-        "translator": "tetsusquared (la .tirprij.)"
-    },
-    "book": {
-        "source": "The Book",
-        "author": "H. P. Lovecraft",
-        "translator": "la gleki"
-    },
-    "litt": {
-        "source": "The Little Prince",
-        "author": "Antoine de Saint-Exupéry",
-        "translator": "la .xorxes."
-    },
-    "aisl": {
-        "source": "Aisle",
-        "author": "Ibuki Tsubasa",
-        "translator": "tetsusquared (la .tirprij.)"
+    "amap": {
+        "source": "Amapola",
+        "author": "José María Lacalle García",
+        "translator": "la .guskant."
     },
     "anta": {
         "source": "Antarctica is getting greener",
@@ -74,123 +29,30 @@
         "author": "Noise and Bells",
         "translator": "tetsusquared (la .tirprij.)"
     },
-    "melb": {
-        "source": "la melbi e le ractu",
-        "author": "la lalxu"
-    },
-    "uala": {
-        "source": "ua langu",
-        "author": "la solpa'i"
-    },
-    "meta": {
-        "source": "The Metamorphosis",
-        "author": "Franz Kafka",
-        "translator": "la .xorxes."
-    },
-    "tori": {
-        "source": "Torinoko City",
-        "author": "40mP",
-        "translator": "tetsusquared (la .tirprij.)"
-    },
-    "jitt": {
-        "source": "Jitter Doll",
-        "author": "niki",
-        "translator": "tetsusquared (la .tirprij.)"
-    },
-    "wond": {
-        "source": "The Wonderful Wizard of Oz",
-        "author": "L. Frank Baum",
-        "translator": "la solpa'i"
-    },
-    "kuhi": {
-        "source": "ku'i ba troci",
-        "author": "Fyren"
-    },
-    "amap": {
-        "source": "Amapola",
-        "author": "José María Lacalle García",
-        "translator": "la .guskant."
-    },
-    "lian": {
-        "source": "Liang and the Magic Paintbrush",
-        "author": "Demi",
-        "translator": "la darsi",
-        "editor": "la gleki"
-    },
-    "stil": {
-        "source": "Still Alive",
-        "author": "Jonathan Coulton",
-        "translator": "la solpa'i"
-    },
-    "reed": {
-        "source": "Re-Education",
-        "author": "Neru",
-        "translator": "tetsusquared (la .tirprij.)"
-    },
-    "prin": {
-        "source": "The Princess and the Pea",
-        "author": "Hans Christian Andersen",
-        "translator": "la solpa'i"
-    },
-    "snow": {
-        "source": "Snow White",
-        "translator": "la solpa'i"
-    },
-    "firs": {
-        "source": "First dinosaurs may have been omnivores in the north hemisphere",
-        "author": "Chelsea Whyte on NewScientist",
-        "translator": "la .ilmen."
-    },
-    "howt": {
-        "source": "How the enemy came to Thlunrana",
-        "author": "Lord Dunsany",
-        "translator": "la gleki"
-    },
-    "cmal": {
-        "source": "lo cmalu",
-        "author": "la solpa'i"
-    },
-    "diam": {
-        "source": "Diamond City Lights",
-        "author": "LazuLight",
-        "translator": "tetsusquared (la .tirprij.)"
-    },
-    "nict": {
-        "source": "la nicte cadzu",
-        "author": "Robin Lee Powell"
-    },
-    "srur": {
-        "source": "sruri fa lo tarci",
-        "author": "Noise and Bells (la janbe)"
-    },
-    "ings": {
-        "source": "Little Things",
-        "author": "Raymond Carver",
-        "translator": "Jordan DeLong"
-    },
-    "muhe": {
-        "source": "la mu'e cuxna lo bradi",
-        "author": "la blutolpinxe"
-    },
-    "pram": {
-        "source": "prami simbi'o",
-        "author": "Djemynai"
-    },
-    "offi": {
-        "source": "\"Official Lojban\"",
-        "author": "la uakci"
-    },
     "asse": {
         "source": "Assessment of EGIDS Levels",
         "author": "M. Paul Lewis and Gary F. Simons",
         "translator": "la nalvai"
     },
-    "koid": {
-        "source": "koi do mi na",
-        "author": "Mèremim"
+    "baid": {
+        "source": "bai do",
+        "author": "Noise and Bells (la janbe)"
     },
-    "miju": {
-        "source": "lo mi jufra",
+    "book": {
+        "source": "The Book",
+        "author": "H. P. Lovecraft",
+        "translator": "la gleki"
+    },
+    "clan": {
+        "source": "clani kerlo",
+        "author": "la fagri"
+    },
+    "clax": {
+        "source": "claxu be do crisa",
+        "author": "la .cogas."
+    },
+    "cmal": {
+        "source": "lo cmalu",
         "author": "la solpa'i"
     },
     "colo": {
@@ -198,17 +60,169 @@
         "author": "H△G",
         "translator": "tetsusquared (la .tirprij.)"
     },
-    "clan": {
-        "source": "clani kerlo",
-        "author": "la fagri"
+    "diam": {
+        "source": "Diamond City Lights",
+        "author": "LazuLight",
+        "translator": "tetsusquared (la .tirprij.)"
     },
-    "baid": {
-        "source": "bai do",
-        "author": "Noise and Bells (la janbe)"
+    "eggq": {
+        "source": "The Egg",
+        "author": "Andy Weir",
+        "translator": "la nalvai"
+    },
+    "firs": {
+        "source": "First dinosaurs may have been omnivores in the north hemisphere",
+        "author": "Chelsea Whyte on NewScientist",
+        "translator": "la .ilmen."
+    },
+    "head": {
+        "source": "Headphone Actor",
+        "author": "Jin",
+        "translator": "tetsusquared (la .tirprij.)"
+    },
+    "howt": {
+        "source": "How the enemy came to Thlunrana",
+        "author": "Lord Dunsany",
+        "translator": "la gleki"
+    },
+    "ings": {
+        "source": "Little Things",
+        "author": "Raymond Carver",
+        "translator": "Jordan DeLong"
+    },
+    "jitt": {
+        "source": "Jitter Doll",
+        "author": "niki",
+        "translator": "tetsusquared (la .tirprij.)"
+    },
+    "koid": {
+        "source": "koi do mi na",
+        "author": "Mèremim"
+    },
+    "kuhi": {
+        "source": "ku'i ba troci",
+        "author": "Fyren"
+    },
+    "lagt": {
+        "source": "Lagtrain (short ver.)",
+        "author": "inabakumori",
+        "translator": "tetsusquared (la .tirprij.)"
+    },
+    "layo": {
+        "source": "The Lay of the Land",
+        "author": "Worldbuilding Notes"
+    },
+    "lett": {
+        "source": "letter song",
+        "author": "doriko",
+        "translator": "tetsusquared (la .tirprij.)"
+    },
+    "lian": {
+        "source": "Liang and the Magic Paintbrush",
+        "author": "Demi",
+        "translator": "la darsi",
+        "editor": "la gleki"
+    },
+    "libr": {
+        "source": "The Library of Babel",
+        "author": "Jorge Luis Borges",
+        "translator": "la .xorxes."
+    },
+    "litt": {
+        "source": "The Little Prince",
+        "author": "Antoine de Saint-Exupéry",
+        "translator": "la .xorxes."
     },
     "lost": {
         "source": "The Lost One's Weeping",
         "author": "Neru",
         "translator": "tetsusquared (la .tirprij.)"
+    },
+    "melb": {
+        "source": "la melbi e le ractu",
+        "author": "la lalxu"
+    },
+    "meta": {
+        "source": "The Metamorphosis",
+        "author": "Franz Kafka",
+        "translator": "la .xorxes."
+    },
+    "miju": {
+        "source": "lo mi jufra",
+        "author": "la solpa'i"
+    },
+    "muhe": {
+        "source": "la mu'e cuxna lo bradi",
+        "author": "la blutolpinxe"
+    },
+    "nict": {
+        "source": "la nicte cadzu",
+        "author": "Robin Lee Powell"
+    },
+    "odds": {
+        "source": "ODDS&ENDS",
+        "author": "ryo",
+        "translator": "tetsusquared (la .tirprij.)"
+    },
+    "offi": {
+        "source": "\"Official Lojban\"",
+        "author": "la uakci"
+    },
+    "pram": {
+        "source": "prami simbi'o",
+        "author": "Djemynai"
+    },
+    "prin": {
+        "source": "The Princess and the Pea",
+        "author": "Hans Christian Andersen",
+        "translator": "la solpa'i"
+    },
+    "reed": {
+        "source": "Re-Education",
+        "author": "Neru",
+        "translator": "tetsusquared (la .tirprij.)"
+    },
+    "rest": {
+        "source": "The Restaurant of Many Orders",
+        "author": "Kenji Miyazawa",
+        "translator": "la .tijlan."
+    },
+    "rolj": {
+        "source": "roljbogu'e chatlog"
+    },
+    "snow": {
+        "source": "Snow White",
+        "translator": "la solpa'i"
+    },
+    "srur": {
+        "source": "sruri fa lo tarci",
+        "author": "Noise and Bells (la janbe)"
+    },
+    "stil": {
+        "source": "Still Alive",
+        "author": "Jonathan Coulton",
+        "translator": "la solpa'i"
+    },
+    "tens": {
+        "source": "tensaia",
+        "author": "Djemynai"
+    },
+    "tori": {
+        "source": "Torinoko City",
+        "author": "40mP",
+        "translator": "tetsusquared (la .tirprij.)"
+    },
+    "uala": {
+        "source": "ua langu",
+        "author": "la solpa'i"
+    },
+    "wond": {
+        "source": "The Wonderful Wizard of Oz",
+        "author": "L. Frank Baum",
+        "translator": "la solpa'i"
+    },
+    "zaho": {
+        "source": "za'o",
+        "author": "Djemynai"
     }
 }
