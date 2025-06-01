@@ -19,6 +19,7 @@
                             {
                                 "lojban": ".i xu mi klama lo mu'a ceizda {{.a}} lo mu'a pacraistu",
                                 "english": "Do I go to, say, heaven {{or}} hell?",
+                                "source-id": "eggq",
                                 "source": "The Egg",
                                 "author": "Andy Weir",
                                 "translator": "la nalvai"
@@ -32,6 +33,7 @@
                             {
                                 "lojban": ".i ro da sutra fa'a {{la .alis.}} ca lo nu {{.a bu}} tolcanci",
                                 "english": "They all made a rush at {{Alice}} the moment {{she}} (= Alice) appeared.",
+                                "source-id": "alic",
                                 "source": "Alice in Wonderland",
                                 "author": "Lewis Carroll",
                                 "translator": "la .xorxes."
@@ -126,6 +128,7 @@
                             {
                                 "lojban": ".i {{.ai}} mi ba snada ro se troci",
                                 "english": "I{{'ll}} succeed in everything I try.",
+                                "source-id": "zaho",
                                 "source": "za'o",
                                 "author": "Djemynai"
                             }
@@ -138,8 +141,9 @@
                             {
                                 "lojban": "― .i pu zi co'i mo'u tinzga 100 zo'e .ibo ca surla .i {{.aicu'i}} tinzga lo velvi'u 400mei",
                                 "english": "― Just finished listening to the first 100 and am now taking a break. {{Unsure if}} I'll listen to the remaining 400.",
-                                "source": "roljbogu'e chatlog",
-                                "speaker": "la lalxu"
+                                "source-id": "rolj",
+                                "speaker": "la lalxu",
+                                "source": "roljbogu'e chatlog"
                             }
                         ]
                     },
@@ -151,6 +155,7 @@
                             {
                                 "lojban": ".i go pu'o zei ganlo se morji gi ne'i la'e di'u milxe bacru za'a sei {{.ai nai}} tolmo'i",
                                 "english": "The unclosed memories, I hear whispers inside them that {{we never want to}} forget.",
+                                "source-id": "alwa",
                                 "source": "Always With Me",
                                 "author": "Youmi Kimura",
                                 "translator": ".la guskant."
@@ -202,6 +207,7 @@
                             {
                                 "lojban": ".i a'o ro da zabna",
                                 "english": "{{I hope}} everything is good.",
+                                "source-id": "clax",
                                 "source": "claxu be do crisa",
                                 "author": "la .cogas."
                             }
@@ -214,10 +220,11 @@
                             {
                                 "lojban": ".i le trene pu zi co'a cliva se ka'a lo tcadu poi darno {{.a'o nai}}",
                                 "english": "The train's just started to leave for the faraway city, {{oh no...}}",
+                                "source-id": "lagt",
+                                "noshownote": "The original has {{ca'o}} instead of {{co'a}}",
                                 "source": "Lagtrain (short ver.)",
                                 "author": "inabakumori",
-                                "translator": "tetsusquared (la .tirprij.)",
-                                "noshownote": "The original has {{ca'o}} instead of {{co'a}}"
+                                "translator": "tetsusquared (la .tirprij.)"
                             }
                         ]
                     }
@@ -267,6 +274,7 @@
                             {
                                 "lojban": ".i {{.a'u sai}} .i ti lo nu mi sipna cu fanmo",
                                 "english": "{{Cool,}} this is the end of my sleep.",
+                                "source-id": "zaho",
                                 "source": "za'o",
                                 "author": "Djemynai"
                             }
@@ -279,6 +287,7 @@
                             {
                                 "lojban": "{{.a'ucu'i}} .i ka'u mi'o na ba se fatri lo do'anai bongu .oi",
                                 "english": "{{Whatever.}} Now he won't even share the bones with us anyway...",
+                                "source-id": "rest",
                                 "source": "The Restaurant of Many Orders",
                                 "author": "Kenji Miyazawa",
                                 "translator": "la .tijlan."
@@ -292,6 +301,7 @@
                             {
                                 "lojban": "{{.a'u nai}} bu'o pilno lo do voksa",
                                 "english": "I {{don't want to}} use your voice anymore!",
+                                "source-id": "odds",
                                 "source": "ODDS&ENDS",
                                 "author": "ryo",
                                 "translator": "tetsusquared (la .tirprij.)"
@@ -447,6 +457,7 @@
                             {
                                 "lojban": ".i ja'o mi bilga lo nu jmina finti {{ba'e so}} lo tricu",
                                 "english": "So I have to create {{<em>nine</em>}} more trees to add.",
+                                "source-id": "layo",
                                 "source": "The Lay of the Land",
                                 "author": "Worldbuilding Notes"
                             }
@@ -884,6 +895,7 @@
                             {
                                 "lojban": "ni'o {{ba'o}} le krixa ke cladu savru cu co'a klaku fa pi ro le drata prenu",
                                 "english": "{{After}} the deafeningly noisy screaming, everyone else started to cry.",
+                                "source-id": "head",
                                 "source": "Headphone Actor",
                                 "author": "Jin",
                                 "translator": "tetsusquared (la .tirprij.)"
@@ -2158,10 +2170,11 @@
                             {
                                 "lojban": "ni'o ze mo'o fenki tcati {{bo}} kansi'u",
                                 "english": "VII. The mad tea{{-}}party",
+                                "source-id": "alic",
+                                "note": "The {{bo}} directly corresponds to the hyphen in the English text. Without the {{bo}} the tanru will group as {{[fenki tcati] kansi'u}}, which roughly translates to \"the <em>mad-tea</em> party\".",
                                 "source": "Alice in Wonderland",
                                 "author": "Lewis Carroll",
-                                "translator": "la .xorxes.",
-                                "note": "The {{bo}} directly corresponds to the hyphen in the English text. Without the {{bo}} the tanru will group as {{[fenki tcati] kansi'u}}, which roughly translates to \"the <em>mad-tea</em> party\"."
+                                "translator": "la .xorxes."
                             }
                         ]
                     },
@@ -2172,10 +2185,11 @@
                             {
                                 "lojban": ".i ku'i mi pu ku tcidu ba'e so'u pagbu be le to'e censa se ciska gi'e ba bo ga'orgau le cukta {{gi'e bo}} co'a bevri",
                                 "english": "Yet I had read only the least fragment of that blasphemous rune before closing the book and bringing it away.",
+                                "source-id": "book",
+                                "note": "The English sentence is grouped as \"I had read... before [closing the book and bringing it away]\". If the underlined {{bo}} wasn't there, it'll group as \"I had [read... before closing the book] and bringing it away\". This example also shows the right-grouping rule with chained {{bo}}: The {{gi'e ba bo}} in the example has a lower priority because it is to the left of the underlined {{gi'e bo}}.",
                                 "source": "The Book",
                                 "author": "H. P. Lovecraft",
-                                "translator": "la gleki",
-                                "note": "The English sentence is grouped as \"I had read... before [closing the book and bringing it away]\". If the underlined {{bo}} wasn't there, it'll group as \"I had [read... before closing the book] and bringing it away\". This example also shows the right-grouping rule with chained {{bo}}: The {{gi'e ba bo}} in the example has a lower priority because it is to the left of the underlined {{gi'e bo}}."
+                                "translator": "la gleki"
                             }
                         ]
                     },
@@ -2188,6 +2202,7 @@
                             {
                                 "lojban": ".i mi ka'e binxo lo makcu prenu noi se cinri no {{na'e bo}} lo namcu",
                                 "english": "I may become like the grown-ups who are interested in anything nothing {{other than}} figures.",
+                                "source-id": "litt",
                                 "source": "The Little Prince",
                                 "author": "Antoine de Saint-Exupéry",
                                 "translator": "la .xorxes."
@@ -2201,10 +2216,11 @@
                             {
                                 "lojban": "ni'o lo ka jinga nalka'e cu nalvai {{.i mu'i bo}} mi klama be tu mutce bo djica",
                                 "english": "It doesn't matter that I can't win, {{because}} I really want to go there.",
+                                "source-id": "aisl",
+                                "note": "The second {{bo}} in this example is of another usage.",
                                 "source": "Aisle",
                                 "author": "Ibuki Tsubasa",
-                                "translator": "tetsusquared (la .tirprij.)",
-                                "note": "The second {{bo}} in this example is of another usage."
+                                "translator": "tetsusquared (la .tirprij.)"
                             }
                         ]
                     },
@@ -2216,6 +2232,7 @@
                             {
                                 "lojban": ".e'u mi'o klama lo korbi {{.i ba bo}} mi do jungau lo lisri be mi",
                                 "english": "Let us get to the shore, {{and then}} I'll let you know my story.",
+                                "source-id": "alic",
                                 "source": "Alice in Wonderland",
                                 "author": "Lewis Carroll",
                                 "translator": "la .xorxes."
@@ -2229,6 +2246,7 @@
                             {
                                 "lojban": ".i ca ro dunra lo clika co'a dunja {{je ja'e bo}} sligu",
                                 "english": "Every winter the moss freezes {{and becomes}} solid {{as a result}}.",
+                                "source-id": "anta",
                                 "source": "Antarctica is getting greener",
                                 "author": "Ryan Cross on <i>Science</i>",
                                 "translator": "la .ilmen."
@@ -2242,6 +2260,7 @@
                             {
                                 "lojban": ".i loi sorska cinta ko fi ko'a cu se punji {{.i je ba bo}} loi xekri tabno ko'a gacri",
                                 "english": "Paint it with colorful pigments, {{and soon enough}} it'll be covered in black charcoal.",
+                                "source-id": "arma",
                                 "source": "Ĉarma Anomali’",
                                 "author": "Noise and Bells",
                                 "translator": "tetsusquared (la .tirprij.)"
@@ -5059,12 +5078,14 @@
                             {
                                 "lojban": "mi ba {{citka}} ma",
                                 "english": "What will I {{eat}}?",
+                                "source-id": "melb",
                                 "source": "la melbi e le ractu",
                                 "author": "la lalxu"
                             },
                             {
                                 "lojban": "{{lo se citka ku}} mo",
                                 "english": "What happened to {{the stuff I was going to eat}}?",
+                                "source-id": "melb",
                                 "source": "la melbi e le ractu",
                                 "author": "la lalxu"
                             }
@@ -5215,6 +5236,7 @@
                             {
                                 "lojban": ".i ku'i ro da {{cizra}} ca lo cabdei",
                                 "english": "But everything {{is strange}} today.",
+                                "source-id": "alic",
                                 "source": "Alice in Wonderland",
                                 "author": "Lewis Carroll",
                                 "translator": "la .xorxes."
@@ -5222,12 +5244,14 @@
                             {
                                 "lojban": ".i a'o {{na cizra}} do fa tu'a ti",
                                 "english": "I hope (something about) this {{is not strange}} to you.",
+                                "source-id": "uala",
                                 "source": "ua langu",
                                 "author": "la solpa'i"
                             },
                             {
                                 "lojban": ".i la gregor cu {{se cizra}} lo vrici sance be lo nu citka",
                                 "english": "Gregor {{found}} the various sounds of eating {{strange}}.",
+                                "source-id": "meta",
                                 "source": "The Metamorphosis",
                                 "author": "Franz Kafka",
                                 "translator": "la .xorxes."
@@ -5778,6 +5802,7 @@
                             {
                                 "lojban": ".i ma {{cmene}} do poi ke'a na slabu mi",
                                 "english": "What {{is}} your {{name}}, unfamiliar one?",
+                                "source-id": "tori",
                                 "source": "Torinoko City",
                                 "author": "40mP",
                                 "translator": "tetsusquared (la .tirprij.)"
@@ -5785,6 +5810,7 @@
                             {
                                 "lojban": "ni'o lo jmive poi ka'e prami cu ca ca'o {{se cmene}} fi lo remna fa zo remna",
                                 "english": "A living thing that can love is now {{being called}} \"human\" by mankind.",
+                                "source-id": "jitt",
                                 "source": "Jitter Doll",
                                 "author": "niki",
                                 "translator": "tetsusquared (la .tirprij.)"
@@ -5792,6 +5818,7 @@
                             {
                                 "lojban": ".i ki'u ma lo cmalu ninmu cu {{te cmene}} dy lu te makfa li'u",
                                 "english": "Why did the little woman {{call}} her (Dorothy) \"a sorceress\"?",
+                                "source-id": "wond",
                                 "source": "The Wonderful Wizard of Oz",
                                 "author": "L. Frank Baum",
                                 "translator": "la solpa'i"
@@ -6084,6 +6111,7 @@
                             {
                                 "lojban": ".i mi {{co'a}} na kakne lo nu jitro",
                                 "english": "I {{start to}} be unable to control.",
+                                "source-id": "kuhi",
                                 "source": "ku'i ba troci",
                                 "author": "Fyren"
                             }
@@ -6102,6 +6130,7 @@
                             {
                                 "lojban": ".i xy. to'e lazni gunka {{co'a lo cerni}} co'u lo nicte gi'e na djuno lo du'u lo si'o gleki cu mo kau",
                                 "english": "He worked hard {{from morning}} till night and did not know what joy was.",
+                                "source-id": "wond",
                                 "source": "The Wonderful Wizard of Oz",
                                 "author": "L. Frank Baum",
                                 "translator": "la solpa'i"
@@ -6298,6 +6327,7 @@
                             {
                                 "lojban": ".i ko {{co'u}} tolckire gi'e prami mi",
                                 "english": "{{Stop being}} thankless and love me.",
+                                "source-id": "amap",
                                 "source": "Amapola",
                                 "author": "José María Lacalle García",
                                 "translator": "la .guskant."
@@ -6312,6 +6342,7 @@
                             {
                                 "lojban": ".i {{co'u}} lo nu terxra kei ly ganse lo nu le mirli co'a jmive",
                                 "english": "{{As}} he {{finished}} painting, he felt that the deer came to life.",
+                                "source-id": "lian",
                                 "source": "Liang and the Magic Paintbrush",
                                 "author": "Demi",
                                 "translator": "la darsi",
@@ -6327,6 +6358,7 @@
                             {
                                 "lojban": ".i sa'u ko troci {{co'u}} lo nu claxu lo titnanba",
                                 "english": "You just keep on trying {{till}} you run out of cake.",
+                                "source-id": "stil",
                                 "source": "Still Alive",
                                 "author": "Jonathan Coulton",
                                 "translator": "la solpa'i"
@@ -7182,12 +7214,14 @@
                             {
                                 "lojban": "ni'o le ractu ku {{cusku}} lu xu do djica lo nu citka li'u",
                                 "english": "The rabbit {{said}}: \"Did you want to eat?\"",
+                                "source-id": "melb",
                                 "source": "la melbi e le ractu",
                                 "author": "la lalxu"
                             },
                             {
                                 "lojban": ".i ka'e {{cusku}} zo co'o fi ro da",
                                 "english": "[We] can just {{say}} goodbye to everything.",
+                                "source-id": "reed",
                                 "source": "Re-Education",
                                 "author": "Neru",
                                 "translator": "tetsusquared (la .tirprij.)"
@@ -7195,6 +7229,7 @@
                             {
                                 "lojban": ".i my. {{cusku}} lo se du'u my. manci catlu po'o lo mi melbi lerfu",
                                 "english": "She (my mother) said she was just marvelling at my beautiful [hand-written] letters.",
+                                "source-id": "rolj",
                                 "source": "roljbogu'e chatlog"
                             }
                         ]
@@ -8988,16 +9023,18 @@
                             {
                                 "lojban": "xu do {{djica}} lo nu citka",
                                 "english": "Did you {{want}} to eat?",
+                                "source-id": "melb",
                                 "source": "la melbi e le ractu",
                                 "author": "la lalxu"
                             },
                             {
                                 "lojban": ".i ki'u bo mutce lo ka {{djica}} tu'a lo drani noltruti'u",
                                 "english": "Because he {{would have liked}} very much to have a real princess.",
+                                "source-id": "prin",
+                                "note": "This sentence is an example of using {{tu'a}} for object of desire in x_2.",
                                 "source": "The Princess and the Pea",
                                 "author": "Hans Christian Andersen",
-                                "translator": "la solpa'i",
-                                "note": "This sentence is an example of using {{tu'a}} for object of desire in x_2."
+                                "translator": "la solpa'i"
                             }
                         ]
                     }
@@ -9065,12 +9102,14 @@
                             {
                                 "lojban": ".i my ba zi {{djuno}} lo du'u do ti zvati",
                                 "english": "She will soon {{know}} that you are here.",
+                                "source-id": "snow",
                                 "source": "Snow White",
                                 "translator": "la solpa'i"
                             },
                             {
                                 "lojban": "ni'o pu ku ro prenu cu {{djuno}} fi lo makfa burcu po ko'a",
                                 "english": "Everyone {{knew}} about Liang's magic brush.",
+                                "source-id": "lian",
                                 "source": "Liang and the Magic Paintbrush",
                                 "author": "Demi",
                                 "translator": "la darsi",
@@ -9079,6 +9118,7 @@
                             {
                                 "lojban": "ku'i ma'a {{djuno}} so'i da lo jipci",
                                 "english": "But we {{have}} a lot of {{knowledge}} of chickens.",
+                                "source-id": "firs",
                                 "source": "First dinosaurs may have been omnivores in the north hemisphere",
                                 "author": "Chelsea Whyte on NewScientist",
                                 "translator": "la .ilmen."
@@ -9086,14 +9126,16 @@
                             {
                                 "lojban": ".i {{le pu se djuno}} co'a fatci",
                                 "english": "{{The prophecy}} was fulfilled.",
+                                "source-id": "howt",
+                                "note": "Prophecy = That which was known.",
                                 "source": "How the enemy came to Thlunrana",
                                 "author": "Lord Dunsany",
-                                "translator": "la gleki",
-                                "note": "Prophecy = That which was known."
+                                "translator": "la gleki"
                             },
                             {
                                 "lojban": ".i da'i ma pu ve djuno",
                                 "english": "How should I know?",
+                                "source-id": "wond",
                                 "source": "The Wonderful Wizard of Oz",
                                 "author": "L. Frank Baum",
                                 "translator": "la solpa'i"
@@ -9799,6 +9841,7 @@
                             {
                                 "lojban": ".i po'o do {{.e}} mi zvati",
                                 "english": "Just you {{and}} me [are here].",
+                                "source-id": "eggq",
                                 "source": "The Egg",
                                 "author": "Andy Weir",
                                 "translator": "la nalvai"
@@ -9806,6 +9849,7 @@
                             {
                                 "lojban": ".i .ei mi pajni ji'u lo se zukte {{.e nai}} lo valsi",
                                 "english": "I ought to have judged by deeds {{and not}} by words.",
+                                "source-id": "litt",
                                 "source": "The Little Prince",
                                 "author": "Antoine de Saint-Exupéry",
                                 "translator": "la .xorxes."
@@ -9819,6 +9863,7 @@
                             {
                                 "lojban": "ni'o {{la .em.}} ca lo nu klama ti te zu'e lo nu bu'u xabju cu citno je melbi speni .i lo solri jo'u lo brife cu cnegau {{.e bu}} ji'a",
                                 "english": "When {{Aunt Em}} came there to live she was a young, pretty wife. The sun and wind had changed {{her}} (= Aunt Em), too.",
+                                "source-id": "wond",
                                 "source": "The Wonderful Wizard of Oz",
                                 "author": "L. Frank Baum",
                                 "translator": "la solpa'i"
@@ -13031,12 +13076,14 @@
                             {
                                 "lojban": ".i lo xanka mutce rirni cu {{gleki}} lo nu lo verba za'o jmive",
                                 "english": "The very anxious parents are happy that the child is still alive.",
+                                "source-id": "cmal",
                                 "source": "lo cmalu",
                                 "author": "la solpa'i"
                             },
                             {
                                 "lojban": ".i lo nu jelca cu crori'a ki'u lo nu mi tai {{gleki}} tu'a do",
                                 "english": "As they burned it hurt because I was so {{happy}} for you",
+                                "source-id": "stil",
                                 "source": "Still Alive",
                                 "author": "Jonathan Coulton",
                                 "translator": "la solpa'i"
@@ -15822,6 +15869,7 @@
                             {
                                 "lojban": "cacra li re vo pe'i {{ji}} li pa re pei",
                                 "english": "Twenty-four hours, I think; {{or}} is it twelve{{?}}",
+                                "source-id": "alic",
                                 "source": "Alice in Wonderland",
                                 "author": "Lewis Carroll",
                                 "translator": "la .xorxes."
@@ -15840,8 +15888,9 @@
                             {
                                 "lojban": "― coi jbope'o mi'e zi sipna <br> ― puzi {{ji}} bazi <br> ― naje li'abu'o u'i",
                                 "english": "― Hello Lojban friends, I'm sleeping (from a short distance in time from now) <br> ― To the past {{or}} to the future? <br> ― The latter, should be obvious now, haha.",
-                                "source": "roljbogu'e chatlog",
-                                "speaker": "la srasu, evie"
+                                "source-id": "rolj",
+                                "speaker": "la srasu, evie",
+                                "source": "roljbogu'e chatlog"
                             }
                         ]
                     }
@@ -15871,6 +15920,7 @@
                             {
                                 "lojban": ".i lo munje cu palci je'u .i {{ji'a}} lo nu jmive cu nibli lo nu cortu",
                                 "english": "The world is truly evil, {{and}} living implies suffering.",
+                                "source-id": "kuhi",
                                 "source": "ku'i ba troci",
                                 "author": "Fyren"
                             }
@@ -16142,6 +16192,7 @@
                             {
                                 "lojban": "mi {{jimpe}} lo du'u do ma kau cinmo",
                                 "english": "I {{understand}} how you feel.",
+                                "source-id": "wond",
                                 "source": "The Wonderful Wizard of Oz",
                                 "author": "L. Frank Baum",
                                 "translator": "la solpa'i"
@@ -16149,14 +16200,16 @@
                             {
                                 "lojban": ".i .a bu snada lo ka {{jimpe}} tu'a lo valsi",
                                 "english": "She (Alice) made out the words.",
+                                "source-id": "alic",
+                                "note": "Make out the words = Succeed to understand the words.",
                                 "source": "Alice in Wonderland",
                                 "author": "Lewis Carroll",
-                                "translator": "la .xorxes.",
-                                "note": "Make out the words = Succeed to understand the words."
+                                "translator": "la .xorxes."
                             },
                             {
                                 "lojban": ".i {{jimpe}} fi lo selcni .i .au kelci ne'i le xamsi pe'a",
                                 "english": "{{Understanding}} emotions, I want to play in the (figurative) ocean.",
+                                "source-id": "diam",
                                 "source": "Diamond City Lights",
                                 "author": "LazuLight",
                                 "translator": "tetsusquared (la .tirprij.)"
@@ -16164,6 +16217,7 @@
                             {
                                 "lojban": ".i do terpa lo nu mi jai gau xrani do se pi'o {{lo se jimpe be mi}}",
                                 "english": "You fear that I'll cause harm to you with {{my understandings}}.",
+                                "source-id": "nict",
                                 "source": "la nicte cadzu",
                                 "author": "Robin Lee Powell"
                             }
@@ -18930,12 +18984,14 @@
                             {
                                 "lojban": "mi {{klama}} .ii le tsani le mi munje be lo xrani",
                                 "english": "I'm scared, but I'm {{going}} to the sky away from my world full of trauma",
+                                "source-id": "srur",
                                 "source": "sruri fa lo tarci",
                                 "author": "Noise and Bells (la janbe)"
                             },
                             {
                                 "lojban": ".i le karce zo'a {{flecu klama}} fo le dargu pe le bartu noi ca'o manku binxo",
                                 "english": "Cars {{slushed}} by on the street outside, where it was getting dark.",
+                                "source-id": "ings",
                                 "source": "Little Things",
                                 "author": "Raymond Carver",
                                 "translator": "Jordan DeLong"
@@ -18943,14 +18999,16 @@
                             {
                                 "lojban": ".i mi {{klama fu}} le roldepre'e .a'o",
                                 "english": "I hope I can {{ride}} the local train still.",
+                                "source-id": "lagt",
+                                "note": "{{roldepre'e}} expands to {{ro denpa trene}}, Train that stops at every [station] = Local train.",
                                 "source": "Lagtrain (short ver.)",
                                 "author": "inabakumori",
-                                "translator": "tetsusquared (la .tirprij.)",
-                                "note": "{{roldepre'e}} expands to {{ro denpa trene}}, Train that stops at every [station] = Local train."
+                                "translator": "tetsusquared (la .tirprij.)"
                             },
                             {
                                 "lojban": ".i ku'i mi se slabu lo go'i po'o {{ve klama}}",
                                 "english": "But I'm only familiar with said {{route}}.",
+                                "source-id": "muhe",
                                 "source": "la mu'e cuxna lo bradi",
                                 "author": "la blutolpinxe"
                             }
@@ -21071,6 +21129,7 @@
                         "example": [
                             {
                                 "lojban": ".i lo'u lan lan la lan la la la la lan lan la lan la la la la lan lan la la lan la la la lan la la la la lan o'o'o'o'o'o'o'o'o'o lun lun lu lu'u'u'u'u'u lu lu lu lu lun lu lu lu lun lu {{le'u}}",
+                                "source-id": "alwa",
                                 "source": "Always With Me",
                                 "author": "Youmi Kimura",
                                 "translator": ".la guskant."
@@ -21078,10 +21137,11 @@
                             {
                                 "lojban": ".i do lo'u .i lo mi panzi lo mi speni {{le'u}} .alcu do lo'u zo'u mo {{le'u}}",
                                 "english": "\"My kids... my wife,{{\"}} you said. \"What about them?{{\"}}",
+                                "source-id": "eggq",
+                                "note": "The entire sentence is grammatical, but becomes ungrammatical when split in half.",
                                 "source": "The Egg",
                                 "author": "Andy Weir",
-                                "translator": "la nalvai",
-                                "note": "The entire sentence is grammatical, but becomes ungrammatical when split in half."
+                                "translator": "la nalvai"
                             }
                         ]
                     }
@@ -21822,6 +21882,7 @@
                         "example": [
                             {
                                 "lojban": ".i {{lo'u}} lan lan la lan la la la la lan lan la lan la la la la lan lan la la lan la la la lan la la la la lan o'o'o'o'o'o'o'o'o'o lun lun lu lu'u'u'u'u'u lu lu lu lu lun lu lu lu lun lu le'u",
+                                "source-id": "alwa",
                                 "source": "Always With Me",
                                 "author": "Youmi Kimura",
                                 "translator": ".la guskant."
@@ -21829,10 +21890,11 @@
                             {
                                 "lojban": ".i do {{lo'u}} .i lo mi panzi lo mi speni le'u .alcu do {{lo'u}} zo'u mo le'u",
                                 "english": "{{\"}}My kids... my wife,\" you said. {{\"}}What about them?\"",
+                                "source-id": "eggq",
+                                "note": "The entire sentence is grammatical, but becomes ungrammatical when split in half.",
                                 "source": "The Egg",
                                 "author": "Andy Weir",
-                                "translator": "la nalvai",
-                                "note": "The entire sentence is grammatical, but becomes ungrammatical when split in half."
+                                "translator": "la nalvai"
                             }
                         ]
                     }
@@ -24783,6 +24845,7 @@
                             {
                                 "lojban": "ni'o le se morji be mi cu {{mutce}} le ka kalsa",
                                 "english": "My memories are {{very}} confused.",
+                                "source-id": "book",
                                 "source": "The Book",
                                 "author": "H. P. Lovecraft",
                                 "translator": "la gleki"
@@ -24790,14 +24853,16 @@
                             {
                                 "lojban": ".i cu'u so'e se slabu be mi mi {{mutce be fi tu'a lo mi se nanca be'o}} mencre",
                                 "english": "Most people who are familiar with me say I'm {{really}} smart {{for my age}}.",
+                                "source-id": "muhe",
                                 "source": "la mu'e cuxna lo bradi",
                                 "author": "la blutolpinxe"
                             },
                             {
                                 "lojban": ".i ja'e bo ca ku mi {{cinmo lo mutce}} gi'e kakne co zukte no da",
                                 "english": "As a result I {{am overwhelmed}} and cannot do anything now.",
-                                "source": "roljbogu'e chatlog",
-                                "note": "To be overwhelmed = To feel an extreme emotion"
+                                "source-id": "rolj",
+                                "note": "To be overwhelmed = To feel an extreme emotion",
+                                "source": "roljbogu'e chatlog"
                             }
                         ]
                     }
@@ -25599,12 +25664,14 @@
                             {
                                 "lojban": ".i mi {{nelci}} ro selci be do",
                                 "english": "I {{like}} every one of your cells.",
+                                "source-id": "pram",
                                 "source": "prami simbi'o",
                                 "author": "Djemynai"
                             },
                             {
                                 "lojban": ".i mi {{nelci}} ca lo nicte lo nu tirna lo tarci",
                                 "english": "At night I {{love to}} listen to the stars.",
+                                "source-id": "litt",
                                 "source": "The Little Prince",
                                 "author": "Antoine de Saint-Exupéry",
                                 "translator": "la .xorxes."
@@ -25612,6 +25679,7 @@
                             {
                                 "lojban": "ko te cmene fi {{lo do se nelci}}",
                                 "english": "Call it {{whatever you like}}.",
+                                "source-id": "alic",
                                 "source": "Alice in Wonderland",
                                 "author": "Lewis Carroll",
                                 "translator": "la .xorxes."
@@ -28151,6 +28219,7 @@
                             {
                                 "lojban": "ro'e pe'i va {{pilno}} lo dikca lo nu jukpa",
                                 "english": "Aha, they must {{use}} electricity to cook there.",
+                                "source-id": "rest",
                                 "source": "The Restaurant of Many Orders",
                                 "author": "Kenji Miyazawa",
                                 "translator": "la .tijlan."
@@ -28158,12 +28227,14 @@
                             {
                                 "lojban": ".i mu'i ku so'i da {{pilno}} lo laldo ve cilre lo ka cilre fi lo catni lojbo",
                                 "english": "Because of it, many {{used}} old textbooks to learn the official Lojban.",
+                                "source-id": "offi",
                                 "source": "\"Official Lojban\"",
                                 "author": "la uakci"
                             },
                             {
                                 "lojban": ".i ma ca sevzi {{te pilno}} le bangu",
                                 "english": "What is the current identity {{function}} of the language?",
+                                "source-id": "asse",
                                 "source": "Assessment of EGIDS Levels",
                                 "author": "M. Paul Lewis and Gary F. Simons",
                                 "translator": "la nalvai"
@@ -28757,6 +28828,7 @@
                             {
                                 "lojban": "ni'o pu ku ro prenu cu djuno fi lo makfa burcu {{po}} ko'a",
                                 "english": "Everyone knew about Liang{{'s}} magic brush.",
+                                "source-id": "lian",
                                 "source": "Liang and the Magic Paintbrush",
                                 "author": "Demi",
                                 "translator": "la darsi",
@@ -28776,6 +28848,7 @@
                             {
                                 "lojban": ".i mi djuno {{po}} zanfu'a ri",
                                 "english": "I know {{[how]}} lucky they are.",
+                                "source-id": "koid",
                                 "source": "koi do mi na",
                                 "author": "Mèremim"
                             }
@@ -29150,6 +29223,7 @@
                             {
                                 "lojban": ".i ro {{prenu}} cu mrobi'o",
                                 "english": "Every {{person}} dies.",
+                                "source-id": "eggq",
                                 "source": "The Egg",
                                 "author": "Andy Weir",
                                 "translator": "la nalvai"
@@ -33643,6 +33717,7 @@
                             {
                                 "lojban": ".i mi vlalinkei ca lo nu mi {{sipna}}",
                                 "english": "I play <i>vlalinkei</i> while I{{'m asleep}}.",
+                                "source-id": "miju",
                                 "source": "lo mi jufra",
                                 "author": "la solpa'i"
                             }
@@ -33873,6 +33948,7 @@
                             {
                                 "lojban": ".i ju'o .ia ro prenu cu {{skari}} so'i melbi joi so'i fegli",
                                 "english": "I'm sure everyone's {{painted in colors}}, many beautiful and many ugly.",
+                                "source-id": "colo",
                                 "source": "Colorful",
                                 "author": "H△G",
                                 "translator": "tetsusquared (la .tirprij.)"
@@ -36923,15 +36999,17 @@
                             {
                                 "lojban": ".i la .cíluuax. .ainmo lo ka {{tavla}} la cmalu le nu cy. fliba",
                                 "english": "Sheelua intended to {{talk}} to Tiny about her (= Tiny's) failures.",
+                                "source-id": "clan",
                                 "source": "clani kerlo",
                                 "author": "la fagri"
                             },
                             {
                                 "lojban": "ni'o la .stefen. co'a sanga gi'e {{tavla}} fi lo nu litru vau la .gliban.",
                                 "english": "Stefen started to sing and {{talked}} about the journey in English.",
+                                "source-id": "nict",
+                                "noshownote": "The original has {{je}} instead of {{gi'e}}",
                                 "source": "la nicte cadzu",
-                                "author": "Robin Lee Powell",
-                                "noshownote": "The original has {{je}} instead of {{gi'e}}"
+                                "author": "Robin Lee Powell"
                             }
                         ]
                     }
@@ -39440,12 +39518,14 @@
                             {
                                 "lojban": ".i ma {{valsi}} zo xa'o le do pambau",
                                 "english": "What {{is the word for}} \"too soon\" in the language of your love?",
+                                "source-id": "baid",
                                 "source": "bai do",
                                 "author": "Noise and Bells (la janbe)"
                             },
                             {
                                 "lojban": ".i ku'i pau le'o sai zo makcu ma cu {{valsi}}",
                                 "english": "But what the hell does \"adult\" {{mean}} to begin with?",
+                                "source-id": "lost",
                                 "source": "The Lost One's Weeping",
                                 "author": "Neru",
                                 "translator": "tetsusquared (la .tirprij.)"
@@ -41268,6 +41348,7 @@
                             {
                                 "lojban": ".i zu'u nai lo nu rapsku cu {{xamgu}} .a bu lo nu cilre",
                                 "english": "On the other hand, repeating {{is good}} for her (= Alice's) learning.",
+                                "source-id": "alic",
                                 "source": "Alice in Wonderland",
                                 "author": "Lewis Carroll",
                                 "translator": "la .xorxes."
@@ -41275,6 +41356,7 @@
                             {
                                 "lojban": ".i je ku'i ri {{se xamgu}} ju'o lo nu lo plini cu glare zenba",
                                 "english": "But it certainly {{benefits from}} the planet warming.",
+                                "source-id": "anta",
                                 "source": "Antarctica is getting greener",
                                 "author": "Ryan Cross on <i>Science</i>",
                                 "translator": "la .ilmen."
@@ -43294,6 +43376,7 @@
                             {
                                 "lojban": ".i ko'e {{zgana}} le nu le cifnu cu cliva vo'a",
                                 "english": "She {{felt}} the baby going from her.",
+                                "source-id": "ings",
                                 "source": "Little Things",
                                 "author": "Raymond Carver",
                                 "translator": "Jordan DeLong"
@@ -43301,6 +43384,7 @@
                             {
                                 "lojban": ".i do ba {{zgana}} lo nu mi ja'a sai te tinbe",
                                 "english": "You will {{see}} I am indeed obeyed!",
+                                "source-id": "litt",
                                 "source": "The Little Prince",
                                 "author": "Antoine de Saint-Exupéry",
                                 "translator": "la .xorxes."
@@ -43308,14 +43392,16 @@
                             {
                                 "lojban": "ca lo jibni lo lojbo ku se xlali lo {{frili se zgana}} poi pagbu lo vanbi be lo bangu",
                                 "english": "Recently, Lojbanists are suffering from the {{easily-noticed}} part of the environment of the language.",
+                                "source-id": "offi",
                                 "source": "\"Official Lojban\"",
                                 "author": "la uakci"
                             },
                             {
                                 "lojban": "ca ku zo'u mi {{zgana}} co skina la andor",
                                 "english": "For now I'm {{watching}} the video [series] \"Andor\".",
-                                "source": "roljbogu'e chatlog",
-                                "speaker": "qimar"
+                                "source-id": "rolj",
+                                "speaker": "qimar",
+                                "source": "roljbogu'e chatlog"
                             }
                         ]
                     }

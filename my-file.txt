@@ -12,18 +12,14 @@
             -example:
                 -lojban .i xu mi klama lo mu'a ceizda {{.a}} lo mu'a pacraistu
                 -english Do I go to, say, heaven {{or}} hell?
-                -source The Egg
-                -author Andy Weir
-                -translator la nalvai
+                -source-id eggq
         -meaning:
             -context ~ {{bu}} 
             -exp Letteral for a. When used alone, refers to the most recent sumti starting with {{a}}.
             -example:
                 -lojban .i ro da sutra fa'a {{la .alis.}} ca lo nu {{.a bu}} tolcanci
                 -english They all made a rush at {{Alice}} the moment {{she}} (= Alice) appeared.
-                -source Alice in Wonderland
-                -author Lewis Carroll
-                -translator la .xorxes.
+                -source-id alic
 
 -entry:
     -word e
@@ -39,24 +35,18 @@
             -example:
                 -lojban .i po'o do {{.e}} mi zvati
                 -english Just you {{and}} me [are here].
-                -source The Egg
-                -author Andy Weir
-                -translator la nalvai
+                -source-id eggq
             -example:
                 -lojban .i .ei mi pajni ji'u lo se zukte {{.e nai}} lo valsi
                 -english I ought to have judged by deeds {{and not}} by words.
-                -source The Little Prince
-                -author Antoine de Saint-Exupéry
-                -translator la .xorxes.
+                -source-id litt
         -meaning:
             -context ~ {{bu}} 
             -exp Letteral for e. When used alone, refers to the most recent sumti starting with {{e}}.
             -example:
                 -lojban ni'o {{la .em.}} ca lo nu klama ti te zu'e lo nu bu'u xabju cu citno je melbi speni .i lo solri jo'u lo brife cu cnegau {{.e bu}} ji'a
                 -english When {{Aunt Em}} came there to live she was a young, pretty wife. The sun and wind had changed {{her}} (= Aunt Em), too.
-                -source The Wonderful Wizard of Oz
-                -author L. Frank Baum
-                -translator la solpa'i
+                -source-id wond
 
 -entry:
     -word ji
@@ -72,9 +62,7 @@
             -example:
                 -lojban cacra li re vo pe'i {{ji}} li pa re pei
                 -english Twenty-four hours, I think; {{or}} is it twelve{{?}}
-                -source Alice in Wonderland
-                -author Lewis Carroll
-                -translator la .xorxes.
+                -source-id alic
     -definition:
         -selmaho JA
         -meaning:
@@ -83,7 +71,7 @@
             -example:
                 -lojban ― coi jbope'o mi'e zi sipna <br> ― puzi {{ji}} bazi <br> ― naje li'abu'o u'i
                 -english ― Hello Lojban friends, I'm sleeping (from a short distance in time from now) <br> ― To the past {{or}} to the future? <br> ― The latter, should be obvious now, haha.
-                -source roljbogu'e chatlog
+                -source-id rolj
                 -speaker la srasu, evie
 
 -entry:
@@ -97,15 +85,14 @@
             -example:
                 -lojban .i {{.ai}} mi ba snada ro se troci
                 -english I{{'ll}} succeed in everything I try.
-                -source za'o
-                -author Djemynai
+                -source-id zaho
         -meaning:
             -context ~ {{cu'i}}
             -exp Attitudinal: express indecision / hesitation / vacillation / wavering.
             -example:
                 -lojban ― .i pu zi co'i mo'u tinzga 100 zo'e .ibo ca surla .i {{.aicu'i}} tinzga lo velvi'u 400mei
                 -english ― Just finished listening to the first 100 and am now taking a break. {{Unsure if}} I'll listen to the remaining 400.
-                -source roljbogu'e chatlog
+                -source-id rolj
                 -speaker la lalxu
         -meaning:
             -context ~ {{nai}}
@@ -114,9 +101,7 @@
             -example:
                 -lojban .i go pu'o zei ganlo se morji gi ne'i la'e di'u milxe bacru za'a sei {{.ai nai}} tolmo'i
                 -english The unclosed memories, I hear whispers inside them that {{we never want to}} forget.
-                -source Always With Me
-                -author Youmi Kimura
-                -translator .la guskant.
+                -source-id alwa
 
 
 
@@ -131,17 +116,14 @@
             -example:
                 -lojban .i a'o ro da zabna
                 -english {{I hope}} everything is good.
-                -source claxu be do crisa
-                -author la .cogas.
+                -source-id clax
         -meaning:
             -context ~ {{nai}}
             -exp Attitudinal: express despair / hopelessness / dread / fear.
             -example:
                 -lojban .i le trene pu zi co'a cliva se ka'a lo tcadu poi darno {{.a'o nai}}
                 -english The train's just started to leave for the faraway city, {{oh no...}}
-                -source Lagtrain (short ver.)
-                -author inabakumori
-                -translator tetsusquared (la .tirprij.)
+                -source-id lagt
                 -noshownote The original has {{ca'o}} instead of {{co'a}}
 
 
@@ -156,26 +138,21 @@
             -example:
                 -lojban .i {{.a'u sai}} .i ti lo nu mi sipna cu fanmo
                 -english {{Cool,}} this is the end of my sleep.
-                -source za'o
-                -author Djemynai
+                -source-id zaho
         -meaning:
             -context ~ {{cu'i}}
             -exp Attitudinal: express disinterest / uninterest / unconcern / apathy / detachment / indifference. 
             -example:
                 -lojban {{.a'ucu'i}} .i ka'u mi'o na ba se fatri lo do'anai bongu .oi
                 -english {{Whatever.}} Now he won't even share the bones with us anyway...
-                -source The Restaurant of Many Orders
-                -author Kenji Miyazawa
-                -translator la .tijlan.
+                -source-id rest
         -meaning:
             -context ~ {{nai}}
             -exp Attitudinal: express repulsion / aversion / disgust / distaste / repugnance. 
             -example:
                 -lojban {{.a'u nai}} bu'o pilno lo do voksa
                 -english I {{don't want to}} use your voice anymore!
-                -source ODDS&ENDS
-                -author ryo
-                -translator tetsusquared (la .tirprij.)
+                -source-id odds
 
 
 -entry:
@@ -190,8 +167,7 @@
             -example:
                 -lojban .i lo munje cu palci je'u .i {{ji'a}} lo nu jmive cu nibli lo nu cortu
                 -english The world is truly evil, {{and}} living implies suffering.
-                -source ku'i ba troci
-                -author Fyren
+                -source-id kuhi
 
 -entry:
     -word ba'e
@@ -205,8 +181,7 @@
             -example:
                 -lojban .i ja'o mi bilga lo nu jmina finti {{ba'e so}} lo tricu
                 -english So I have to create {{<em>nine</em>}} more trees to add.
-                -source The Lay of the Land
-                -author Worldbuilding Notes
+                -source-id layo
 
 
 
@@ -223,14 +198,11 @@
             -example:
                 -lojban .i ma {{valsi}} zo xa'o le do pambau
                 -english What {{is the word for}} "too soon" in the language of your love?
-                -source bai do
-                -author Noise and Bells (la janbe)
+                -source-id baid
             -example:
                 -lojban .i ku'i pau le'o sai zo makcu ma cu {{valsi}}
                 -english But what the hell does "adult" {{mean}} to begin with?
-                -source The Lost One's Weeping
-                -author Neru
-                -translator tetsusquared (la .tirprij.)
+                -source-id lost
 
 
 -entry:
@@ -243,20 +215,15 @@
             -example:
                 -lojban .i ku'i ro da {{cizra}} ca lo cabdei
                 -english But everything {{is strange}} today.
-                -source Alice in Wonderland
-                -author Lewis Carroll
-                -translator la .xorxes.
+                -source-id alic
             -example:
                 -lojban .i a'o {{na cizra}} do fa tu'a ti
                 -english I hope (something about) this {{is not strange}} to you.
-                -source ua langu
-                -author la solpa'i
+                -source-id uala
             -example:
                 -lojban .i la gregor cu {{se cizra}} lo vrici sance be lo nu citka
                 -english Gregor {{found}} the various sounds of eating {{strange}}.
-                -source The Metamorphosis
-                -author Franz Kafka
-                -translator la .xorxes.
+                -source-id meta
 
 -entry:
     -word citka
@@ -268,13 +235,11 @@
             -example:
                 -lojban mi ba {{citka}} ma
                 -english What will I {{eat}}?
-                -source la melbi e le ractu
-                -author la lalxu
+                -source-id melb
             -example:
                 -lojban {{lo se citka ku}} mo
                 -english What happened to {{the stuff I was going to eat}}?
-                -source la melbi e le ractu
-                -author la lalxu
+                -source-id melb
 
 
 -entry:
@@ -287,21 +252,15 @@
             -example:
                 -lojban .i ma {{cmene}} do poi ke'a na slabu mi
                 -english What {{is}} your {{name}}, unfamiliar one?
-                -source Torinoko City
-                -author 40mP
-                -translator tetsusquared (la .tirprij.)
+                -source-id tori
             -example:
                 -lojban ni'o lo jmive poi ka'e prami cu ca ca'o {{se cmene}} fi lo remna fa zo remna
                 -english A living thing that can love is now {{being called}} "human" by mankind.
-                -source Jitter Doll
-                -author niki
-                -translator tetsusquared (la .tirprij.)
+                -source-id jitt
             -example:
                 -lojban .i ki'u ma lo cmalu ninmu cu {{te cmene}} dy lu te makfa li'u
                 -english Why did the little woman {{call}} her (Dorothy) "a sorceress"?
-                -source The Wonderful Wizard of Oz
-                -author L. Frank Baum
-                -translator la solpa'i
+                -source-id wond
 
 -entry:
     -word cusku
@@ -313,18 +272,15 @@
             -example:
                 -lojban ni'o le ractu ku {{cusku}} lu xu do djica lo nu citka li'u
                 -english The rabbit {{said}}: "Did you want to eat?"
-                -source la melbi e le ractu
-                -author la lalxu
+                -source-id melb
             -example:
                 -lojban .i ka'e {{cusku}} zo co'o fi ro da
                 -english [We] can just {{say}} goodbye to everything.
-                -source Re-Education
-                -author Neru
-                -translator tetsusquared (la .tirprij.)
+                -source-id reed
             -example:
                 -lojban .i my. {{cusku}} lo se du'u my. manci catlu po'o lo mi melbi lerfu
                 -english She (my mother) said she was just marvelling at my beautiful [hand-written] letters.
-                -source roljbogu'e chatlog
+                -source-id rolj
 
 -entry:
     -word djica
@@ -336,14 +292,11 @@
             -example:
                 -lojban xu do {{djica}} lo nu citka
                 -english Did you {{want}} to eat?
-                -source la melbi e le ractu
-                -author la lalxu
+                -source-id melb
             -example:
                 -lojban .i ki'u bo mutce lo ka {{djica}} tu'a lo drani noltruti'u
                 -english Because he {{would have liked}} very much to have a real princess.
-                -source The Princess and the Pea
-                -author Hans Christian Andersen
-                -translator la solpa'i
+                -source-id prin
                 -note This sentence is an example of using {{tu'a}} for object of desire in x_2. 
 
 -entry:
@@ -356,34 +309,24 @@
             -example:
                 -lojban .i my ba zi {{djuno}} lo du'u do ti zvati
                 -english She will soon {{know}} that you are here.
-                -source Snow White
-                -translator la solpa'i
+                -source-id snow
             -example:
                 -lojban ni'o pu ku ro prenu cu {{djuno}} fi lo makfa burcu po ko'a
                 -english Everyone {{knew}} about Liang's magic brush.
-                -source Liang and the Magic Paintbrush
-                -author Demi
-                -translator la darsi
-                -editor la gleki
+                -source-id lian
             -example:
                 -lojban ku'i ma'a {{djuno}} so'i da lo jipci
                 -english But we {{have}} a lot of {{knowledge}} of chickens.
-                -source First dinosaurs may have been omnivores in the north hemisphere
-                -author Chelsea Whyte on NewScientist
-                -translator la .ilmen.
+                -source-id firs
             -example:
                 -lojban .i {{le pu se djuno}} co'a fatci
                 -english {{The prophecy}} was fulfilled.
-                -source How the enemy came to Thlunrana
-                -author Lord Dunsany
-                -translator la gleki
+                -source-id howt
                 -note Prophecy = That which was known. 
             -example:
                 -lojban .i da'i ma pu ve djuno
                 -english How should I know?
-                -source The Wonderful Wizard of Oz
-                -author L. Frank Baum
-                -translator la solpa'i
+                -source-id wond
 
 
 
@@ -397,14 +340,11 @@
             -example:
                 -lojban .i lo xanka mutce rirni cu {{gleki}} lo nu lo verba za'o jmive
                 -english The very anxious parents are happy that the child is still alive.
-                -source lo cmalu
-                -author la solpa'i
+                -source-id cmal
             -example:
                 -lojban .i lo nu jelca cu crori'a ki'u lo nu mi tai {{gleki}} tu'a do
                 -english As they burned it hurt because I was so {{happy}} for you
-                -source Still Alive
-                -author Jonathan Coulton
-                -translator la solpa'i
+                -source-id stil
 
 
 -entry:
@@ -417,27 +357,20 @@
             -example:
                 -lojban mi {{jimpe}} lo du'u do ma kau cinmo
                 -english I {{understand}} how you feel.
-                -source The Wonderful Wizard of Oz
-                -author L. Frank Baum
-                -translator la solpa'i
+                -source-id wond
             -example:
                 -lojban .i .a bu snada lo ka {{jimpe}} tu'a lo valsi
                 -english She (Alice) made out the words.
-                -source Alice in Wonderland
-                -author Lewis Carroll
-                -translator la .xorxes.
+                -source-id alic
                 -note Make out the words = Succeed to understand the words.
             -example:
                 -lojban .i {{jimpe}} fi lo selcni .i .au kelci ne'i le xamsi pe'a
                 -english {{Understanding}} emotions, I want to play in the (figurative) ocean.
-                -source Diamond City Lights
-                -author LazuLight
-                -translator tetsusquared (la .tirprij.)
+                -source-id diam
             -example:
                 -lojban .i do terpa lo nu mi jai gau xrani do se pi'o {{lo se jimpe be mi}}
                 -english You fear that I'll cause harm to you with {{my understandings}}.
-                -source la nicte cadzu
-                -author Robin Lee Powell
+                -source-id nict
 
 
 -entry:
@@ -450,26 +383,20 @@
             -example:
                 -lojban mi {{klama}} .ii le tsani le mi munje be lo xrani
                 -english I'm scared, but I'm {{going}} to the sky away from my world full of trauma
-                -source sruri fa lo tarci
-                -author Noise and Bells (la janbe)
+                -source-id srur
             -example:
                 -lojban .i le karce zo'a {{flecu klama}} fo le dargu pe le bartu noi ca'o manku binxo
                 -english Cars {{slushed}} by on the street outside, where it was getting dark.
-                -source Little Things
-                -author Raymond Carver
-                -translator Jordan DeLong
+                -source-id ings
             -example:
                 -lojban .i mi {{klama fu}} le roldepre'e .a'o
                 -english I hope I can {{ride}} the local train still.
-                -source Lagtrain (short ver.)
-                -author inabakumori
-                -translator tetsusquared (la .tirprij.)
+                -source-id lagt
                 -note {{roldepre'e}} expands to {{ro denpa trene}}, Train that stops at every [station] = Local train.
             -example:
                 -lojban .i ku'i mi se slabu lo go'i po'o {{ve klama}}
                 -english But I'm only familiar with said {{route}}.
-                -source la mu'e cuxna lo bradi
-                -author la blutolpinxe
+                -source-id muhe
 
 -entry:
     -word mutce
@@ -481,18 +408,15 @@
             -example:
                 -lojban ni'o le se morji be mi cu {{mutce}} le ka kalsa 
                 -english My memories are {{very}} confused. 
-                -source The Book
-                -author H. P. Lovecraft
-                -translator la gleki
+                -source-id book
             -example:
                 -lojban .i cu'u so'e se slabu be mi mi {{mutce be fi tu'a lo mi se nanca be'o}} mencre
                 -english Most people who are familiar with me say I'm {{really}} smart {{for my age}}.
-                -source la mu'e cuxna lo bradi
-                -author la blutolpinxe
+                -source-id muhe
             -example:
                 -lojban .i ja'e bo ca ku mi {{cinmo lo mutce}} gi'e kakne co zukte no da
                 -english As a result I {{am overwhelmed}} and cannot do anything now.
-                -source roljbogu'e chatlog
+                -source-id rolj
                 -note To be overwhelmed = To feel an extreme emotion
 
 -entry:
@@ -505,20 +429,15 @@
             -example:
                 -lojban .i mi {{nelci}} ro selci be do 
                 -english I {{like}} every one of your cells.
-                -source prami simbi'o
-                -author Djemynai
+                -source-id pram
             -example:
                 -lojban .i mi {{nelci}} ca lo nicte lo nu tirna lo tarci 
                 -english At night I {{love to}} listen to the stars.
-                -source The Little Prince
-                -author Antoine de Saint-Exupéry
-                -translator la .xorxes.
+                -source-id litt
             -example:
                 -lojban ko te cmene fi {{lo do se nelci}}
                 -english Call it {{whatever you like}}.
-                -source Alice in Wonderland
-                -author Lewis Carroll
-                -translator la .xorxes.
+                -source-id alic
 
 -entry:
     -word prenu
@@ -530,9 +449,7 @@
             -example:
                 -lojban .i ro {{prenu}} cu mrobi'o 
                 -english Every {{person}} dies.
-                -source The Egg
-                -author Andy Weir
-                -translator la nalvai
+                -source-id eggq
 
 -entry:
     -word pilno
@@ -544,20 +461,15 @@
             -example:
                 -lojban ro'e pe'i va {{pilno}} lo dikca lo nu jukpa
                 -english Aha, they must {{use}} electricity to cook there.
-                -source The Restaurant of Many Orders
-                -author Kenji Miyazawa
-                -translator la .tijlan.
+                -source-id rest
             -example:
                 -lojban .i mu'i ku so'i da {{pilno}} lo laldo ve cilre lo ka cilre fi lo catni lojbo
                 -english Because of it, many {{used}} old textbooks to learn the official Lojban.
-                -source "Official Lojban"
-                -author la uakci
+                -source-id offi
             -example:
                 -lojban .i ma ca sevzi {{te pilno}} le bangu 
                 -english What is the current identity {{function}} of the language?
-                -source Assessment of EGIDS Levels
-                -author M. Paul Lewis and Gary F. Simons
-                -translator la nalvai
+                -source-id asse
 
 -entry:
     -word sipna
@@ -569,8 +481,7 @@
             -example:
                 -lojban .i mi vlalinkei ca lo nu mi {{sipna}} 
                 -english I play <i>vlalinkei</i> while I{{'m asleep}}.
-                -source lo mi jufra
-                -author la solpa'i
+                -source-id miju
 
 -entry:
     -word tavla
@@ -582,13 +493,11 @@
             -example:
                 -lojban .i la .cíluuax. .ainmo lo ka {{tavla}} la cmalu le nu cy. fliba
                 -english Sheelua intended to {{talk}} to Tiny about her (= Tiny's) failures.
-                -source clani kerlo
-                -author la fagri
+                -source-id clan
             -example:
                 -lojban ni'o la .stefen. co'a sanga gi'e {{tavla}} fi lo nu litru vau la .gliban.
                 -english Stefen started to sing and {{talked}} about the journey in English.
-                -source la nicte cadzu
-                -author Robin Lee Powell
+                -source-id nict
                 -noshownote The original has {{je}} instead of {{gi'e}}
 
 -entry:
@@ -601,15 +510,11 @@
             -example:
                 -lojban .i zu'u nai lo nu rapsku cu {{xamgu}} .a bu lo nu cilre
                 -english On the other hand, repeating {{is good}} for her (= Alice's) learning.
-                -source Alice in Wonderland
-                -author Lewis Carroll
-                -translator la .xorxes.
+                -source-id alic
             -example:
                 -lojban .i je ku'i ri {{se xamgu}} ju'o lo nu lo plini cu glare zenba
                 -english But it certainly {{benefits from}} the planet warming.
-                -source Antarctica is getting greener
-                -author Ryan Cross on <i>Science</i>
-                -translator la .ilmen.
+                -source-id anta
 
 -entry:
     -word zgana
@@ -622,24 +527,19 @@
             -example:
                 -lojban .i ko'e {{zgana}} le nu le cifnu cu cliva vo'a 
                 -english She {{felt}} the baby going from her. 
-                -source Little Things
-                -author Raymond Carver
-                -translator Jordan DeLong
+                -source-id ings
             -example:
                 -lojban .i do ba {{zgana}} lo nu mi ja'a sai te tinbe
                 -english You will {{see}} I am indeed obeyed! 
-                -source The Little Prince
-                -author Antoine de Saint-Exupéry
-                -translator la .xorxes.
+                -source-id litt
             -example:
                 -lojban ca lo jibni lo lojbo ku se xlali lo {{frili se zgana}} poi pagbu lo vanbi be lo bangu
                 -english Recently, Lojbanists are suffering from the {{easily-noticed}} part of the environment of the language.
-                -source "Official Lojban"
-                -author la uakci
+                -source-id offi
             -example:
                 -lojban ca ku zo'u mi {{zgana}} co skina la andor
                 -english For now I'm {{watching}} the video [series] "Andor".
-                -source roljbogu'e chatlog
+                -source-id rolj
                 -speaker qimar
 
 
@@ -653,9 +553,7 @@
             -example:
                 -lojban .i ju'o .ia ro prenu cu {{skari}} so'i melbi joi so'i fegli
                 -english I'm sure everyone's {{painted in colors}}, many beautiful and many ugly.
-                -source Colorful
-                -author H△G
-                -translator tetsusquared (la .tirprij.)
+                -source-id colo
 
 
 
@@ -682,9 +580,7 @@
             -example:
                 -lojban ni'o {{ba'o}} le krixa ke cladu savru cu co'a klaku fa pi ro le drata prenu
                 -english {{After}} the deafeningly noisy screaming, everyone else started to cry.
-                -source Headphone Actor
-                -author Jin
-                -translator tetsusquared (la .tirprij.)
+                -source-id head
         -meaning:
             -context When followed by a sumti 
             -variation BPFK
@@ -701,8 +597,7 @@
             -example:
                 -lojban .i mi {{co'a}} na kakne lo nu jitro
                 -english I {{start to}} be unable to control.
-                -source ku'i ba troci
-                -author Fyren
+                -source-id kuhi
         -meaning:
             -context When followed by a sumti 
             -variation CLL
@@ -714,9 +609,7 @@
             -example:
                 -lojban .i xy. to'e lazni gunka {{co'a lo cerni}} co'u lo nicte gi'e na djuno lo du'u lo si'o gleki cu mo kau
                 -english He worked hard {{from morning}} till night and did not know what joy was.
-                -source The Wonderful Wizard of Oz
-                -author L. Frank Baum
-                -translator la solpa'i
+                -source-id wond
 
 
 -entry:
@@ -733,9 +626,7 @@
             -example:
                 -lojban .i ko {{co'u}} tolckire gi'e prami mi
                 -english {{Stop being}} thankless and love me.
-                -source Amapola
-                -author José María Lacalle García
-                -translator la .guskant.
+                -source-id amap
         -meaning:
             -context When followed by a sumti 
             -variation CLL
@@ -743,10 +634,7 @@
             -example:
                 -lojban .i {{co'u}} lo nu terxra kei ly ganse lo nu le mirli co'a jmive
                 -english {{As}} he {{finished}} painting, he felt that the deer came to life.
-                -source Liang and the Magic Paintbrush
-                -author Demi
-                -translator la darsi
-                -editor la gleki
+                -source-id lian
         -meaning:
             -context When followed by a sumti 
             -variation BPFK
@@ -754,9 +642,7 @@
             -example:
                 -lojban .i sa'u ko troci {{co'u}} lo nu claxu lo titnanba
                 -english You just keep on trying {{till}} you run out of cake.
-                -source Still Alive
-                -author Jonathan Coulton
-                -translator la solpa'i
+                -source-id stil
 
 -entry:
     -word po
@@ -772,10 +658,7 @@
             -example:
                 -lojban ni'o pu ku ro prenu cu djuno fi lo makfa burcu {{po}} ko'a
                 -english Everyone knew about Liang{{'s}} magic brush.
-                -source Liang and the Magic Paintbrush
-                -author Demi
-                -translator la darsi
-                -editor la gleki
+                -source-id lian
     -definition:
         -selmaho LOhOI
         -meaning:
@@ -784,8 +667,7 @@
             -example:
                 -lojban .i mi djuno {{po}} zanfu'a ri
                 -english I know {{[how]}} lucky they are.
-                -source koi do mi na
-                -author Mèremim
+                -source-id koid
 
 
 -entry:
@@ -802,9 +684,7 @@
             -example:
                 -lojban ni'o ze mo'o fenki tcati {{bo}} kansi'u
                 -english VII. The mad tea{{-}}party
-                -source Alice in Wonderland
-                -author Lewis Carroll
-                -translator la .xorxes.
+                -source-id alic
                 -note The {{bo}} directly corresponds to the hyphen in the English text. Without the {{bo}} the tanru will group as {{[fenki tcati] kansi'u}}, which roughly translates to "the <em>mad-tea</em> party".
         -meaning:
             -context Directly after a connective 
@@ -812,9 +692,7 @@
             -example:
                 -lojban .i ku'i mi pu ku tcidu ba'e so'u pagbu be le to'e censa se ciska gi'e ba bo ga'orgau le cukta {{gi'e bo}} co'a bevri
                 -english Yet I had read only the least fragment of that blasphemous rune before closing the book and bringing it away.
-                -source The Book
-                -author H. P. Lovecraft
-                -translator la gleki
+                -source-id book
                 -note The English sentence is grouped as "I had read... before [closing the book and bringing it away]". If the underlined {{bo}} wasn't there, it'll group as "I had [read... before closing the book] and bringing it away". This example also shows the right-grouping rule with chained {{bo}}: The {{gi'e ba bo}} in the example has a lower priority because it is to the left of the underlined {{gi'e bo}}.
         -meaning:
             -variation CLL
@@ -824,18 +702,14 @@
             -example:
                 -lojban .i mi ka'e binxo lo makcu prenu noi se cinri no {{na'e bo}} lo namcu
                 -english I may become like the grown-ups who are interested in anything nothing {{other than}} figures.
-                -source The Little Prince
-                -author Antoine de Saint-Exupéry
-                -translator la .xorxes.
+                -source-id litt
         -meaning:
             -context After {{.i}} and a BAI modal 
             -exp Forms a sentence link along with {{.i}} and the BAI modal. The resulting sentence link ({{.i BAI bo}}) tags the latter bridi as a whole by the BAI modal, and incorporates it to the former (main) bridi. {{BRIDI<sub>1</sub> .i BAI bo BRIDI<sub>2</sub>}} has a similar meaning to {{BRIDI<sub>1</sub> BAI lo su'u BRIDI<sub>2</sub>}} or {{lo su'u BRIDI<sub>2</sub> cu SELBRI lo su'u BRIDI<sub>1</sub>}} (where {{BAI}} is the modal for {{SELBRI}}), but {{.i BAI bo}} also asserts that both the linked bridi are true.
             -example:
                 -lojban ni'o lo ka jinga nalka'e cu nalvai {{.i mu'i bo}} mi klama be tu mutce bo djica
                 -english It doesn't matter that I can't win, {{because}} I really want to go there.
-                -source Aisle
-                -author Ibuki Tsubasa
-                -translator tetsusquared (la .tirprij.)
+                -source-id aisl
                 -note The second {{bo}} in this example is of another usage. 
         -meaning:
             -context After {{.i}} and a tense 
@@ -844,27 +718,21 @@
             -example:
                 -lojban .e'u mi'o klama lo korbi {{.i ba bo}} mi do jungau lo lisri be mi
                 -english Let us get to the shore, {{and then}} I'll let you know my story.
-                -source Alice in Wonderland
-                -author Lewis Carroll
-                -translator la .xorxes.
+                -source-id alic
         -meaning:
             -context After a connective and a BAI modal 
             -exp Expands 
             -example:
                 -lojban .i ca ro dunra lo clika co'a dunja {{je ja'e bo}} sligu
                 -english Every winter the moss freezes {{and becomes}} solid {{as a result}}.
-                -source Antarctica is getting greener
-                -author Ryan Cross on <i>Science</i>
-                -translator la .ilmen.
+                -source-id anta
         -meaning:
             -context After a connective and a tense 
             -exp Expands  
             -example:
                 -lojban .i loi sorska cinta ko fi ko'a cu se punji {{.i je ba bo}} loi xekri tabno ko'a gacri
                 -english Paint it with colorful pigments, {{and soon enough}} it'll be covered in black charcoal.
-                -source Ĉarma Anomali’
-                -author Noise and Bells
-                -translator tetsusquared (la .tirprij.)
+                -source-id arma
 
 
 -entry:
@@ -877,15 +745,11 @@
             -exp Begin error quotation. Starts a questionable or out of context quotation. Text must be Lojban words, but needn't be grammatical. Terminate with {{le'u}}.
             -example:
                 -lojban .i {{lo'u}} lan lan la lan la la la la lan lan la lan la la la la lan lan la la lan la la la lan la la la la lan o'o'o'o'o'o'o'o'o'o lun lun lu lu'u'u'u'u'u lu lu lu lu lun lu lu lu lun lu le'u
-                -source Always With Me
-                -author Youmi Kimura
-                -translator .la guskant.
+                -source-id alwa
             -example:
                 -lojban .i do {{lo'u}} .i lo mi panzi lo mi speni le'u .alcu do {{lo'u}} zo'u mo le'u
                 -english {{"}}My kids... my wife," you said. {{"}}What about them?"
-                -source The Egg
-                -author Andy Weir
-                -translator la nalvai
+                -source-id eggq
                 -note The entire sentence is grammatical, but becomes ungrammatical when split in half. 
 
 
@@ -901,15 +765,11 @@
             -exp End error quotation. Ends a questionable or out of context quotation. Never elidable.
             -example:
                 -lojban .i lo'u lan lan la lan la la la la lan lan la lan la la la la lan lan la la lan la la la lan la la la la lan o'o'o'o'o'o'o'o'o'o lun lun lu lu'u'u'u'u'u lu lu lu lu lun lu lu lu lun lu {{le'u}}
-                -source Always With Me
-                -author Youmi Kimura
-                -translator .la guskant.
+                -source-id alwa
             -example:
                 -lojban .i do lo'u .i lo mi panzi lo mi speni {{le'u}} .alcu do lo'u zo'u mo {{le'u}}
                 -english "My kids... my wife,{{"}} you said. "What about them?{{"}}
-                -source The Egg
-                -author Andy Weir
-                -translator la nalvai
+                -source-id eggq
                 -note The entire sentence is grammatical, but becomes ungrammatical when split in half. 
 
 

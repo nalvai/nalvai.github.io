@@ -67,12 +67,23 @@ with open("my-file.txt", "r", encoding="utf-8") as file:
 
 manual_data = parse_lines(lines)["entry"]
 
-def is_good(entry):
+sources = {}
+with open("sources.json", "r", encoding="utf-8") as file:
+    sources = json.load(file)
+
+def process_quotes(entry):
+    result = False
     for definition in entry["definition"]:
         for meaning in definition["meaning"]:
             if "example" in meaning and len(meaning["example"]) > 0:
-                return True
-    return False
+                for quote in meaning["example"]:
+                    if "source-id" in quote:
+                        index = quote["source-id"]
+                        source = sources[index]
+                        for attrib in source:
+                            quote[attrib] = source[attrib]
+                result = True
+    return result
 
 def search_in_manual_data(target):
     for entry in manual_data:
@@ -87,7 +98,7 @@ for entry in automated_data:
     if manual_entry:
         for tag in manual_entry:
             entry[tag] = manual_entry[tag]
-        if is_good(manual_entry):
+        if process_quotes(manual_entry):
             entry["good"] = True
             good_data.append(entry)
 
