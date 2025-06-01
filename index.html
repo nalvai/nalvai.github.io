@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Nalvai's Assemblage of Lojban Vocabulary Attestation Instances</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <h1>NALVAI</h1>
+  <h2>Nalvai's Assemblage of Lojban Vocabulary Attestation Instances</h2>
+
+  <!-- Type Filter -->
+  <fieldset id="typeFilter">
+    <legend>Word Types</legend>
+    <label><input type="checkbox" value="cmavo" /><span class="wtype cmavo">cmavo</span> (630)</label>
+    <label><input type="checkbox" value="gismu" /><span class="wtype gismu">gismu</span> (1364)</label>
+    <label><input type="checkbox" value="lujvo" /><span class="wtype lujvo">lujvo</span> (152)</label>
+    <label><input type="checkbox" value="fu'ivla" /><span class="wtype fuhivla">zi'evla</span> (7)</label>
+  </fieldset>
+
+  <!-- Tag Filter -->
+  <fieldset id="tagFilter">
+    <legend>Tags</legend>
+    <label><input type="checkbox" value="core-1" />⁂ Core 1 (240)</label>
+    <label><input type="checkbox" value="core-2" />⁑ Core 2 (265)</label>
+    <label><input type="checkbox" value="core-3" />⁎ Core 3 (341)</label>
+    <label><input type="checkbox" value="common" />• Common (582)</label>
+    <label><input type="checkbox" value="favored" />Favored (725)</label>
+  </fieldset>
+
+  <!-- Sort -->
+  <label for="sortOrder">Sort:</label>
+  <select id="sortOrder">
+    <option value="best-word">Best Match (Word)</option>
+    <option value="best-def">Best Match (Definition)</option>
+    <option value="freq">By Frequency</option>
+    <option value="az">A–Z</option>
+    <option value="za">Z–A</option>
+  </select>
+
+
+
+  <input type="text" id="search" placeholder="Search..." />
+  <div id="results"></div>
+
+  <script src="https://cdn.jsdelivr.net/npm/fuse.js@6.6.2"></script>
+  <script src="script.js"></script>
+</body>
+</html>

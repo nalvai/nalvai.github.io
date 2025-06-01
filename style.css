@@ -1,0 +1,71 @@
+body {
+  font-family: sans-serif;
+  margin: 2rem;
+}
+
+#search {
+  width: 100%;
+  padding: 0.5rem;
+  font-size: 1rem;
+  margin-bottom: 1rem;
+}
+
+#results div {
+  margin-bottom: 1rem;
+  padding: 0.5rem;
+  border-radius: 4px;
+}
+
+.entry {
+  border-bottom: 1px solid #ccc;
+  padding: 0.5em 0;
+}
+
+.entry summary {
+  cursor: pointer;
+}
+
+.entry summary::-webkit-details-marker {
+  margin-right: 0.5em;
+}
+
+.entry p {
+  margin: 0.5em 0 0 1.5em;
+}
+
+.note {
+  font-size: smaller;
+  color: #888;
+  font-style: italic;
+}
+
+.wtype {
+  border-radius: 1em;
+  padding: 0.1em;
+  padding-left: 0.5em;
+  padding-right: 0.5em;
+}
+
+.cmavo {
+  color: #000000;
+  background-color: #f4d03f;
+  border-color: #d4ac0d;
+}
+
+.gismu {
+  color: #FFFFFF;
+  background-color: #2ecc71;
+  border-color: #239b56;
+}
+
+.lujvo {
+  color: #FFFFFF;
+  background-color: #3498db;
+  border-color: #2e86c1;
+}
+
+.fuhivla {
+  color: #FFFFFF;
+  background-color: #9b59b6;
+  border-color: #76448a;
+}

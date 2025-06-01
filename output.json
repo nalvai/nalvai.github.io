@@ -1,0 +1,1529 @@
+[
+    {
+        "word": "a",
+        "gloss": "Connective: sumti afterthought or",
+        "type": "cmavo",
+        "freq": "315663",
+        "rank": "15",
+        "tag": "core-1",
+        "rafsi-cvc": null,
+        "rafsi-ccv": null,
+        "rafsi-cvv": null,
+        "definition": [
+            {
+                "selmaho": "A",
+                "meaning": [
+                    {
+                        "exp": "Logical connective: sumti afterthought or. Connects two sumti, such that the containing bridi is true if and only if it is true for at least one of the connected sumti.",
+                        "example": [
+                            {
+                                "lojban": ".i xu mi klama lo mu'a ceizda {{.a}} lo mu'a pacraistu",
+                                "english": "Do I go to, say, heaven {{or}} hell?",
+                                "source": "The Egg",
+                                "author": "Andy Weir",
+                                "translator": "la nalvai"
+                            }
+                        ]
+                    },
+                    {
+                        "context": "~ {{bu}}",
+                        "exp": "Letteral for a. When used alone, refers to the most recent sumti starting with {{a}}.",
+                        "example": [
+                            {
+                                "lojban": ".i ro da sutra fa'a {{la .alis.}} ca lo nu {{.a bu}} tolcanci",
+                                "english": "They all made a rush at {{Alice}} the moment {{she}} (= Alice) appeared.",
+                                "source": "Alice in Wonderland",
+                                "author": "Lewis Carroll",
+                                "translator": "la .xorxes."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "good": true
+    },
+    {
+        "word": "ai",
+        "gloss": "Attitudinal: intention &mdash; indicision/hesitation &mdash; refusal",
+        "type": "cmavo",
+        "freq": "23191",
+        "rank": "209",
+        "tag": "core-1",
+        "rafsi-cvc": null,
+        "rafsi-ccv": null,
+        "rafsi-cvv": null,
+        "definition": [
+            {
+                "selmaho": "UI1",
+                "meaning": [
+                    {
+                        "exp": "Attitudinal: express intent / purpose / design.",
+                        "example": [
+                            {
+                                "lojban": ".i {{.ai}} mi ba snada ro se troci",
+                                "english": "I{{'ll}} succeed in everything I try.",
+                                "source": "za'o",
+                                "author": "Djemynai"
+                            }
+                        ]
+                    },
+                    {
+                        "context": "~ {{cu'i}}",
+                        "exp": "Attitudinal: express indecision / hesitation / vacillation / wavering.",
+                        "example": [
+                            {
+                                "lojban": "― .i pu zi co'i mo'u tinzga 100 zo'e .ibo ca surla .i {{.aicu'i}} tinzga lo velvi'u 400mei",
+                                "english": "― Just finished listening to the first 100 and am now taking a break. {{Unsure if}} I'll listen to the remaining 400.",
+                                "source": "roljbogu'e chatlog",
+                                "speaker": "la lalxu"
+                            }
+                        ]
+                    },
+                    {
+                        "context": "~ {{nai}}",
+                        "exp": "Attitudinal: express rejection / refusal.",
+                        "note": "BPFK proposed changing it to \"express unintention / accidentiality\", but I didn't find usage of that.",
+                        "example": [
+                            {
+                                "lojban": ".i go pu'o zei ganlo se morji gi ne'i la'e di'u milxe bacru za'a sei {{.ai nai}} tolmo'i",
+                                "english": "The unclosed memories, I hear whispers inside them that {{we never want to}} forget.",
+                                "source": "Always With Me",
+                                "author": "Youmi Kimura",
+                                "translator": ".la guskant."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "good": true
+    },
+    {
+        "word": "a'o",
+        "gloss": "Attitudinal: hope &mdash; despair",
+        "type": "cmavo",
+        "freq": "31340",
+        "rank": "161",
+        "tag": "core-1",
+        "rafsi-cvc": null,
+        "rafsi-ccv": null,
+        "rafsi-cvv": null,
+        "definition": [
+            {
+                "selmaho": "UI1",
+                "meaning": [
+                    {
+                        "exp": "Attitudinal: express hope / longing.",
+                        "example": [
+                            {
+                                "lojban": ".i a'o ro da zabna",
+                                "english": "{{I hope}} everything is good.",
+                                "source": "claxu be do crisa",
+                                "author": "la .cogas."
+                            }
+                        ]
+                    },
+                    {
+                        "context": "~ {{nai}}",
+                        "exp": "Attitudinal: express despair / hopelessness / dread / fear.",
+                        "example": [
+                            {
+                                "lojban": ".i le trene pu zi co'a cliva se ka'a lo tcadu poi darno {{.a'o nai}}",
+                                "english": "The train's just started to leave for the faraway city, {{oh no...}}",
+                                "source": "Lagtrain (short ver.)",
+                                "author": "inabakumori",
+                                "translator": "tetsusquared (la .tirprij.)",
+                                "noshownote": "The original has {{ca'o}} instead of {{co'a}}"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "good": true
+    },
+    {
+        "word": "a'u",
+        "gloss": "Attitudinal: interest &mdash; disinterest/indifference &mdash; repulsion",
+        "type": "cmavo",
+        "freq": "33510",
+        "rank": "146",
+        "tag": "core-1",
+        "rafsi-cvc": null,
+        "rafsi-ccv": null,
+        "rafsi-cvv": null,
+        "definition": [
+            {
+                "selmaho": "UI1",
+                "meaning": [
+                    {
+                        "exp": "Attitudinal: express interest / curiosity / concern / preoccupation.",
+                        "example": [
+                            {
+                                "lojban": ".i {{.a'u sai}} .i ti lo nu mi sipna cu fanmo",
+                                "english": "{{Cool,}} this is the end of my sleep.",
+                                "source": "za'o",
+                                "author": "Djemynai"
+                            }
+                        ]
+                    },
+                    {
+                        "context": "~ {{cu'i}}",
+                        "exp": "Attitudinal: express disinterest / uninterest / unconcern / apathy / detachment / indifference.",
+                        "example": [
+                            {
+                                "lojban": "{{.a'ucu'i}} .i ka'u mi'o na ba se fatri lo do'anai bongu .oi",
+                                "english": "{{Whatever.}} Now he won't even share the bones with us anyway...",
+                                "source": "The Restaurant of Many Orders",
+                                "author": "Kenji Miyazawa",
+                                "translator": "la .tijlan."
+                            }
+                        ]
+                    },
+                    {
+                        "context": "~ {{nai}}",
+                        "exp": "Attitudinal: express repulsion / aversion / disgust / distaste / repugnance.",
+                        "example": [
+                            {
+                                "lojban": "{{.a'u nai}} bu'o pilno lo do voksa",
+                                "english": "I {{don't want to}} use your voice anymore!",
+                                "source": "ODDS&ENDS",
+                                "author": "ryo",
+                                "translator": "tetsusquared (la .tirprij.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "good": true
+    },
+    {
+        "word": "ba'e",
+        "gloss": "Emphasize next word",
+        "type": "cmavo",
+        "freq": "35800",
+        "rank": "135",
+        "tag": "core-1",
+        "rafsi-cvc": null,
+        "rafsi-ccv": null,
+        "rafsi-cvv": null,
+        "definition": [
+            {
+                "selmaho": "BAhE",
+                "meaning": [
+                    {
+                        "exp": "Forethought emphasis indicator: Indicates that next word is especially emphasized or emphatic.",
+                        "note": "For grammatical purposes, {{ba'e}} marks the following word but does not change its nature. (The construct behaves just as the marked word by itself.) Multiple BAhE cmavo may be used in succession, and they combine to mark the next non-BAhE word.",
+                        "example": [
+                            {
+                                "lojban": ".i ja'o mi bilga lo nu jmina finti {{ba'e so}} lo tricu",
+                                "english": "So I have to create {{<em>nine</em>}} more trees to add.",
+                                "source": "The Lay of the Land",
+                                "author": "Worldbuilding Notes"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "good": true
+    },
+    {
+        "word": "ba'o",
+        "gloss": "Preposition (tense): retrospective",
+        "type": "cmavo",
+        "freq": "23571",
+        "rank": "204",
+        "tag": "core-1",
+        "rafsi-cvc": null,
+        "rafsi-ccv": null,
+        "rafsi-cvv": null,
+        "definition": [
+            {
+                "selmaho": "ZAhO",
+                "meaning": [
+                    {
+                        "exp": "Retrospective/perfect: signifies that the event has already ended; already."
+                    },
+                    {
+                        "context": "When followed by a sumti",
+                        "variation": "CLL",
+                        "exp": "in the aftermath of ...; since ...",
+                        "example": [
+                            {
+                                "lojban": "ni'o {{ba'o}} le krixa ke cladu savru cu co'a klaku fa pi ro le drata prenu",
+                                "english": "{{After}} the deafeningly noisy screaming, everyone else started to cry.",
+                                "source": "Headphone Actor",
+                                "author": "Jin",
+                                "translator": "tetsusquared (la .tirprij.)"
+                            }
+                        ]
+                    },
+                    {
+                        "context": "When followed by a sumti",
+                        "variation": "BPFK",
+                        "exp": "is already ended when ..."
+                    }
+                ]
+            }
+        ],
+        "good": true
+    },
+    {
+        "word": "bo",
+        "gloss": "Grouping: short scope link, strong binding",
+        "type": "cmavo",
+        "freq": "63253",
+        "rank": "86",
+        "tag": "core-1",
+        "rafsi-cvc": "bor",
+        "rafsi-ccv": null,
+        "rafsi-cvv": null,
+        "definition": [
+            {
+                "selmaho": "BO",
+                "meaning": [
+                    {
+                        "exp": "Short scope link. Used in various grammatical constructions and acts as a high precedence link, overriding usual left-grouping rules. Chains linked with {{bo}} are grouped to the right. Specific usages are explained below."
+                    },
+                    {
+                        "context": "Inside a tanru",
+                        "exp": "Joins tanru units, binding them together closely.",
+                        "example": [
+                            {
+                                "lojban": "ni'o ze mo'o fenki tcati {{bo}} kansi'u",
+                                "english": "VII. The mad tea{{-}}party",
+                                "source": "Alice in Wonderland",
+                                "author": "Lewis Carroll",
+                                "translator": "la .xorxes.",
+                                "note": "The {{bo}} directly corresponds to the hyphen in the English text. Without the {{bo}} the tanru will group as {{[fenki tcati] kansi'u}}, which roughly translates to \"the <em>mad-tea</em> party\"."
+                            }
+                        ]
+                    },
+                    {
+                        "context": "Directly after a connective",
+                        "exp": "Override the default left-grouping in chained connectives. Constituents connected by connectives with {{bo}} are grouped first. Chains linked with {{bo}} are grouped to the right.",
+                        "example": [
+                            {
+                                "lojban": ".i ku'i mi pu ku tcidu ba'e so'u pagbu be le to'e censa se ciska gi'e ba bo ga'orgau le cukta {{gi'e bo}} co'a bevri",
+                                "english": "Yet I had read only the least fragment of that blasphemous rune before closing the book and bringing it away.",
+                                "source": "The Book",
+                                "author": "H. P. Lovecraft",
+                                "translator": "la gleki",
+                                "note": "The English sentence is grouped as \"I had read... before [closing the book and bringing it away]\". If the underlined {{bo}} wasn't there, it'll group as \"I had [read... before closing the book] and bringing it away\". This example also shows the right-grouping rule with chained {{bo}}: The {{gi'e ba bo}} in the example has a lower priority because it is to the left of the underlined {{gi'e bo}}."
+                            }
+                        ]
+                    },
+                    {
+                        "variation": "CLL",
+                        "context": "Between a NAhE and a sumti",
+                        "exp": "Binds NAhE and the sumti together.",
+                        "note": "Not required in later grammars such as camxes beta or zantufa.",
+                        "example": [
+                            {
+                                "lojban": ".i mi ka'e binxo lo makcu prenu noi se cinri no {{na'e bo}} lo namcu",
+                                "english": "I may become like the grown-ups who are interested in anything nothing {{other than}} figures.",
+                                "source": "The Little Prince",
+                                "author": "Antoine de Saint-Exupéry",
+                                "translator": "la .xorxes."
+                            }
+                        ]
+                    },
+                    {
+                        "context": "After {{.i}} and a BAI modal",
+                        "exp": "Forms a sentence link along with {{.i}} and the BAI modal. The resulting sentence link ({{.i BAI bo}}) tags the latter bridi as a whole by the BAI modal, and incorporates it to the former (main) bridi. {{BRIDI<sub>1</sub> .i BAI bo BRIDI<sub>2</sub>}} has a similar meaning to {{BRIDI<sub>1</sub> BAI lo su'u BRIDI<sub>2</sub>}} or {{lo su'u BRIDI<sub>2</sub> cu SELBRI lo su'u BRIDI<sub>1</sub>}} (where {{BAI}} is the modal for {{SELBRI}}), but {{.i BAI bo}} also asserts that both the linked bridi are true.",
+                        "example": [
+                            {
+                                "lojban": "ni'o lo ka jinga nalka'e cu nalvai {{.i mu'i bo}} mi klama be tu mutce bo djica",
+                                "english": "It doesn't matter that I can't win, {{because}} I really want to go there.",
+                                "source": "Aisle",
+                                "author": "Ibuki Tsubasa",
+                                "translator": "tetsusquared (la .tirprij.)",
+                                "note": "The second {{bo}} in this example is of another usage."
+                            }
+                        ]
+                    },
+                    {
+                        "context": "After {{.i}} and a tense",
+                        "exp": "Forms a sentence link along with {{.i}} and the tense. The resulting sentence link ({{.i TENSE bo}}) tags the latter bridi as a whole by the <strong><em>opposite</em></strong> of the tense, and incorporates it to the former (main) bridi. {{BRIDI<sub>1</sub> .i TENSE bo BRIDI<sub>2</sub>}} has a similar meaning to {{BRIDI<sub>2</sub> TENSE lo su'u BRIDI<sub>1</sub>}}, but {{.i TENSE bo}} also asserts that both the linked bridi are true.",
+                        "note": "The implication of the relationship between connected sentences is the opposite for modals and tenses. The reason is likely historical, as said in <i>Lojban for Beginners (p. 110)</i>: \"The very astute reader will have noted that ‘afterwards’ should have been {{.i pu bo}}; the analogy with {{ba ku}} won out, though.\"",
+                        "example": [
+                            {
+                                "lojban": ".e'u mi'o klama lo korbi {{.i ba bo}} mi do jungau lo lisri be mi",
+                                "english": "Let us get to the shore, {{and then}} I'll let you know my story.",
+                                "source": "Alice in Wonderland",
+                                "author": "Lewis Carroll",
+                                "translator": "la .xorxes."
+                            }
+                        ]
+                    },
+                    {
+                        "context": "After a connective and a BAI modal",
+                        "exp": "Expands",
+                        "example": [
+                            {
+                                "lojban": ".i ca ro dunra lo clika co'a dunja {{je ja'e bo}} sligu",
+                                "english": "Every winter the moss freezes {{and becomes}} solid {{as a result}}.",
+                                "source": "Antarctica is getting greener",
+                                "author": "Ryan Cross on <i>Science</i>",
+                                "translator": "la .ilmen."
+                            }
+                        ]
+                    },
+                    {
+                        "context": "After a connective and a tense",
+                        "exp": "Expands",
+                        "example": [
+                            {
+                                "lojban": ".i loi sorska cinta ko fi ko'a cu se punji {{.i je ba bo}} loi xekri tabno ko'a gacri",
+                                "english": "Paint it with colorful pigments, {{and soon enough}} it'll be covered in black charcoal.",
+                                "source": "Ĉarma Anomali’",
+                                "author": "Noise and Bells",
+                                "translator": "tetsusquared (la .tirprij.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "good": true
+    },
+    {
+        "word": "citka",
+        "gloss": "to eat, to consume &mdash; to be eaten, food",
+        "type": "gismu",
+        "freq": "60290",
+        "rank": "92",
+        "tag": "core-1",
+        "rafsi-cvc": null,
+        "rafsi-ccv": "cti",
+        "rafsi-cvv": null,
+        "definition": [
+            {
+                "meaning": [
+                    {
+                        "exp": "x_1 eats/ingests/consumes (transitive verb) x_2.",
+                        "example": [
+                            {
+                                "lojban": "mi ba {{citka}} ma",
+                                "english": "What will I {{eat}}?",
+                                "source": "la melbi e le ractu",
+                                "author": "la lalxu"
+                            },
+                            {
+                                "lojban": "{{lo se citka ku}} mo",
+                                "english": "What happened to {{the stuff I was going to eat}}?",
+                                "source": "la melbi e le ractu",
+                                "author": "la lalxu"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "good": true
+    },
+    {
+        "word": "cizra",
+        "gloss": "strange, weird &mdash; to find ... strange",
+        "type": "gismu",
+        "freq": "111500",
+        "rank": "46",
+        "tag": "core-1",
+        "rafsi-cvc": "ciz",
+        "rafsi-ccv": null,
+        "rafsi-cvv": null,
+        "definition": [
+            {
+                "meaning": [
+                    {
+                        "exp": "x_1 is strange/weird/deviant/bizarre/odd to x_2 in property x_3 (ka).",
+                        "example": [
+                            {
+                                "lojban": ".i ku'i ro da {{cizra}} ca lo cabdei",
+                                "english": "But everything {{is strange}} today.",
+                                "source": "Alice in Wonderland",
+                                "author": "Lewis Carroll",
+                                "translator": "la .xorxes."
+                            },
+                            {
+                                "lojban": ".i a'o {{na cizra}} do fa tu'a ti",
+                                "english": "I hope (something about) this {{is not strange}} to you.",
+                                "source": "ua langu",
+                                "author": "la solpa'i"
+                            },
+                            {
+                                "lojban": ".i la gregor cu {{se cizra}} lo vrici sance be lo nu citka",
+                                "english": "Gregor {{found}} the various sounds of eating {{strange}}.",
+                                "source": "The Metamorphosis",
+                                "author": "Franz Kafka",
+                                "translator": "la .xorxes."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "good": true
+    },
+    {
+        "word": "cmene",
+        "gloss": "name, title &mdash; to be called as ..., to be named &mdash; to name, to call ... as ...",
+        "type": "gismu",
+        "freq": "58400",
+        "rank": "94",
+        "tag": "core-1",
+        "rafsi-cvc": null,
+        "rafsi-ccv": "cme",
+        "rafsi-cvv": "me'e",
+        "definition": [
+            {
+                "meaning": [
+                    {
+                        "exp": "x_1 (quoted word(s)) is a/the name/title/tag of x_2 to/used-by namer/name-user x_3 (person).",
+                        "example": [
+                            {
+                                "lojban": ".i ma {{cmene}} do poi ke'a na slabu mi",
+                                "english": "What {{is}} your {{name}}, unfamiliar one?",
+                                "source": "Torinoko City",
+                                "author": "40mP",
+                                "translator": "tetsusquared (la .tirprij.)"
+                            },
+                            {
+                                "lojban": "ni'o lo jmive poi ka'e prami cu ca ca'o {{se cmene}} fi lo remna fa zo remna",
+                                "english": "A living thing that can love is now {{being called}} \"human\" by mankind.",
+                                "source": "Jitter Doll",
+                                "author": "niki",
+                                "translator": "tetsusquared (la .tirprij.)"
+                            },
+                            {
+                                "lojban": ".i ki'u ma lo cmalu ninmu cu {{te cmene}} dy lu te makfa li'u",
+                                "english": "Why did the little woman {{call}} her (Dorothy) \"a sorceress\"?",
+                                "source": "The Wonderful Wizard of Oz",
+                                "author": "L. Frank Baum",
+                                "translator": "la solpa'i"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "good": true
+    },
+    {
+        "word": "co'a",
+        "gloss": "Preposition (tense): initiative",
+        "type": "cmavo",
+        "freq": "36741",
+        "rank": "131",
+        "tag": "core-1",
+        "rafsi-cvc": null,
+        "rafsi-ccv": null,
+        "rafsi-cvv": "co'a",
+        "definition": [
+            {
+                "selmaho": "ZAhO",
+                "meaning": [
+                    {
+                        "exp": "Initiative: signifies that the event starts.",
+                        "example": [
+                            {
+                                "lojban": ".i mi {{co'a}} na kakne lo nu jitro",
+                                "english": "I {{start to}} be unable to control.",
+                                "source": "ku'i ba troci",
+                                "author": "Fyren"
+                            }
+                        ]
+                    },
+                    {
+                        "context": "When followed by a sumti",
+                        "variation": "CLL",
+                        "exp": "at the starting point of ..."
+                    },
+                    {
+                        "context": "When followed by a sumti",
+                        "variation": "BPFK",
+                        "exp": "starts when ...; since ...; from ...",
+                        "example": [
+                            {
+                                "lojban": ".i xy. to'e lazni gunka {{co'a lo cerni}} co'u lo nicte gi'e na djuno lo du'u lo si'o gleki cu mo kau",
+                                "english": "He worked hard {{from morning}} till night and did not know what joy was.",
+                                "source": "The Wonderful Wizard of Oz",
+                                "author": "L. Frank Baum",
+                                "translator": "la solpa'i"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "good": true
+    },
+    {
+        "word": "co'u",
+        "gloss": "Preposition (tense): cessative",
+        "type": "cmavo",
+        "freq": "10260",
+        "rank": "404",
+        "tag": "core-2",
+        "rafsi-cvc": null,
+        "rafsi-ccv": null,
+        "rafsi-cvv": "co'u",
+        "definition": [
+            {
+                "selmaho": "ZAhO",
+                "meaning": [
+                    {
+                        "exp": "Cessative: signifies that the event ends. The event is not neccesarily completed.",
+                        "example": [
+                            {
+                                "lojban": ".i ko {{co'u}} tolckire gi'e prami mi",
+                                "english": "{{Stop being}} thankless and love me.",
+                                "source": "Amapola",
+                                "author": "José María Lacalle García",
+                                "translator": "la .guskant."
+                            }
+                        ]
+                    },
+                    {
+                        "context": "When followed by a sumti",
+                        "variation": "CLL",
+                        "exp": "at the ending point of ... (even if not done)",
+                        "example": [
+                            {
+                                "lojban": ".i {{co'u}} lo nu terxra kei ly ganse lo nu le mirli co'a jmive",
+                                "english": "{{As}} he {{finished}} painting, he felt that the deer came to life.",
+                                "source": "Liang and the Magic Paintbrush",
+                                "author": "Demi",
+                                "translator": "la darsi",
+                                "editor": "la gleki"
+                            }
+                        ]
+                    },
+                    {
+                        "context": "When followed by a sumti",
+                        "variation": "BPFK",
+                        "exp": "ends when ...; until ...",
+                        "example": [
+                            {
+                                "lojban": ".i sa'u ko troci {{co'u}} lo nu claxu lo titnanba",
+                                "english": "You just keep on trying {{till}} you run out of cake.",
+                                "source": "Still Alive",
+                                "author": "Jonathan Coulton",
+                                "translator": "la solpa'i"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "good": true
+    },
+    {
+        "word": "cusku",
+        "gloss": "to express, to say &mdash; expression &mdash; audience &mdash; communication format",
+        "type": "gismu",
+        "freq": "110600",
+        "rank": "47",
+        "tag": "core-1",
+        "rafsi-cvc": "cus",
+        "rafsi-ccv": "sku",
+        "rafsi-cvv": null,
+        "definition": [
+            {
+                "meaning": [
+                    {
+                        "exp": "x_1 (agent) expresses/says x_2 (sedu'u/text/lu'e concept) for audience x_3 via expressive medium x_4.",
+                        "example": [
+                            {
+                                "lojban": "ni'o le ractu ku {{cusku}} lu xu do djica lo nu citka li'u",
+                                "english": "The rabbit {{said}}: \"Did you want to eat?\"",
+                                "source": "la melbi e le ractu",
+                                "author": "la lalxu"
+                            },
+                            {
+                                "lojban": ".i ka'e {{cusku}} zo co'o fi ro da",
+                                "english": "[We] can just {{say}} goodbye to everything.",
+                                "source": "Re-Education",
+                                "author": "Neru",
+                                "translator": "tetsusquared (la .tirprij.)"
+                            },
+                            {
+                                "lojban": ".i my. {{cusku}} lo se du'u my. manci catlu po'o lo mi melbi lerfu",
+                                "english": "She (my mother) said she was just marvelling at my beautiful [hand-written] letters.",
+                                "source": "roljbogu'e chatlog"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "good": true
+    },
+    {
+        "word": "djica",
+        "gloss": "to want, to desire &mdash; (a) desire &mdash; purpose of desire",
+        "type": "gismu",
+        "freq": "91000",
+        "rank": "55",
+        "tag": "core-1",
+        "rafsi-cvc": null,
+        "rafsi-ccv": "dji",
+        "rafsi-cvv": null,
+        "definition": [
+            {
+                "meaning": [
+                    {
+                        "exp": "x_1 desires/wants/wishes x_2 (event/state) for purpose x_3.",
+                        "example": [
+                            {
+                                "lojban": "xu do {{djica}} lo nu citka",
+                                "english": "Did you {{want}} to eat?",
+                                "source": "la melbi e le ractu",
+                                "author": "la lalxu"
+                            },
+                            {
+                                "lojban": ".i ki'u bo mutce lo ka {{djica}} tu'a lo drani noltruti'u",
+                                "english": "Because he {{would have liked}} very much to have a real princess.",
+                                "source": "The Princess and the Pea",
+                                "author": "Hans Christian Andersen",
+                                "translator": "la solpa'i",
+                                "note": "This sentence is an example of using {{tu'a}} for object of desire in x_2."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "good": true
+    },
+    {
+        "word": "djuno",
+        "gloss": "to know (a fact) &mdash; knowledge &mdash; subject of knowledge &mdash; epistemology of knowledge",
+        "type": "gismu",
+        "freq": "79470",
+        "rank": "69",
+        "tag": "core-1",
+        "rafsi-cvc": "jun",
+        "rafsi-ccv": null,
+        "rafsi-cvv": "ju'o",
+        "definition": [
+            {
+                "meaning": [
+                    {
+                        "exp": "x_1 knows fact(s) x_2 (du'u) about subject x_3 by epistemology x_4.",
+                        "example": [
+                            {
+                                "lojban": ".i my ba zi {{djuno}} lo du'u do ti zvati",
+                                "english": "She will soon {{know}} that you are here.",
+                                "source": "Snow White",
+                                "translator": "la solpa'i"
+                            },
+                            {
+                                "lojban": "ni'o pu ku ro prenu cu {{djuno}} fi lo makfa burcu po ko'a",
+                                "english": "Everyone {{knew}} about Liang's magic brush.",
+                                "source": "Liang and the Magic Paintbrush",
+                                "author": "Demi",
+                                "translator": "la darsi",
+                                "editor": "la gleki"
+                            },
+                            {
+                                "lojban": "ku'i ma'a {{djuno}} so'i da lo jipci",
+                                "english": "But we {{have}} a lot of {{knowledge}} of chickens.",
+                                "source": "First dinosaurs may have been omnivores in the north hemisphere",
+                                "author": "Chelsea Whyte on NewScientist",
+                                "translator": "la .ilmen."
+                            },
+                            {
+                                "lojban": ".i {{le pu se djuno}} co'a fatci",
+                                "english": "{{The prophecy}} was fulfilled.",
+                                "source": "How the enemy came to Thlunrana",
+                                "author": "Lord Dunsany",
+                                "translator": "la gleki",
+                                "note": "Prophecy = That which was known."
+                            },
+                            {
+                                "lojban": ".i da'i ma pu ve djuno",
+                                "english": "How should I know?",
+                                "source": "The Wonderful Wizard of Oz",
+                                "author": "L. Frank Baum",
+                                "translator": "la solpa'i"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "good": true
+    },
+    {
+        "word": "e",
+        "gloss": "Connective: sumti afterthought and",
+        "type": "cmavo",
+        "freq": "115992",
+        "rank": "44",
+        "tag": "core-1",
+        "rafsi-cvc": null,
+        "rafsi-ccv": null,
+        "rafsi-cvv": null,
+        "definition": [
+            {
+                "selmaho": "A",
+                "meaning": [
+                    {
+                        "exp": "Logical connective: sumti afterthought and. Connects two sumti, such that the containing bridi is true if and only if it is true for each of the connected sumti.",
+                        "example": [
+                            {
+                                "lojban": ".i po'o do {{.e}} mi zvati",
+                                "english": "Just you {{and}} me [are here].",
+                                "source": "The Egg",
+                                "author": "Andy Weir",
+                                "translator": "la nalvai"
+                            },
+                            {
+                                "lojban": ".i .ei mi pajni ji'u lo se zukte {{.e nai}} lo valsi",
+                                "english": "I ought to have judged by deeds {{and not}} by words.",
+                                "source": "The Little Prince",
+                                "author": "Antoine de Saint-Exupéry",
+                                "translator": "la .xorxes."
+                            }
+                        ]
+                    },
+                    {
+                        "context": "~ {{bu}}",
+                        "exp": "Letteral for e. When used alone, refers to the most recent sumti starting with {{e}}.",
+                        "example": [
+                            {
+                                "lojban": "ni'o {{la .em.}} ca lo nu klama ti te zu'e lo nu bu'u xabju cu citno je melbi speni .i lo solri jo'u lo brife cu cnegau {{.e bu}} ji'a",
+                                "english": "When {{Aunt Em}} came there to live she was a young, pretty wife. The sun and wind had changed {{her}} (= Aunt Em), too.",
+                                "source": "The Wonderful Wizard of Oz",
+                                "author": "L. Frank Baum",
+                                "translator": "la solpa'i"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "good": true
+    },
+    {
+        "word": "gleki",
+        "gloss": "happy, glad &mdash; source of happiness",
+        "type": "gismu",
+        "freq": "79850",
+        "rank": "68",
+        "tag": "core-1",
+        "rafsi-cvc": "gek",
+        "rafsi-ccv": null,
+        "rafsi-cvv": "gei",
+        "definition": [
+            {
+                "meaning": [
+                    {
+                        "exp": "x_1 is happy/merry/glad/gleeful about x_2 (event/state).",
+                        "example": [
+                            {
+                                "lojban": ".i lo xanka mutce rirni cu {{gleki}} lo nu lo verba za'o jmive",
+                                "english": "The very anxious parents are happy that the child is still alive.",
+                                "source": "lo cmalu",
+                                "author": "la solpa'i"
+                            },
+                            {
+                                "lojban": ".i lo nu jelca cu crori'a ki'u lo nu mi tai {{gleki}} tu'a do",
+                                "english": "As they burned it hurt because I was so {{happy}} for you",
+                                "source": "Still Alive",
+                                "author": "Jonathan Coulton",
+                                "translator": "la solpa'i"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "good": true
+    },
+    {
+        "word": "ji",
+        "gloss": "Connective: sumti afterthought connective question",
+        "type": "cmavo",
+        "freq": "9080",
+        "rank": "444",
+        "tag": "core-2",
+        "rafsi-cvc": null,
+        "rafsi-ccv": null,
+        "rafsi-cvv": null,
+        "definition": [
+            {
+                "selmaho": "A",
+                "meaning": [
+                    {
+                        "exp": "Logical connective: sumti afterthought connective question. Connects two sumti and asks the listener to supply a sumti afterthought connective that makes the containing bridi true.",
+                        "example": [
+                            {
+                                "lojban": "cacra li re vo pe'i {{ji}} li pa re pei",
+                                "english": "Twenty-four hours, I think; {{or}} is it twelve{{?}}",
+                                "source": "Alice in Wonderland",
+                                "author": "Lewis Carroll",
+                                "translator": "la .xorxes."
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "selmaho": "JA",
+                "meaning": [
+                    {
+                        "variation": "JACU",
+                        "exp": "Connective: connective question. Connects two grammatical constructs of the same type and asks the listener to supply a connective that makes the containing bridi true.",
+                        "example": [
+                            {
+                                "lojban": "― coi jbope'o mi'e zi sipna <br> ― puzi {{ji}} bazi <br> ― naje li'abu'o u'i",
+                                "english": "― Hello Lojban friends, I'm sleeping (from a short distance in time from now) <br> ― To the past {{or}} to the future? <br> ― The latter, should be obvious now, haha.",
+                                "source": "roljbogu'e chatlog",
+                                "speaker": "la srasu, evie"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "good": true
+    },
+    {
+        "word": "ji'a",
+        "gloss": "Discursive: additionally",
+        "type": "cmavo",
+        "freq": "76820",
+        "rank": "74",
+        "tag": "core-1",
+        "rafsi-cvc": null,
+        "rafsi-ccv": null,
+        "rafsi-cvv": null,
+        "definition": [
+            {
+                "selmaho": "UI3b",
+                "meaning": [
+                    {
+                        "exp": "Discursive: indicate an additional case or additional cases.",
+                        "note": "Keywords include \"also\", \"too\", \"additionally\", \"in addition\", \"as well\", \"moreover\", \"furthermore\", \"to boot\", \"even\".",
+                        "example": [
+                            {
+                                "lojban": ".i lo munje cu palci je'u .i {{ji'a}} lo nu jmive cu nibli lo nu cortu",
+                                "english": "The world is truly evil, {{and}} living implies suffering.",
+                                "source": "ku'i ba troci",
+                                "author": "Fyren"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "good": true
+    },
+    {
+        "word": "jimpe",
+        "gloss": "to understand, to comprehend (a fact) &mdash; fact understood &mdash; subject of understanding",
+        "type": "gismu",
+        "freq": "61050",
+        "rank": "91",
+        "tag": "core-1",
+        "rafsi-cvc": null,
+        "rafsi-ccv": "jmi",
+        "rafsi-cvv": null,
+        "definition": [
+            {
+                "meaning": [
+                    {
+                        "exp": "x_1 understands/comprehends fact/truth x_2 (du'u) about subject x_3; x1 understands (fi) x3.",
+                        "example": [
+                            {
+                                "lojban": "mi {{jimpe}} lo du'u do ma kau cinmo",
+                                "english": "I {{understand}} how you feel.",
+                                "source": "The Wonderful Wizard of Oz",
+                                "author": "L. Frank Baum",
+                                "translator": "la solpa'i"
+                            },
+                            {
+                                "lojban": ".i .a bu snada lo ka {{jimpe}} tu'a lo valsi",
+                                "english": "She (Alice) made out the words.",
+                                "source": "Alice in Wonderland",
+                                "author": "Lewis Carroll",
+                                "translator": "la .xorxes.",
+                                "note": "Make out the words = Succeed to understand the words."
+                            },
+                            {
+                                "lojban": ".i {{jimpe}} fi lo selcni .i .au kelci ne'i le xamsi pe'a",
+                                "english": "{{Understanding}} emotions, I want to play in the (figurative) ocean.",
+                                "source": "Diamond City Lights",
+                                "author": "LazuLight",
+                                "translator": "tetsusquared (la .tirprij.)"
+                            },
+                            {
+                                "lojban": ".i do terpa lo nu mi jai gau xrani do se pi'o {{lo se jimpe be mi}}",
+                                "english": "You fear that I'll cause harm to you with {{my understandings}}.",
+                                "source": "la nicte cadzu",
+                                "author": "Robin Lee Powell"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "good": true
+    },
+    {
+        "word": "klama",
+        "gloss": "to go, to come &mdash; destination &mdash; origin, start &mdash; route &mdash; means of movement",
+        "type": "gismu",
+        "freq": "62300",
+        "rank": "88",
+        "tag": "core-1",
+        "rafsi-cvc": null,
+        "rafsi-ccv": "kla",
+        "rafsi-cvv": null,
+        "definition": [
+            {
+                "meaning": [
+                    {
+                        "exp": "x_1 comes/goes to destination x_2 from origin x_3 via route x_4 using means/vehicle x_5.",
+                        "example": [
+                            {
+                                "lojban": "mi {{klama}} .ii le tsani le mi munje be lo xrani",
+                                "english": "I'm scared, but I'm {{going}} to the sky away from my world full of trauma",
+                                "source": "sruri fa lo tarci",
+                                "author": "Noise and Bells (la janbe)"
+                            },
+                            {
+                                "lojban": ".i le karce zo'a {{flecu klama}} fo le dargu pe le bartu noi ca'o manku binxo",
+                                "english": "Cars {{slushed}} by on the street outside, where it was getting dark.",
+                                "source": "Little Things",
+                                "author": "Raymond Carver",
+                                "translator": "Jordan DeLong"
+                            },
+                            {
+                                "lojban": ".i mi {{klama fu}} le roldepre'e .a'o",
+                                "english": "I hope I can {{ride}} the local train still.",
+                                "source": "Lagtrain (short ver.)",
+                                "author": "inabakumori",
+                                "translator": "tetsusquared (la .tirprij.)",
+                                "note": "{{roldepre'e}} expands to {{ro denpa trene}}, Train that stops at every [station] = Local train."
+                            },
+                            {
+                                "lojban": ".i ku'i mi se slabu lo go'i po'o {{ve klama}}",
+                                "english": "But I'm only familiar with said {{route}}.",
+                                "source": "la mu'e cuxna lo bradi",
+                                "author": "la blutolpinxe"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "good": true
+    },
+    {
+        "word": "le'u",
+        "gloss": "Quotation: end ungrammatical/out-of-context/sentence fragment quotation",
+        "type": "cmavo",
+        "freq": "38150",
+        "rank": "125",
+        "tag": "core-1",
+        "rafsi-cvc": null,
+        "rafsi-ccv": null,
+        "rafsi-cvv": null,
+        "definition": [
+            {
+                "selmaho": "LEhU",
+                "meaning": [
+                    {
+                        "exp": "End error quotation. Ends a questionable or out of context quotation. Never elidable.",
+                        "example": [
+                            {
+                                "lojban": ".i lo'u lan lan la lan la la la la lan lan la lan la la la la lan lan la la lan la la la lan la la la la lan o'o'o'o'o'o'o'o'o'o lun lun lu lu'u'u'u'u'u lu lu lu lu lun lu lu lu lun lu {{le'u}}",
+                                "source": "Always With Me",
+                                "author": "Youmi Kimura",
+                                "translator": ".la guskant."
+                            },
+                            {
+                                "lojban": ".i do lo'u .i lo mi panzi lo mi speni {{le'u}} .alcu do lo'u zo'u mo {{le'u}}",
+                                "english": "\"My kids... my wife,{{\"}} you said. \"What about them?{{\"}}",
+                                "source": "The Egg",
+                                "author": "Andy Weir",
+                                "translator": "la nalvai",
+                                "note": "The entire sentence is grammatical, but becomes ungrammatical when split in half."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "good": true
+    },
+    {
+        "word": "lo'u",
+        "gloss": "Quotation: start ungrammatical/out-of-context/sentence fragment quotation",
+        "type": "cmavo",
+        "freq": "38690",
+        "rank": "123",
+        "tag": "core-1",
+        "rafsi-cvc": null,
+        "rafsi-ccv": null,
+        "rafsi-cvv": null,
+        "definition": [
+            {
+                "selmaho": "LOhU",
+                "meaning": [
+                    {
+                        "exp": "Begin error quotation. Starts a questionable or out of context quotation. Text must be Lojban words, but needn't be grammatical. Terminate with {{le'u}}.",
+                        "example": [
+                            {
+                                "lojban": ".i {{lo'u}} lan lan la lan la la la la lan lan la lan la la la la lan lan la la lan la la la lan la la la la lan o'o'o'o'o'o'o'o'o'o lun lun lu lu'u'u'u'u'u lu lu lu lu lun lu lu lu lun lu le'u",
+                                "source": "Always With Me",
+                                "author": "Youmi Kimura",
+                                "translator": ".la guskant."
+                            },
+                            {
+                                "lojban": ".i do {{lo'u}} .i lo mi panzi lo mi speni le'u .alcu do {{lo'u}} zo'u mo le'u",
+                                "english": "{{\"}}My kids... my wife,\" you said. {{\"}}What about them?\"",
+                                "source": "The Egg",
+                                "author": "Andy Weir",
+                                "translator": "la nalvai",
+                                "note": "The entire sentence is grammatical, but becomes ungrammatical when split in half."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "good": true
+    },
+    {
+        "word": "mutce",
+        "gloss": "extreme, much, very &mdash; an extreme property",
+        "type": "gismu",
+        "freq": "79260",
+        "rank": "70",
+        "tag": "core-1",
+        "rafsi-cvc": null,
+        "rafsi-ccv": "tce",
+        "rafsi-cvv": null,
+        "definition": [
+            {
+                "meaning": [
+                    {
+                        "exp": "x_1 is much/extreme in property x_2 (ka), towards x_3 extreme/direction; x_1 is, in x_2, very x_3.",
+                        "example": [
+                            {
+                                "lojban": "ni'o le se morji be mi cu {{mutce}} le ka kalsa",
+                                "english": "My memories are {{very}} confused.",
+                                "source": "The Book",
+                                "author": "H. P. Lovecraft",
+                                "translator": "la gleki"
+                            },
+                            {
+                                "lojban": ".i cu'u so'e se slabu be mi mi {{mutce be fi tu'a lo mi se nanca be'o}} mencre",
+                                "english": "Most people who are familiar with me say I'm {{really}} smart {{for my age}}.",
+                                "source": "la mu'e cuxna lo bradi",
+                                "author": "la blutolpinxe"
+                            },
+                            {
+                                "lojban": ".i ja'e bo ca ku mi {{cinmo lo mutce}} gi'e kakne co zukte no da",
+                                "english": "As a result I {{am overwhelmed}} and cannot do anything now.",
+                                "source": "roljbogu'e chatlog",
+                                "note": "To be overwhelmed = To feel an extreme emotion"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "good": true
+    },
+    {
+        "word": "nelci",
+        "gloss": "to like, fond &mdash; to be liked",
+        "type": "gismu",
+        "freq": "100960",
+        "rank": "50",
+        "tag": "core-1",
+        "rafsi-cvc": "nel",
+        "rafsi-ccv": null,
+        "rafsi-cvv": "nei",
+        "definition": [
+            {
+                "meaning": [
+                    {
+                        "exp": "x_1 is fond of/likes/has a taste for x_2 (object/state).",
+                        "example": [
+                            {
+                                "lojban": ".i mi {{nelci}} ro selci be do",
+                                "english": "I {{like}} every one of your cells.",
+                                "source": "prami simbi'o",
+                                "author": "Djemynai"
+                            },
+                            {
+                                "lojban": ".i mi {{nelci}} ca lo nicte lo nu tirna lo tarci",
+                                "english": "At night I {{love to}} listen to the stars.",
+                                "source": "The Little Prince",
+                                "author": "Antoine de Saint-Exupéry",
+                                "translator": "la .xorxes."
+                            },
+                            {
+                                "lojban": "ko te cmene fi {{lo do se nelci}}",
+                                "english": "Call it {{whatever you like}}.",
+                                "source": "Alice in Wonderland",
+                                "author": "Lewis Carroll",
+                                "translator": "la .xorxes."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "good": true
+    },
+    {
+        "word": "pilno",
+        "gloss": "to use, to employ &mdash; to be used, tool &mdash; function, purpose",
+        "type": "gismu",
+        "freq": "75010",
+        "rank": "76",
+        "tag": "core-1",
+        "rafsi-cvc": null,
+        "rafsi-ccv": "pli",
+        "rafsi-cvv": null,
+        "definition": [
+            {
+                "meaning": [
+                    {
+                        "exp": "x_1 uses/employs x_2 [tool, apparatus, machine, agent, acting entity, material] for purpose x_3.",
+                        "example": [
+                            {
+                                "lojban": "ro'e pe'i va {{pilno}} lo dikca lo nu jukpa",
+                                "english": "Aha, they must {{use}} electricity to cook there.",
+                                "source": "The Restaurant of Many Orders",
+                                "author": "Kenji Miyazawa",
+                                "translator": "la .tijlan."
+                            },
+                            {
+                                "lojban": ".i mu'i ku so'i da {{pilno}} lo laldo ve cilre lo ka cilre fi lo catni lojbo",
+                                "english": "Because of it, many {{used}} old textbooks to learn the official Lojban.",
+                                "source": "\"Official Lojban\"",
+                                "author": "la uakci"
+                            },
+                            {
+                                "lojban": ".i ma ca sevzi {{te pilno}} le bangu",
+                                "english": "What is the current identity {{function}} of the language?",
+                                "source": "Assessment of EGIDS Levels",
+                                "author": "M. Paul Lewis and Gary F. Simons",
+                                "translator": "la nalvai"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "good": true
+    },
+    {
+        "word": "po",
+        "gloss": "Relative phrase marker: is specific to ...",
+        "type": "cmavo",
+        "freq": "8251",
+        "rank": "473",
+        "tag": "core-2",
+        "rafsi-cvc": null,
+        "rafsi-ccv": null,
+        "rafsi-cvv": null,
+        "definition": [
+            {
+                "selmaho": "GOI",
+                "meaning": [
+                    {
+                        "exp": "Restrictive relative phrase marker: which is specific to ...; normal possessive physical/legal.",
+                        "example": [
+                            {
+                                "lojban": "ni'o pu ku ro prenu cu djuno fi lo makfa burcu {{po}} ko'a",
+                                "english": "Everyone knew about Liang{{'s}} magic brush.",
+                                "source": "Liang and the Magic Paintbrush",
+                                "author": "Demi",
+                                "translator": "la darsi",
+                                "editor": "la gleki"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "selmaho": "LOhOI",
+                "meaning": [
+                    {
+                        "variation": "jboponei",
+                        "exp": "Equivalent to {{lo su'u}}. Terminate with {{nei}} or {{tei}}.",
+                        "example": [
+                            {
+                                "lojban": ".i mi djuno {{po}} zanfu'a ri",
+                                "english": "I know {{[how]}} lucky they are.",
+                                "source": "koi do mi na",
+                                "author": "Mèremim"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "good": true
+    },
+    {
+        "word": "prenu",
+        "gloss": "people, person",
+        "type": "gismu",
+        "freq": "47680",
+        "rank": "106",
+        "tag": "core-1",
+        "rafsi-cvc": null,
+        "rafsi-ccv": "pre",
+        "rafsi-cvv": null,
+        "definition": [
+            {
+                "meaning": [
+                    {
+                        "exp": "x_1 is a person/people (noun) [not necessarily human]; x_1 displays personality/a persona.",
+                        "example": [
+                            {
+                                "lojban": ".i ro {{prenu}} cu mrobi'o",
+                                "english": "Every {{person}} dies.",
+                                "source": "The Egg",
+                                "author": "Andy Weir",
+                                "translator": "la nalvai"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "good": true
+    },
+    {
+        "word": "sipna",
+        "gloss": "to sleep, asleep",
+        "type": "gismu",
+        "freq": "76250",
+        "rank": "75",
+        "tag": "core-1",
+        "rafsi-cvc": "sip",
+        "rafsi-ccv": null,
+        "rafsi-cvv": null,
+        "definition": [
+            {
+                "meaning": [
+                    {
+                        "exp": "x_1 is asleep (adjective); x_1 sleeps/is sleeping.",
+                        "example": [
+                            {
+                                "lojban": ".i mi vlalinkei ca lo nu mi {{sipna}}",
+                                "english": "I play <i>vlalinkei</i> while I{{'m asleep}}.",
+                                "source": "lo mi jufra",
+                                "author": "la solpa'i"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "good": true
+    },
+    {
+        "word": "skari",
+        "gloss": "to be colored, to have color &mdash; color, hue &mdash; to preceive color",
+        "type": "gismu",
+        "freq": "3530",
+        "rank": "744",
+        "tag": "core-3",
+        "rafsi-cvc": null,
+        "rafsi-ccv": "ska",
+        "rafsi-cvv": null,
+        "definition": [
+            {
+                "meaning": [
+                    {
+                        "exp": "x_1 is/appears to be of color/hue x_2 as perceived/seen by x_3 under conditions x_4.",
+                        "example": [
+                            {
+                                "lojban": ".i ju'o .ia ro prenu cu {{skari}} so'i melbi joi so'i fegli",
+                                "english": "I'm sure everyone's {{painted in colors}}, many beautiful and many ugly.",
+                                "source": "Colorful",
+                                "author": "H△G",
+                                "translator": "tetsusquared (la .tirprij.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "good": true
+    },
+    {
+        "word": "tavla",
+        "gloss": "to tell, to talk to &mdash; to be talked to &mdash; subject of talk &mdash; language used",
+        "type": "gismu",
+        "freq": "93990",
+        "rank": "54",
+        "tag": "core-1",
+        "rafsi-cvc": "tav",
+        "rafsi-ccv": null,
+        "rafsi-cvv": "ta'a",
+        "definition": [
+            {
+                "meaning": [
+                    {
+                        "exp": "x_1 talks/speaks to x_2 about subject x_3 in language x_4.",
+                        "example": [
+                            {
+                                "lojban": ".i la .cíluuax. .ainmo lo ka {{tavla}} la cmalu le nu cy. fliba",
+                                "english": "Sheelua intended to {{talk}} to Tiny about her (= Tiny's) failures.",
+                                "source": "clani kerlo",
+                                "author": "la fagri"
+                            },
+                            {
+                                "lojban": "ni'o la .stefen. co'a sanga gi'e {{tavla}} fi lo nu litru vau la .gliban.",
+                                "english": "Stefen started to sing and {{talked}} about the journey in English.",
+                                "source": "la nicte cadzu",
+                                "author": "Robin Lee Powell",
+                                "noshownote": "The original has {{je}} instead of {{gi'e}}"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "good": true
+    },
+    {
+        "word": "valsi",
+        "gloss": "word, (of a word) to mean &mdash; meaning (of a word) &mdash; (of a language) to have a word for...",
+        "type": "gismu",
+        "freq": "152920",
+        "rank": "30",
+        "tag": "core-1",
+        "rafsi-cvc": "val",
+        "rafsi-ccv": "vla",
+        "rafsi-cvv": null,
+        "definition": [
+            {
+                "meaning": [
+                    {
+                        "exp": "x_1 is a word meaning/causing x_2 in language x_3; (adjective: x_1 is lexical/verbal).",
+                        "example": [
+                            {
+                                "lojban": ".i ma {{valsi}} zo xa'o le do pambau",
+                                "english": "What {{is the word for}} \"too soon\" in the language of your love?",
+                                "source": "bai do",
+                                "author": "Noise and Bells (la janbe)"
+                            },
+                            {
+                                "lojban": ".i ku'i pau le'o sai zo makcu ma cu {{valsi}}",
+                                "english": "But what the hell does \"adult\" {{mean}} to begin with?",
+                                "source": "The Lost One's Weeping",
+                                "author": "Neru",
+                                "translator": "tetsusquared (la .tirprij.)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "good": true
+    },
+    {
+        "word": "xamgu",
+        "gloss": "beneficial, good &mdash; to benefit",
+        "type": "gismu",
+        "freq": "61230",
+        "rank": "90",
+        "tag": "core-1",
+        "rafsi-cvc": "xag",
+        "rafsi-ccv": null,
+        "rafsi-cvv": "xau",
+        "definition": [
+            {
+                "meaning": [
+                    {
+                        "exp": "x_1 (object/event) is good/beneficial/nice/[acceptable] for x_2 by standard x_3.",
+                        "example": [
+                            {
+                                "lojban": ".i zu'u nai lo nu rapsku cu {{xamgu}} .a bu lo nu cilre",
+                                "english": "On the other hand, repeating {{is good}} for her (= Alice's) learning.",
+                                "source": "Alice in Wonderland",
+                                "author": "Lewis Carroll",
+                                "translator": "la .xorxes."
+                            },
+                            {
+                                "lojban": ".i je ku'i ri {{se xamgu}} ju'o lo nu lo plini cu glare zenba",
+                                "english": "But it certainly {{benefits from}} the planet warming.",
+                                "source": "Antarctica is getting greener",
+                                "author": "Ryan Cross on <i>Science</i>",
+                                "translator": "la .ilmen."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "good": true
+    },
+    {
+        "word": "zgana",
+        "gloss": "to observe, observer &mdash; to be observered &mdash; means of observation",
+        "type": "gismu",
+        "freq": "98610",
+        "rank": "51",
+        "tag": "core-1",
+        "rafsi-cvc": null,
+        "rafsi-ccv": "zga",
+        "rafsi-cvv": null,
+        "definition": [
+            {
+                "meaning": [
+                    {
+                        "exp": "x_1 observes/[notices]/watches/beholds x_2 using senses/means x_3 under conditions x_4.",
+                        "note": "Attested usage of this word displays family resemblance, ranging from \"to <u>watch</u> a video\" (but never \"to <u>read</u> a book/comic\") to \"to behold\" to \"to feel\" to \"to notice\". Most usage aligns with the English usage of \"watch\". I didn't find usage of the x3 and x4 places.",
+                        "example": [
+                            {
+                                "lojban": ".i ko'e {{zgana}} le nu le cifnu cu cliva vo'a",
+                                "english": "She {{felt}} the baby going from her.",
+                                "source": "Little Things",
+                                "author": "Raymond Carver",
+                                "translator": "Jordan DeLong"
+                            },
+                            {
+                                "lojban": ".i do ba {{zgana}} lo nu mi ja'a sai te tinbe",
+                                "english": "You will {{see}} I am indeed obeyed!",
+                                "source": "The Little Prince",
+                                "author": "Antoine de Saint-Exupéry",
+                                "translator": "la .xorxes."
+                            },
+                            {
+                                "lojban": "ca lo jibni lo lojbo ku se xlali lo {{frili se zgana}} poi pagbu lo vanbi be lo bangu",
+                                "english": "Recently, Lojbanists are suffering from the {{easily-noticed}} part of the environment of the language.",
+                                "source": "\"Official Lojban\"",
+                                "author": "la uakci"
+                            },
+                            {
+                                "lojban": "ca ku zo'u mi {{zgana}} co skina la andor",
+                                "english": "For now I'm {{watching}} the video [series] \"Andor\".",
+                                "source": "roljbogu'e chatlog",
+                                "speaker": "qimar"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "good": true
+    }
+]
