@@ -2442,7 +2442,6 @@
                 "meaning": [
                     {
                         "exp": "x_1 (object/event) is at/attending/present at x_2 (event/location).",
-                        "note": "Although the definition allows x<sub>2</sub> to be an event, such usage is unseen.",
                         "example": [
                             {
                                 "lojban": "lo finpe cu {{zvati}} ma",
@@ -2463,6 +2462,16 @@
                                 "author": "la lalxu",
                                 "link": "https://lynn.github.io/la-melbi-e-le-ractu/",
                                 "instance": 4
+                            },
+                            {
+                                "lojban": ".i lo cmalu noltru noi {{zvati lo nu zvagau lo barda balji}} cu birti lo du'u ba barkla by fa lo se manci tolcanci",
+                                "english": "The little prince, who {{was present at the appearance of a huge bud}}, was sure that some sort of miraculous apparition must emerge from it.",
+                                "source-id": "litt",
+                                "source": "The Little Prince",
+                                "author": "Antoine de Saint-Exupéry",
+                                "translator": "la .xorxes.",
+                                "link": "https://mw.lojban.org/papri/le_cmalu_noltru",
+                                "instance": 8
                             },
                             {
                                 "lojban": ".i {{lo se zvati be mi}} cu tolmanku ze'i lo snidu",

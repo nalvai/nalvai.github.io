@@ -837,7 +837,6 @@
     -definition:
         -meaning:
             -exp x_1 (object/event) is at/attending/present at x_2 (event/location).
-            -note Although the definition allows x<sub>2</sub> to be an event, such usage is unseen.
             -example:
                 -lojban lo finpe cu {{zvati}} ma
                 -english Where {{are}} the fish?
@@ -846,6 +845,10 @@
                 -lojban .i ca facki lo du'u pa ractu ku {{co'a zvati}} le kumfa
                 -english And now, they discovered that a rabbit {{had entered}} the room.
                 -source-id melb
+            -example:
+                -lojban .i lo cmalu noltru noi {{zvati lo nu zvagau lo barda balji}} cu birti lo du'u ba barkla by fa lo se manci tolcanci
+                -english The little prince, who {{was present at the appearance of a huge bud}}, was sure that some sort of miraculous apparition must emerge from it.
+                -source-id litt
             -example:
                 -lojban .i {{lo se zvati be mi}} cu tolmanku ze'i lo snidu
                 -english {{The place where I am}} lit up for a second.
