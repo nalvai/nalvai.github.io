@@ -183,6 +183,11 @@
                 -lojban .i ja'o mi bilga lo nu jmina finti {{ba'e so}} lo tricu
                 -english So I have to create {{<em>nine</em>}} more trees to add.
                 -source-id layo
+            -example:
+                -lojban .e'e ju'o ca le {{ba'e ca}} jeftu mi roldei tcidu ro se ciska be ro le mi jbope'o
+                -english {{<em>This</em>}} week, I definitely can read every day what all my Lojban friends have written!
+                -source-id rolj
+                -speaker latkerlo
 
 
 
@@ -280,7 +285,7 @@
                 -source-id reed
             -example:
                 -lojban .i my. {{cusku}} lo se du'u my. manci catlu po'o lo mi melbi lerfu
-                -english She (my mother) said she was just marvelling at my beautiful [hand-written] letters.
+                -english She (my mother) said she was just marvelling at my beautiful handwriting.
                 -source-id rolj
 
 -entry:
@@ -721,6 +726,11 @@
                 -source-id care
                 -note The first sentence is the condition of the second, as seen in the {{lo ka go'i}} as the second sentence's x_3.
             -example:
+                -lojban ki'e .i mi {{kakne}} lo nu tcidu de'u kei lo nu na sidju
+                -english Thanks, I can read it without help.
+                -source-id rolj
+                -speaker la bakre'u
+            -example:
                 -lojban .i la'e di'u {{na se kakne}}
                 -english That's {{impossible}}.
                 -source-id made
@@ -744,6 +754,102 @@
                 -lojban .i ko na {{klaku fi le marji}}
                 -english Don't {{cry for that material existence}}.
                 -source-id srur
+
+-entry:
+    -word melbi
+    -gloss beautiful, pretty &mdash; to find beautiful, to find pretty &mdash; beautiful aspect &mdash; beauty standard  
+    -type gismu
+    -definition:
+        -meaning:
+            -exp x_1 is beautiful/pleasant to x_2 in aspect x_3 (ka) by aesthetic standard x_4.
+            -example:
+                -lojban &mdash; .i grusi blanu ca .i {{melbi}} mi .i xu lo do tsani cu {{melbi}} do <br>&mdash; .i {{melbi}} mi lo ka dilnu claxu blanu
+                -english &mdash; It's grayish blue now. It's {{beautiful}} to me. Is your sky {{beautiful}} to you? <br>&mdash; It's {{beautiful}} to me in that it's blue without clouds.
+                -source-id rolj
+                -speaker la lunbe, niftg
+            -example:
+                -lojban .i pe'i ro bangu cu {{melbi fi da}}
+                -english I think every language {{is beautiful in some ways}}.
+                -source-id rolj
+                -speaker la xrula
+            -example:
+                -lojban .i ku'i mi {{se melbi}} le do ganto'a sai voksa
+                -english But I {{find}} your very deep voice {{beautiful}}.
+                -source-id rolj
+                -speaker la janbe
+
+-entry:
+    -word simsa
+    -gloss similar, to be similar to ... &mdash; what x<sub>1</sub> is similar to &mdash; similarity, commonality
+    -type gismu
+    -definition:
+        -meaning:
+            -exp x_1 is similar/parallel to x_2 in property/quantity x_3 (ka/ni); x_1 looks/appears like x_2.
+            -example:
+                -lojban .i xu ko'a {{simsa}} lo .orfolei lo ka tabyselcmu pensi gi'e farvi fo lo rectu
+                -english Are they {{like}} the orfolei? [You know,] a carbon-based intelligence that goes through a meat stage?
+                -source-id made
+            -example:
+                -lojban .i mu'i bo ca da do binxo {{lo simsa be mi}}
+                -english Because one day, you'll become {{like me}}.
+                -source-id eggq
+
+
+-entry:
+    -word smuni
+    -gloss meaning, interpretation &mdash; (of an expression, of an event...) to mean, to be taken as ... &mdash; to interpret 
+    -type gismu
+    -definition:
+        -meaning:
+            -exp x_1 is a meaning/interpretation of x_2 recognized/seen/accepted by x_3.
+            -note x<sub>1</sub> is normally an abstraction (most commonly a {{du'u}}); x<sub>2</sub> takes a wide range of types, with texts, desctiption, abstractions all being attested.
+            -example:
+                -lojban .i di'u zo'u ma {{smuni}} zo ta
+                -english What's {{the meaning of}} {ta} in the last sentence?
+                -source-id rolj
+                -speaker la nalvai
+            -example:
+                -lojban .i ru'a lo'u do cinmo ma doi ro do le'u {{se djica jai smuni}}
+                -english I assume "do cinmo ma doi ro do" {{is what [you] want it to mean}}.
+                -source-id rolj
+                -speaker la janbe
+                -note The {{jai}} raises the quote, {{lo'u do cinmo ma doi ro do le'u}}, into an abstraction so it can go into the x<sub>1</sub> place.
+            -example:
+                -lojban .i lo du'u da de natfe cu {{se smuni}} lo du'u da o nai de ka'e jetnu
+                -english "A contradicts B" {{means}} only one of A and B can be true.
+                -source-id alic
+                -note This sentence is localized from the original text, so it doesn't match literally to the original.
+            -example:
+                -lojban .i la'e di'u cu {{se smuni}} lo barda mukti la .gregor.
+                -english It {{is taken as}} a great motivation by Gregor.
+                -source-id meta
+            -example:
+                -lojban .i krinu lo nu mabla ja dukse {{te smuni}} noi je'u fasnu ma'i lo ma'a cecmu
+                -english This can lead to mis{{interpretation}} and/or over{{interpretation}} — and that is what happens in our community.
+                -source-id offi
+
+
+
+-entry:
+    -word zvati
+    -gloss to be (present) at &mdash; place, location
+    -type gismu
+    -definition:
+        -meaning:
+            -exp x_1 (object/event) is at/attending/present at x_2 (event/location).
+            -note Although the definition allows x<sub>2</sub> to be an event, such usage is unseen.
+            -example:
+                -lojban lo finpe cu {{zvati}} ma
+                -english Where {{are}} the fish?
+                -source-id lian
+            -example:
+                -lojban .i ca facki lo du'u pa ractu ku {{co'a zvati}} le kumfa
+                -english And now, they discovered that a rabbit {{had entered}} the room.
+                -source-id melb
+            -example:
+                -lojban .i {{lo se zvati be mi}} cu tolmanku ze'i lo snidu
+                -english {{The place where I am}} lit up for a second.
+                -source-id zaho
 
 -entry:
     -word skari
@@ -924,7 +1030,7 @@
         -meaning:
             -context After a connective and a BAI modal 
             -exp Binds the connective and the model so that the model signifies the relation between the connected elements. {{.i je BAI bo}} are similar in meaning to {{.i BAI bo}}, and the meanings of other connectives can inferred analogously.
-            -note This usage is not unique to {{bo}}, but common to grouping words like {{ke}} as well. 
+            -note This usage is not unique to {{bo}}. Other grouping words like {{ke}} can also do this, but only those with {{bo}} are attested. 
             -example:
                 -lojban .i ca ro dunra lo clika co'a dunja {{je ja'e bo}} sligu
                 -english Every winter the moss freezes {{and becomes}} solid {{as a result}}.
@@ -932,7 +1038,7 @@
         -meaning:
             -context After a connective and a tense 
             -exp Binds the connective and the tense so that the tense signifies the time relation between the connected elements. {{.i je TENSE bo}} are similar in meaning to {{.i TENSE bo}}, and the meanings of other connectives can inferred analogously.
-            -note This usage is not unique to {{bo}}, but common to grouping words like {{ke}} as well. 
+            -note This usage is not unique to {{bo}}. Other grouping words like {{ke}} can also do this, but only those with {{bo}} are attested.  
             -example:
                 -lojban .i loi sorska cinta ko fi ko'a cu se punji {{.i je ba bo}} loi xekri tabno ko'a gacri
                 -english Paint it with colorful pigments, {{and soon enough}} it'll be covered in black charcoal.
@@ -957,6 +1063,20 @@
                 -note The entire sentence is grammatical, but becomes ungrammatical when split in half. 
 
 
+
+-entry:
+    -word ge'i
+    -gloss Connective: forethought connective question
+    -type cmavo
+    -definition:
+        -selmaho GA
+        -meaning:
+            -exp Logical connective: all but tanru-internal forethought connective question. Asks the listener to supply a FLC that makes the containing statement true.
+            -note {{ga ji}} under JACU.
+            -example:
+                -lojban ni'o xu lo prenu co vajni cu {{ge'i}} ca ranji lo nu kansa ku {{gi}} ve'u sepli do gi'e pu co'a cliva fi lo drata se litru
+                -english As for the people important [to you], do they continue to accompany you{{? Or}} are they now distant and separated from you, having departed via their own paths{{?}}
+                -source-id lett
 
 
 -entry:

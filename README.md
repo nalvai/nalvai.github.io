@@ -1,6 +1,6 @@
 # NALVAI: Nalvai's Assemblage of Lojban Vocabulary Attestation Instances
 ## What is this?
-**NALVAI** is a Lojban dictionary that uses quotations from *real-world texts* as examples of usage. It currently contains **43 words** with [**114 quotations** from **53 Lojban texts**](https://github.com/nalvai/nalvai.github.io#sources). Please provide quotations and definitions to help the dictionary grow!
+**NALVAI** is a Lojban dictionary that uses quotations from *real-world texts* as examples of usage. It currently contains **48 words** with [**140 quotations** from **53 Lojban texts**](https://github.com/nalvai/nalvai.github.io#sources). Please provide quotations and definitions to help the dictionary grow!
 
 Here is how a word look like in this dictionary:
 ![The word a in this dictionary](https://raw.githubusercontent.com/nalvai/nalvai.github.io/refs/heads/master/example_a.png)
@@ -17,6 +17,11 @@ Here is how a word look like in this dictionary:
 - [Sources](https://github.com/nalvai/nalvai.github.io#sources)
 
 ## How can I contribute?
+
+Contact @lanalvai on Discord if you have any idea on improving the dictionary! You can also create an issue on this repo.
+
+For more specific ways of contributing:
+
 ### Suggest a quotation
 
 Fill out [this form](https://forms.gle/KrCL1XrArSncNFKQ9).
@@ -87,19 +92,20 @@ A Lojban word has its meaning encompass over different parts of speech in Englis
 - [lojban.io frequency list](https://github.com/jqueiroz/lojban.io/blob/master/resources/language/frequency-lists/MyFreq-COMB_without_dots.txt) for frequency data. Note that I've made adjustments to the frequency list so it suits my purposes more. I have no knowledge of the underlying corpus of the frequency list, and it would be great if someone can provide a more modern corpus/frequency list.
 ### Quote Sources
 Lojban texts with at least one quotation in this dictionary.
-- (10 quotes) roljbogu'e chatlog
-- (8 quotes) [Alice in Wonderland](https://mw.lojban.org/papri/lo_selfri_be_la_.alis._bei_bu%27u_la_selmacygu%27e) by Lewis Carroll, translation by la .xorxes.
+- (17 quotes) roljbogu'e chatlog
+- (9 quotes) [Alice in Wonderland](https://mw.lojban.org/papri/lo_selfri_be_la_.alis._bei_bu%27u_la_selmacygu%27e) by Lewis Carroll, translation by la .xorxes.
 - (8 quotes) [The Little Prince](https://mw.lojban.org/papri/le_cmalu_noltru) by Antoine de Saint-Exupéry, translation by la .xorxes.
-- (6 quotes) [The Egg](https://nalvai.neocities.org/translations/the-egg/) by Andy Weir, translation by la nalvai
+- (7 quotes) [The Egg](https://nalvai.neocities.org/translations/the-egg/) by Andy Weir, translation by la nalvai
+- (5 quotes) [la melbi e le ractu](https://lynn.github.io/la-melbi-e-le-ractu/) by la lalxu
 - (5 quotes) [The Wonderful Wizard of Oz](https://selpahi.de/oz_plain.html) by L. Frank Baum, translation by la solpa'i
-- (4 quotes) [la melbi e le ractu](https://lynn.github.io/la-melbi-e-le-ractu/) by la lalxu
+- (4 quotes) [Liang and the Magic Paintbrush](https://docs.google.com/spreadsheets/d/1_vkiwqOIOIJPqZTiomzd4ApUSEQXhEY6CeyZD_6c-PA/edit?gid=768225989#gid=768225989) by Demi, translation by la darsi
+- (4 quotes) [The Metamorphosis](https://mw.lojban.org/images/f/fc/lonubinxo.pdf) by Franz Kafka, translation by la .xorxes.
 - (4 quotes) [la nicte cadzu](https://mw.lojban.org/papri/Robin%27s_Palm_Writings:_la_nicte_cadzu) by Robin Lee Powell
+- (4 quotes) ["Official Lojban"](https://docs.google.com/spreadsheets/d/1_vkiwqOIOIJPqZTiomzd4ApUSEQXhEY6CeyZD_6c-PA/edit?gid=1862526252#gid=1862526252) by la uakci
 - (3 quotes) [Always With Me](https://vimeo.com/113232481) by Youmi Kimura, translation by la .guskant.
-- (3 quotes) [Liang and the Magic Paintbrush](https://docs.google.com/spreadsheets/d/1_vkiwqOIOIJPqZTiomzd4ApUSEQXhEY6CeyZD_6c-PA/edit?gid=768225989#gid=768225989) by Demi, translation by la darsi
-- (3 quotes) [The Metamorphosis](https://mw.lojban.org/images/f/fc/lonubinxo.pdf) by Franz Kafka, translation by la .xorxes.
 - (3 quotes) [la mu'e cuxna lo bradi](https://mw.lojban.org/papri/la_mu%27e_cuxna_lo_bradi) by la blutolpinxe
-- (3 quotes) ["Official Lojban"](https://docs.google.com/spreadsheets/d/1_vkiwqOIOIJPqZTiomzd4ApUSEQXhEY6CeyZD_6c-PA/edit?gid=1862526252#gid=1862526252) by la uakci
 - (3 quotes) [Still Alive](https://www.youtube.com/watch?v=hRrIioMA4w8) by Jonathan Coulton, translation by la solpa'i
+- (3 quotes) [za'o](https://www.youtube.com/watch?v=TKbFwr-1ZQ4) by Djemynai
 - (2 quotes) [Antarctica is getting greener](https://mw.lojban.org/papri/UserWiki:Ilmen/lo_ziptu%27a_ca%27o_zenba_lo_ka_crino) by Ryan Cross on <i>Science</i>, translation by la .ilmen. ([Original](https://www.science.org/content/article/antarctica-getting-greener))
 - (2 quotes) [Assessment of EGIDS Levels](https://nalvai.neocities.org/translations/egids-scale/) by M. Paul Lewis and Gary F. Simons, translation by la nalvai ([Original](https://www.lingv.ro/RRL%202%202010%20art01Lewis.pdf))
 - (2 quotes) [The Book](https://lojban.pw/en/texts/the-book/) by H. P. Lovecraft, translation by la gleki
@@ -108,9 +114,10 @@ Lojban texts with at least one quotation in this dictionary.
 - (2 quotes) [ku'i ba troci](https://www.youtube.com/watch?v=Y3apKaaBK5c) by Fyren
 - (2 quotes) [Lagtrain (short ver.)](https://www.youtube.com/watch?v=f_NJsM8dces) by inabakumori, translation by tetsusquared (la .tirprij.)
 - (2 quotes) [The Lay of the Land](https://www.youtube.com/watch?v=ViGGR231zvQ) by Worldbuilding Notes
+- (2 quotes) [letter song](https://www.youtube.com/watch?v=5r-JIZNGAMA) by doriko, translation by tetsusquared (la .tirprij.)
+- (2 quotes) [They're Made Out of Meat](https://mw.lojban.org/papri/ko%27a_marji_lo_rectu) by Terry Bisson, translation by Pierre Abbot
 - (2 quotes) [The Restaurant of Many Orders](https://docs.google.com/document/d/10Rnm80SieLrpFnk9kn_9bCuon96CNSPTA8hqVaWQYbQ/edit?tab=t.0) by Kenji Miyazawa, translation by la .tijlan.
 - (2 quotes) [sruri fa lo tarci](https://www.youtube.com/watch?v=xZlTA4hbY2o) by Noise and Bells (la janbe)
-- (2 quotes) [za'o](https://www.youtube.com/watch?v=TKbFwr-1ZQ4) by Djemynai
 - (1 quote) [Aisle](https://www.youtube.com/watch?v=GGoqNJjiun0) by Ibuki Tsubasa, translation by tetsusquared (la .tirprij.) ([Original](https://www.youtube.com/watch?v=9CNkjJo_Sjg))
 - (1 quote) [Amapola](https://vimeo.com/233808507) by José María Lacalle García, translation by la .guskant.
 - (1 quote) [Ĉarma Anomali’](https://www.youtube.com/watch?v=H5Bbg8HGkV0) by Noise and Bells, translation by tetsusquared (la .tirprij.) ([Original](https://www.youtube.com/watch?v=q05lSh5qfgk))
@@ -127,10 +134,8 @@ Lojban texts with at least one quotation in this dictionary.
 - (1 quote) [In a Grove](https://guskant.github.io/yabu/html5/jbopoho.html) by Ryūnosuke Akutagawa, translation by la .guskant.
 - (1 quote) [Jitter Doll](https://www.youtube.com/watch?v=kkCQibMbN2s) by niki, translation by tetsusquared (la .tirprij.)
 - (1 quote) [koi do mi na](https://meremim.bandcamp.com/album/koi-do-mi-na) by Mèremim
-- (1 quote) [letter song](https://www.youtube.com/watch?v=5r-JIZNGAMA) by doriko, translation by tetsusquared (la .tirprij.)
 - (1 quote) [The Library of Babel](https://mw.lojban.org/papri/la_ckuzda_pe_la_babel) by Jorge Luis Borges, translation by la .xorxes.
 - (1 quote) [The Lost One's Weeping](https://www.youtube.com/watch?v=9TA1-lVHAUM) by Neru, translation by tetsusquared (la .tirprij.)
-- (1 quote) [They're Made Out of Meat](https://mw.lojban.org/papri/ko%27a_marji_lo_rectu) by Terry Bisson, translation by Pierre Abbot
 - (1 quote) [lo mi jufra](https://www.youtube.com/watch?v=sLrmjRIMgAk) by la solpa'i
 - (1 quote) [ODDS&ENDS](https://www.youtube.com/watch?v=L65SWX6vbkw) by ryo, translation by tetsusquared (la .tirprij.)
 - (1 quote) [prami simbi'o](https://www.youtube.com/watch?v=g3BQ-pE7ypY) by Djemynai
@@ -142,4 +147,4 @@ Lojban texts with at least one quotation in this dictionary.
 - (1 quote) [ua langu](https://www.youtube.com/watch?v=h_avoX_Xl4I) by la solpa'i
 
 The quotes from roljbogu'e chatlog are from the following speakers:
-latkerlo, qimar, la nalvai, la lalxu, la lunbe, la samflir, evie, la janbe, la srasu.
+niftg, la janbe, la lalxu, la nalvai, la samflir, qimar, latkerlo, la lunbe, la bakre'u, la xrula, evie, la srasu.

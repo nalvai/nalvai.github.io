@@ -244,6 +244,14 @@
                                 "source": "The Lay of the Land",
                                 "author": "Worldbuilding Notes",
                                 "link": "https://www.youtube.com/watch?v=ViGGR231zvQ"
+                            },
+                            {
+                                "lojban": ".e'e ju'o ca le {{ba'e ca}} jeftu mi roldei tcidu ro se ciska be ro le mi jbope'o",
+                                "english": "{{<em>This</em>}} week, I definitely can read every day what all my Lojban friends have written!",
+                                "source-id": "rolj",
+                                "speaker": "latkerlo",
+                                "source": "roljbogu'e chatlog",
+                                "instance": 1
                             }
                         ]
                     }
@@ -275,7 +283,7 @@
                                 "source-id": "rolj",
                                 "speaker": "la nalvai",
                                 "source": "roljbogu'e chatlog",
-                                "instance": 1
+                                "instance": 2
                             },
                             {
                                 "lojban": ".i ku'i mu'a la'a cu'i so'o da {{co'a se bangu}}",
@@ -313,7 +321,7 @@
                                 "source-id": "rolj",
                                 "speaker": "la srasu",
                                 "source": "roljbogu'e chatlog",
-                                "instance": 2
+                                "instance": 3
                             }
                         ]
                     }
@@ -469,7 +477,7 @@
                     {
                         "context": "After a connective and a BAI modal",
                         "exp": "Binds the connective and the model so that the model signifies the relation between the connected elements. {{.i je BAI bo}} are similar in meaning to {{.i BAI bo}}, and the meanings of other connectives can inferred analogously.",
-                        "note": "This usage is not unique to {{bo}}, but common to grouping words like {{ke}} as well.",
+                        "note": "This usage is not unique to {{bo}}. Other grouping words like {{ke}} can also do this, but only those with {{bo}} are attested.",
                         "example": [
                             {
                                 "lojban": ".i ca ro dunra lo clika co'a dunja {{je ja'e bo}} sligu",
@@ -486,7 +494,7 @@
                     {
                         "context": "After a connective and a tense",
                         "exp": "Binds the connective and the tense so that the tense signifies the time relation between the connected elements. {{.i je TENSE bo}} are similar in meaning to {{.i TENSE bo}}, and the meanings of other connectives can inferred analogously.",
-                        "note": "This usage is not unique to {{bo}}, but common to grouping words like {{ke}} as well.",
+                        "note": "This usage is not unique to {{bo}}. Other grouping words like {{ke}} can also do this, but only those with {{bo}} are attested.",
                         "example": [
                             {
                                 "lojban": ".i loi sorska cinta ko fi ko'a cu se punji {{.i je ba bo}} loi xekri tabno ko'a gacri",
@@ -527,7 +535,7 @@
                                 "source-id": "rolj",
                                 "speaker": "latkerlo, la samflir",
                                 "source": "roljbogu'e chatlog",
-                                "instance": 3
+                                "instance": 4
                             },
                             {
                                 "lojban": "xu nai lo zekri poi .i'y gasnu ke'a cu {{cinri}} do",
@@ -536,7 +544,7 @@
                                 "speaker": "la lunbe",
                                 "note": "{{.i'y}} is a proposed cmavo equivalent to {{.i bu}}. Note that this example doesn't need {{jai}} because the x_1 of {{zekri}} is already an event",
                                 "source": "roljbogu'e chatlog",
-                                "instance": 4
+                                "instance": 5
                             },
                             {
                                 "lojban": ".i lo nu citka cu cizra {{cinri}} sy.",
@@ -910,10 +918,10 @@
                             },
                             {
                                 "lojban": ".i my. {{cusku}} lo se du'u my. manci catlu po'o lo mi melbi lerfu",
-                                "english": "She (my mother) said she was just marvelling at my beautiful [hand-written] letters.",
+                                "english": "She (my mother) said she was just marvelling at my beautiful handwriting.",
                                 "source-id": "rolj",
                                 "source": "roljbogu'e chatlog",
-                                "instance": 5
+                                "instance": 6
                             }
                         ]
                     }
@@ -1059,7 +1067,7 @@
                                 "speaker": "la janbe",
                                 "note": "The emoji and italics aren't standard parts of Lojban.",
                                 "source": "roljbogu'e chatlog",
-                                "instance": 6
+                                "instance": 7
                             },
                             {
                                 "lojban": "lo voksa nu cenba cu {{na drata}} lo se bilma be fi lo lenku",
@@ -1179,6 +1187,41 @@
                                 "source": "The Lay of the Land",
                                 "author": "Worldbuilding Notes",
                                 "link": "https://www.youtube.com/watch?v=ViGGR231zvQ",
+                                "instance": 1
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "good": true
+    },
+    {
+        "word": "ge'i",
+        "gloss": "Connective: forethought connective question",
+        "type": "cmavo",
+        "freq": "880",
+        "rank": "1455",
+        "tag": "favored",
+        "rafsi-cvc": null,
+        "rafsi-ccv": null,
+        "rafsi-cvv": null,
+        "definition": [
+            {
+                "selmaho": "GA",
+                "meaning": [
+                    {
+                        "exp": "Logical connective: all but tanru-internal forethought connective question. Asks the listener to supply a FLC that makes the containing statement true.",
+                        "note": "{{ga ji}} under JACU.",
+                        "example": [
+                            {
+                                "lojban": "ni'o xu lo prenu co vajni cu {{ge'i}} ca ranji lo nu kansa ku {{gi}} ve'u sepli do gi'e pu co'a cliva fi lo drata se litru",
+                                "english": "As for the people important [to you], do they continue to accompany you{{? Or}} are they now distant and separated from you, having departed via their own paths{{?}}",
+                                "source-id": "lett",
+                                "source": "letter song",
+                                "author": "doriko",
+                                "translator": "tetsusquared (la .tirprij.)",
+                                "link": "https://www.youtube.com/watch?v=5r-JIZNGAMA",
                                 "instance": 1
                             }
                         ]
@@ -1336,7 +1379,7 @@
                                 "speaker": "la srasu, evie",
                                 "note": "The middle sentence would be {{puzi <u>je'i</u> bazi}} under CLL Lojban.",
                                 "source": "roljbogu'e chatlog",
-                                "instance": 7
+                                "instance": 8
                             }
                         ]
                     }
@@ -1506,6 +1549,14 @@
                                 "author": "Zhuangzi",
                                 "translator": "geezmolycos",
                                 "link": "https://www.youtube.com/watch?v=FGY3awgABhU"
+                            },
+                            {
+                                "lojban": "ki'e .i mi {{kakne}} lo nu tcidu de'u kei lo nu na sidju",
+                                "english": "Thanks, I can read it without help.",
+                                "source-id": "rolj",
+                                "speaker": "la bakre'u",
+                                "source": "roljbogu'e chatlog",
+                                "instance": 9
                             },
                             {
                                 "lojban": ".i la'e di'u {{na se kakne}}",
@@ -1724,6 +1775,53 @@
         "good": true
     },
     {
+        "word": "melbi",
+        "gloss": "beautiful, pretty &mdash; to find beautiful, to find pretty &mdash; beautiful aspect &mdash; beauty standard",
+        "type": "gismu",
+        "freq": "34990",
+        "rank": "140",
+        "tag": "core-1",
+        "rafsi-cvc": "mel",
+        "rafsi-ccv": "mle",
+        "rafsi-cvv": null,
+        "definition": [
+            {
+                "meaning": [
+                    {
+                        "exp": "x_1 is beautiful/pleasant to x_2 in aspect x_3 (ka) by aesthetic standard x_4.",
+                        "example": [
+                            {
+                                "lojban": "&mdash; .i grusi blanu ca .i {{melbi}} mi .i xu lo do tsani cu {{melbi}} do <br>&mdash; .i {{melbi}} mi lo ka dilnu claxu blanu",
+                                "english": "&mdash; It's grayish blue now. It's {{beautiful}} to me. Is your sky {{beautiful}} to you? <br>&mdash; It's {{beautiful}} to me in that it's blue without clouds.",
+                                "source-id": "rolj",
+                                "speaker": "la lunbe, niftg",
+                                "source": "roljbogu'e chatlog",
+                                "instance": 10
+                            },
+                            {
+                                "lojban": ".i pe'i ro bangu cu {{melbi fi da}}",
+                                "english": "I think every language {{is beautiful in some ways}}.",
+                                "source-id": "rolj",
+                                "speaker": "la xrula",
+                                "source": "roljbogu'e chatlog",
+                                "instance": 11
+                            },
+                            {
+                                "lojban": ".i ku'i mi {{se melbi}} le do ganto'a sai voksa",
+                                "english": "But I {{find}} your very deep voice {{beautiful}}.",
+                                "source-id": "rolj",
+                                "speaker": "la janbe",
+                                "source": "roljbogu'e chatlog",
+                                "instance": 12
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "good": true
+    },
+    {
         "word": "mutce",
         "gloss": "extreme, much, very &mdash; an extreme property",
         "type": "gismu",
@@ -1765,7 +1863,7 @@
                                 "speaker": "la nalvai",
                                 "note": "To be overwhelmed = To feel an extreme emotion",
                                 "source": "roljbogu'e chatlog",
-                                "instance": 8
+                                "instance": 13
                             }
                         ]
                     }
@@ -1966,6 +2064,49 @@
         "good": true
     },
     {
+        "word": "simsa",
+        "gloss": "similar, to be similar to ... &mdash; what x<sub>1</sub> is similar to &mdash; similarity, commonality",
+        "type": "gismu",
+        "freq": "36250",
+        "rank": "133",
+        "tag": "core-1",
+        "rafsi-cvc": null,
+        "rafsi-ccv": "smi",
+        "rafsi-cvv": null,
+        "definition": [
+            {
+                "meaning": [
+                    {
+                        "exp": "x_1 is similar/parallel to x_2 in property/quantity x_3 (ka/ni); x_1 looks/appears like x_2.",
+                        "example": [
+                            {
+                                "lojban": ".i xu ko'a {{simsa}} lo .orfolei lo ka tabyselcmu pensi gi'e farvi fo lo rectu",
+                                "english": "Are they {{like}} the orfolei? [You know,] a carbon-based intelligence that goes through a meat stage?",
+                                "source-id": "made",
+                                "source": "They're Made Out of Meat",
+                                "author": "Terry Bisson",
+                                "translator": "Pierre Abbot",
+                                "link": "https://mw.lojban.org/papri/ko%27a_marji_lo_rectu",
+                                "instance": 1
+                            },
+                            {
+                                "lojban": ".i mu'i bo ca da do binxo {{lo simsa be mi}}",
+                                "english": "Because one day, you'll become {{like me}}.",
+                                "source-id": "eggq",
+                                "source": "The Egg",
+                                "author": "Andy Weir",
+                                "translator": "la nalvai",
+                                "link": "https://nalvai.neocities.org/translations/the-egg/",
+                                "instance": 6
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "good": true
+    },
+    {
         "word": "sipna",
         "gloss": "to sleep, asleep",
         "type": "gismu",
@@ -2020,6 +2161,77 @@
                                 "author": "H△G",
                                 "translator": "tetsusquared (la .tirprij.)",
                                 "link": "https://www.youtube.com/watch?v=GjG2vtMOI7c"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "good": true
+    },
+    {
+        "word": "smuni",
+        "gloss": "meaning, interpretation &mdash; (of an expression, of an event...) to mean, to be taken as ... &mdash; to interpret",
+        "type": "gismu",
+        "freq": "34390",
+        "rank": "142",
+        "tag": "core-1",
+        "rafsi-cvc": "mun",
+        "rafsi-ccv": "smu",
+        "rafsi-cvv": null,
+        "definition": [
+            {
+                "meaning": [
+                    {
+                        "exp": "x_1 is a meaning/interpretation of x_2 recognized/seen/accepted by x_3.",
+                        "note": "x<sub>1</sub> is normally an abstraction (most commonly a {{du'u}}); x<sub>2</sub> takes a wide range of types, with texts, desctiption, abstractions all being attested.",
+                        "example": [
+                            {
+                                "lojban": ".i di'u zo'u ma {{smuni}} zo ta",
+                                "english": "What's {{the meaning of}} {ta} in the last sentence?",
+                                "source-id": "rolj",
+                                "speaker": "la nalvai",
+                                "source": "roljbogu'e chatlog",
+                                "instance": 14
+                            },
+                            {
+                                "lojban": ".i ru'a lo'u do cinmo ma doi ro do le'u {{se djica jai smuni}}",
+                                "english": "I assume \"do cinmo ma doi ro do\" {{is what [you] want it to mean}}.",
+                                "source-id": "rolj",
+                                "speaker": "la janbe",
+                                "note": "The {{jai}} raises the quote, {{lo'u do cinmo ma doi ro do le'u}}, into an abstraction so it can go into the x<sub>1</sub> place.",
+                                "source": "roljbogu'e chatlog",
+                                "instance": 15
+                            },
+                            {
+                                "lojban": ".i lo du'u da de natfe cu {{se smuni}} lo du'u da o nai de ka'e jetnu",
+                                "english": "\"A contradicts B\" {{means}} only one of A and B can be true.",
+                                "source-id": "alic",
+                                "note": "This sentence is localized from the original text, so it doesn't match literally to the original.",
+                                "source": "Alice in Wonderland",
+                                "author": "Lewis Carroll",
+                                "translator": "la .xorxes.",
+                                "link": "https://mw.lojban.org/papri/lo_selfri_be_la_.alis._bei_bu%27u_la_selmacygu%27e",
+                                "instance": 7
+                            },
+                            {
+                                "lojban": ".i la'e di'u cu {{se smuni}} lo barda mukti la .gregor.",
+                                "english": "It {{is taken as}} a great motivation by Gregor.",
+                                "source-id": "meta",
+                                "source": "The Metamorphosis",
+                                "author": "Franz Kafka",
+                                "translator": "la .xorxes.",
+                                "link": "https://mw.lojban.org/images/f/fc/lonubinxo.pdf",
+                                "instance": 3
+                            },
+                            {
+                                "lojban": ".i krinu lo nu mabla ja dukse {{te smuni}} noi je'u fasnu ma'i lo ma'a cecmu",
+                                "english": "This can lead to mis{{interpretation}} and/or over{{interpretation}} — and that is what happens in our community.",
+                                "source-id": "offi",
+                                "source": "\"Official Lojban\"",
+                                "author": "la uakci",
+                                "link": "https://docs.google.com/spreadsheets/d/1_vkiwqOIOIJPqZTiomzd4ApUSEQXhEY6CeyZD_6c-PA/edit?gid=1862526252#gid=1862526252",
+                                "instance": 2
                             }
                         ]
                     }
@@ -2134,7 +2346,7 @@
                                 "author": "Lewis Carroll",
                                 "translator": "la .xorxes.",
                                 "link": "https://mw.lojban.org/papri/lo_selfri_be_la_.alis._bei_bu%27u_la_selmacygu%27e",
-                                "instance": 7
+                                "instance": 8
                             },
                             {
                                 "lojban": ".i je ku'i ri {{se xamgu}} ju'o lo nu lo plini cu glare zenba",
@@ -2198,7 +2410,7 @@
                                 "source": "\"Official Lojban\"",
                                 "author": "la uakci",
                                 "link": "https://docs.google.com/spreadsheets/d/1_vkiwqOIOIJPqZTiomzd4ApUSEQXhEY6CeyZD_6c-PA/edit?gid=1862526252#gid=1862526252",
-                                "instance": 2
+                                "instance": 3
                             },
                             {
                                 "lojban": "ca ku zo'u mi {{zgana}} co skina la andor",
@@ -2206,7 +2418,60 @@
                                 "source-id": "rolj",
                                 "speaker": "qimar",
                                 "source": "roljbogu'e chatlog",
-                                "instance": 9
+                                "instance": 16
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "good": true
+    },
+    {
+        "word": "zvati",
+        "gloss": "to be (present) at &mdash; place, location",
+        "type": "gismu",
+        "freq": "50660",
+        "rank": "100",
+        "tag": "core-1",
+        "rafsi-cvc": null,
+        "rafsi-ccv": "zva",
+        "rafsi-cvv": null,
+        "definition": [
+            {
+                "meaning": [
+                    {
+                        "exp": "x_1 (object/event) is at/attending/present at x_2 (event/location).",
+                        "note": "Although the definition allows x<sub>2</sub> to be an event, such usage is unseen.",
+                        "example": [
+                            {
+                                "lojban": "lo finpe cu {{zvati}} ma",
+                                "english": "Where {{are}} the fish?",
+                                "source-id": "lian",
+                                "source": "Liang and the Magic Paintbrush",
+                                "author": "Demi",
+                                "translator": "la darsi",
+                                "editor": "la gleki",
+                                "link": "https://docs.google.com/spreadsheets/d/1_vkiwqOIOIJPqZTiomzd4ApUSEQXhEY6CeyZD_6c-PA/edit?gid=768225989#gid=768225989",
+                                "instance": 3
+                            },
+                            {
+                                "lojban": ".i ca facki lo du'u pa ractu ku {{co'a zvati}} le kumfa",
+                                "english": "And now, they discovered that a rabbit {{had entered}} the room.",
+                                "source-id": "melb",
+                                "source": "la melbi e le ractu",
+                                "author": "la lalxu",
+                                "link": "https://lynn.github.io/la-melbi-e-le-ractu/",
+                                "instance": 4
+                            },
+                            {
+                                "lojban": ".i {{lo se zvati be mi}} cu tolmanku ze'i lo snidu",
+                                "english": "{{The place where I am}} lit up for a second.",
+                                "source-id": "zaho",
+                                "source": "za'o",
+                                "author": "Djemynai",
+                                "link": "https://www.youtube.com/watch?v=TKbFwr-1ZQ4",
+                                "instance": 2
                             }
                         ]
                     }
