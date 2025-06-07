@@ -3,7 +3,7 @@
 **NALVAI** is a Lojban dictionary that uses quotations from *real-world texts* as examples of usage. It currently contains **43 words** with [**114 quotations** from **53 Lojban texts**](https://github.com/nalvai/nalvai.github.io#sources). Please provide quotations and definitions to help the dictionary grow!
 
 Here is how a word look like in this dictionary:
-![The word a in this dictionary](https://nalvai.github.io/example_a.png)
+![The word a in this dictionary](https://raw.githubusercontent.com/nalvai/nalvai.github.io/refs/heads/master/example_a.png)
 
 [Browse the dictionary](https://nalvai.github.io)
 
