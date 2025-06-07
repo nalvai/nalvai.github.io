@@ -73,6 +73,7 @@
                 -english ― Hello Lojban friends, I'm sleeping (from a short distance in time from now) <br> ― To the past {{or}} to the future? <br> ― The latter, should be obvious now, haha.
                 -source-id rolj
                 -speaker la srasu, evie
+                -note The middle sentence would be {{puzi <u>je'i</u> bazi}} under CLL Lojban.
 
 -entry:
     -word ai
@@ -592,11 +593,11 @@
                 -source-id rolj
                 -speaker latkerlo, la samflir
             -example:
-                -lojban xu nai lo zekri poi .i bu gasnu ke'a cu {{cinri}} do 
+                -lojban xu nai lo zekri poi .i'y gasnu ke'a cu {{cinri}} do 
                 -english Doesn't the crime it ( = the word <b>ie'o</b>) caused {{interest}} you? 
                 -source-id rolj
                 -speaker la lunbe
-                -note This example doesn't need {{jai}} because the x_1 of {{zekri}} is already an event
+                -note {{.i'y}} is a proposed cmavo equivalent to {{.i bu}}. Note that this example doesn't need {{jai}} because the x_1 of {{zekri}} is already an event
             -example:
                 -lojban .i lo nu citka cu cizra {{cinri}} sy.
                 -english The (act of) eating is strangely {{interesting}} to her ( = Susan).
@@ -635,10 +636,11 @@
         -meaning:
             -exp x_1 isn't the-same-thing-as/is different-from/other-than x_2 by standard x_3; x_1 is something else.
             -example:
-                -lojban .i zo ratcu zo ractu cu {{drata}}
-                -english "ratcu" and "ractu" {{are different}}. 
+                -lojban .i zo ra<i>tc</i>u 🐀  zo ra<i>ct</i>u 🐇 cu {{drata}} 😉
+                -english "ra<i>tc</i>u" 🐀 and "ra<i>ct</i>u" 🐇 {{are different}} 😉 
                 -source-id rolj
                 -speaker la janbe
+                -note The emoji and italics aren't standard parts of Lojban.
             -example:
                 -lojban lo voksa nu cenba cu {{na drata}} lo se bilma be fi lo lenku 
                 -english The change in his voice {{was no different from}} the sign of a cold. 
@@ -647,6 +649,101 @@
                 -lojban .i {{no drata be lo troci}} ka'e ba snada prenu
                 -english {{Nobody other than those who try}} can be a successful person.
                 -source-id tens
+
+-entry:
+    -word finti
+    -gloss to create, to author &mdash; creation &mdash; purpose of creation &mdash; inspiration
+    -type gismu
+    -definition:
+        -meaning:
+            -exp x_1 invents/creates/composes/authors x_2 for function/purpose x_3 from existing elements/ideas x_4.
+            -example:
+                -lojban .i mi {{finti}} le ti munje tu'a do po'o
+                -english I {{created}} this universe just for you. 
+                -source-id eggq
+            -example:
+                -lojban .i se ri'a bo mi {{finti fo ri}}
+                -english As a result, I {{created [them] based on it}}.
+                -source-id layo
+
+-entry:
+    -word gunka
+    -gloss to work on, worker &mdash; to be worked on, work &mdash; purpose, goal
+    -type gismu
+    -definition:
+        -meaning:
+            -exp x_1 [person] labors/works on/at x_2 [activity] with goal/objective x_3.
+            -note Place structure parallels {{zukte}}.
+            -example:
+                -lojban .i mi {{gunka}} lo se junri cuntu
+                -english I {{am working on}} serious matters!
+                -source-id litt
+            -example:
+                -lojban .i la .gregor. cu so'i roi tirna lo nu ra nau zanru {{lo se gunka be lo mensi}}
+                -english Gregor would often hear them say how they appreciated {{the work his sister was doing}}.
+                -source-id meta
+            -example:
+                -lojban .i la cmalu cu {{gunka}} fi tu'a lo cilylarcu
+                -english Tiny {{was working}} on her sewing.
+                -source-id clan
+                -note This sentence can be understood as "Tiny was working, so her sewing [can look good]" (implicit parts in brackets), putting the {{tu'a lo cilylarcu}} in the x_3 place. If the {{tu'a lo cilylarcu}} were in the x_2 place the sentence would mean something like "Tiny was working on [finishing] her sewing".
+            -example:
+                -lojban .i te zu'e lo nu snada {{lo mi te gunka}} kei no stuzi se mau ti maptiu
+                -english For achieving {{my goal}}, no places is better than here.
+                -source-id inag
+
+-entry:
+    -word jundi
+    -gloss to pay attention to, to mind, attentive &mdash; focus of attention
+    -type gismu
+    -definition:
+        -meaning:
+            -exp x_1 is attentive towards/attends/tends/pays attention to object/affair x_2.
+            -example:
+                -lojban .i ko {{jundi}} le mi selsa'a
+                -english {{Pay attention}} to my song!
+                -source-id guit
+            -example:
+                -lojban .i ca lo cabna cedra na prali fi lo nu {{na jundi}} tu'a lo bangu klesi
+                -english In the current times, there's no use in {{ignoring}} the dialects.
+                -source-id offi
+
+-entry:
+    -word kakne
+    -gloss to be able to &mdash; (of an event) possible, (an) ability &mdash; condition of possibility/ability 
+    -type gismu
+    -definition:
+        -meaning:
+            -exp x_1 is able to do/be/capable of doing/being x_2 (event/state) under conditions x_3 (event/state).
+            -example:
+                -lojban .i flegau fi lo kabri djacu lo kevna be lo kumfa .i lo tsiju cu {{kakne}} lo ka bloti kei lo ka go'i
+                -english Pour a cup of water into a depression in a room, then a seed can be a boat.
+                -source-id care
+                -note The first sentence is the condition of the second, as seen in the {{lo ka go'i}} as the second sentence's x_3.
+            -example:
+                -lojban .i la'e di'u {{na se kakne}}
+                -english That's {{impossible}}.
+                -source-id made
+            -example:
+                -lojban .i xy. nurgau xy. {{ta'i lo se kakne}}
+                -english They reassure themselves {{as best they can}}.
+                -source-id litt
+
+-entry:
+    -word klaku
+    -gloss to cry, to weep &mdash; tear &mdash; reason of crying, to be cried about
+    -type gismu
+    -definition:
+        -meaning:
+            -exp x_1 weeps/cries tears x_2 about/for reason x_3 (event/state).
+            -example:
+                -lojban .i se ki'u bo ro jabyboi cu binxo {{lo se klaku}}
+                -english And then the little bells are changed to {{tears}}.
+                -source-id litt
+            -example:
+                -lojban .i ko na {{klaku fi le marji}}
+                -english Don't {{cry for that material existence}}.
+                -source-id srur
 
 -entry:
     -word skari
@@ -826,14 +923,16 @@
                 -source-id alic
         -meaning:
             -context After a connective and a BAI modal 
-            -exp Expands 
+            -exp Binds the connective and the model so that the model signifies the relation between the connected elements. {{.i je BAI bo}} are similar in meaning to {{.i BAI bo}}, and the meanings of other connectives can inferred analogously.
+            -note This usage is not unique to {{bo}}, but common to grouping words like {{ke}} as well. 
             -example:
                 -lojban .i ca ro dunra lo clika co'a dunja {{je ja'e bo}} sligu
                 -english Every winter the moss freezes {{and becomes}} solid {{as a result}}.
                 -source-id anta
         -meaning:
             -context After a connective and a tense 
-            -exp Expands  
+            -exp Binds the connective and the tense so that the tense signifies the time relation between the connected elements. {{.i je TENSE bo}} are similar in meaning to {{.i TENSE bo}}, and the meanings of other connectives can inferred analogously.
+            -note This usage is not unique to {{bo}}, but common to grouping words like {{ke}} as well. 
             -example:
                 -lojban .i loi sorska cinta ko fi ko'a cu se punji {{.i je ba bo}} loi xekri tabno ko'a gacri
                 -english Paint it with colorful pigments, {{and soon enough}} it'll be covered in black charcoal.

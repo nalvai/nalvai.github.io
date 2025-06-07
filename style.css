@@ -12,8 +12,9 @@ body {
 
 #results div {
   margin-bottom: 1rem;
-  padding: 0.5rem;
-  border-radius: 4px;
+  padding-top: 0.5rem;
+  padding-right: 0.5rem;
+  padding-left: 0.5rem;
 }
 
 .entry {
@@ -31,6 +32,22 @@ body {
 
 .entry p {
   margin: 0.5em 0 0 1.5em;
+}
+
+.quotation {
+  background-color: #eee;
+  border-radius: 4px;
+  margin-top: 0.5em;
+  margin-left: 1.5em;
+}
+
+blockquote {
+  margin-left: 0;
+}
+
+.source {
+  text-align: right;
+  padding-bottom: 0.5rem;
 }
 
 .note {

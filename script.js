@@ -66,8 +66,19 @@ function highlightMatch(text, matchInfo) {
   return result;
 }
 
+function getHTMLLink(text, link){
+  let pre = "";
+  let post = "";
+  if (link !== undefined){
+    pre = `<a href="${link}">`;
+    post = `</a>`
+  }
+  return `${pre}${text}${post}`;
+}
+
 function generateQuoteElement(quote){
   const result = document.createElement('div');
+  result.setAttribute("class", "quotation");
 
   const quoteBody = document.createElement('blockquote');
   const quoteRaw = document.createElement('p');
@@ -80,22 +91,23 @@ function generateQuoteElement(quote){
   }
   result.appendChild(quoteBody);
 
-  const citation = document.createElement('p');
-  citation.innerHTML = `—<cite>${quote.source}</cite>`;
-  if (quote.author !== undefined) {
-    citation.innerHTML += ` by ${quote.author}`;
-  }
-  if (quote.translator !== undefined) {
-    citation.innerHTML += `, translated by ${quote.translator}`;
-  }
-  result.appendChild(citation);
-
   if (quote.note !== undefined) {
     const quoteNote = document.createElement('p');
     quoteNote.setAttribute("class", "note");
     quoteNote.innerHTML = quote.note.replaceAll("{{", "<b>").replaceAll("}}", "</b>");
     result.appendChild(quoteNote);
   }
+
+  const citation = document.createElement('p');
+  citation.setAttribute("class", "source");
+  citation.innerHTML = getHTMLLink(quote.source, quote.link);
+  if (quote.translator !== undefined) {
+    citation.innerHTML += `<br>` + getHTMLLink("Original", quote.originallink) + ` by ${quote.author}`;
+    citation.innerHTML += `<br>Translated by ${quote.translator}`;
+  } else if (quote.author !== undefined) {
+    citation.innerHTML += `<br>By ${quote.author}`;
+  } 
+  result.appendChild(citation);
 
   return result;
 }

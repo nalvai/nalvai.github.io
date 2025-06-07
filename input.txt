@@ -25132,19 +25132,6 @@
         -meaning:
             -exp attitudinal: happiness - unhappiness.
 -entry: 
-    -word u'imla
-    -gloss lolcat
-    -type fu'ivla
-    -freq 1
-    -rank 3286
-    -tag favored
-    -rafsi-cvc 
-    -rafsi-ccv 
-    -rafsi-cvv 
-    -definition:
-        -meaning:
-            -exp $x_1$ is a lolcat/picture of animal $x_2$ with humorous caption $x_3$.
--entry: 
     -word u'o
     -gloss courage
     -type cmavo
@@ -28327,50 +28314,20 @@
         -meaning:
             -exp letteral for z.
 -entry: 
-    -word mletca
+    -word jbocei
     -type 
-    -freq 1590
-    -rank 1112
+    -freq 1070
+    -rank 1342
     -tag common
     -rafsi
     -definition:
         -meaning:
             -exp <i>This word is not registered on jbovlaste.</i>
 -entry: 
-    -word xunplini
-    -type 
-    -freq 1080
-    -rank 1334
-    -tag common
-    -rafsi
-    -definition:
-        -meaning:
-            -exp <i>This word is not registered on jbovlaste.</i>
--entry: 
-    -word termu'eske
-    -type 
-    -freq 1640
-    -rank 1096
-    -tag common
-    -rafsi
-    -definition:
-        -meaning:
-            -exp <i>This word is not registered on jbovlaste.</i>
--entry: 
-    -word mlemencrekei
+    -word datru
     -type 
     -freq 950
     -rank 1406
-    -tag common
-    -rafsi
-    -definition:
-        -meaning:
-            -exp <i>This word is not registered on jbovlaste.</i>
--entry: 
-    -word cmocrida
-    -type 
-    -freq 1530
-    -rank 1141
     -tag common
     -rafsi
     -definition:
@@ -28387,6 +28344,16 @@
         -meaning:
             -exp <i>This word is not registered on jbovlaste.</i>
 -entry: 
+    -word jbocme
+    -type 
+    -freq 1510
+    -rank 1147
+    -tag common
+    -rafsi
+    -definition:
+        -meaning:
+            -exp <i>This word is not registered on jbovlaste.</i>
+-entry: 
     -word tolcre
     -type 
     -freq 1390
@@ -28397,30 +28364,10 @@
         -meaning:
             -exp <i>This word is not registered on jbovlaste.</i>
 -entry: 
-    -word sorta
+    -word mletca
     -type 
-    -freq 1160
-    -rank 1303
-    -tag common
-    -rafsi
-    -definition:
-        -meaning:
-            -exp <i>This word is not registered on jbovlaste.</i>
--entry: 
-    -word kajypla
-    -type 
-    -freq 980
-    -rank 1391
-    -tag common
-    -rafsi
-    -definition:
-        -meaning:
-            -exp <i>This word is not registered on jbovlaste.</i>
--entry: 
-    -word jbocei
-    -type 
-    -freq 1070
-    -rank 1342
+    -freq 1590
+    -rank 1112
     -tag common
     -rafsi
     -definition:
@@ -28437,26 +28384,6 @@
         -meaning:
             -exp <i>This word is not registered on jbovlaste.</i>
 -entry: 
-    -word zdakemkulgu'a
-    -type 
-    -freq 1420
-    -rank 1181
-    -tag common
-    -rafsi
-    -definition:
-        -meaning:
-            -exp <i>This word is not registered on jbovlaste.</i>
--entry: 
-    -word jbocme
-    -type 
-    -freq 1510
-    -rank 1147
-    -tag common
-    -rafsi
-    -definition:
-        -meaning:
-            -exp <i>This word is not registered on jbovlaste.</i>
--entry: 
     -word mafyxli
     -type 
     -freq 1110
@@ -28467,10 +28394,20 @@
         -meaning:
             -exp <i>This word is not registered on jbovlaste.</i>
 -entry: 
-    -word vlasisku
+    -word zdakemkulgu'a
     -type 
-    -freq 2660
-    -rank 866
+    -freq 1420
+    -rank 1181
+    -tag common
+    -rafsi
+    -definition:
+        -meaning:
+            -exp <i>This word is not registered on jbovlaste.</i>
+-entry: 
+    -word noltru
+    -type 
+    -freq 2100
+    -rank 967
     -tag common
     -rafsi
     -definition:
@@ -28487,10 +28424,50 @@
         -meaning:
             -exp <i>This word is not registered on jbovlaste.</i>
 -entry: 
-    -word zdaspoja
+    -word cmocrida
     -type 
-    -freq 1470
-    -rank 1163
+    -freq 1530
+    -rank 1141
+    -tag common
+    -rafsi
+    -definition:
+        -meaning:
+            -exp <i>This word is not registered on jbovlaste.</i>
+-entry: 
+    -word kajypla
+    -type 
+    -freq 980
+    -rank 1391
+    -tag common
+    -rafsi
+    -definition:
+        -meaning:
+            -exp <i>This word is not registered on jbovlaste.</i>
+-entry: 
+    -word vlasisku
+    -type 
+    -freq 2660
+    -rank 866
+    -tag common
+    -rafsi
+    -definition:
+        -meaning:
+            -exp <i>This word is not registered on jbovlaste.</i>
+-entry: 
+    -word termu'eske
+    -type 
+    -freq 1640
+    -rank 1096
+    -tag common
+    -rafsi
+    -definition:
+        -meaning:
+            -exp <i>This word is not registered on jbovlaste.</i>
+-entry: 
+    -word xunplini
+    -type 
+    -freq 1080
+    -rank 1334
     -tag common
     -rafsi
     -definition:
@@ -28517,20 +28494,30 @@
         -meaning:
             -exp <i>This word is not registered on jbovlaste.</i>
 -entry: 
-    -word datru
+    -word zdaspoja
     -type 
-    -freq 950
-    -rank 1406
+    -freq 1470
+    -rank 1163
     -tag common
     -rafsi
     -definition:
         -meaning:
             -exp <i>This word is not registered on jbovlaste.</i>
 -entry: 
-    -word noltru
+    -word sorta
     -type 
-    -freq 2100
-    -rank 967
+    -freq 1160
+    -rank 1303
+    -tag common
+    -rafsi
+    -definition:
+        -meaning:
+            -exp <i>This word is not registered on jbovlaste.</i>
+-entry: 
+    -word mlemencrekei
+    -type 
+    -freq 950
+    -rank 1406
     -tag common
     -rafsi
     -definition:

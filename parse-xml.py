@@ -64,7 +64,7 @@ with open("input.txt", "w", encoding="utf-8") as f:
         if score not in score_words:
             score_words[score] = []
         score_words[score].append(word.attrib["word"])
-        add_to_dictionary = word_freq.get(word.attrib["word"], 0) >= milestone_freq[3] or word_type == "cmavo" or word_type == "gismu" or ((word_type == "lujvo" or word_type == "fu'ivla" or word_type == "experimental gismu" or word_type == "experimental cmavo") and score >= 7 and len(word.attrib["word"]) <= 8)
+        add_to_dictionary = word_freq.get(word.attrib["word"], 0) >= milestone_freq[3] or word_type == "cmavo" or word_type == "gismu" or ((word_type == "lujvo" or word_type == "fu'ivla" or word_type == "experimental gismu" or word_type == "experimental cmavo") and score >= 7 and len(word.attrib["word"]) <= 15) and word.attrib["word"] not in ["u'imla", "gliglibau"]
         if add_to_dictionary:
             in_dict.add(word.attrib["word"])
             freq = word_freq.get(word.attrib["word"], 0)

@@ -67,6 +67,8 @@ with open("my-file.txt", "r", encoding="utf-8") as file:
 
 manual_data = parse_lines(lines)["entry"]
 
+speakers = set()
+
 sources = {}
 with open("sources.json", "r", encoding="utf-8") as file:
     sources = json.load(file)
@@ -85,6 +87,10 @@ def process_quotes(entry):
                         source = sources[index]
                         for attrib in source:
                             quote[attrib] = source[attrib]
+                        source["instance"] = source.get("instance", 0) + 1
+                        if "speaker" in quote:
+                            for speaker in quote["speaker"].split(","):
+                                speakers.add(speaker.strip())
                     else:
                         print(f"Warning: unsourced quote at {entry[word]}!")
                 result = True
@@ -117,3 +123,30 @@ with open("output.json", "w", encoding="utf-8") as json_file:
 print(f"{len(good_data)} words recorded")
 print(f"{quotes_total} quotes recorded")
 print("Conversion complete. Output saved to output.json.")
+
+source_order = list(sources)
+source_order.sort(key=lambda x: sources[x].get("instance", 0), reverse=True)
+for i in source_order:
+    source = sources[i]
+    if source.get("instance", 0) > 0:
+        to_print = "- "
+        if source["instance"] == 1:
+            to_print += "(1 quote) "
+        else:
+            to_print += f'({source["instance"]} quotes) ' 
+        if "link" in source:
+            to_print += f'[{source["source"]}]({source["link"]})'
+        else:
+            to_print += f'{source["source"]}'
+        if "author" in source:
+            to_print += f' by {source["author"]}'
+        if "translator" in source:
+            to_print += f', translation by {source["translator"]}'
+        if "originallink" in source:
+            to_print += f' ([Original]({source["originallink"]}))'
+        print(to_print)
+print("The quotes from roljbogu'e chatlog are from the following speakers: ")
+for s in speakers:
+    print(s, end=", ")
+
+
