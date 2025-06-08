@@ -1,6 +1,6 @@
 # NALVAI: Nalvai's Assemblage of Lojban Vocabulary Attestation Instances
 ## What is this?
-**NALVAI** is a Lojban dictionary that uses quotations from *real-world texts* as examples of usage. It currently contains **48 words** with [**131 quotations** from **53 Lojban texts**](https://github.com/nalvai/nalvai.github.io#sources). Please provide quotations and definitions to help the dictionary grow!
+**NALVAI** is a Lojban dictionary that uses quotations from *real-world texts* as examples of usage. It currently contains **53 words** with [**149 quotations** from **55 Lojban texts**](https://github.com/nalvai/nalvai.github.io#sources). Please provide quotations and definitions to help the dictionary grow!
 
 Here is how a word look like in this dictionary:
 ![The word a in this dictionary](https://raw.githubusercontent.com/nalvai/nalvai.github.io/refs/heads/master/example_a.png)
@@ -92,16 +92,16 @@ A Lojban word has its meaning encompass over different parts of speech in Englis
 - [lojban.io frequency list](https://github.com/jqueiroz/lojban.io/blob/master/resources/language/frequency-lists/MyFreq-COMB_without_dots.txt) for frequency data. Note that I've made adjustments to the frequency list so it suits my purposes more. I have no knowledge of the underlying corpus of the frequency list, and it would be great if someone can provide a more modern corpus/frequency list.
 ### Quote Sources
 Lojban texts with at least one quotation in this dictionary.
-- (17 quotes) roljbogu'e chatlog
-- (9 quotes) [Alice in Wonderland](https://mw.lojban.org/papri/lo_selfri_be_la_.alis._bei_bu%27u_la_selmacygu%27e) by Lewis Carroll, translation by la .xorxes.
+- (28 quotes) roljbogu'e chatlog
+- (10 quotes) [Alice in Wonderland](https://mw.lojban.org/papri/lo_selfri_be_la_.alis._bei_bu%27u_la_selmacygu%27e) by Lewis Carroll, translation by la .xorxes.
 - (9 quotes) [The Little Prince](https://mw.lojban.org/papri/le_cmalu_noltru) by Antoine de Saint-Exupéry, translation by la .xorxes.
-- (7 quotes) [The Egg](https://nalvai.neocities.org/translations/the-egg/) by Andy Weir, translation by la nalvai
+- (8 quotes) [The Egg](https://nalvai.neocities.org/translations/the-egg/) by Andy Weir, translation by la nalvai
+- (6 quotes) [la nicte cadzu](https://mw.lojban.org/papri/Robin%27s_Palm_Writings:_la_nicte_cadzu) by Robin Lee Powell
 - (5 quotes) [la melbi e le ractu](https://lynn.github.io/la-melbi-e-le-ractu/) by la lalxu
+- (5 quotes) ["Official Lojban"](https://docs.google.com/spreadsheets/d/1_vkiwqOIOIJPqZTiomzd4ApUSEQXhEY6CeyZD_6c-PA/edit?gid=1862526252#gid=1862526252) by la uakci
 - (5 quotes) [The Wonderful Wizard of Oz](https://selpahi.de/oz_plain.html) by L. Frank Baum, translation by la solpa'i
 - (4 quotes) [Liang and the Magic Paintbrush](https://docs.google.com/spreadsheets/d/1_vkiwqOIOIJPqZTiomzd4ApUSEQXhEY6CeyZD_6c-PA/edit?gid=768225989#gid=768225989) by Demi, translation by la darsi
 - (4 quotes) [The Metamorphosis](https://mw.lojban.org/images/f/fc/lonubinxo.pdf) by Franz Kafka, translation by la .xorxes.
-- (4 quotes) [la nicte cadzu](https://mw.lojban.org/papri/Robin%27s_Palm_Writings:_la_nicte_cadzu) by Robin Lee Powell
-- (4 quotes) ["Official Lojban"](https://docs.google.com/spreadsheets/d/1_vkiwqOIOIJPqZTiomzd4ApUSEQXhEY6CeyZD_6c-PA/edit?gid=1862526252#gid=1862526252) by la uakci
 - (3 quotes) [Always With Me](https://vimeo.com/113232481) by Youmi Kimura, translation by la .guskant.
 - (3 quotes) [la mu'e cuxna lo bradi](https://mw.lojban.org/papri/la_mu%27e_cuxna_lo_bradi) by la blutolpinxe
 - (3 quotes) [Still Alive](https://www.youtube.com/watch?v=hRrIioMA4w8) by Jonathan Coulton, translation by la solpa'i
@@ -132,6 +132,8 @@ Lojban texts with at least one quotation in this dictionary.
 - (1 quote) [Headphone Actor](https://www.youtube.com/watch?v=X7jXrgWeltw) by Jin, translation by tetsusquared (la .tirprij.)
 - (1 quote) [How the enemy came to Thlunrana](https://lojban.pw/en/texts/how-the-enemy-came-to-thlunrana/) by Lord Dunsany, translation by la gleki
 - (1 quote) [In a Grove](https://guskant.github.io/yabu/html5/jbopoho.html) by Ryūnosuke Akutagawa, translation by la .guskant.
+- (1 quote) jbobratca chatlog
+- (1 quote) [jbini canlu](https://www.youtube.com/watch?v=3aNGqujy-6s) by Noise and Bells (la janbe)
 - (1 quote) [Jitter Doll](https://www.youtube.com/watch?v=kkCQibMbN2s) by niki, translation by tetsusquared (la .tirprij.)
 - (1 quote) [koi do mi na](https://meremim.bandcamp.com/album/koi-do-mi-na) by Mèremim
 - (1 quote) [The Library of Babel](https://mw.lojban.org/papri/la_ckuzda_pe_la_babel) by Jorge Luis Borges, translation by la .xorxes.
@@ -146,5 +148,6 @@ Lojban texts with at least one quotation in this dictionary.
 - (1 quote) [Torinoko City](https://www.youtube.com/watch?v=Ar4On-u5vUk) by 40mP, translation by tetsusquared (la .tirprij.)
 - (1 quote) [ua langu](https://www.youtube.com/watch?v=h_avoX_Xl4I) by la solpa'i
 
-The quotes from roljbogu'e chatlog are from the following speakers:
-niftg, la janbe, la lalxu, la nalvai, la samflir, qimar, latkerlo, la lunbe, la bakre'u, la xrula, evie, la srasu.
+The quotes from roljbogu'e chatlog are from the following speakers (in no particular order):
+
+la janbe, dram, la samflir, la lunbe, la nalvai, la ilmen, la varik, Magnap, latkerlo, la evis, niftg, la srasu, la xrula, la nonselcme, la solpa'i, la bakre'u, Lucilla, qimar, yeet kitty, la ziren, la lalxu.

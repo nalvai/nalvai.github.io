@@ -2291,7 +2291,7 @@
                                 "lojban": "ni'o lo ka jinga nalka'e cu nalvai {{.i mu'i bo}} mi klama be tu mutce bo djica",
                                 "english": "It doesn't matter that I can't win, {{because}} I really want to go there.",
                                 "source-id": "aisl",
-                                "note": "The second {{bo}} in this example is of another usage.",
+                                "note": "The second {{bo}} in this example is of another usage (that inside a tanru).",
                                 "source": "Aisle",
                                 "author": "Ibuki Tsubasa",
                                 "translator": "tetsusquared (la .tirprij.)",
@@ -2350,6 +2350,12 @@
                                 "originallink": "https://www.youtube.com/watch?v=q05lSh5qfgk"
                             }
                         ]
+                    },
+                    {
+                        "context": "After plain {{.i}}",
+                        "variation": "zantufa",
+                        "exp": "Forms a sentence link along with {{.i}}. The resulting sentence link separates bridi, but doesn't reset bridi level. Multiple bridi separated with {{.i bo}} shares the same prenex.",
+                        "note": "The above explanation is taken from roljbogu'e chatlog, under said explanation {{.i bo}} is analogous to {{.i je}}. In actual usage, however, {{.i bo}} often resets bridi level, making {{.i ji'a}} a closer analogue."
                     }
                 ]
             }
@@ -4664,7 +4670,7 @@
     },
     {
         "word": "cilre",
-        "gloss": "learn",
+        "gloss": "to learn, learner &mdash; to be learned, facts learned &mdash; subject of learning &mdash; source of learning &mdash; learning method",
         "type": "gismu",
         "freq": "33520",
         "rank": "145",
@@ -4676,11 +4682,46 @@
             {
                 "meaning": [
                     {
-                        "exp": "$x_{1}$ learns $x_{2}$ (du'u) about subject $x_{3}$ from source $x_{4}$ (obj./event) by method $x_{5}$ (event/process)."
+                        "exp": "x_1 learns x_2 (du'u) about subject x_3 from source x_4 (obj./event) by method x_5 (event/process).",
+                        "example": [
+                            {
+                                "lojban": ".i mi {{cilre lo du'u ta'i ma kau zgipli lo flani kei}} mu'i lonu zdile",
+                                "english": "I'm {{learning how to play a flute}} for fun.",
+                                "source-id": "rolj",
+                                "speaker": "la ziren",
+                                "source": "roljbogu'e chatlog",
+                                "instance": 4
+                            },
+                            {
+                                "lojban": ".i mi ra'a {{cilre}} so'i da fo la lunbe ku noi .uinai cando do'e le jbogu'e ca",
+                                "english": "Related, I {{learned}} so much from Lunbe, who is now inactive in Lojbanistan :(",
+                                "source-id": "rolj",
+                                "speaker": "la janbe",
+                                "source": "roljbogu'e chatlog",
+                                "instance": 5
+                            },
+                            {
+                                "lojban": ".i mu'i ku so'i da pilno {{lo laldo ve cilre}} lo ka {{cilre fi lo catni lojbo}}",
+                                "english": "Because of it, many used {{old textbooks}} to {{learn the official Lojban}}.",
+                                "source-id": "offi",
+                                "source": "\"Official Lojban\"",
+                                "author": "la uakci",
+                                "link": "https://docs.google.com/spreadsheets/d/1_vkiwqOIOIJPqZTiomzd4ApUSEQXhEY6CeyZD_6c-PA/edit?gid=1862526252#gid=1862526252"
+                            },
+                            {
+                                "lojban": ".i se ni'i bo ji'a ka'e {{cilre fu lo nu finti lo daskycizda'u cmene}}",
+                                "english": "Which means (entails) that [you] can {{learn by making Pokémon names}}.",
+                                "source-id": "rolj",
+                                "speaker": "la nonselcme",
+                                "source": "roljbogu'e chatlog",
+                                "instance": 6
+                            }
+                        ]
                     }
                 ]
             }
-        ]
+        ],
+        "good": true
     },
     {
         "word": "cilta",
@@ -4924,7 +4965,7 @@
                                 "source-id": "rolj",
                                 "speaker": "latkerlo, la samflir",
                                 "source": "roljbogu'e chatlog",
-                                "instance": 4
+                                "instance": 7
                             },
                             {
                                 "lojban": "xu nai lo zekri poi .i'y gasnu ke'a cu {{cinri}} do",
@@ -4933,7 +4974,7 @@
                                 "speaker": "la lunbe",
                                 "note": "{{.i'y}} is a proposed cmavo equivalent to {{.i bu}}. Note that this example doesn't need {{jai}} because the x_1 of {{zekri}} is already an event",
                                 "source": "roljbogu'e chatlog",
-                                "instance": 5
+                                "instance": 8
                             },
                             {
                                 "lojban": ".i lo nu citka cu cizra {{cinri}} sy.",
@@ -6174,7 +6215,7 @@
     },
     {
         "word": "cnino",
-        "gloss": "new",
+        "gloss": "novelty, unfamiliar &mdash; to be unfamiliar with ...",
         "type": "gismu",
         "freq": "30990",
         "rank": "166",
@@ -6186,11 +6227,24 @@
             {
                 "meaning": [
                     {
-                        "exp": "$x_{1}$ is new/unfamiliar/novel to observer $x_{2}$ in feature $x_{3}$ (ka) by standard $x_{4}$; $x_{1}$ is a novelty."
+                        "exp": "x_1 is new/unfamiliar/novel to observer x_2 in feature x_3 (ka) by standard x_4; x_1 is a novelty.",
+                        "note": "I only found usages of x<sub>1</sub> and x<sub>2</sub> places.",
+                        "noshownote": "I found one usage of the x_3 place, but sadly the sentence has bracketing issues and I couldn't make sense of the sentence.",
+                        "example": [
+                            {
+                                "lojban": ".i zgadi fa lo nu cusku fi do fe lo du'u lo xrani mi {{na cnino}}",
+                                "english": "I really should tell you that the world's dangers {{are nothing new}} to me.",
+                                "source-id": "jbin",
+                                "source": "jbini canlu",
+                                "author": "Noise and Bells (la janbe)",
+                                "link": "https://www.youtube.com/watch?v=3aNGqujy-6s"
+                            }
+                        ]
                     }
                 ]
             }
-        ]
+        ],
+        "good": true
     },
     {
         "word": "cnisa",
@@ -7403,7 +7457,7 @@
                                 "english": "She (my mother) said she was just marvelling at my beautiful handwriting.",
                                 "source-id": "rolj",
                                 "source": "roljbogu'e chatlog",
-                                "instance": 6
+                                "instance": 9
                             }
                         ]
                     }
@@ -9600,7 +9654,7 @@
     },
     {
         "word": "drani",
-        "gloss": "correct",
+        "gloss": "correct, proper &mdash; aspect that x<sub>1</sub> is correct in &mdash; situation in which x<sub>1</sub> is correct  &mdash; standard of correctness",
         "type": "gismu",
         "freq": "31970",
         "rank": "157",
@@ -9612,11 +9666,61 @@
             {
                 "meaning": [
                     {
-                        "exp": "$x_{1}$ is correct/proper/right/perfect in property/aspect $x_{2}$ (ka) in situation $x_{3}$ by standard $x_{4}$."
+                        "exp": "x_1 is correct/proper/right/perfect in property/aspect x_2 (ka) in situation x_3 by standard x_4.",
+                        "note": "x<sub>1</sub> is normally not raised since the raised x<sub>1</sub> can just go to the x<sub>2</sub> place.",
+                        "example": [
+                            {
+                                "lojban": ".i ro da poi lijda cu {{drani lo da se steci}}",
+                                "english": "Every religion {{is right in its specific way}}.",
+                                "source-id": "eggq",
+                                "source": "The Egg",
+                                "author": "Andy Weir",
+                                "translator": "la nalvai",
+                                "link": "https://nalvai.neocities.org/translations/the-egg/",
+                                "instance": 1
+                            },
+                            {
+                                "lojban": "la .alis. pu jinvi lo du'u ju'o ta {{drani lo ka tadji lo nu tavla lo smacu}}",
+                                "english": "Alice thought that must {{be the right way of speaking to a mouse}}.",
+                                "source-id": "alic",
+                                "source": "Alice in Wonderland",
+                                "author": "Lewis Carroll",
+                                "translator": "la .xorxes.",
+                                "link": "https://mw.lojban.org/papri/lo_selfri_be_la_.alis._bei_bu%27u_la_selmacygu%27e",
+                                "instance": 4
+                            },
+                            {
+                                "lojban": ".i mi na ro roi {{drani lo ka djuno kei ja lo ka jinvi vau vau}} ta'o",
+                                "english": "I'm not always {{right in my knowledge or my opinion}}, by the way.",
+                                "source-id": "rolj",
+                                "speaker": "la ziren",
+                                "note": "This sentence is in JACU. To convert it to CLL Lojban, substitute {{ja}} with {{.a}}.",
+                                "source": "roljbogu'e chatlog",
+                                "instance": 10
+                            },
+                            {
+                                "lojban": ".i je mi na ralte le ci'artai {{poi drani fi zo'e}}",
+                                "english": "And I don't have the {{correct}} font {{for it}}.",
+                                "source-id": "rolj",
+                                "speaker": "yeet kitty",
+                                "source": "roljbogu'e chatlog",
+                                "instance": 11
+                            },
+                            {
+                                "lojban": "xu {{drani fo lo ka jbobau}}",
+                                "english": "Is it correct by Lojban standards?",
+                                "source-id": "rolj",
+                                "speaker": "dram",
+                                "note": "The type/usage of the \"by standard\" places are never specified or defined, rendering those places virtually useless. This sentence is a rare example of a \"by standard\" place being used.",
+                                "source": "roljbogu'e chatlog",
+                                "instance": 12
+                            }
+                        ]
                     }
                 ]
             }
-        ]
+        ],
+        "good": true
     },
     {
         "word": "drata",
@@ -9641,7 +9745,7 @@
                                 "speaker": "la janbe",
                                 "note": "The emoji and italics aren't standard parts of Lojban.",
                                 "source": "roljbogu'e chatlog",
-                                "instance": 7
+                                "instance": 13
                             },
                             {
                                 "lojban": "lo voksa nu cenba cu {{na drata}} lo se bilma be fi lo lenku",
@@ -10060,7 +10164,7 @@
                                 "author": "Andy Weir",
                                 "translator": "la nalvai",
                                 "link": "https://nalvai.neocities.org/translations/the-egg/",
-                                "instance": 1
+                                "instance": 2
                             },
                             {
                                 "lojban": ".i .ei mi pajni ji'u lo se zukte {{.e nai}} lo valsi",
@@ -10548,7 +10652,7 @@
     },
     {
         "word": "fanva",
-        "gloss": "translate",
+        "gloss": "to translate, translator &mdash; to be translated, original text &mdash; target language &mdash; source language &mdash; (a work of) translation",
         "type": "gismu",
         "freq": "33150",
         "rank": "148",
@@ -10560,11 +10664,42 @@
             {
                 "meaning": [
                     {
-                        "exp": "$x_{1}$ translates text/utterance $x_{2}$ to language $x_{3}$ from language $x_{4}$ with translation result $x_{5}$."
+                        "exp": "x_1 translates text/utterance x_2 to language x_3 from language x_4 with translation result x_5.",
+                        "example": [
+                            {
+                                "lojban": ".i .e'u nai cai la nicte cadzu ba mulno spogau lo se terpa {{da poi fanva dei lo na logji bangu}}",
+                                "english": "WARNING! Night Walker will bring complete destruction by something scary to {{those who translate this into a non-logical language.}}",
+                                "note": "Those who are keen on quantification will notice that this sentence uses existential quantification on {{da poi ...}}, which means if there are multiple translators, only \"at least one of them\" will be destroyed, instead of \"all\" which is suggested by the content of the text. (Such interpretation would be accomplished with universal quantification {{ro da poi ...}}). Actually, the {{da}} is being used here as a generic pronoun, which is a common usage in texts from the 2000s.",
+                                "source-id": "nict",
+                                "source": "la nicte cadzu",
+                                "author": "Robin Lee Powell",
+                                "link": "https://mw.lojban.org/papri/Robin%27s_Palm_Writings:_la_nicte_cadzu",
+                                "instance": 2
+                            },
+                            {
+                                "lojban": ".i mi na tcidu {{lo se fanva}} je cu mulno co kakne lo su'u jimpe fi {{lo xe fanva be fu do}}",
+                                "english": "I didn't read {{the original}}, and I can understand {{your translation}} completely.",
+                                "note": "This sentence is in JACU. To convert it to CLL Lojban, substitute {{je cu}} with {{gi'e}}.",
+                                "source-id": "rolj",
+                                "speaker": "la lunbe",
+                                "source": "roljbogu'e chatlog",
+                                "instance": 14
+                            },
+                            {
+                                "lojban": "ni'o xu ranji fa le nu na djuno lo du'u ma kau zabna lo ka ce'u zmiku {{lo nu fanva fi lo glibau fo la .lojban.}}",
+                                "english": "Are [you] still unsure what is preferable for automatically {{translating from Lojban to English}}?",
+                                "note": "The {{fo}} is not needed in this sentence.",
+                                "source-id": "rolj",
+                                "speaker": "la varik",
+                                "source": "roljbogu'e chatlog",
+                                "instance": 15
+                            }
+                        ]
                     }
                 ]
             }
-        ]
+        ],
+        "good": true
     },
     {
         "word": "fanza",
@@ -11384,7 +11519,7 @@
                                 "author": "Andy Weir",
                                 "translator": "la nalvai",
                                 "link": "https://nalvai.neocities.org/translations/the-egg/",
-                                "instance": 2
+                                "instance": 3
                             },
                             {
                                 "lojban": ".i se ri'a bo mi {{finti fo ri}}",
@@ -16175,7 +16310,7 @@
                                 "author": "Lewis Carroll",
                                 "translator": "la .xorxes.",
                                 "link": "https://mw.lojban.org/papri/lo_selfri_be_la_.alis._bei_bu%27u_la_selmacygu%27e",
-                                "instance": 4
+                                "instance": 5
                             }
                         ]
                     }
@@ -16192,10 +16327,10 @@
                                 "lojban": "― coi jbope'o mi'e zi sipna <br> ― puzi {{ji}} bazi <br> ― naje li'abu'o u'i",
                                 "english": "― Hello Lojban friends, I'm sleeping (from a short distance in time from now) <br> ― To the past {{or}} to the future? <br> ― The latter, should be obvious now, haha.",
                                 "source-id": "rolj",
-                                "speaker": "la srasu, evie",
+                                "speaker": "la srasu, la evis",
                                 "note": "The middle sentence would be {{puzi <u>je'i</u> bazi}} under CLL Lojban.",
                                 "source": "roljbogu'e chatlog",
-                                "instance": 8
+                                "instance": 16
                             }
                         ]
                     }
@@ -16515,7 +16650,7 @@
                                 "author": "Lewis Carroll",
                                 "translator": "la .xorxes.",
                                 "link": "https://mw.lojban.org/papri/lo_selfri_be_la_.alis._bei_bu%27u_la_selmacygu%27e",
-                                "instance": 5
+                                "instance": 6
                             },
                             {
                                 "lojban": ".i {{jimpe}} fi lo selcni .i .au kelci ne'i le xamsi pe'a",
@@ -16533,7 +16668,7 @@
                                 "source": "la nicte cadzu",
                                 "author": "Robin Lee Powell",
                                 "link": "https://mw.lojban.org/papri/Robin%27s_Palm_Writings:_la_nicte_cadzu",
-                                "instance": 2
+                                "instance": 3
                             }
                         ]
                     }
@@ -17466,7 +17601,8 @@
                                 "source-id": "offi",
                                 "source": "\"Official Lojban\"",
                                 "author": "la uakci",
-                                "link": "https://docs.google.com/spreadsheets/d/1_vkiwqOIOIJPqZTiomzd4ApUSEQXhEY6CeyZD_6c-PA/edit?gid=1862526252#gid=1862526252"
+                                "link": "https://docs.google.com/spreadsheets/d/1_vkiwqOIOIJPqZTiomzd4ApUSEQXhEY6CeyZD_6c-PA/edit?gid=1862526252#gid=1862526252",
+                                "instance": 1
                             }
                         ]
                     }
@@ -18030,11 +18166,11 @@
                             },
                             {
                                 "lojban": "ki'e .i mi {{kakne}} lo nu tcidu de'u kei lo nu na sidju",
-                                "english": "Thanks, I can read it without help.",
+                                "english": "Thanks, I {{can}} read it without help.",
                                 "source-id": "rolj",
                                 "speaker": "la bakre'u",
                                 "source": "roljbogu'e chatlog",
-                                "instance": 9
+                                "instance": 17
                             },
                             {
                                 "lojban": ".i la'e di'u {{na se kakne}}",
@@ -20578,7 +20714,7 @@
     },
     {
         "word": "la",
-        "gloss": "that named",
+        "gloss": "Article: the one(s) called...",
         "type": "cmavo",
         "freq": "648720",
         "rank": "6",
@@ -20591,11 +20727,55 @@
                 "selmaho": "LA",
                 "meaning": [
                     {
-                        "exp": "name descriptor: the one(s) called ... ; takes name or selbri description."
+                        "exp": "Name article. Converts a selbri, selecting its first argument, or any string of cmevla into a sumti.",
+                        "note": "The resulting expression refers specifically to an individual or individuals that the speaker has in mind and which the speaker names with the selbri or cmevla.",
+                        "example": [
+                            {
+                                "lojban": "coi {{la na'e vajni ku}} noi je'a vajni",
+                                "english": "Hello {{Not Important}}, who is indeed important!",
+                                "note": "\"Not Important\" is the name of the person greeted. Note the {{ku}} in this expression: it closes the selbri name. if the {{ku}} wasn't there the name selbri becomes {{na'e vajni noi je'a vajni}}, in which the relative clause becomes part of the name.",
+                                "source-id": "rolj",
+                                "speaker": "Lucilla",
+                                "source": "roljbogu'e chatlog",
+                                "instance": 18
+                            },
+                            {
+                                "lojban": "&mdash; .i ma jmina le jugbau jufra le kibypapri<br> &mdash; {{la .lukifer.kailus.delikatus.}} no'u {{la .yu'orb.}}",
+                                "english": "&mdash; Who added the Chiese sentences to the webpage?<br> &mdash; {{Lucifer Caelius Delicatus}} a.k.a. {{Yuorb}}",
+                                "note": "Specifically chosen to showcase cmevla chaining, where multiple cmevla in a row functions as a single name. Also note the answer parses differently in regards to CBM: with CBM {{.lukifer.kailus.delikatus. no'u la .yu'orb.}} is a name; without CBM {{no'u la .yu'orb.}} is a relative phrase of {{la .lukifer.kailus.delikatus.}} signifying the equivalence between them. Also note {{yu'orb}} is not a standard Lojban cmevla because of the {{y}}.",
+                                "source-id": "rolj",
+                                "speaker": "la nalvai, la ilmen",
+                                "source": "roljbogu'e chatlog",
+                                "instance": 19
+                            }
+                        ]
+                    },
+                    {
+                        "context": "when used with an inner quantifier",
+                        "variation": "CLL",
+                        "exp": "The inner quantifier signifies the number of the referents the speaker has in mind. If no explicit inner quantifier is supplied, it defaults to {{su'o}}.",
+                        "note": "{{la}} is seldom used with quantifiers."
+                    },
+                    {
+                        "context": "when used with an inner quantifier",
+                        "variation": "BPFK",
+                        "exp": "The inner quantifier is part of the name.",
+                        "note": "{{la}} is seldom used with quantifiers. The following example is the only instance of {{la}} with inner quantifier I found.",
+                        "example": [
+                            {
+                                "lojban": "mi pu finti {{la ze tadji pe lu mi prami do li'u}} te zu'e lo nu loi se cinri cu kakne lo ka troci lo ka smucpa",
+                                "english": "I authored {{Seven Ways to Say \"I Love You\"}} so that those interested can try to get its meaning.",
+                                "source-id": "jbob",
+                                "speaker": "la solpa'i",
+                                "note": "\"Seven Ways to Say 'I Love You'\" probably refers to <a href=\"https://pastebin.com/raw/qmE06Tm0\">a set of seven sentences in Toaq</a>. The quote is from June 2017, so the Toaq is supposedly not too distant from that.",
+                                "source": "jbobratca chatlog"
+                            }
+                        ]
                     }
                 ]
             }
-        ]
+        ],
+        "good": true
     },
     {
         "word": "la'a",
@@ -21547,7 +21727,7 @@
                                 "author": "Andy Weir",
                                 "translator": "la nalvai",
                                 "link": "https://nalvai.neocities.org/translations/the-egg/",
-                                "instance": 3
+                                "instance": 4
                             }
                         ]
                     }
@@ -22304,7 +22484,7 @@
                                 "author": "Andy Weir",
                                 "translator": "la nalvai",
                                 "link": "https://nalvai.neocities.org/translations/the-egg/",
-                                "instance": 4
+                                "instance": 5
                             }
                         ]
                     }
@@ -23657,7 +23837,7 @@
                                 "source-id": "rolj",
                                 "speaker": "la lunbe, niftg",
                                 "source": "roljbogu'e chatlog",
-                                "instance": 10
+                                "instance": 20
                             },
                             {
                                 "lojban": ".i pe'i ro bangu cu {{melbi fi da}}",
@@ -23665,7 +23845,7 @@
                                 "source-id": "rolj",
                                 "speaker": "la xrula",
                                 "source": "roljbogu'e chatlog",
-                                "instance": 11
+                                "instance": 21
                             },
                             {
                                 "lojban": ".i ku'i mi {{se melbi}} le do ganto'a sai voksa",
@@ -23673,7 +23853,7 @@
                                 "source-id": "rolj",
                                 "speaker": "la janbe",
                                 "source": "roljbogu'e chatlog",
-                                "instance": 12
+                                "instance": 22
                             }
                         ]
                     }
@@ -25305,7 +25485,7 @@
                                 "speaker": "la nalvai",
                                 "note": "To be overwhelmed = To feel an extreme emotion",
                                 "source": "roljbogu'e chatlog",
-                                "instance": 13
+                                "instance": 23
                             }
                         ]
                     }
@@ -26130,7 +26310,7 @@
                                 "author": "Lewis Carroll",
                                 "translator": "la .xorxes.",
                                 "link": "https://mw.lojban.org/papri/lo_selfri_be_la_.alis._bei_bu%27u_la_selmacygu%27e",
-                                "instance": 6
+                                "instance": 7
                             }
                         ]
                     }
@@ -28681,7 +28861,7 @@
                                 "source": "\"Official Lojban\"",
                                 "author": "la uakci",
                                 "link": "https://docs.google.com/spreadsheets/d/1_vkiwqOIOIJPqZTiomzd4ApUSEQXhEY6CeyZD_6c-PA/edit?gid=1862526252#gid=1862526252",
-                                "instance": 1
+                                "instance": 2
                             },
                             {
                                 "lojban": ".i ma ca sevzi {{te pilno}} le bangu",
@@ -29686,7 +29866,7 @@
                                 "author": "Andy Weir",
                                 "translator": "la nalvai",
                                 "link": "https://nalvai.neocities.org/translations/the-egg/",
-                                "instance": 5
+                                "instance": 6
                             }
                         ]
                     }
@@ -34051,7 +34231,7 @@
                                 "author": "Andy Weir",
                                 "translator": "la nalvai",
                                 "link": "https://nalvai.neocities.org/translations/the-egg/",
-                                "instance": 6
+                                "instance": 7
                             }
                         ]
                     }
@@ -34429,6 +34609,15 @@
                     {
                         "exp": "x_1 is/appears to be of color/hue x_2 as perceived/seen by x_3 under conditions x_4.",
                         "example": [
+                            {
+                                "lojban": "lo fagri cu na {{skari lo drani}}",
+                                "english": "The fire is not {{of the right color}}.",
+                                "source-id": "nict",
+                                "source": "la nicte cadzu",
+                                "author": "Robin Lee Powell",
+                                "link": "https://mw.lojban.org/papri/Robin%27s_Palm_Writings:_la_nicte_cadzu",
+                                "instance": 4
+                            },
                             {
                                 "lojban": ".i ju'o .ia ro prenu cu {{skari}} so'i melbi joi so'i fegli",
                                 "english": "I'm sure everyone's {{painted in colors}}, many beautiful and many ugly.",
@@ -34988,7 +35177,7 @@
                                 "source-id": "rolj",
                                 "speaker": "la nalvai",
                                 "source": "roljbogu'e chatlog",
-                                "instance": 14
+                                "instance": 24
                             },
                             {
                                 "lojban": ".i ru'a lo'u do cinmo ma doi ro do le'u {{se djica jai smuni}}",
@@ -34997,18 +35186,18 @@
                                 "speaker": "la janbe",
                                 "note": "The {{jai}} raises the quote, {{lo'u do cinmo ma doi ro do le'u}}, into an abstraction so it can go into the x<sub>1</sub> place.",
                                 "source": "roljbogu'e chatlog",
-                                "instance": 15
+                                "instance": 25
                             },
                             {
-                                "lojban": ".i lo du'u da de natfe cu {{se smuni}} lo du'u da o nai de ka'e jetnu",
+                                "lojban": ".i lo du'u da de natfe cu {{se smuni}} lo du'u da .o nai de ka'e jetnu",
                                 "english": "\"A contradicts B\" {{means}} only one of A and B can be true.",
                                 "source-id": "alic",
-                                "note": "This sentence is localized from the original text, so it doesn't match literally to the original.",
+                                "note": "This sentence is localized from the original text, so it doesn't match literally to the original. The {{da}} and {{de}} are being used as generic pronouns, which is a common usage in texts from the 2000s.",
                                 "source": "Alice in Wonderland",
                                 "author": "Lewis Carroll",
                                 "translator": "la .xorxes.",
                                 "link": "https://mw.lojban.org/papri/lo_selfri_be_la_.alis._bei_bu%27u_la_selmacygu%27e",
-                                "instance": 7
+                                "instance": 8
                             },
                             {
                                 "lojban": ".i la'e di'u cu {{se smuni}} lo barda mukti la .gregor.",
@@ -35027,7 +35216,7 @@
                                 "source": "\"Official Lojban\"",
                                 "author": "la uakci",
                                 "link": "https://docs.google.com/spreadsheets/d/1_vkiwqOIOIJPqZTiomzd4ApUSEQXhEY6CeyZD_6c-PA/edit?gid=1862526252#gid=1862526252",
-                                "instance": 2
+                                "instance": 3
                             }
                         ]
                     }
@@ -37549,7 +37738,7 @@
                                 "source": "la nicte cadzu",
                                 "author": "Robin Lee Powell",
                                 "link": "https://mw.lojban.org/papri/Robin%27s_Palm_Writings:_la_nicte_cadzu",
-                                "instance": 3
+                                "instance": 5
                             }
                         ]
                     }
@@ -41875,7 +42064,16 @@
                                 "author": "Lewis Carroll",
                                 "translator": "la .xorxes.",
                                 "link": "https://mw.lojban.org/papri/lo_selfri_be_la_.alis._bei_bu%27u_la_selmacygu%27e",
-                                "instance": 8
+                                "instance": 9
+                            },
+                            {
+                                "lojban": "{{xamgu fi}} lo nu drani lo ka lo slaka cu rilti",
+                                "english": "It's {{good in the sense that}} it scans properly.",
+                                "note": "\"scans properly\" = \"correct in that the syllables makes a rhythm\".",
+                                "source-id": "rolj",
+                                "speaker": "Magnap",
+                                "source": "roljbogu'e chatlog",
+                                "instance": 26
                             },
                             {
                                 "lojban": ".i je ku'i ri {{se xamgu}} ju'o lo nu lo plini cu glare zenba",
@@ -43927,7 +44125,7 @@
                                 "source": "\"Official Lojban\"",
                                 "author": "la uakci",
                                 "link": "https://docs.google.com/spreadsheets/d/1_vkiwqOIOIJPqZTiomzd4ApUSEQXhEY6CeyZD_6c-PA/edit?gid=1862526252#gid=1862526252",
-                                "instance": 3
+                                "instance": 4
                             },
                             {
                                 "lojban": "ca ku zo'u mi {{zgana}} co skina la andor",
@@ -43935,7 +44133,7 @@
                                 "source-id": "rolj",
                                 "speaker": "qimar",
                                 "source": "roljbogu'e chatlog",
-                                "instance": 16
+                                "instance": 27
                             }
                         ]
                     }

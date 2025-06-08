@@ -17,6 +17,45 @@ body {
   padding-left: 0.5rem;
 }
 
+.links-box {
+  display: flex;
+  width: stretch;
+  flex-direction: row;
+  margin-bottom: 1em;
+}
+
+.links-col {
+  display: flex;
+  width: stretch;
+  flex-direction: column;
+}
+
+.link {
+  width: stretch;
+  text-align: center;
+  padding: 0.5em;
+  padding-left: 1em;
+  padding-right: 1em;
+  margin: 0.5em;
+  border-radius: 2em;
+  text-decoration: none;
+}
+
+.github {
+  background-color: #eee;
+  color: #000;
+}
+
+.discord {
+  background-color: #5966f2;
+  color: #fff;
+}
+
+.forms {
+  background-color: #080;
+  color: #fff;
+}
+
 .entry {
   border-bottom: 1px solid #ccc;
   padding: 0.5em 0;

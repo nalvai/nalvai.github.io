@@ -72,7 +72,7 @@
                 -lojban ― coi jbope'o mi'e zi sipna <br> ― puzi {{ji}} bazi <br> ― naje li'abu'o u'i
                 -english ― Hello Lojban friends, I'm sleeping (from a short distance in time from now) <br> ― To the past {{or}} to the future? <br> ― The latter, should be obvious now, haha.
                 -source-id rolj
-                -speaker la srasu, evie
+                -speaker la srasu, la evis
                 -note The middle sentence would be {{puzi <u>je'i</u> bazi}} under CLL Lojban.
 
 -entry:
@@ -519,6 +519,12 @@
                 -english On the other hand, repeating {{is good}} for her (= Alice's) learning.
                 -source-id alic
             -example:
+                -lojban {{xamgu fi}} lo nu drani lo ka lo slaka cu rilti
+                -english It's {{good in the sense that}} it scans properly.
+                -note "scans properly" = "correct in that the syllables makes a rhythm".
+                -source-id rolj
+                -speaker Magnap
+            -example:
                 -lojban .i je ku'i ri {{se xamgu}} ju'o lo nu lo plini cu glare zenba
                 -english But it certainly {{benefits from}} the planet warming.
                 -source-id anta
@@ -727,7 +733,7 @@
                 -note The first sentence is the condition of the second, as seen in the {{lo ka go'i}} as the second sentence's x_3.
             -example:
                 -lojban ki'e .i mi {{kakne}} lo nu tcidu de'u kei lo nu na sidju
-                -english Thanks, I can read it without help.
+                -english Thanks, I {{can}} read it without help.
                 -source-id rolj
                 -speaker la bakre'u
             -example:
@@ -815,10 +821,10 @@
                 -speaker la janbe
                 -note The {{jai}} raises the quote, {{lo'u do cinmo ma doi ro do le'u}}, into an abstraction so it can go into the x<sub>1</sub> place.
             -example:
-                -lojban .i lo du'u da de natfe cu {{se smuni}} lo du'u da o nai de ka'e jetnu
+                -lojban .i lo du'u da de natfe cu {{se smuni}} lo du'u da .o nai de ka'e jetnu
                 -english "A contradicts B" {{means}} only one of A and B can be true.
                 -source-id alic
-                -note This sentence is localized from the original text, so it doesn't match literally to the original.
+                -note This sentence is localized from the original text, so it doesn't match literally to the original. The {{da}} and {{de}} are being used as generic pronouns, which is a common usage in texts from the 2000s.
             -example:
                 -lojban .i la'e di'u cu {{se smuni}} lo barda mukti la .gregor.
                 -english It {{is taken as}} a great motivation by Gregor.
@@ -854,6 +860,109 @@
                 -english {{The place where I am}} lit up for a second.
                 -source-id zaho
 
+
+-entry:
+    -word cilre
+    -gloss to learn, learner &mdash; to be learned, facts learned &mdash; subject of learning &mdash; source of learning &mdash; learning method
+    -type gismu
+    -definition:
+        -meaning:
+            -exp x_1 learns x_2 (du'u) about subject x_3 from source x_4 (obj./event) by method x_5 (event/process).
+            -example:
+                -lojban .i mi {{cilre lo du'u ta'i ma kau zgipli lo flani kei}} mu'i lonu zdile
+                -english I'm {{learning how to play a flute}} for fun.
+                -source-id rolj
+                -speaker la ziren
+            -example:
+                -lojban .i mi ra'a {{cilre}} so'i da fo la lunbe ku noi .uinai cando do'e le jbogu'e ca
+                -english Related, I {{learned}} so much from Lunbe, who is now inactive in Lojbanistan :(
+                -source-id rolj
+                -speaker la janbe
+            -example:
+                -lojban .i mu'i ku so'i da pilno {{lo laldo ve cilre}} lo ka {{cilre fi lo catni lojbo}}
+                -english Because of it, many used {{old textbooks}} to {{learn the official Lojban}}.
+                -source-id offi
+            -example:
+                -lojban .i se ni'i bo ji'a ka'e {{cilre fu lo nu finti lo daskycizda'u cmene}}
+                -english Which means (entails) that [you] can {{learn by making Pokémon names}}.
+                -source-id rolj
+                -speaker la nonselcme
+
+-entry:
+    -word cnino
+    -gloss novelty, unfamiliar &mdash; to be unfamiliar with ... 
+    -type gismu
+    -definition:
+        -meaning:
+            -exp x_1 is new/unfamiliar/novel to observer x_2 in feature x_3 (ka) by standard x_4; x_1 is a novelty.
+            -note I only found usages of x<sub>1</sub> and x<sub>2</sub> places.
+            -noshownote I found one usage of the x_3 place, but sadly the sentence has bracketing issues and I couldn't make sense of the sentence.
+            -example:
+                -lojban .i zgadi fa lo nu cusku fi do fe lo du'u lo xrani mi {{na cnino}}
+                -english I really should tell you that the world's dangers {{are nothing new}} to me.
+                -source-id jbin
+
+-entry:
+    -word drani
+    -gloss correct, proper &mdash; aspect that x<sub>1</sub> is correct in &mdash; situation in which x<sub>1</sub> is correct  &mdash; standard of correctness
+    -type gismu
+    -definition:
+        -meaning:
+            -exp x_1 is correct/proper/right/perfect in property/aspect x_2 (ka) in situation x_3 by standard x_4.
+            -note x<sub>1</sub> is normally not raised since the raised x<sub>1</sub> can just go to the x<sub>2</sub> place.
+            -example:
+                -lojban .i ro da poi lijda cu {{drani lo da se steci}}
+                -english Every religion {{is right in its specific way}}.
+                -source-id eggq
+            -example:
+                -lojban la .alis. pu jinvi lo du'u ju'o ta {{drani lo ka tadji lo nu tavla lo smacu}}
+                -english Alice thought that must {{be the right way of speaking to a mouse}}.
+                -source-id alic
+            -example:
+                -lojban .i mi na ro roi {{drani lo ka djuno kei ja lo ka jinvi vau vau}} ta'o
+                -english I'm not always {{right in my knowledge or my opinion}}, by the way.
+                -source-id rolj
+                -speaker la ziren 
+                -note This sentence is in JACU. To convert it to CLL Lojban, substitute {{ja}} with {{.a}}.
+            -example:
+                -lojban .i je mi na ralte le ci'artai {{poi drani fi zo'e}}
+                -english And I don't have the {{correct}} font {{for it}}.
+                -source-id rolj
+                -speaker yeet kitty 
+            -example:
+                -lojban xu {{drani fo lo ka jbobau}}
+                -english Is it correct by Lojban standards?
+                -source-id rolj
+                -speaker dram 
+                -note The type/usage of the "by standard" places are never specified or defined, rendering those places virtually useless. This sentence is a rare example of a "by standard" place being used.
+
+-entry:
+    -word fanva
+    -gloss to translate, translator &mdash; to be translated, original text &mdash; target language &mdash; source language &mdash; (a work of) translation
+    -type gismu
+    -definition:
+        -meaning:
+            -exp x_1 translates text/utterance x_2 to language x_3 from language x_4 with translation result x_5.
+            -example:
+                -lojban .i .e'u nai cai la nicte cadzu ba mulno spogau lo se terpa {{da poi fanva dei lo na logji bangu}}
+                -english WARNING! Night Walker will bring complete destruction by something scary to {{those who translate this into a non-logical language.}}
+                -note Those who are keen on quantification will notice that this sentence uses existential quantification on {{da poi ...}}, which means if there are multiple translators, only "at least one of them" will be destroyed, instead of "all" which is suggested by the content of the text. (Such interpretation would be accomplished with universal quantification {{ro da poi ...}}). Actually, the {{da}} is being used here as a generic pronoun, which is a common usage in texts from the 2000s.
+                -source-id nict
+            -example:
+                -lojban .i mi na tcidu {{lo se fanva}} je cu mulno co kakne lo su'u jimpe fi {{lo xe fanva be fu do}}
+                -english I didn't read {{the original}}, and I can understand {{your translation}} completely.
+                -note This sentence is in JACU. To convert it to CLL Lojban, substitute {{je cu}} with {{gi'e}}.
+                -source-id rolj
+                -speaker la lunbe
+            -example:
+                -lojban ni'o xu ranji fa le nu na djuno lo du'u ma kau zabna lo ka ce'u zmiku {{lo nu fanva fi lo glibau fo la .lojban.}}
+                -english Are [you] still unsure what is preferable for automatically {{translating from Lojban to English}}?
+                -note The {{fo}} is not needed in this sentence.
+                -source-id rolj
+                -speaker la varik
+
+
+
 -entry:
     -word skari
     -gloss to be colored, to have color &mdash; color, hue &mdash; to preceive color
@@ -861,6 +970,10 @@
     -definition:
         -meaning:
             -exp x_1 is/appears to be of color/hue x_2 as perceived/seen by x_3 under conditions x_4.
+            -example:
+                -lojban lo fagri cu na {{skari lo drani}}
+                -english The fire is not {{of the right color}}.
+                -source-id nict
             -example:
                 -lojban .i ju'o .ia ro prenu cu {{skari}} so'i melbi joi so'i fegli
                 -english I'm sure everyone's {{painted in colors}}, many beautiful and many ugly.
@@ -1021,7 +1134,7 @@
                 -lojban ni'o lo ka jinga nalka'e cu nalvai {{.i mu'i bo}} mi klama be tu mutce bo djica
                 -english It doesn't matter that I can't win, {{because}} I really want to go there.
                 -source-id aisl
-                -note The second {{bo}} in this example is of another usage. 
+                -note The second {{bo}} in this example is of another usage (that inside a tanru). 
         -meaning:
             -context After {{.i}} and a tense 
             -exp Forms a sentence link along with {{.i}} and the tense. The resulting sentence link ({{.i TENSE bo}}) tags the latter bridi as a whole by the <strong><em>opposite</em></strong> of the tense, and incorporates it to the former (main) bridi. {{BRIDI<sub>1</sub> .i TENSE bo BRIDI<sub>2</sub>}} has a similar meaning to {{BRIDI<sub>2</sub> TENSE lo su'u BRIDI<sub>1</sub>}}, but {{.i TENSE bo}} also asserts that both the linked bridi are true.
@@ -1046,6 +1159,11 @@
                 -lojban .i loi sorska cinta ko fi ko'a cu se punji {{.i je ba bo}} loi xekri tabno ko'a gacri
                 -english Paint it with colorful pigments, {{and soon enough}} it'll be covered in black charcoal.
                 -source-id arma
+        -meaning:
+            -context After plain {{.i}}
+            -variation zantufa
+            -exp Forms a sentence link along with {{.i}}. The resulting sentence link separates bridi, but doesn't reset bridi level. Multiple bridi separated with {{.i bo}} shares the same prenex.
+            -note The above explanation is taken from roljbogu'e chatlog, under said explanation {{.i bo}} is analogous to {{.i je}}. In actual usage, however, {{.i bo}} often resets bridi level, making {{.i ji'a}} a closer analogue.
 
 
 -entry:
@@ -1098,6 +1216,45 @@
                 -english "My kids... my wife,{{"}} you said. "What about them?{{"}}
                 -source-id eggq
                 -note The entire sentence is grammatical, but becomes ungrammatical when split in half. 
+
+
+-entry:
+    -word la
+    -gloss Article: the one(s) called...
+    -type cmavo
+    -definition:
+        -selmaho LA
+        -meaning:
+            -exp Name article. Converts a selbri, selecting its first argument, or any string of cmevla into a sumti.
+            -note The resulting expression refers specifically to an individual or individuals that the speaker has in mind and which the speaker names with the selbri or cmevla.
+            -example:
+                -lojban coi {{la na'e vajni ku}} noi je'a vajni
+                -english Hello {{Not Important}}, who is indeed important!
+                -note "Not Important" is the name of the person greeted. Note the {{ku}} in this expression: it closes the selbri name. if the {{ku}} wasn't there the name selbri becomes {{na'e vajni noi je'a vajni}}, in which the relative clause becomes part of the name.
+                -source-id rolj
+                -speaker Lucilla
+            -example:
+                -lojban &mdash; .i ma jmina le jugbau jufra le kibypapri<br> &mdash; {{la .lukifer.kailus.delikatus.}} no'u {{la .yu'orb.}}
+                -english &mdash; Who added the Chiese sentences to the webpage?<br> &mdash; {{Lucifer Caelius Delicatus}} a.k.a. {{Yuorb}}
+                -note Specifically chosen to showcase cmevla chaining, where multiple cmevla in a row functions as a single name. Also note the answer parses differently in regards to CBM: with CBM {{.lukifer.kailus.delikatus. no'u la .yu'orb.}} is a name; without CBM {{no'u la .yu'orb.}} is a relative phrase of {{la .lukifer.kailus.delikatus.}} signifying the equivalence between them. Also note {{yu'orb}} is not a standard Lojban cmevla because of the {{y}}.
+                -source-id rolj
+                -speaker la nalvai, la ilmen
+        -meaning:
+            -context when used with an inner quantifier
+            -variation CLL
+            -exp The inner quantifier signifies the number of the referents the speaker has in mind. If no explicit inner quantifier is supplied, it defaults to {{su'o}}.
+            -note {{la}} is seldom used with quantifiers.
+        -meaning:
+            -context when used with an inner quantifier
+            -variation BPFK
+            -exp The inner quantifier is part of the name.
+            -note {{la}} is seldom used with quantifiers. The following example is the only instance of {{la}} with inner quantifier I found.
+            -example:
+                -lojban mi pu finti {{la ze tadji pe lu mi prami do li'u}} te zu'e lo nu loi se cinri cu kakne lo ka troci lo ka smucpa
+                -english I authored {{Seven Ways to Say "I Love You"}} so that those interested can try to get its meaning.
+                -source-id jbob
+                -speaker la solpa'i
+                -note "Seven Ways to Say 'I Love You'" probably refers to <a href="https://pastebin.com/raw/qmE06Tm0">a set of seven sentences in Toaq</a>. The quote is from June 2017, so the Toaq is supposedly not too distant from that. 
 
 
 -entry: 
