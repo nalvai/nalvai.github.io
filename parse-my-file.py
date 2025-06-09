@@ -113,6 +113,13 @@ for entry in automated_data:
             entry["good"] = True
             good_data.append(entry)
 
+contributors = {}
+for entry in good_data:
+    if "contributor" in entry:
+        c = entry["contributor"]
+        if c not in contributors:
+            contributors[c] = []
+        contributors[c].append(entry["word"])
 
 # Save to JSON
 with open("output_all.json", "w", encoding="utf-8") as json_file:
@@ -124,8 +131,8 @@ print(f"{len(good_data)} words recorded")
 print(f"{quotes_total} quotes recorded")
 print("Conversion complete. Output saved to output.json.")
 
-source_order = list(sources)
-source_order.sort(key=lambda x: sources[x].get("instance", 0), reverse=True)
+source_order = [x for x in sources if "instance" in sources[x] and sources[x]["instance"] > 0]
+source_order.sort(key=lambda x: sources[x]["instance"], reverse=True)
 for i in source_order:
     source = sources[i]
     if source.get("instance", 0) > 0:
@@ -145,8 +152,28 @@ for i in source_order:
         if "originallink" in source:
             to_print += f' ([Original]({source["originallink"]}))'
         print(to_print)
+print()
 print("The quotes from roljbogu'e chatlog are from the following speakers: ")
+print()
 for s in speakers:
     print(s, end=", ")
 
+print()
+print()
+print("Huge thanks to the following individuals who contributed to this project:")
+print()
+contributor_order = list(contributors)
+contributor_order.sort(key=lambda x: len(contributors[x]), reverse=True)
+for c in contributor_order:
+    to_print = f"- {c} "
+    if len(contributors[c]) == 1:
+        to_print += "(1 word): "
+    else:
+        to_print += f"({len(contributor[c])} words): "
+    for w in contributors[c]:
+        to_print += f"**{w}**, "
+    print(to_print[:-2] + ".")
+
+print()
+print(f"**NALVAI** is a Lojban dictionary that uses quotations from *real-world texts* as examples of usage. It currently contains **{len(good_data)} words** with [**{quotes_total} quotations** from **{len(source_order)} Lojban texts**](https://github.com/nalvai/nalvai.github.io#sources). Please provide quotations and definitions to help the dictionary grow!")
 

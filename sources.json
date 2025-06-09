@@ -72,6 +72,13 @@
         "author": "la .cogas.",
         "link": "https://soundcloud.com/cogas-iuk/sunday-10-38-pm"
     },
+    "cloc": {
+        "source": "The Clockmaker",
+        "author": "Robert Louis Stevenson",
+        "translator": "la .xorxes.",
+        "link": "https://mw.lojban.org/papri/le_junla_zbasu",        
+        "originallink": "https://en.wikisource.org/wiki/The_Clockmaker"
+    },
     "cmal": {
         "source": "lo cmalu",
         "author": "la solpa'i",
@@ -145,6 +152,11 @@
         "author": "niki",
         "translator": "tetsusquared (la .tirprij.)",
         "link": "https://www.youtube.com/watch?v=kkCQibMbN2s"
+    },
+    "kogl": {
+        "source": "ko gleki gau la cevni",
+        "author": "Noise and Bells (la janbe)",
+        "link": "https://www.youtube.com/watch?v=6swu1ESUw0E"
     },
     "koid": {
         "source": "koi do mi na",

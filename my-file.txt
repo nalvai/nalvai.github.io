@@ -9,6 +9,7 @@
         -selmaho A
         -meaning:
             -exp Logical connective: sumti afterthought or. Connects two sumti, such that the containing bridi is true if and only if it is true for at least one of the connected sumti.
+            -note Supplanted with {{ja}} in JACU.
             -example:
                 -lojban .i xu mi klama lo mu'a ceizda {{.a}} lo mu'a pacraistu
                 -english Do I go to, say, heaven {{or}} hell?
@@ -32,6 +33,7 @@
         -selmaho A
         -meaning:
             -exp Logical connective: sumti afterthought and. Connects two sumti, such that the containing bridi is true if and only if it is true for each of the connected sumti. 
+            -note Supplanted with {{je}} in JACU.
             -example:
                 -lojban .i po'o do {{.e}} mi zvati
                 -english Just you {{and}} me [are here].
@@ -608,7 +610,7 @@
                 -english Doesn't the crime it ( = the word <b>ie'o</b>) caused {{interest}} you? 
                 -source-id rolj
                 -speaker la lunbe
-                -note {{.i'y}} is a proposed cmavo equivalent to {{.i bu}}. Note that this example doesn't need {{jai}} because the x_1 of {{zekri}} is already an event
+                -note {{.i'y}} is a proposed cmavo equivalent to {{.i bu}}. Note that this example doesn't need {{jai}} because the x_1 of {{zekri}} is already an event.
             -example:
                 -lojban .i lo nu citka cu cizra {{cinri}} sy.
                 -english The (act of) eating is strangely {{interesting}} to her ( = Susan).
@@ -961,6 +963,34 @@
                 -source-id rolj
                 -speaker la varik
 
+-entry:
+    -word gasnu
+    -gloss to do, to bring about, (of a person, object) to cause &mdash; effect
+    -type gismu
+    -definition:
+        -meaning:
+            -exp x_1 [person/agent] is an agentive cause of event x_2; x_1 does/brings about x_2.
+            -note Despite the "[person/agent]" in the definition, the x<sub>1</sub> needs not be volitional (which distinguishes it from {{zukte}}), nor does it need to be animate. The x<sub>1</sub> is normally not an event, as the case of x<sub>1</sub> being an event is covered by {{rinka}}.
+            -example:
+                -lojban .i .io la cevni zo'u doi lo zvati be vi ti ko {{gasnu}} lo nu sance fa lo gleki si'azgi
+                -english To God on high, all you in this place, {{let}} hymns ring out in joyful chorus!
+                -source-id kogl
+            -example:
+                -lojban .i mulgau lo co'a {{se gasnu}}
+                -english ..., [and] complete what [we have] started {{to do}}.
+                -source-id tens
+            -example:
+                -lojban xu nai lo zekri {{poi .i'y gasnu ke'a}} cu cinri do 
+                -english Doesn't the crime {{it ( = the word <b>ie'o</b>) caused}} interest you? 
+                -source-id rolj
+                -speaker la lunbe
+                -note {{.i'y}} is a proposed cmavo equivalent to {{.i bu}}.
+            -example:
+                -lojban mi nelci lo'e gundi jibri .i ku'i ri {{tatpi gasnu}}
+                -english I like industrial jobs. But they {{are tiring}}.
+                -note This sentence showcase a common phenomenon of putting the effect in the seltau position of {{gasnu}}. In this sentence, {{tatpi gasnu}} is similar in meaning to {{gasnu lo nu tatpi}}. In such tanru formation, the x<sub>2</sub> of {{gasnu}} is usually left unfilled, and is assumed to be {{lo nu &lt;seltau&gt;}}.
+                -source-id rolj
+                -speaker qimar
 
 
 -entry:
@@ -983,6 +1013,33 @@
 
 
 
+
+-entry:
+    -word to
+    -gloss Text Structure: Open parenthesis
+    -type cmavo
+    -contributor la ninlat.
+    -definition:
+        -selmaho TO
+        -meaning:
+            -exp Opens a parenthetical note. The text inside must be grammatical Lojban. Terminate with {{toi}}.
+            -note The text inside contains additional information that isn't essential to the meaning of the sentence, but can still help. 
+            -example:
+                -lojban .i mi djuno ri'a lo su'u mi cmima le jatna kamni pe la logbau skejgu {{to la'o gy ~ The Loglan Institute ~ gy toi}}
+                -english I know, because I'm a member of the leader comitee associated with the science institute of Loglan {{([English] ~ The Loglan Institute ~)}}
+                -source-id rolj
+                -speaker la janbe
+            -example:
+                -lojban le mi bruna {{to se rirni le se rirni pe le mamta pe le mi mamta toi}} cu bilma
+                -english My brother, {{(my mother's mother's child's child)}} is ill.
+                -source-id rolj
+                -speaker la kanis
+                -note Note that the {{toi}} in this sentence is elidable, as the content in the parentheses cannot take the second selbri introduced by {{cu}}.
+            -example:
+                -lojban .i da'i {{to se va'u lo nu darlu toi}} lo jmive je pensi cu kakne lo nu zasti ze'o lo bitmu be lo botpi
+                -english ..., granting {{(for the sake of argument)}} that life and thought exist beyond the walls of the caraffe.
+                -source-id cloc
+                -note If the {{toi}} was elided in this sentence, the parentheses will automatically close just before the {{cu}}, for the same reason as in the previous example.
 
 
 

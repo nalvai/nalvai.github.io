@@ -15,6 +15,7 @@
                 "meaning": [
                     {
                         "exp": "Logical connective: sumti afterthought or. Connects two sumti, such that the containing bridi is true if and only if it is true for at least one of the connected sumti.",
+                        "note": "Supplanted with {{ja}} in JACU.",
                         "example": [
                             {
                                 "lojban": ".i xu mi klama lo mu'a ceizda {{.a}} lo mu'a pacraistu",
@@ -603,7 +604,7 @@
                                 "english": "Doesn't the crime it ( = the word <b>ie'o</b>) caused {{interest}} you?",
                                 "source-id": "rolj",
                                 "speaker": "la lunbe",
-                                "note": "{{.i'y}} is a proposed cmavo equivalent to {{.i bu}}. Note that this example doesn't need {{jai}} because the x_1 of {{zekri}} is already an event",
+                                "note": "{{.i'y}} is a proposed cmavo equivalent to {{.i bu}}. Note that this example doesn't need {{jai}} because the x_1 of {{zekri}} is already an event.",
                                 "source": "roljbogu'e chatlog",
                                 "instance": 8
                             },
@@ -1274,6 +1275,7 @@
                 "meaning": [
                     {
                         "exp": "Logical connective: sumti afterthought and. Connects two sumti, such that the containing bridi is true if and only if it is true for each of the connected sumti.",
+                        "note": "Supplanted with {{je}} in JACU.",
                         "example": [
                             {
                                 "lojban": ".i po'o do {{.e}} mi zvati",
@@ -1403,6 +1405,65 @@
                                 "author": "Worldbuilding Notes",
                                 "link": "https://www.youtube.com/watch?v=ViGGR231zvQ",
                                 "instance": 1
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "good": true
+    },
+    {
+        "word": "gasnu",
+        "gloss": "to do, to bring about, (of a person, object) to cause &mdash; effect",
+        "type": "gismu",
+        "freq": "27530",
+        "rank": "179",
+        "tag": "core-1",
+        "rafsi-cvc": null,
+        "rafsi-ccv": null,
+        "rafsi-cvv": "gau",
+        "definition": [
+            {
+                "meaning": [
+                    {
+                        "exp": "x_1 [person/agent] is an agentive cause of event x_2; x_1 does/brings about x_2.",
+                        "note": "Despite the \"[person/agent]\" in the definition, the x<sub>1</sub> needs not be volitional (which distinguishes it from {{zukte}}), nor does it need to be animate. The x<sub>1</sub> is normally not an event, as the case of x<sub>1</sub> being an event is covered by {{rinka}}.",
+                        "example": [
+                            {
+                                "lojban": ".i .io la cevni zo'u doi lo zvati be vi ti ko {{gasnu}} lo nu sance fa lo gleki si'azgi",
+                                "english": "To God on high, all you in this place, {{let}} hymns ring out in joyful chorus!",
+                                "source-id": "kogl",
+                                "source": "ko gleki gau la cevni",
+                                "author": "Noise and Bells (la janbe)",
+                                "link": "https://www.youtube.com/watch?v=6swu1ESUw0E"
+                            },
+                            {
+                                "lojban": ".i mulgau lo co'a {{se gasnu}}",
+                                "english": "..., [and] complete what [we have] started {{to do}}.",
+                                "source-id": "tens",
+                                "source": "tensaia",
+                                "author": "Djemynai",
+                                "link": "https://djemynai.bandcamp.com/album/tensaia",
+                                "instance": 1
+                            },
+                            {
+                                "lojban": "xu nai lo zekri {{poi .i'y gasnu ke'a}} cu cinri do",
+                                "english": "Doesn't the crime {{it ( = the word <b>ie'o</b>) caused}} interest you?",
+                                "source-id": "rolj",
+                                "speaker": "la lunbe",
+                                "note": "{{.i'y}} is a proposed cmavo equivalent to {{.i bu}}.",
+                                "source": "roljbogu'e chatlog",
+                                "instance": 16
+                            },
+                            {
+                                "lojban": "mi nelci lo'e gundi jibri .i ku'i ri {{tatpi gasnu}}",
+                                "english": "I like industrial jobs. But they {{are tiring}}.",
+                                "note": "This sentence showcase a common phenomenon of putting the effect in the seltau position of {{gasnu}}. In this sentence, {{tatpi gasnu}} is similar in meaning to {{gasnu lo nu tatpi}}. In such tanru formation, the x<sub>2</sub> of {{gasnu}} is usually left unfilled, and is assumed to be {{lo nu &lt;seltau&gt;}}.",
+                                "source-id": "rolj",
+                                "speaker": "qimar",
+                                "source": "roljbogu'e chatlog",
+                                "instance": 17
                             }
                         ]
                     }
@@ -1594,7 +1655,7 @@
                                 "speaker": "la srasu, la evis",
                                 "note": "The middle sentence would be {{puzi <u>je'i</u> bazi}} under CLL Lojban.",
                                 "source": "roljbogu'e chatlog",
-                                "instance": 16
+                                "instance": 18
                             }
                         ]
                     }
@@ -1772,7 +1833,7 @@
                                 "source-id": "rolj",
                                 "speaker": "la bakre'u",
                                 "source": "roljbogu'e chatlog",
-                                "instance": 17
+                                "instance": 19
                             },
                             {
                                 "lojban": ".i la'e di'u {{na se kakne}}",
@@ -1927,7 +1988,7 @@
                                 "source-id": "rolj",
                                 "speaker": "Lucilla",
                                 "source": "roljbogu'e chatlog",
-                                "instance": 18
+                                "instance": 20
                             },
                             {
                                 "lojban": "&mdash; .i ma jmina le jugbau jufra le kibypapri<br> &mdash; {{la .lukifer.kailus.delikatus.}} no'u {{la .yu'orb.}}",
@@ -1936,7 +1997,7 @@
                                 "source-id": "rolj",
                                 "speaker": "la nalvai, la ilmen",
                                 "source": "roljbogu'e chatlog",
-                                "instance": 19
+                                "instance": 21
                             }
                         ]
                     },
@@ -2077,7 +2138,7 @@
                                 "source-id": "rolj",
                                 "speaker": "la lunbe, niftg",
                                 "source": "roljbogu'e chatlog",
-                                "instance": 20
+                                "instance": 22
                             },
                             {
                                 "lojban": ".i pe'i ro bangu cu {{melbi fi da}}",
@@ -2085,7 +2146,7 @@
                                 "source-id": "rolj",
                                 "speaker": "la xrula",
                                 "source": "roljbogu'e chatlog",
-                                "instance": 21
+                                "instance": 23
                             },
                             {
                                 "lojban": ".i ku'i mi {{se melbi}} le do ganto'a sai voksa",
@@ -2093,7 +2154,7 @@
                                 "source-id": "rolj",
                                 "speaker": "la janbe",
                                 "source": "roljbogu'e chatlog",
-                                "instance": 22
+                                "instance": 24
                             }
                         ]
                     }
@@ -2144,7 +2205,7 @@
                                 "speaker": "la nalvai",
                                 "note": "To be overwhelmed = To feel an extreme emotion",
                                 "source": "roljbogu'e chatlog",
-                                "instance": 23
+                                "instance": 25
                             }
                         ]
                     }
@@ -2482,7 +2543,7 @@
                                 "source-id": "rolj",
                                 "speaker": "la nalvai",
                                 "source": "roljbogu'e chatlog",
-                                "instance": 24
+                                "instance": 26
                             },
                             {
                                 "lojban": ".i ru'a lo'u do cinmo ma doi ro do le'u {{se djica jai smuni}}",
@@ -2491,7 +2552,7 @@
                                 "speaker": "la janbe",
                                 "note": "The {{jai}} raises the quote, {{lo'u do cinmo ma doi ro do le'u}}, into an abstraction so it can go into the x<sub>1</sub> place.",
                                 "source": "roljbogu'e chatlog",
-                                "instance": 25
+                                "instance": 27
                             },
                             {
                                 "lojban": ".i lo du'u da de natfe cu {{se smuni}} lo du'u da .o nai de ka'e jetnu",
@@ -2573,6 +2634,60 @@
         "good": true
     },
     {
+        "word": "to",
+        "gloss": "Text Structure: Open parenthesis",
+        "type": "cmavo",
+        "freq": "101682",
+        "rank": "48",
+        "tag": "core-1",
+        "rafsi-cvc": null,
+        "rafsi-ccv": null,
+        "rafsi-cvv": null,
+        "definition": [
+            {
+                "selmaho": "TO",
+                "meaning": [
+                    {
+                        "exp": "Opens a parenthetical note. The text inside must be grammatical Lojban. Terminate with {{toi}}.",
+                        "note": "The text inside contains additional information that isn't essential to the meaning of the sentence, but can still help.",
+                        "example": [
+                            {
+                                "lojban": ".i mi djuno ri'a lo su'u mi cmima le jatna kamni pe la logbau skejgu {{to la'o gy ~ The Loglan Institute ~ gy toi}}",
+                                "english": "I know, because I'm a member of the leader comitee associated with the science institute of Loglan {{([English] ~ The Loglan Institute ~)}}",
+                                "source-id": "rolj",
+                                "speaker": "la janbe",
+                                "source": "roljbogu'e chatlog",
+                                "instance": 28
+                            },
+                            {
+                                "lojban": "le mi bruna {{to se rirni le se rirni pe le mamta pe le mi mamta toi}} cu bilma",
+                                "english": "My brother, {{(my mother's mother's child's child)}} is ill.",
+                                "source-id": "rolj",
+                                "speaker": "la kanis",
+                                "note": "Note that the {{toi}} in this sentence is elidable, as the content in the parentheses cannot take the second selbri introduced by {{cu}}.",
+                                "source": "roljbogu'e chatlog",
+                                "instance": 29
+                            },
+                            {
+                                "lojban": ".i da'i {{to se va'u lo nu darlu toi}} lo jmive je pensi cu kakne lo nu zasti ze'o lo bitmu be lo botpi",
+                                "english": "..., granting {{(for the sake of argument)}} that life and thought exist beyond the walls of the caraffe.",
+                                "source-id": "cloc",
+                                "note": "If the {{toi}} was elided in this sentence, the parentheses will automatically close just before the {{cu}}, for the same reason as in the previous example.",
+                                "source": "The Clockmaker",
+                                "author": "Robert Louis Stevenson",
+                                "translator": "la .xorxes.",
+                                "link": "https://mw.lojban.org/papri/le_junla_zbasu",
+                                "originallink": "https://en.wikisource.org/wiki/The_Clockmaker"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "contributor": "la ninlat.",
+        "good": true
+    },
+    {
         "word": "valsi",
         "gloss": "word, (of a word) to mean &mdash; meaning (of a word) &mdash; (of a language) to have a word for...",
         "type": "gismu",
@@ -2645,7 +2760,7 @@
                                 "source-id": "rolj",
                                 "speaker": "Magnap",
                                 "source": "roljbogu'e chatlog",
-                                "instance": 26
+                                "instance": 30
                             },
                             {
                                 "lojban": ".i je ku'i ri {{se xamgu}} ju'o lo nu lo plini cu glare zenba",
@@ -2717,7 +2832,7 @@
                                 "source-id": "rolj",
                                 "speaker": "qimar",
                                 "source": "roljbogu'e chatlog",
-                                "instance": 27
+                                "instance": 31
                             }
                         ]
                     }
