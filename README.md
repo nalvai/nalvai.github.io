@@ -150,7 +150,7 @@ Lojban texts with at least one quotation in this dictionary.
 - (1 quote) [Torinoko City](https://www.youtube.com/watch?v=Ar4On-u5vUk) by 40mP, translation by tetsusquared (la .tirprij.)
 - (1 quote) [ua langu](https://www.youtube.com/watch?v=h_avoX_Xl4I) by la solpa'i
 
-The quotes from roljbogu'e chatlog are from the following speakers (in no particular order):
+The quotes from chatlogs are from the following speakers (in no particular order):
 
 la nonselcme, Magnap, Lucilla, la ilmen, dram, latkerlo, la evis, la samflir, niftg, la kanis, la solpa'i, yeet kitty, la srasu, la nalvai, la lalxu, la varik, la xrula, qimar, la ziren, la janbe, la bakre'u, la lunbe.
 
