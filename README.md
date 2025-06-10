@@ -1,6 +1,6 @@
 # NALVAI: Nalvai's Assortment of Lojban Vocabulary Attestation Instances
 ## What is this?
-**NALVAI** is a Lojban dictionary that uses quotations from *real-world texts* as examples of usage. It currently contains **55 words** with [**156 quotations** from **57 Lojban texts**](https://github.com/nalvai/nalvai.github.io#sources). Please provide quotations and definitions to help the dictionary grow!
+**NALVAI** is a Lojban dictionary that uses quotations from *real-world texts* as examples of usage. It currently contains **56 words** with [**167 quotations** from **60 Lojban texts**](https://github.com/nalvai/nalvai.github.io#sources). Please provide quotations and definitions to help the dictionary grow!
 
 Here is how a word look like in this dictionary:
 ![The word a in this dictionary](https://raw.githubusercontent.com/nalvai/nalvai.github.io/refs/heads/master/example_a.png)
@@ -27,7 +27,7 @@ For more specific ways of contributing:
 Fill out [this form](https://forms.gle/KrCL1XrArSncNFKQ9).
 
 The text from which you obtained the quote should satisfy the following criteria:
-- It should be (more or less) complete. The Lojban text should be complete in and of itself. If it is a translation, this requirement can be relaxed slightly, but it should still contain a significant portion of the original text.
+- It should be from a (more or less) complete Lojban text. If it is a translation, this requirement can be relaxed slightly, but it should still contain a significant portion of the original text.
 - It should represent natural usage and not be contrived. Therefore, sentences from textbooks (e.g., Wave Lessons, "Learn Lojban") are excluded, as are sentences from Tatoeba because it's unclear whether they are genuine or were created solely to serve as usage examples.
 - It should be publicly accessible so that I and the reader can verify it and see it in its larger context. If the quote is from a song, a link to the audio is acceptable, but a link to the lyrics would be ideal.
 
@@ -92,7 +92,7 @@ A Lojban word has its meaning encompass over different parts of speech in Englis
 - [lojban.io frequency list](https://github.com/jqueiroz/lojban.io/blob/master/resources/language/frequency-lists/MyFreq-COMB_without_dots.txt) for frequency data. Note that I've made adjustments to the frequency list so it suits my purposes more. I have no knowledge of the underlying corpus of the frequency list, and it would be great if someone can provide a more modern corpus/frequency list.
 ### Quote Sources
 Lojban texts with at least one quotation in this dictionary.
-- (32 quotes) roljbogu'e chatlog
+- (37 quotes) roljbogu'e chatlog
 - (10 quotes) [Alice in Wonderland](https://mw.lojban.org/papri/lo_selfri_be_la_.alis._bei_bu%27u_la_selmacygu%27e) by Lewis Carroll, translation by la .xorxes.
 - (9 quotes) [The Little Prince](https://mw.lojban.org/papri/le_cmalu_noltru) by Antoine de Saint-Exupéry, translation by la .xorxes.
 - (8 quotes) [The Egg](https://nalvai.neocities.org/translations/the-egg/) by Andy Weir, translation by la nalvai
@@ -103,13 +103,14 @@ Lojban texts with at least one quotation in this dictionary.
 - (4 quotes) [Liang and the Magic Paintbrush](https://docs.google.com/spreadsheets/d/1_vkiwqOIOIJPqZTiomzd4ApUSEQXhEY6CeyZD_6c-PA/edit?gid=768225989#gid=768225989) by Demi, translation by la darsi
 - (4 quotes) [The Metamorphosis](https://mw.lojban.org/images/f/fc/lonubinxo.pdf) by Franz Kafka, translation by la .xorxes.
 - (3 quotes) [Always With Me](https://vimeo.com/113232481) by Youmi Kimura, translation by la .guskant.
+- (3 quotes) [clani kerlo](https://docs.google.com/spreadsheets/d/1_vkiwqOIOIJPqZTiomzd4ApUSEQXhEY6CeyZD_6c-PA/edit?gid=1296186733#gid=1296186733) by la fagri
+- (3 quotes) jbobratca chatlog
 - (3 quotes) [la mu'e cuxna lo bradi](https://mw.lojban.org/papri/la_mu%27e_cuxna_lo_bradi) by la blutolpinxe
 - (3 quotes) [Still Alive](https://www.youtube.com/watch?v=hRrIioMA4w8) by Jonathan Coulton, translation by la solpa'i
 - (3 quotes) [za'o](https://www.youtube.com/watch?v=TKbFwr-1ZQ4) by Djemynai
 - (2 quotes) [Antarctica is getting greener](https://mw.lojban.org/papri/UserWiki:Ilmen/lo_ziptu%27a_ca%27o_zenba_lo_ka_crino) by Ryan Cross on <i>Science</i>, translation by la .ilmen. ([Original](https://www.science.org/content/article/antarctica-getting-greener))
 - (2 quotes) [Assessment of EGIDS Levels](https://nalvai.neocities.org/translations/egids-scale/) by M. Paul Lewis and Gary F. Simons, translation by la nalvai ([Original](https://www.lingv.ro/RRL%202%202010%20art01Lewis.pdf))
 - (2 quotes) [The Book](https://lojban.pw/en/texts/the-book/) by H. P. Lovecraft, translation by la gleki
-- (2 quotes) [clani kerlo](https://docs.google.com/spreadsheets/d/1_vkiwqOIOIJPqZTiomzd4ApUSEQXhEY6CeyZD_6c-PA/edit?gid=1296186733#gid=1296186733) by la fagri
 - (2 quotes) [Little Things](https://mw.lojban.org/papri/little_Things) by Raymond Carver, translation by Jordan DeLong
 - (2 quotes) [ku'i ba troci](https://www.youtube.com/watch?v=Y3apKaaBK5c) by Fyren
 - (2 quotes) [Lagtrain (short ver.)](https://www.youtube.com/watch?v=f_NJsM8dces) by inabakumori, translation by tetsusquared (la .tirprij.)
@@ -123,6 +124,7 @@ Lojban texts with at least one quotation in this dictionary.
 - (1 quote) [Amapola](https://vimeo.com/233808507) by José María Lacalle García, translation by la .guskant.
 - (1 quote) [Ĉarma Anomali’](https://www.youtube.com/watch?v=H5Bbg8HGkV0) by Noise and Bells, translation by tetsusquared (la .tirprij.) ([Original](https://www.youtube.com/watch?v=q05lSh5qfgk))
 - (1 quote) [bai do](https://www.youtube.com/watch?v=fR-Z3h1Jsms) by Noise and Bells (la janbe)
+- (1 quote) [Calc.](https://www.youtube.com/watch?v=n4NhUEUvwew) by JimmyThumbP, translation by tetsusquared (la .tirprij.)
 - (1 quote) [Carefree Wandering (逍遙遊)](https://www.youtube.com/watch?v=FGY3awgABhU) by Zhuangzi, translation by geezmolycos
 - (1 quote) [claxu be do crisa](https://soundcloud.com/cogas-iuk/sunday-10-38-pm) by la .cogas.
 - (1 quote) [The Clockmaker](https://mw.lojban.org/papri/le_junla_zbasu) by Robert Louis Stevenson, translation by la .xorxes. ([Original](https://en.wikisource.org/wiki/The_Clockmaker))
@@ -134,25 +136,26 @@ Lojban texts with at least one quotation in this dictionary.
 - (1 quote) [Headphone Actor](https://www.youtube.com/watch?v=X7jXrgWeltw) by Jin, translation by tetsusquared (la .tirprij.)
 - (1 quote) [How the enemy came to Thlunrana](https://lojban.pw/en/texts/how-the-enemy-came-to-thlunrana/) by Lord Dunsany, translation by la gleki
 - (1 quote) [In a Grove](https://guskant.github.io/yabu/html5/jbopoho.html) by Ryūnosuke Akutagawa, translation by la .guskant.
-- (1 quote) jbobratca chatlog
 - (1 quote) [jbini canlu](https://www.youtube.com/watch?v=3aNGqujy-6s) by Noise and Bells (la janbe)
 - (1 quote) [Jitter Doll](https://www.youtube.com/watch?v=kkCQibMbN2s) by niki, translation by tetsusquared (la .tirprij.)
 - (1 quote) [ko gleki gau la cevni](https://www.youtube.com/watch?v=6swu1ESUw0E) by Noise and Bells (la janbe)
 - (1 quote) [koi do mi na](https://meremim.bandcamp.com/album/koi-do-mi-na) by Mèremim
 - (1 quote) [The Library of Babel](https://mw.lojban.org/papri/la_ckuzda_pe_la_babel) by Jorge Luis Borges, translation by la .xorxes.
+- (1 quote) [lo jbobau cu mo](https://www.youtube.com/watch?v=N-Y9eBBTrxU) by la solpa'i
 - (1 quote) [The Lost One's Weeping](https://www.youtube.com/watch?v=9TA1-lVHAUM) by Neru, translation by tetsusquared (la .tirprij.)
 - (1 quote) [lo mi jufra](https://www.youtube.com/watch?v=sLrmjRIMgAk) by la solpa'i
 - (1 quote) [ODDS&ENDS](https://www.youtube.com/watch?v=L65SWX6vbkw) by ryo, translation by tetsusquared (la .tirprij.)
 - (1 quote) [prami simbi'o](https://www.youtube.com/watch?v=g3BQ-pE7ypY) by Djemynai
 - (1 quote) [The Princess and the Pea](https://selpahi.de/dembi.html) by Hans Christian Andersen, translation by la solpa'i
 - (1 quote) [Re-Education](https://www.youtube.com/watch?v=XD6HKp77PbY) by Neru, translation by tetsusquared (la .tirprij.)
+- (1 quote) [Route Sphere](https://www.youtube.com/watch?v=4aDrH3wEUtQ) by Last Note., translation by tetsusquared (la .tirprij.)
 - (1 quote) [Snow White](https://selpahi.de/snimeblabi.html), translation by la solpa'i
 - (1 quote) [Torinoko City](https://www.youtube.com/watch?v=Ar4On-u5vUk) by 40mP, translation by tetsusquared (la .tirprij.)
 - (1 quote) [ua langu](https://www.youtube.com/watch?v=h_avoX_Xl4I) by la solpa'i
 
 The quotes from chatlogs are from the following speakers (in no particular order):
 
-la nonselcme, Magnap, Lucilla, la ilmen, dram, latkerlo, la evis, la samflir, niftg, la kanis, la solpa'i, yeet kitty, la srasu, la nalvai, la lalxu, la varik, la xrula, qimar, la ziren, la janbe, la bakre'u, la lunbe.
+\_4Denthusiast, la nalvai, Lucilla, latkerlo, la xrula, la kanis, dram, la srasu, la solpa'i, la nonselcme, la ziren, la samflir, qimar, la lunbe, la bakre'u, .kúblizel., la janbe, la ilmen, la lalxu, niftg, Magnap, yeet kitty, la melmi, la varik, la fagri, la evis,
 
 ## Credits
 

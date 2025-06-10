@@ -56,6 +56,12 @@
         "translator": "la gleki",
         "link": "https://lojban.pw/en/texts/the-book/"
     },
+    "calc": {
+        "source": "Calc.",
+        "author": "JimmyThumbP",
+        "translator": "tetsusquared (la .tirprij.)",
+        "link": "https://www.youtube.com/watch?v=n4NhUEUvwew"
+    },
     "care": {
         "source": "Carefree Wandering (逍遙遊)",
         "author": "Zhuangzi",
@@ -204,6 +210,11 @@
         "translator": "la .xorxes.",
         "link": "https://mw.lojban.org/papri/le_cmalu_noltru"
     },
+    "lojb": {
+        "source": "lo jbobau cu mo",
+        "author": "la solpa'i",
+        "link": "https://www.youtube.com/watch?v=N-Y9eBBTrxU"
+    },
     "lost": {
         "source": "The Lost One's Weeping",
         "author": "Neru",
@@ -278,6 +289,12 @@
     },
     "rolj": {
         "source": "roljbogu'e chatlog"
+    },
+    "rout": {
+        "source": "Route Sphere",
+        "author": "Last Note.",
+        "translator": "tetsusquared (la .tirprij.)",
+        "link": "https://www.youtube.com/watch?v=4aDrH3wEUtQ"
     },
     "snow": {
         "source": "Snow White",

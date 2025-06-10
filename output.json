@@ -44,6 +44,67 @@
                         ]
                     }
                 ]
+            },
+            {
+                "selmaho": "I",
+                "meaning": [
+                    {
+                        "variation": "ajbo",
+                        "exp": "Equivalent to {{.i pau}}. Starts a sentence that is by default a question.",
+                        "note": "Adopting ajbo prerequires adopting JACU. A sentence started with {{.a}} always contains a question marker ({{xu}}, {{ma}}, {{mo}} etc.)",
+                        "example": [
+                            {
+                                "lojban": "{{.a xu}} do pu zi mo'u gunka tu'a lo do jibri",
+                                "english": "Did you just finished your job{{?}}",
+                                "source-id": "rolj",
+                                "speaker": "la srasu",
+                                "source": "roljbogu'e chatlog"
+                            },
+                            {
+                                "lojban": "{{.anai}} la loglan cu jbobau xu .i na go'i ni'i loka lujvo {{.a xu}} ku'i la loglan cu lojbo bangu",
+                                "english": "Are Loglan Lojban{{?}} It's not because of the lujvo [structure]. But is Loglan some kind of Lojban-ic language{{?}}",
+                                "source-id": "rolj",
+                                "speaker": "la melmi",
+                                "note": "The first sentence seems to be a question where the speaker is expecting a negative answer, but it's hard to say for sure because there are no other instences of {{.anai}} in similar usage.",
+                                "source": "roljbogu'e chatlog",
+                                "instance": 1
+                            }
+                        ]
+                    },
+                    {
+                        "variation": "ajbo",
+                        "context": "~ {{nai}}",
+                        "exp": "Starts a response to a question.",
+                        "example": [
+                            {
+                                "lojban": "&mdash; .i nancaji li xo <br> &mdash; {{.anai}} reze",
+                                "english": "&mdash; How old are you (in years)? <br> &mdash; Twenty-seven.",
+                                "source-id": "rolj",
+                                "speaker": "la nonselcme, la srasu",
+                                "note": "The former sentence is compatible with CLL Lojban. The latter is in ajbo.",
+                                "source": "roljbogu'e chatlog",
+                                "instance": 2
+                            }
+                        ]
+                    },
+                    {
+                        "variation": "ajbo",
+                        "context": "~ {{nai}}",
+                        "exp": "Starts a rhetorical question.",
+                        "note": "This meaning is only attested once, making it a hapax. This usage is listed separately because this usage is mentioned (but not used) by other speakers.",
+                        "example": [
+                            {
+                                "lojban": "{{.anai}} la catra cu catra xu zo'o",
+                                "english": "Does \"Killer\" kill{{? /j}}",
+                                "source-id": "rolj",
+                                "note": "This is the only instance of {{.a nai}} being used as a rhetorical question starter.",
+                                "speaker": ".kúblizel.",
+                                "source": "roljbogu'e chatlog",
+                                "instance": 3
+                            }
+                        ]
+                    }
+                ]
             }
         ],
         "good": true
@@ -84,7 +145,8 @@
                                 "english": "― Just finished listening to the first 100 and am now taking a break. {{Unsure if}} I'll listen to the remaining 400.",
                                 "source-id": "rolj",
                                 "speaker": "la lalxu",
-                                "source": "roljbogu'e chatlog"
+                                "source": "roljbogu'e chatlog",
+                                "instance": 4
                             }
                         ]
                     },
@@ -252,7 +314,7 @@
                                 "source-id": "rolj",
                                 "speaker": "latkerlo",
                                 "source": "roljbogu'e chatlog",
-                                "instance": 1
+                                "instance": 5
                             }
                         ]
                     }
@@ -284,7 +346,7 @@
                                 "source-id": "rolj",
                                 "speaker": "la nalvai",
                                 "source": "roljbogu'e chatlog",
-                                "instance": 2
+                                "instance": 6
                             },
                             {
                                 "lojban": ".i ku'i mu'a la'a cu'i so'o da {{co'a se bangu}}",
@@ -322,7 +384,7 @@
                                 "source-id": "rolj",
                                 "speaker": "la srasu",
                                 "source": "roljbogu'e chatlog",
-                                "instance": 3
+                                "instance": 7
                             }
                         ]
                     }
@@ -346,7 +408,17 @@
                 "selmaho": "ZAhO",
                 "meaning": [
                     {
-                        "exp": "Retrospective/perfect: signifies that the event has already ended; already."
+                        "exp": "Retrospective/perfect: signifies that the event has already ended; already.",
+                        "example": [
+                            {
+                                "lojban": ".i lo jitro be lo te lanme {{ba'o}} cliva lo ra cmana",
+                                "english": "The shepherd of the flock {{has already}} left his hill.",
+                                "source-id": "lojb",
+                                "source": "lo jbobau cu mo",
+                                "author": "la solpa'i",
+                                "link": "https://www.youtube.com/watch?v=N-Y9eBBTrxU"
+                            }
+                        ]
                     },
                     {
                         "context": "When followed by a sumti",
@@ -542,7 +614,7 @@
                                 "source-id": "rolj",
                                 "speaker": "la ziren",
                                 "source": "roljbogu'e chatlog",
-                                "instance": 4
+                                "instance": 8
                             },
                             {
                                 "lojban": ".i mi ra'a {{cilre}} so'i da fo la lunbe ku noi .uinai cando do'e le jbogu'e ca",
@@ -550,7 +622,7 @@
                                 "source-id": "rolj",
                                 "speaker": "la janbe",
                                 "source": "roljbogu'e chatlog",
-                                "instance": 5
+                                "instance": 9
                             },
                             {
                                 "lojban": ".i mu'i ku so'i da pilno {{lo laldo ve cilre}} lo ka {{cilre fi lo catni lojbo}}",
@@ -566,7 +638,7 @@
                                 "source-id": "rolj",
                                 "speaker": "la nonselcme",
                                 "source": "roljbogu'e chatlog",
-                                "instance": 6
+                                "instance": 10
                             }
                         ]
                     }
@@ -597,7 +669,7 @@
                                 "source-id": "rolj",
                                 "speaker": "latkerlo, la samflir",
                                 "source": "roljbogu'e chatlog",
-                                "instance": 7
+                                "instance": 11
                             },
                             {
                                 "lojban": "xu nai lo zekri poi .i'y gasnu ke'a cu {{cinri}} do",
@@ -606,7 +678,7 @@
                                 "speaker": "la lunbe",
                                 "note": "{{.i'y}} is a proposed cmavo equivalent to {{.i bu}}. Note that this example doesn't need {{jai}} because the x_1 of {{zekri}} is already an event.",
                                 "source": "roljbogu'e chatlog",
-                                "instance": 8
+                                "instance": 12
                             },
                             {
                                 "lojban": ".i lo nu citka cu cizra {{cinri}} sy.",
@@ -1016,7 +1088,7 @@
                                 "english": "She (my mother) said she was just marvelling at my beautiful handwriting.",
                                 "source-id": "rolj",
                                 "source": "roljbogu'e chatlog",
-                                "instance": 9
+                                "instance": 13
                             }
                         ]
                     }
@@ -1183,7 +1255,7 @@
                                 "speaker": "la ziren",
                                 "note": "This sentence is in JACU. To convert it to CLL Lojban, substitute {{ja}} with {{.a}}.",
                                 "source": "roljbogu'e chatlog",
-                                "instance": 10
+                                "instance": 14
                             },
                             {
                                 "lojban": ".i je mi na ralte le ci'artai {{poi drani fi zo'e}}",
@@ -1191,7 +1263,7 @@
                                 "source-id": "rolj",
                                 "speaker": "yeet kitty",
                                 "source": "roljbogu'e chatlog",
-                                "instance": 11
+                                "instance": 15
                             },
                             {
                                 "lojban": "xu {{drani fo lo ka jbobau}}",
@@ -1200,7 +1272,7 @@
                                 "speaker": "dram",
                                 "note": "The type/usage of the \"by standard\" places are never specified or defined, rendering those places virtually useless. This sentence is a rare example of a \"by standard\" place being used.",
                                 "source": "roljbogu'e chatlog",
-                                "instance": 12
+                                "instance": 16
                             }
                         ]
                     }
@@ -1232,7 +1304,7 @@
                                 "speaker": "la janbe",
                                 "note": "The emoji and italics aren't standard parts of Lojban.",
                                 "source": "roljbogu'e chatlog",
-                                "instance": 13
+                                "instance": 17
                             },
                             {
                                 "lojban": "lo voksa nu cenba cu {{na drata}} lo se bilma be fi lo lenku",
@@ -1353,7 +1425,7 @@
                                 "source-id": "rolj",
                                 "speaker": "la lunbe",
                                 "source": "roljbogu'e chatlog",
-                                "instance": 14
+                                "instance": 18
                             },
                             {
                                 "lojban": "ni'o xu ranji fa le nu na djuno lo du'u ma kau zabna lo ka ce'u zmiku {{lo nu fanva fi lo glibau fo la .lojban.}}",
@@ -1362,7 +1434,100 @@
                                 "source-id": "rolj",
                                 "speaker": "la varik",
                                 "source": "roljbogu'e chatlog",
-                                "instance": 15
+                                "instance": 19
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "good": true
+    },
+    {
+        "word": "fi'e",
+        "gloss": "Preposition: created by...",
+        "type": "cmavo",
+        "freq": "2233",
+        "rank": "945",
+        "tag": "common",
+        "rafsi-cvc": null,
+        "rafsi-ccv": null,
+        "rafsi-cvv": null,
+        "definition": [
+            {
+                "selmaho": "BAI",
+                "meaning": [
+                    {
+                        "exp": "Created by ...; Introduces an unnumbered sumti that plays the role of {{finti}}'s x<sub>1</sub> in the sentence.",
+                        "note": "The event described by the bridi is normally associated with the creation of something, and that the creator is the referent of the tagged sumti. Often seen in titles to indicate the author of a text.",
+                        "example": [
+                            {
+                                "lojban": "ki'e {{jai fi'e}} mupli",
+                                "english": "Thanks, example-{{creator}}!",
+                                "source-id": "jbob",
+                                "speaker": "la fagri",
+                                "source": "jbobratca chatlog"
+                            },
+                            {
+                                "lojban": "clani kerlo {{fi'e}} la fagri",
+                                "english": "Long Ears, {{by}} Fagri",
+                                "source-id": "clan",
+                                "source": "clani kerlo",
+                                "author": "la fagri",
+                                "link": "https://docs.google.com/spreadsheets/d/1_vkiwqOIOIJPqZTiomzd4ApUSEQXhEY6CeyZD_6c-PA/edit?gid=1296186733#gid=1296186733"
+                            },
+                            {
+                                "lojban": ".i mi jinvi lo du'u so'i cnino zmadu zgike {{be fi'e mi}} cu zabna",
+                                "english": "I think many newer songs {{by me}} are nice.",
+                                "source-id": "rolj",
+                                "speaker": "la janbe",
+                                "source": "roljbogu'e chatlog",
+                                "instance": 20
+                            },
+                            {
+                                "lojban": ".i gidva ro da fa lo se platu {{be fi'e mi}}",
+                                "english": "{{My}} plans were guiding everything.",
+                                "source-id": "calc",
+                                "source": "Calc.",
+                                "author": "JimmyThumbP",
+                                "translator": "tetsusquared (la .tirprij.)",
+                                "link": "https://www.youtube.com/watch?v=n4NhUEUvwew"
+                            }
+                        ]
+                    },
+                    {
+                        "context": "{{se}} ~",
+                        "exp": "Creating work ...; Introduces an unnumbered sumti that plays the role of {{finti}}'s x<sub>2</sub> in the sentence.",
+                        "note": "The event described by the bridi is associated with the creation of the referent of the tagged sumti. {{se fi'e}} is unattested."
+                    },
+                    {
+                        "context": "{{te}} ~",
+                        "exp": "Creating with purpose ...; Introduces an unnumbered sumti that plays the role of {{finti}}'s x<sub>3</sub> in the sentence.",
+                        "note": "The event described by the bridi is associated with some event of creation, for a purpose indicated by the referent of the tagged sumti.",
+                        "example": [
+                            {
+                                "lojban": ".i pacna {{te fi'e}} po'o lo nu kulgu'a snada",
+                                "english": "I {{invented}} [dreams] merely {{in hopes of}} completing [my] homework.",
+                                "source-id": "rout",
+                                "source": "Route Sphere",
+                                "author": "Last Note.",
+                                "translator": "tetsusquared (la .tirprij.)",
+                                "link": "https://www.youtube.com/watch?v=4aDrH3wEUtQ"
+                            }
+                        ]
+                    },
+                    {
+                        "context": "{{ve}} ~",
+                        "exp": "Creating from ...; Introduces an unnumbered sumti that plays the role of {{finti}}'s x<sub>4</sub> in the sentence.",
+                        "note": "The event described by the bridi is associated with some event of creation, using pre-existing ideas or elements indicated by the referent of the tagged sumti.",
+                        "example": [
+                            {
+                                "lojban": "lo du'u nandu fa lo nu cusku lu'e lo smuni poi simsa zo javni ku'o {{vefi'e}} lo drata smuni cu nibli pe'i lo du'u le javni smuni cu xamgu zmadu",
+                                "english": "The difficulty in expressing something similar to \"javni\" {{from}} other meanings means that the official meaning is better IMO.",
+                                "source-id": "jbob",
+                                "speaker": "_4Denthusiast",
+                                "source": "jbobratca chatlog",
+                                "instance": 1
                             }
                         ]
                     }
@@ -1454,7 +1619,7 @@
                                 "speaker": "la lunbe",
                                 "note": "{{.i'y}} is a proposed cmavo equivalent to {{.i bu}}.",
                                 "source": "roljbogu'e chatlog",
-                                "instance": 16
+                                "instance": 21
                             },
                             {
                                 "lojban": "mi nelci lo'e gundi jibri .i ku'i ri {{tatpi gasnu}}",
@@ -1463,7 +1628,7 @@
                                 "source-id": "rolj",
                                 "speaker": "qimar",
                                 "source": "roljbogu'e chatlog",
-                                "instance": 17
+                                "instance": 22
                             }
                         ]
                     }
@@ -1488,7 +1653,7 @@
                 "meaning": [
                     {
                         "exp": "Logical connective: all but tanru-internal forethought connective question. Asks the listener to supply a FLC that makes the containing statement true.",
-                        "note": "{{ga ji}} under JACU.",
+                        "note": "Supplanted with {{ga ji}} in JACU.",
                         "example": [
                             {
                                 "lojban": "ni'o xu lo prenu co vajni cu {{ge'i}} ca ranji lo nu kansa ku {{gi}} ve'u sepli do gi'e pu co'a cliva fi lo drata se litru",
@@ -1592,7 +1757,8 @@
                                 "note": "This sentence can be understood as \"Tiny was working, so her sewing [can look good]\" (implicit parts in brackets), putting the {{tu'a lo cilylarcu}} in the x_3 place. If the {{tu'a lo cilylarcu}} were in the x_2 place the sentence would mean something like \"Tiny was working on [finishing] her sewing\".",
                                 "source": "clani kerlo",
                                 "author": "la fagri",
-                                "link": "https://docs.google.com/spreadsheets/d/1_vkiwqOIOIJPqZTiomzd4ApUSEQXhEY6CeyZD_6c-PA/edit?gid=1296186733#gid=1296186733"
+                                "link": "https://docs.google.com/spreadsheets/d/1_vkiwqOIOIJPqZTiomzd4ApUSEQXhEY6CeyZD_6c-PA/edit?gid=1296186733#gid=1296186733",
+                                "instance": 1
                             },
                             {
                                 "lojban": ".i te zu'e lo nu snada {{lo mi te gunka}} kei no stuzi se mau ti maptiu",
@@ -1655,7 +1821,7 @@
                                 "speaker": "la srasu, la evis",
                                 "note": "The middle sentence would be {{puzi <u>je'i</u> bazi}} under CLL Lojban.",
                                 "source": "roljbogu'e chatlog",
-                                "instance": 18
+                                "instance": 23
                             }
                         ]
                     }
@@ -1833,7 +1999,7 @@
                                 "source-id": "rolj",
                                 "speaker": "la bakre'u",
                                 "source": "roljbogu'e chatlog",
-                                "instance": 19
+                                "instance": 24
                             },
                             {
                                 "lojban": ".i la'e di'u {{na se kakne}}",
@@ -1988,7 +2154,7 @@
                                 "source-id": "rolj",
                                 "speaker": "Lucilla",
                                 "source": "roljbogu'e chatlog",
-                                "instance": 20
+                                "instance": 25
                             },
                             {
                                 "lojban": "&mdash; .i ma jmina le jugbau jufra le kibypapri<br> &mdash; {{la .lukifer.kailus.delikatus.}} no'u {{la .yu'orb.}}",
@@ -1997,7 +2163,7 @@
                                 "source-id": "rolj",
                                 "speaker": "la nalvai, la ilmen",
                                 "source": "roljbogu'e chatlog",
-                                "instance": 21
+                                "instance": 26
                             }
                         ]
                     },
@@ -2019,7 +2185,8 @@
                                 "source-id": "jbob",
                                 "speaker": "la solpa'i",
                                 "note": "\"Seven Ways to Say 'I Love You'\" probably refers to <a href=\"https://pastebin.com/raw/qmE06Tm0\">a set of seven sentences in Toaq</a>. The quote is from June 2017, so the Toaq is supposedly not too distant from that.",
-                                "source": "jbobratca chatlog"
+                                "source": "jbobratca chatlog",
+                                "instance": 2
                             }
                         ]
                     }
@@ -2138,7 +2305,7 @@
                                 "source-id": "rolj",
                                 "speaker": "la lunbe, niftg",
                                 "source": "roljbogu'e chatlog",
-                                "instance": 22
+                                "instance": 27
                             },
                             {
                                 "lojban": ".i pe'i ro bangu cu {{melbi fi da}}",
@@ -2146,7 +2313,7 @@
                                 "source-id": "rolj",
                                 "speaker": "la xrula",
                                 "source": "roljbogu'e chatlog",
-                                "instance": 23
+                                "instance": 28
                             },
                             {
                                 "lojban": ".i ku'i mi {{se melbi}} le do ganto'a sai voksa",
@@ -2154,7 +2321,7 @@
                                 "source-id": "rolj",
                                 "speaker": "la janbe",
                                 "source": "roljbogu'e chatlog",
-                                "instance": 24
+                                "instance": 29
                             }
                         ]
                     }
@@ -2205,7 +2372,7 @@
                                 "speaker": "la nalvai",
                                 "note": "To be overwhelmed = To feel an extreme emotion",
                                 "source": "roljbogu'e chatlog",
-                                "instance": 25
+                                "instance": 30
                             }
                         ]
                     }
@@ -2543,7 +2710,7 @@
                                 "source-id": "rolj",
                                 "speaker": "la nalvai",
                                 "source": "roljbogu'e chatlog",
-                                "instance": 26
+                                "instance": 31
                             },
                             {
                                 "lojban": ".i ru'a lo'u do cinmo ma doi ro do le'u {{se djica jai smuni}}",
@@ -2552,7 +2719,7 @@
                                 "speaker": "la janbe",
                                 "note": "The {{jai}} raises the quote, {{lo'u do cinmo ma doi ro do le'u}}, into an abstraction so it can go into the x<sub>1</sub> place.",
                                 "source": "roljbogu'e chatlog",
-                                "instance": 27
+                                "instance": 32
                             },
                             {
                                 "lojban": ".i lo du'u da de natfe cu {{se smuni}} lo du'u da .o nai de ka'e jetnu",
@@ -2614,7 +2781,7 @@
                                 "source": "clani kerlo",
                                 "author": "la fagri",
                                 "link": "https://docs.google.com/spreadsheets/d/1_vkiwqOIOIJPqZTiomzd4ApUSEQXhEY6CeyZD_6c-PA/edit?gid=1296186733#gid=1296186733",
-                                "instance": 1
+                                "instance": 2
                             },
                             {
                                 "lojban": "ni'o la .stefen. co'a sanga gi'e {{tavla}} fi lo nu litru vau la .gliban.",
@@ -2657,7 +2824,7 @@
                                 "source-id": "rolj",
                                 "speaker": "la janbe",
                                 "source": "roljbogu'e chatlog",
-                                "instance": 28
+                                "instance": 33
                             },
                             {
                                 "lojban": "le mi bruna {{to se rirni le se rirni pe le mamta pe le mi mamta toi}} cu bilma",
@@ -2666,7 +2833,7 @@
                                 "speaker": "la kanis",
                                 "note": "Note that the {{toi}} in this sentence is elidable, as the content in the parentheses cannot take the second selbri introduced by {{cu}}.",
                                 "source": "roljbogu'e chatlog",
-                                "instance": 29
+                                "instance": 34
                             },
                             {
                                 "lojban": ".i da'i {{to se va'u lo nu darlu toi}} lo jmive je pensi cu kakne lo nu zasti ze'o lo bitmu be lo botpi",
@@ -2760,7 +2927,7 @@
                                 "source-id": "rolj",
                                 "speaker": "Magnap",
                                 "source": "roljbogu'e chatlog",
-                                "instance": 30
+                                "instance": 35
                             },
                             {
                                 "lojban": ".i je ku'i ri {{se xamgu}} ju'o lo nu lo plini cu glare zenba",
@@ -2832,7 +2999,7 @@
                                 "source-id": "rolj",
                                 "speaker": "qimar",
                                 "source": "roljbogu'e chatlog",
-                                "instance": 31
+                                "instance": 36
                             }
                         ]
                     }

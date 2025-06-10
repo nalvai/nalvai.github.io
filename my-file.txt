@@ -21,6 +21,44 @@
                 -lojban .i ro da sutra fa'a {{la .alis.}} ca lo nu {{.a bu}} tolcanci
                 -english They all made a rush at {{Alice}} the moment {{she}} (= Alice) appeared.
                 -source-id alic
+    -definition:
+        -selmaho I
+        -meaning:
+            -variation ajbo
+            -exp Equivalent to {{.i pau}}. Starts a sentence that is by default a question.
+            -note Adopting ajbo prerequires adopting JACU. A sentence started with {{.a}} always contains a question marker ({{xu}}, {{ma}}, {{mo}} etc.) 
+            -example:
+                -lojban {{.a xu}} do pu zi mo'u gunka tu'a lo do jibri
+                -english Did you just finished your job{{?}}
+                -source-id rolj
+                -speaker la srasu
+            -example:
+                -lojban {{.anai}} la loglan cu jbobau xu .i na go'i ni'i loka lujvo {{.a xu}} ku'i la loglan cu lojbo bangu
+                -english Are Loglan Lojban{{?}} It's not because of the lujvo [structure]. But is Loglan some kind of Lojban-ic language{{?}}
+                -source-id rolj
+                -speaker la melmi
+                -note The first sentence seems to be a question where the speaker is expecting a negative answer, but it's hard to say for sure because there are no other instences of {{.anai}} in similar usage.
+        -meaning:
+            -variation ajbo
+            -context ~ {{nai}}
+            -exp Starts a response to a question.
+            -example:
+                -lojban &mdash; .i nancaji li xo <br> &mdash; {{.anai}} reze
+                -english &mdash; How old are you (in years)? <br> &mdash; Twenty-seven.
+                -source-id rolj
+                -speaker la nonselcme, la srasu
+                -note The former sentence is compatible with CLL Lojban. The latter is in ajbo.
+        -meaning:
+            -variation ajbo
+            -context ~ {{nai}}
+            -exp Starts a rhetorical question.
+            -note This meaning is only attested once, making it a hapax. This usage is listed separately because this usage is mentioned (but not used) by other speakers.
+            -example:
+                -lojban {{.anai}} la catra cu catra xu zo'o
+                -english Does "Killer" kill{{? /j}}
+                -source-id rolj
+                -note This is the only instance of {{.a nai}} being used as a rhetorical question starter.
+                -speaker .kúblizel.
 
 -entry:
     -word e
@@ -1054,6 +1092,10 @@
         -selmaho ZAhO
         -meaning:
             -exp Retrospective/perfect: signifies that the event has already ended; already.
+            -example:
+                -lojban .i lo jitro be lo te lanme {{ba'o}} cliva lo ra cmana
+                -english The shepherd of the flock {{has already}} left his hill.
+                -source-id lojb
         -meaning:
             -context When followed by a sumti 
             -variation CLL
@@ -1250,7 +1292,7 @@
         -selmaho GA
         -meaning:
             -exp Logical connective: all but tanru-internal forethought connective question. Asks the listener to supply a FLC that makes the containing statement true.
-            -note {{ga ji}} under JACU.
+            -note Supplanted with {{ga ji}} in JACU.
             -example:
                 -lojban ni'o xu lo prenu co vajni cu {{ge'i}} ca ranji lo nu kansa ku {{gi}} ve'u sepli do gi'e pu co'a cliva fi lo drata se litru
                 -english As for the people important [to you], do they continue to accompany you{{? Or}} are they now distant and separated from you, having departed via their own paths{{?}}
@@ -1312,6 +1354,56 @@
                 -source-id jbob
                 -speaker la solpa'i
                 -note "Seven Ways to Say 'I Love You'" probably refers to <a href="https://pastebin.com/raw/qmE06Tm0">a set of seven sentences in Toaq</a>. The quote is from June 2017, so the Toaq is supposedly not too distant from that. 
+
+
+-entry:
+    -word fi'e
+    -gloss Preposition: created by...
+    -type cmavo
+    -definition:
+        -selmaho BAI
+        -meaning:
+            -exp Created by ...; Introduces an unnumbered sumti that plays the role of {{finti}}'s x<sub>1</sub> in the sentence.
+            -note The event described by the bridi is normally associated with the creation of something, and that the creator is the referent of the tagged sumti. Often seen in titles to indicate the author of a text. 
+            -example:
+                -lojban ki'e {{jai fi'e}} mupli
+                -english Thanks, example-{{creator}}!
+                -source-id jbob
+                -speaker la fagri
+            -example:
+                -lojban clani kerlo {{fi'e}} la fagri
+                -english Long Ears, {{by}} Fagri
+                -source-id clan
+            -example:
+                -lojban .i mi jinvi lo du'u so'i cnino zmadu zgike {{be fi'e mi}} cu zabna
+                -english I think many newer songs {{by me}} are nice.
+                -source-id rolj
+                -speaker la janbe
+            -example:
+                -lojban .i gidva ro da fa lo se platu {{be fi'e mi}}
+                -english {{My}} plans were guiding everything.
+                -source-id calc
+        -meaning:
+            -context {{se}} ~
+            -exp Creating work ...; Introduces an unnumbered sumti that plays the role of {{finti}}'s x<sub>2</sub> in the sentence.
+            -note The event described by the bridi is associated with the creation of the referent of the tagged sumti. {{se fi'e}} is unattested.
+        -meaning:
+            -context {{te}} ~
+            -exp Creating with purpose ...; Introduces an unnumbered sumti that plays the role of {{finti}}'s x<sub>3</sub> in the sentence.
+            -note The event described by the bridi is associated with some event of creation, for a purpose indicated by the referent of the tagged sumti.
+            -example:
+                -lojban .i pacna {{te fi'e}} po'o lo nu kulgu'a snada
+                -english I {{invented}} [dreams] merely {{in hopes of}} completing [my] homework. 
+                -source-id rout
+        -meaning:
+            -context {{ve}} ~
+            -exp Creating from ...; Introduces an unnumbered sumti that plays the role of {{finti}}'s x<sub>4</sub> in the sentence.
+            -note The event described by the bridi is associated with some event of creation, using pre-existing ideas or elements indicated by the referent of the tagged sumti. 
+            -example:
+                -lojban lo du'u nandu fa lo nu cusku lu'e lo smuni poi simsa zo javni ku'o {{vefi'e}} lo drata smuni cu nibli pe'i lo du'u le javni smuni cu xamgu zmadu
+                -english The difficulty in expressing something similar to "javni" {{from}} other meanings means that the official meaning is better IMO. 
+                -source-id jbob
+                -speaker _4Denthusiast
 
 
 -entry: 
