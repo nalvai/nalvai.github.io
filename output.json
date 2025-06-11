@@ -65,7 +65,7 @@
                                 "english": "Are Loglan Lojban{{?}} It's not because of the lujvo [structure]. But is Loglan some kind of Lojban-ic language{{?}}",
                                 "source-id": "rolj",
                                 "speaker": "la melmi",
-                                "note": "The first sentence seems to be a question where the speaker is expecting a negative answer, but it's hard to say for sure because there are no other instences of {{.anai}} in similar usage.",
+                                "note": "The first sentence seems to be a question where the speaker is asking themselves or is expecting a negative answer, but it's hard to say for sure because there are no other instences of {{.anai}} in similar usage.",
                                 "source": "roljbogu'e chatlog",
                                 "instance": 1
                             }
@@ -846,6 +846,64 @@
         "good": true
     },
     {
+        "word": "cmavo",
+        "gloss": "structure word &mdash; grammatical class &mdash; meaning/function of the word &mdash; usage/language of the word",
+        "type": "gismu",
+        "freq": "18400",
+        "rank": "246",
+        "tag": "core-2",
+        "rafsi-cvc": null,
+        "rafsi-ccv": null,
+        "rafsi-cvv": "ma'o",
+        "definition": [
+            {
+                "meaning": [
+                    {
+                        "exp": "x_1 is a structure word of grammatical class x_2, with meaning/function x_3 in usage (language) x_4.",
+                        "example": [
+                            {
+                                "lojban": "{{ni'o zoi ty. e .ty cmavo fi}} lo du'u lo lifri cu sepli le drata pagbu be le jufra",
+                                "english": "{{The particle <i>e</i>}} separates a direct object from the rest of the sentence.",
+                                "source-id": "tokp",
+                                "note": "The grammatical term \"direct object\" is translated as {{lo lifri}}, lit. \"experiencer\".",
+                                "source": "Toki Pona Cheatsheet",
+                                "author": "Blinry",
+                                "translator": "la .samflir.",
+                                "link": "https://blinry.org/toki-pona-cheat-sheet/toki-pona-cheat-sheet-jbo.pdf",
+                                "originallink": "https://blinry.org/toki-pona-cheat-sheet/toki-pona-cheat-sheet.pdf"
+                            },
+                            {
+                                "lojban": ".i xu la .lucil. cu jinvi le du'u lo nu jimpe cu se filri'a lo nu pilno {{lo cmavo be le cmavrfa}} tu'a lo no sumti jonai lo ro sumti",
+                                "english": "Does Lucilla thinks understanding is made easy when either none or all of the sumti is [tagged] with {{FA (cmavo of class FA)}}?",
+                                "source-id": "rolj",
+                                "speaker": "la varik",
+                                "note": "This sentence is in JACU. To convert it to CLL Lojban, substitute {{jonai}} with {{.onai}}. Also, {{cmavrfa}} is a type-3 zi'evla. {{cmavrfa}} = cmav-r-FA.",
+                                "source": "roljbogu'e chatlog",
+                                "instance": 13
+                            },
+                            {
+                                "lojban": ".icaku mi djica tu'a {{lo cmavo be ma'oi ca'a bei tu'a zo je'u}}",
+                                "english": "Now I want {{a CAhA (cmavo of class CAhA) that means similarly to <i>je'u</i>}}.",
+                                "source-id": "rolj",
+                                "speaker": "la srasu",
+                                "source": "roljbogu'e chatlog",
+                                "instance": 14
+                            },
+                            {
+                                "lojban": ".i so'ida .oiru'e {{temci cmavo fo lo jbobau}}",
+                                "english": "There are so many {{tense particles in Lojban...}}",
+                                "source-id": "jbob",
+                                "speaker": "la melmi",
+                                "source": "jbobratca chatlog"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "good": true
+    },
+    {
         "word": "cmene",
         "gloss": "name, title &mdash; to be called as ..., to be named &mdash; to name, to call ... as ...",
         "type": "gismu",
@@ -1088,7 +1146,7 @@
                                 "english": "She (my mother) said she was just marvelling at my beautiful handwriting.",
                                 "source-id": "rolj",
                                 "source": "roljbogu'e chatlog",
-                                "instance": 13
+                                "instance": 15
                             }
                         ]
                     }
@@ -1255,7 +1313,7 @@
                                 "speaker": "la ziren",
                                 "note": "This sentence is in JACU. To convert it to CLL Lojban, substitute {{ja}} with {{.a}}.",
                                 "source": "roljbogu'e chatlog",
-                                "instance": 14
+                                "instance": 16
                             },
                             {
                                 "lojban": ".i je mi na ralte le ci'artai {{poi drani fi zo'e}}",
@@ -1263,7 +1321,7 @@
                                 "source-id": "rolj",
                                 "speaker": "yeet kitty",
                                 "source": "roljbogu'e chatlog",
-                                "instance": 15
+                                "instance": 17
                             },
                             {
                                 "lojban": "xu {{drani fo lo ka jbobau}}",
@@ -1272,7 +1330,7 @@
                                 "speaker": "dram",
                                 "note": "The type/usage of the \"by standard\" places are never specified or defined, rendering those places virtually useless. This sentence is a rare example of a \"by standard\" place being used.",
                                 "source": "roljbogu'e chatlog",
-                                "instance": 16
+                                "instance": 18
                             }
                         ]
                     }
@@ -1304,7 +1362,7 @@
                                 "speaker": "la janbe",
                                 "note": "The emoji and italics aren't standard parts of Lojban.",
                                 "source": "roljbogu'e chatlog",
-                                "instance": 17
+                                "instance": 19
                             },
                             {
                                 "lojban": "lo voksa nu cenba cu {{na drata}} lo se bilma be fi lo lenku",
@@ -1425,7 +1483,7 @@
                                 "source-id": "rolj",
                                 "speaker": "la lunbe",
                                 "source": "roljbogu'e chatlog",
-                                "instance": 18
+                                "instance": 20
                             },
                             {
                                 "lojban": "ni'o xu ranji fa le nu na djuno lo du'u ma kau zabna lo ka ce'u zmiku {{lo nu fanva fi lo glibau fo la .lojban.}}",
@@ -1434,7 +1492,7 @@
                                 "source-id": "rolj",
                                 "speaker": "la varik",
                                 "source": "roljbogu'e chatlog",
-                                "instance": 19
+                                "instance": 21
                             }
                         ]
                     }
@@ -1466,7 +1524,8 @@
                                 "english": "Thanks, example-{{creator}}!",
                                 "source-id": "jbob",
                                 "speaker": "la fagri",
-                                "source": "jbobratca chatlog"
+                                "source": "jbobratca chatlog",
+                                "instance": 1
                             },
                             {
                                 "lojban": "clani kerlo {{fi'e}} la fagri",
@@ -1482,7 +1541,7 @@
                                 "source-id": "rolj",
                                 "speaker": "la janbe",
                                 "source": "roljbogu'e chatlog",
-                                "instance": 20
+                                "instance": 22
                             },
                             {
                                 "lojban": ".i gidva ro da fa lo se platu {{be fi'e mi}}",
@@ -1527,7 +1586,7 @@
                                 "source-id": "jbob",
                                 "speaker": "_4Denthusiast",
                                 "source": "jbobratca chatlog",
-                                "instance": 1
+                                "instance": 2
                             }
                         ]
                     }
@@ -1619,7 +1678,7 @@
                                 "speaker": "la lunbe",
                                 "note": "{{.i'y}} is a proposed cmavo equivalent to {{.i bu}}.",
                                 "source": "roljbogu'e chatlog",
-                                "instance": 21
+                                "instance": 23
                             },
                             {
                                 "lojban": "mi nelci lo'e gundi jibri .i ku'i ri {{tatpi gasnu}}",
@@ -1628,7 +1687,7 @@
                                 "source-id": "rolj",
                                 "speaker": "qimar",
                                 "source": "roljbogu'e chatlog",
-                                "instance": 22
+                                "instance": 24
                             }
                         ]
                     }
@@ -1821,7 +1880,7 @@
                                 "speaker": "la srasu, la evis",
                                 "note": "The middle sentence would be {{puzi <u>je'i</u> bazi}} under CLL Lojban.",
                                 "source": "roljbogu'e chatlog",
-                                "instance": 23
+                                "instance": 25
                             }
                         ]
                     }
@@ -1999,7 +2058,7 @@
                                 "source-id": "rolj",
                                 "speaker": "la bakre'u",
                                 "source": "roljbogu'e chatlog",
-                                "instance": 24
+                                "instance": 26
                             },
                             {
                                 "lojban": ".i la'e di'u {{na se kakne}}",
@@ -2154,7 +2213,7 @@
                                 "source-id": "rolj",
                                 "speaker": "Lucilla",
                                 "source": "roljbogu'e chatlog",
-                                "instance": 25
+                                "instance": 27
                             },
                             {
                                 "lojban": "&mdash; .i ma jmina le jugbau jufra le kibypapri<br> &mdash; {{la .lukifer.kailus.delikatus.}} no'u {{la .yu'orb.}}",
@@ -2163,7 +2222,7 @@
                                 "source-id": "rolj",
                                 "speaker": "la nalvai, la ilmen",
                                 "source": "roljbogu'e chatlog",
-                                "instance": 26
+                                "instance": 28
                             }
                         ]
                     },
@@ -2186,7 +2245,7 @@
                                 "speaker": "la solpa'i",
                                 "note": "\"Seven Ways to Say 'I Love You'\" probably refers to <a href=\"https://pastebin.com/raw/qmE06Tm0\">a set of seven sentences in Toaq</a>. The quote is from June 2017, so the Toaq is supposedly not too distant from that.",
                                 "source": "jbobratca chatlog",
-                                "instance": 2
+                                "instance": 3
                             }
                         ]
                     }
@@ -2305,7 +2364,7 @@
                                 "source-id": "rolj",
                                 "speaker": "la lunbe, niftg",
                                 "source": "roljbogu'e chatlog",
-                                "instance": 27
+                                "instance": 29
                             },
                             {
                                 "lojban": ".i pe'i ro bangu cu {{melbi fi da}}",
@@ -2313,7 +2372,7 @@
                                 "source-id": "rolj",
                                 "speaker": "la xrula",
                                 "source": "roljbogu'e chatlog",
-                                "instance": 28
+                                "instance": 30
                             },
                             {
                                 "lojban": ".i ku'i mi {{se melbi}} le do ganto'a sai voksa",
@@ -2321,7 +2380,7 @@
                                 "source-id": "rolj",
                                 "speaker": "la janbe",
                                 "source": "roljbogu'e chatlog",
-                                "instance": 29
+                                "instance": 31
                             }
                         ]
                     }
@@ -2372,7 +2431,7 @@
                                 "speaker": "la nalvai",
                                 "note": "To be overwhelmed = To feel an extreme emotion",
                                 "source": "roljbogu'e chatlog",
-                                "instance": 30
+                                "instance": 32
                             }
                         ]
                     }
@@ -2710,7 +2769,7 @@
                                 "source-id": "rolj",
                                 "speaker": "la nalvai",
                                 "source": "roljbogu'e chatlog",
-                                "instance": 31
+                                "instance": 33
                             },
                             {
                                 "lojban": ".i ru'a lo'u do cinmo ma doi ro do le'u {{se djica jai smuni}}",
@@ -2719,7 +2778,7 @@
                                 "speaker": "la janbe",
                                 "note": "The {{jai}} raises the quote, {{lo'u do cinmo ma doi ro do le'u}}, into an abstraction so it can go into the x<sub>1</sub> place.",
                                 "source": "roljbogu'e chatlog",
-                                "instance": 32
+                                "instance": 34
                             },
                             {
                                 "lojban": ".i lo du'u da de natfe cu {{se smuni}} lo du'u da .o nai de ka'e jetnu",
@@ -2824,7 +2883,7 @@
                                 "source-id": "rolj",
                                 "speaker": "la janbe",
                                 "source": "roljbogu'e chatlog",
-                                "instance": 33
+                                "instance": 35
                             },
                             {
                                 "lojban": "le mi bruna {{to se rirni le se rirni pe le mamta pe le mi mamta toi}} cu bilma",
@@ -2833,7 +2892,7 @@
                                 "speaker": "la kanis",
                                 "note": "Note that the {{toi}} in this sentence is elidable, as the content in the parentheses cannot take the second selbri introduced by {{cu}}.",
                                 "source": "roljbogu'e chatlog",
-                                "instance": 34
+                                "instance": 36
                             },
                             {
                                 "lojban": ".i da'i {{to se va'u lo nu darlu toi}} lo jmive je pensi cu kakne lo nu zasti ze'o lo bitmu be lo botpi",
@@ -2927,7 +2986,7 @@
                                 "source-id": "rolj",
                                 "speaker": "Magnap",
                                 "source": "roljbogu'e chatlog",
-                                "instance": 35
+                                "instance": 37
                             },
                             {
                                 "lojban": ".i je ku'i ri {{se xamgu}} ju'o lo nu lo plini cu glare zenba",
@@ -2999,7 +3058,7 @@
                                 "source-id": "rolj",
                                 "speaker": "qimar",
                                 "source": "roljbogu'e chatlog",
-                                "instance": 36
+                                "instance": 38
                             }
                         ]
                     }

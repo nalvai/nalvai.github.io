@@ -37,7 +37,7 @@
                 -english Are Loglan Lojban{{?}} It's not because of the lujvo [structure]. But is Loglan some kind of Lojban-ic language{{?}}
                 -source-id rolj
                 -speaker la melmi
-                -note The first sentence seems to be a question where the speaker is expecting a negative answer, but it's hard to say for sure because there are no other instences of {{.anai}} in similar usage.
+                -note The first sentence seems to be a question where the speaker is asking themselves or is expecting a negative answer, but it's hard to say for sure because there are no other instences of {{.anai}} in similar usage.
         -meaning:
             -variation ajbo
             -context ~ {{nai}}
@@ -1047,7 +1047,34 @@
                 -english I'm sure everyone's {{painted in colors}}, many beautiful and many ugly.
                 -source-id colo
 
-
+-entry:
+    -word cmavo
+    -gloss structure word &mdash; grammatical class &mdash; meaning/function of the word &mdash; usage/language of the word
+    -type gismu
+    -definition:
+        -meaning:
+            -exp x_1 is a structure word of grammatical class x_2, with meaning/function x_3 in usage (language) x_4.
+            -example:
+                -lojban {{ni'o zoi ty. e .ty cmavo fi}} lo du'u lo lifri cu sepli le drata pagbu be le jufra
+                -english {{The particle <i>e</i>}} separates a direct object from the rest of the sentence.
+                -source-id tokp
+                -note The grammatical term "direct object" is translated as {{lo lifri}}, lit. "experiencer".
+            -example:
+                -lojban .i xu la .lucil. cu jinvi le du'u lo nu jimpe cu se filri'a lo nu pilno {{lo cmavo be le cmavrfa}} tu'a lo no sumti jonai lo ro sumti
+                -english Does Lucilla thinks understanding is made easy when either none or all of the sumti is [tagged] with {{FA (cmavo of class FA)}}?
+                -source-id rolj
+                -speaker la varik
+                -note This sentence is in JACU. To convert it to CLL Lojban, substitute {{jonai}} with {{.onai}}. Also, {{cmavrfa}} is a type-3 zi'evla. {{cmavrfa}} = cmav-r-FA.
+            -example:
+                -lojban .icaku mi djica tu'a {{lo cmavo be ma'oi ca'a bei tu'a zo je'u}}
+                -english Now I want {{a CAhA (cmavo of class CAhA) that means similarly to <i>je'u</i>}}.
+                -source-id rolj
+                -speaker la srasu
+            -example:
+                -lojban .i so'ida .oiru'e {{temci cmavo fo lo jbobau}}
+                -english There are so many {{tense particles in Lojban...}}
+                -source-id jbob
+                -speaker la melmi
 
 
 
