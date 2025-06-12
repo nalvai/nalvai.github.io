@@ -1031,6 +1031,28 @@
                 -speaker qimar
 
 
+
+-entry:
+    -word xunre
+    -gloss (to be) red
+    -type gismu
+    -definition:
+        -meaning:
+            -exp x_1 is red/crimson/ruddy [color adjective].
+            -example:
+                -lojban .i lo slami vanju {{cu xunre}}
+                -english The acidic wine {{is red}}.
+                -source-id cipr
+            -example:
+                -lojban .i crigau lo molmla .e lo ctebi {{lo ka xunre kei}} ja'e lo nu grusi fa vo'e ji'a
+                -english [They] had taken {{the red}} from her cheeks and lips, and (as a result) they were gray also.
+                -source-id wond
+            -example:
+                -lojban .i lo te gusni be fi {{lo xunre}} cu co'u se ganse ca lonu dy de'a vasxu ja'e loka smaji mulno kei kei
+                -english The source of {{the red [light]}} was stopped being sensed when he stopped breathing and became completely silent.
+                -source-id nufa
+
+
 -entry:
     -word skari
     -gloss to be colored, to have color &mdash; color, hue &mdash; to preceive color

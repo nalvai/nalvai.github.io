@@ -68,6 +68,11 @@
         "translator": "geezmolycos",
         "link": "https://www.youtube.com/watch?v=FGY3awgABhU"
     },
+    "cipr": {
+        "source": "cipra lo skari lo vanju",
+        "author": "la .guskant.",
+        "link": "https://guskant.github.io/lojbo/cipra.html"
+    },
     "clan": {
         "source": "clani kerlo",
         "author": "la fagri",
@@ -253,6 +258,11 @@
         "author": "Robin Lee Powell",
         "link": "https://mw.lojban.org/papri/Robin%27s_Palm_Writings:_la_nicte_cadzu"
     },
+    "nufa": {
+        "source": "la nu farlu lo plini",
+        "author": "la srasu",
+        "link": "https://liputenpo.org/toki/nanpa-kokosila/la-nu-farlu-lo-plini/"
+    },
     "odds": {
         "source": "ODDS&ENDS",
         "author": "ryo",
@@ -298,6 +308,7 @@
     },
     "snow": {
         "source": "Snow White",
+        "author": "Brothers Grimm",
         "translator": "la solpa'i",
         "link": "https://selpahi.de/snimeblabi.html"
     },

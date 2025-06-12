@@ -9445,6 +9445,7 @@
                                 "english": "She will soon {{know}} that you are here.",
                                 "source-id": "snow",
                                 "source": "Snow White",
+                                "author": "Brothers Grimm",
                                 "translator": "la solpa'i",
                                 "link": "https://selpahi.de/snimeblabi.html"
                             },
@@ -43443,7 +43444,7 @@
     },
     {
         "word": "xunre",
-        "gloss": "red",
+        "gloss": "(to be) red",
         "type": "gismu",
         "freq": "6300",
         "rank": "558",
@@ -43455,11 +43456,40 @@
             {
                 "meaning": [
                     {
-                        "exp": "$x_{1}$ is red/crimson/ruddy [color adjective]."
+                        "exp": "x_1 is red/crimson/ruddy [color adjective].",
+                        "example": [
+                            {
+                                "lojban": ".i lo slami vanju {{cu xunre}}",
+                                "english": "The acidic wine {{is red}}.",
+                                "source-id": "cipr",
+                                "source": "cipra lo skari lo vanju",
+                                "author": "la .guskant.",
+                                "link": "https://guskant.github.io/lojbo/cipra.html"
+                            },
+                            {
+                                "lojban": ".i crigau lo molmla .e lo ctebi {{lo ka xunre kei}} ja'e lo nu grusi fa vo'e ji'a",
+                                "english": "[They] had taken {{the red}} from her cheeks and lips, and (as a result) they were gray also.",
+                                "source-id": "wond",
+                                "source": "The Wonderful Wizard of Oz",
+                                "author": "L. Frank Baum",
+                                "translator": "la solpa'i",
+                                "link": "https://selpahi.de/oz_plain.html",
+                                "instance": 5
+                            },
+                            {
+                                "lojban": ".i lo te gusni be fi {{lo xunre}} cu co'u se ganse ca lonu dy de'a vasxu ja'e loka smaji mulno kei kei",
+                                "english": "The source of {{the red [light]}} was stopped being sensed when he stopped breathing and became completely silent.",
+                                "source-id": "nufa",
+                                "source": "la nu farlu lo plini",
+                                "author": "la srasu",
+                                "link": "https://liputenpo.org/toki/nanpa-kokosila/la-nu-farlu-lo-plini/"
+                            }
+                        ]
                     }
                 ]
             }
-        ]
+        ],
+        "good": true
     },
     {
         "word": "xurdo",
