@@ -62,7 +62,7 @@
                             },
                             {
                                 "lojban": "{{.anai}} la loglan cu jbobau xu .i na go'i ni'i loka lujvo {{.a xu}} ku'i la loglan cu lojbo bangu",
-                                "english": "Are Loglan Lojban{{?}} It's not because of the lujvo [structure]. But is Loglan some kind of Lojban-ic language{{?}}",
+                                "english": "Is Loglan Lojban{{?}} It's not because of the lujvo [structure]. But is Loglan some kind of Lojban-ic language{{?}}",
                                 "source-id": "rolj",
                                 "speaker": "la melmi",
                                 "note": "The first sentence seems to be a question where the speaker is asking themselves or is expecting a negative answer, but it's hard to say for sure because there are no other instences of {{.anai}} in similar usage.",
@@ -2442,6 +2442,66 @@
         "good": true
     },
     {
+        "word": "nandu",
+        "gloss": "(of an event, activity) difficult, to be difficult to ... &mdash; to find ... difficult &mdash; (of a situation/condition) to make it difficult for ...",
+        "type": "gismu",
+        "freq": "24030",
+        "rank": "200",
+        "tag": "core-1",
+        "rafsi-cvc": "nad",
+        "rafsi-ccv": null,
+        "rafsi-cvv": null,
+        "definition": [
+            {
+                "meaning": [
+                    {
+                        "exp": "x_1 is difficult/hard/challenging for x_2 under conditions x_3; x_1 challenges (non-agentive) x_2.",
+                        "example": [
+                            {
+                                "lojban": ".i {{nandu}} fa lo ka du'eski lo mi nunmansa",
+                                "english": "{{It's hard to}} overstate my satisfaction",
+                                "source-id": "stil",
+                                "source": "Still Alive",
+                                "author": "Jonathan Coulton",
+                                "translator": "la solpa'i",
+                                "link": "https://www.youtube.com/watch?v=hRrIioMA4w8",
+                                "instance": 3
+                            },
+                            {
+                                "lojban": ".i so'i cnima'o cu fanva {{jai nandu}}",
+                                "english": "Many attitudinals {{are difficult}} to translate.",
+                                "note": "The {{so'i cnima'o}} is raised with {{jai}} since {{nandu}} takes abstraction (event, etc.) as x<sub>1</sub>.",
+                                "source-id": "rolj",
+                                "speaker": "la lunbe",
+                                "source": "roljbogu'e chatlog",
+                                "instance": 33
+                            },
+                            {
+                                "lojban": "ni'o lo ralju be {{lo nandu be la .alis.}} ca lo cfari cu nu jitro lo fagycpi",
+                                "english": "The chief {{difficulty Alice found}} at first was in managing her flamingo.",
+                                "source-id": "alic",
+                                "source": "Alice in Wonderland",
+                                "author": "Lewis Carroll",
+                                "translator": "la .xorxes.",
+                                "link": "https://mw.lojban.org/papri/lo_selfri_be_la_.alis._bei_bu%27u_la_selmacygu%27e",
+                                "instance": 7
+                            },
+                            {
+                                "lojban": ".i ru'a {{nandu fi}} lonu smuvrici",
+                                "english": "I assume it{{'s hard when}} it's ambiguous.",
+                                "source-id": "rolj",
+                                "speaker": "la melmi",
+                                "source": "roljbogu'e chatlog",
+                                "instance": 34
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "good": true
+    },
+    {
         "word": "nelci",
         "gloss": "to like, fond &mdash; to be liked",
         "type": "gismu",
@@ -2483,7 +2543,7 @@
                                 "author": "Lewis Carroll",
                                 "translator": "la .xorxes.",
                                 "link": "https://mw.lojban.org/papri/lo_selfri_be_la_.alis._bei_bu%27u_la_selmacygu%27e",
-                                "instance": 7
+                                "instance": 8
                             }
                         ]
                     }
@@ -2770,7 +2830,7 @@
                                 "source-id": "rolj",
                                 "speaker": "la nalvai",
                                 "source": "roljbogu'e chatlog",
-                                "instance": 33
+                                "instance": 35
                             },
                             {
                                 "lojban": ".i ru'a lo'u do cinmo ma doi ro do le'u {{se djica jai smuni}}",
@@ -2779,7 +2839,7 @@
                                 "speaker": "la janbe",
                                 "note": "The {{jai}} raises the quote, {{lo'u do cinmo ma doi ro do le'u}}, into an abstraction so it can go into the x<sub>1</sub> place.",
                                 "source": "roljbogu'e chatlog",
-                                "instance": 34
+                                "instance": 36
                             },
                             {
                                 "lojban": ".i lo du'u da de natfe cu {{se smuni}} lo du'u da .o nai de ka'e jetnu",
@@ -2790,7 +2850,7 @@
                                 "author": "Lewis Carroll",
                                 "translator": "la .xorxes.",
                                 "link": "https://mw.lojban.org/papri/lo_selfri_be_la_.alis._bei_bu%27u_la_selmacygu%27e",
-                                "instance": 8
+                                "instance": 9
                             },
                             {
                                 "lojban": ".i la'e di'u cu {{se smuni}} lo barda mukti la .gregor.",
@@ -2884,7 +2944,7 @@
                                 "source-id": "rolj",
                                 "speaker": "la janbe",
                                 "source": "roljbogu'e chatlog",
-                                "instance": 35
+                                "instance": 37
                             },
                             {
                                 "lojban": "le mi bruna {{to se rirni le se rirni pe le mamta pe le mi mamta toi}} cu bilma",
@@ -2893,7 +2953,7 @@
                                 "speaker": "la kanis",
                                 "note": "Note that the {{toi}} in this sentence is elidable, as the content in the parentheses cannot take the second selbri introduced by {{cu}}.",
                                 "source": "roljbogu'e chatlog",
-                                "instance": 36
+                                "instance": 38
                             },
                             {
                                 "lojban": ".i da'i {{to se va'u lo nu darlu toi}} lo jmive je pensi cu kakne lo nu zasti ze'o lo bitmu be lo botpi",
@@ -2978,7 +3038,7 @@
                                 "author": "Lewis Carroll",
                                 "translator": "la .xorxes.",
                                 "link": "https://mw.lojban.org/papri/lo_selfri_be_la_.alis._bei_bu%27u_la_selmacygu%27e",
-                                "instance": 9
+                                "instance": 10
                             },
                             {
                                 "lojban": "{{xamgu fi}} lo nu drani lo ka lo slaka cu rilti",
@@ -2987,7 +3047,7 @@
                                 "source-id": "rolj",
                                 "speaker": "Magnap",
                                 "source": "roljbogu'e chatlog",
-                                "instance": 37
+                                "instance": 39
                             },
                             {
                                 "lojban": ".i je ku'i ri {{se xamgu}} ju'o lo nu lo plini cu glare zenba",
@@ -3108,7 +3168,7 @@
                                 "source-id": "rolj",
                                 "speaker": "qimar",
                                 "source": "roljbogu'e chatlog",
-                                "instance": 38
+                                "instance": 40
                             }
                         ]
                     }

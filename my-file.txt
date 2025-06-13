@@ -34,7 +34,7 @@
                 -speaker la srasu
             -example:
                 -lojban {{.anai}} la loglan cu jbobau xu .i na go'i ni'i loka lujvo {{.a xu}} ku'i la loglan cu lojbo bangu
-                -english Are Loglan Lojban{{?}} It's not because of the lujvo [structure]. But is Loglan some kind of Lojban-ic language{{?}}
+                -english Is Loglan Lojban{{?}} It's not because of the lujvo [structure]. But is Loglan some kind of Lojban-ic language{{?}}
                 -source-id rolj
                 -speaker la melmi
                 -note The first sentence seems to be a question where the speaker is asking themselves or is expecting a negative answer, but it's hard to say for sure because there are no other instences of {{.anai}} in similar usage.
@@ -1031,6 +1031,32 @@
                 -speaker qimar
 
 
+-entry:
+    -word nandu
+    -gloss (of an event, activity) difficult, to be difficult to ... &mdash; to find ... difficult &mdash; (of a situation/condition) to make it difficult for ... 
+    -type gismu
+    -definition:
+        -meaning:
+            -exp x_1 is difficult/hard/challenging for x_2 under conditions x_3; x_1 challenges (non-agentive) x_2.
+            -example:
+                -lojban .i {{nandu}} fa lo ka du'eski lo mi nunmansa
+                -english {{It's hard to}} overstate my satisfaction
+                -source-id stil
+            -example:
+                -lojban .i so'i cnima'o cu fanva {{jai nandu}}
+                -english Many attitudinals {{are difficult}} to translate.
+                -note The {{so'i cnima'o}} is raised with {{jai}} since {{nandu}} takes abstraction (event, etc.) as x<sub>1</sub>.
+                -source-id rolj
+                -speaker la lunbe
+            -example:
+                -lojban ni'o lo ralju be {{lo nandu be la .alis.}} ca lo cfari cu nu jitro lo fagycpi
+                -english The chief {{difficulty Alice found}} at first was in managing her flamingo. 
+                -source-id alic
+            -example:
+                -lojban .i ru'a {{nandu fi}} lonu smuvrici
+                -english I assume it{{'s hard when}} it's ambiguous.
+                -source-id rolj
+                -speaker la melmi
 
 -entry:
     -word xunre

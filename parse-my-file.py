@@ -1,3 +1,4 @@
+import re
 import json
 
 def parse_lines(lines):
@@ -153,10 +154,10 @@ for i in source_order:
             to_print += f' ([Original]({source["originallink"]}))'
         print(to_print)
 print()
-print("The quotes from roljbogu'e chatlog are from the following speakers: ")
+print("The quotes from chatlogs are from the following speakers: (in no particular order)")
 print()
 for s in speakers:
-    print(s, end=", ")
+    print(re.sub("_", "\\_", s), end=", ")
 
 print()
 print()
