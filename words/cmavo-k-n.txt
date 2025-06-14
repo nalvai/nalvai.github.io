@@ -1,0 +1,74 @@
+
+-entry:
+    -word la
+    -gloss Article: the one(s) called...
+    -type cmavo
+    -definition:
+        -selmaho LA
+        -meaning:
+            -exp Name article. Converts a selbri, selecting its first argument, or any string of cmevla into a sumti.
+            -note The resulting expression refers specifically to an individual or individuals that the speaker has in mind and which the speaker names with the selbri or cmevla.
+            -example:
+                -lojban coi {{la na'e vajni ku}} noi je'a vajni
+                -english Hello {{Not Important}}, who is indeed important!
+                -note "Not Important" is the name of the person greeted. Note the {{ku}} in this expression: it closes the selbri name. if the {{ku}} wasn't there the name selbri becomes {{na'e vajni noi je'a vajni}}, in which the relative clause becomes part of the name.
+                -source-id rolj
+                -speaker Lucilla
+            -example:
+                -lojban &mdash; .i ma jmina le jugbau jufra le kibypapri<br> &mdash; {{la .lukifer.kailus.delikatus.}} no'u {{la .yu'orb.}}
+                -english &mdash; Who added the Chiese sentences to the webpage?<br> &mdash; {{Lucifer Caelius Delicatus}} a.k.a. {{Yuorb}}
+                -note Specifically chosen to showcase cmevla chaining, where multiple cmevla in a row functions as a single name. Also note the answer parses differently in regards to CBM: with CBM {{.lukifer.kailus.delikatus. no'u la .yu'orb.}} is a name; without CBM {{no'u la .yu'orb.}} is a relative phrase of {{la .lukifer.kailus.delikatus.}} signifying the equivalence between them. Also note {{yu'orb}} is not a standard Lojban cmevla because of the {{y}}.
+                -source-id rolj
+                -speaker la nalvai, la ilmen
+        -meaning:
+            -context when used with an inner quantifier
+            -variation CLL
+            -exp The inner quantifier signifies the number of the referents the speaker has in mind. If no explicit inner quantifier is supplied, it defaults to {{su'o}}.
+            -note {{la}} is seldom used with quantifiers.
+        -meaning:
+            -context when used with an inner quantifier
+            -variation BPFK
+            -exp The inner quantifier is part of the name.
+            -note {{la}} is seldom used with quantifiers. The following example is the only instance of {{la}} with inner quantifier I found.
+            -example:
+                -lojban mi pu finti {{la ze tadji pe lu mi prami do li'u}} te zu'e lo nu loi se cinri cu kakne lo ka troci lo ka smucpa
+                -english I authored {{Seven Ways to Say "I Love You"}} so that those interested can try to get its meaning.
+                -source-id jbob
+                -speaker la solpa'i
+                -note "Seven Ways to Say 'I Love You'" probably refers to <a href="https://pastebin.com/raw/qmE06Tm0">a set of seven sentences in Toaq</a>. The quote is from June 2017, so the Toaq is supposedly not too distant from that. 
+
+
+-entry:
+    -word le'u
+    -gloss Quotation: end ungrammatical/out-of-context/sentence fragment quotation
+    -type cmavo
+    -definition:
+        -selmaho LEhU
+        -meaning:
+            -exp End error quotation. Ends a questionable or out of context quotation. Never elidable.
+            -example:
+                -lojban .i lo'u lan lan la lan la la la la lan lan la lan la la la la lan lan la la lan la la la lan la la la la lan o'o'o'o'o'o'o'o'o'o lun lun lu lu'u'u'u'u'u lu lu lu lu lun lu lu lu lun lu {{le'u}}
+                -source-id alwa
+            -example:
+                -lojban .i do lo'u .i lo mi panzi lo mi speni {{le'u}} .alcu do lo'u zo'u mo {{le'u}}
+                -english "My kids... my wife,{{"}} you said. "What about them?{{"}}
+                -source-id eggq
+                -note The entire sentence is grammatical, but becomes ungrammatical when split in half. 
+
+
+-entry:
+    -word lo'u
+    -gloss Quotation: start ungrammatical/out-of-context/sentence fragment quotation
+    -type cmavo
+    -definition:
+        -selmaho LOhU
+        -meaning:
+            -exp Begin error quotation. Starts a questionable or out of context quotation. Text must be Lojban words, but needn't be grammatical. Terminate with {{le'u}}.
+            -example:
+                -lojban .i {{lo'u}} lan lan la lan la la la la lan lan la lan la la la la lan lan la la lan la la la lan la la la la lan o'o'o'o'o'o'o'o'o'o lun lun lu lu'u'u'u'u'u lu lu lu lu lun lu lu lu lun lu le'u
+                -source-id alwa
+            -example:
+                -lojban .i do {{lo'u}} .i lo mi panzi lo mi speni le'u .alcu do {{lo'u}} zo'u mo le'u
+                -english {{"}}My kids... my wife," you said. {{"}}What about them?"
+                -source-id eggq
+                -note The entire sentence is grammatical, but becomes ungrammatical when split in half. 

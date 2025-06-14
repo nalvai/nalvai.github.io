@@ -26,17 +26,17 @@ For more specific ways of contributing:
 
 Fill out [this form](https://forms.gle/KrCL1XrArSncNFKQ9).
 
-The text from which you obtained the quote should satisfy the following criteria:
-- It should be from a (more or less) complete Lojban text. If it is a translation, this requirement can be relaxed slightly, but it should still contain a significant portion of the original text.
-- It should represent natural usage and not be contrived. Therefore, sentences from textbooks (e.g., Wave Lessons, "Learn Lojban") are excluded, as are sentences from Tatoeba because it's unclear whether they are genuine or were created solely to serve as usage examples.
+Your quotation should be taken from an existing text of Lojban. **Sentences specifically created for this dictionary are not accepted.** The text from which you obtained the quote should satisfy the following criteria:
+- It should be from a (more or less) complete Lojban text. That is, you cannot just coin a few sentences and claim it is a Lojban "text". If it is a translation, this requirement can be relaxed slightly, but it should still contain a significant portion of the original text.
+- It should represent natural usage and not be contrived. That is, the text has to be composed *without the intention of showcasing the grammar/vocabulary*. Therefore, sentences from textbooks (e.g., Wave Lessons, "Learn Lojban") are excluded, as are sentences from Tatoeba because it's unclear whether they are genuine or were created solely to serve as usage examples.
 - It should be publicly accessible so that I and the reader can verify it and see it in its larger context. If the quote is from a song, a link to the audio is acceptable, but a link to the lyrics would be ideal.
 
-Messages from chat logs are accepted as long as they are in good Lojban (in any dialect) and represent natural conversations.
+Messages from chat logs and posts on social media are accepted as long as they are in good Lojban (in any dialect) and represent natural conversations. You still have to link me the original source, though.
 
 When suggesting a quote, make sure the quote is illustrative for the word you suggest for. For brivla, the quote should give information on its place structure, either by using multiple sumti places or using less common sumti places.
 
 ### Suggest a word/definition
-Fill out [this form](https://forms.gle/81B1rohqByyoEDpv8). A word needs to have three quotations to be included in this dictionary.
+Fill out [this form](https://forms.gle/81B1rohqByyoEDpv8). If the word isn't "official" or listed below, it needs to have three quotations to be included in this dictionary.
 
 The three quotations you provide must be from **three different Lojbanists**. The sources of the quotations should also be unrelated (for example, they cannot be from the same conversation, or different people's translations of the same text). This ensures that the word is used by the community as a whole and in a variety of settings.
 

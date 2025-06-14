@@ -1,0 +1,219 @@
+
+-entry:
+    -word djica
+    -gloss to want, to desire &mdash; (a) desire &mdash; purpose of desire
+    -type gismu
+    -definition:
+        -meaning:
+            -exp x_1 desires/wants/wishes x_2 (event/state) for purpose x_3.
+            -example:
+                -lojban xu do {{djica}} lo nu citka
+                -english Did you {{want}} to eat?
+                -source-id melb
+            -example:
+                -lojban .i ki'u bo mutce lo ka {{djica}} tu'a lo drani noltruti'u
+                -english Because he {{would have liked}} very much to have a real princess.
+                -source-id prin
+                -note This sentence is an example of using {{tu'a}} for object of desire in x_2. 
+
+-entry:
+    -word djuno
+    -gloss to know (a fact) &mdash; knowledge &mdash; subject of knowledge &mdash; epistemology of knowledge
+    -type gismu
+    -definition:
+        -meaning:
+            -exp x_1 knows fact(s) x_2 (du'u) about subject x_3 by epistemology x_4.
+            -example:
+                -lojban .i my ba zi {{djuno}} lo du'u do ti zvati
+                -english She will soon {{know}} that you are here.
+                -source-id snow
+            -example:
+                -lojban ni'o pu ku ro prenu cu {{djuno}} fi lo makfa burcu po ko'a
+                -english Everyone {{knew}} about Liang's magic brush.
+                -source-id lian
+            -example:
+                -lojban ku'i ma'a {{djuno}} so'i da lo jipci
+                -english But we {{have}} a lot of {{knowledge}} of chickens.
+                -source-id firs
+            -example:
+                -lojban .i {{le pu se djuno}} co'a fatci
+                -english {{The prophecy}} was fulfilled.
+                -source-id howt
+                -note Prophecy = That which was known. 
+            -example:
+                -lojban .i da'i ma pu ve djuno
+                -english How should I know?
+                -source-id wond
+
+
+-entry:
+    -word drani
+    -gloss correct, proper &mdash; aspect that x<sub>1</sub> is correct in &mdash; situation in which x<sub>1</sub> is correct  &mdash; standard of correctness
+    -type gismu
+    -definition:
+        -meaning:
+            -exp x_1 is correct/proper/right/perfect in property/aspect x_2 (ka) in situation x_3 by standard x_4.
+            -note x<sub>1</sub> is normally not raised since the raised x<sub>1</sub> can just go to the x<sub>2</sub> place.
+            -example:
+                -lojban .i ro da poi lijda cu {{drani lo da se steci}}
+                -english Every religion {{is right in its specific way}}.
+                -source-id eggq
+            -example:
+                -lojban la .alis. pu jinvi lo du'u ju'o ta {{drani lo ka tadji lo nu tavla lo smacu}}
+                -english Alice thought that must {{be the right way of speaking to a mouse}}.
+                -source-id alic
+            -example:
+                -lojban .i mi na ro roi {{drani lo ka djuno kei ja lo ka jinvi vau vau}} ta'o
+                -english I'm not always {{right in my knowledge or my opinion}}, by the way.
+                -source-id rolj
+                -speaker la ziren 
+                -note This sentence is in JACU. To convert it to CLL Lojban, substitute {{ja}} with {{.a}}.
+            -example:
+                -lojban .i je mi na ralte le ci'artai {{poi drani fi zo'e}}
+                -english And I don't have the {{correct}} font {{for it}}.
+                -source-id rolj
+                -speaker yeet kitty 
+            -example:
+                -lojban xu {{drani fo lo ka jbobau}}
+                -english Is it correct by Lojban standards?
+                -source-id rolj
+                -speaker dram 
+                -note The type/usage of the "by standard" places are never specified or defined, rendering those places virtually useless. This sentence is a rare example of a "by standard" place being used.
+
+-entry:
+    -word drata
+    -gloss different, other &mdash; what x<sub>1</sub> is different from
+    -type gismu
+    -definition:
+        -meaning:
+            -exp x_1 isn't the-same-thing-as/is different-from/other-than x_2 by standard x_3; x_1 is something else.
+            -example:
+                -lojban .i zo ra<i>tc</i>u 🐀  zo ra<i>ct</i>u 🐇 cu {{drata}} 😉
+                -english "ra<i>tc</i>u" 🐀 and "ra<i>ct</i>u" 🐇 {{are different}} 😉 
+                -source-id rolj
+                -speaker la janbe
+                -note The emoji and italics aren't standard parts of Lojban.
+            -example:
+                -lojban lo voksa nu cenba cu {{na drata}} lo se bilma be fi lo lenku 
+                -english The change in his voice {{was no different from}} the sign of a cold. 
+                -source-id meta
+            -example:
+                -lojban .i {{no drata be lo troci}} ka'e ba snada prenu
+                -english {{Nobody other than those who try}} can be a successful person.
+                -source-id tens
+
+
+-entry:
+    -word fanva
+    -gloss to translate, translator &mdash; to be translated, original text &mdash; target language &mdash; source language &mdash; (a work of) translation
+    -type gismu
+    -definition:
+        -meaning:
+            -exp x_1 translates text/utterance x_2 to language x_3 from language x_4 with translation result x_5.
+            -example:
+                -lojban .i .e'u nai cai la nicte cadzu ba mulno spogau lo se terpa {{da poi fanva dei lo na logji bangu}}
+                -english WARNING! Night Walker will bring complete destruction by something scary to {{those who translate this into a non-logical language.}}
+                -note Those who are keen on quantification will notice that this sentence uses existential quantification on {{da poi ...}}, which means if there are multiple translators, only "at least one of them" will be destroyed, instead of "all" which is suggested by the content of the text. (Such interpretation would be accomplished with universal quantification {{ro da poi ...}}). Actually, the {{da}} is being used here as a generic pronoun, which is a common usage in texts from the 2000s.
+                -source-id nict
+            -example:
+                -lojban .i mi na tcidu {{lo se fanva}} je cu mulno co kakne lo su'u jimpe fi {{lo xe fanva be fu do}}
+                -english I didn't read {{the original}}, and I can understand {{your translation}} completely.
+                -note This sentence is in JACU. To convert it to CLL Lojban, substitute {{je cu}} with {{gi'e}}.
+                -source-id rolj
+                -speaker la lunbe
+            -example:
+                -lojban ni'o xu ranji fa le nu na djuno lo du'u ma kau zabna lo ka ce'u zmiku {{lo nu fanva fi lo glibau fo la .lojban.}}
+                -english Are [you] still unsure what is preferable for automatically {{translating from Lojban to English}}?
+                -note The {{fo}} is not needed in this sentence.
+                -source-id rolj
+                -speaker la varik
+
+
+-entry:
+    -word finti
+    -gloss to create, to author &mdash; creation &mdash; purpose of creation &mdash; inspiration
+    -type gismu
+    -definition:
+        -meaning:
+            -exp x_1 invents/creates/composes/authors x_2 for function/purpose x_3 from existing elements/ideas x_4.
+            -example:
+                -lojban .i mi {{finti}} le ti munje tu'a do po'o
+                -english I {{created}} this universe just for you. 
+                -source-id eggq
+            -example:
+                -lojban .i se ri'a bo mi {{finti fo ri}}
+                -english As a result, I {{created [them] based on it}}.
+                -source-id layo
+
+
+-entry:
+    -word gasnu
+    -gloss to do, to bring about, (of a person, object) to cause &mdash; effect
+    -type gismu
+    -definition:
+        -meaning:
+            -exp x_1 [person/agent] is an agentive cause of event x_2; x_1 does/brings about x_2.
+            -note Despite the "[person/agent]" in the definition, the x<sub>1</sub> needs not be volitional (which distinguishes it from {{zukte}}), nor does it need to be animate. The x<sub>1</sub> is normally not an event, as the case of x<sub>1</sub> being an event is covered by {{rinka}}.
+            -example:
+                -lojban .i .io la cevni zo'u doi lo zvati be vi ti ko {{gasnu}} lo nu sance fa lo gleki si'azgi
+                -english To God on high, all you in this place, {{let}} hymns ring out in joyful chorus!
+                -source-id kogl
+            -example:
+                -lojban .i mulgau lo co'a {{se gasnu}}
+                -english ..., [and] complete what [we have] started {{to do}}.
+                -source-id tens
+            -example:
+                -lojban xu nai lo zekri {{poi .i'y gasnu ke'a}} cu cinri do 
+                -english Doesn't the crime {{it ( = the word <b>ie'o</b>) caused}} interest you? 
+                -source-id rolj
+                -speaker la lunbe
+                -note {{.i'y}} is a proposed cmavo equivalent to {{.i bu}}.
+            -example:
+                -lojban mi nelci lo'e gundi jibri .i ku'i ri {{tatpi gasnu}}
+                -english I like industrial jobs. But they {{are tiring}}.
+                -note This sentence showcase a common phenomenon of putting the effect in the seltau position of {{gasnu}}. In this sentence, {{tatpi gasnu}} is similar in meaning to {{gasnu lo nu tatpi}}. In such tanru formation, the x<sub>2</sub> of {{gasnu}} is usually left unfilled, and is assumed to be {{lo nu &lt;seltau&gt;}}.
+                -source-id rolj
+                -speaker qimar
+
+-entry:
+    -word gleki
+    -gloss happy, glad &mdash; source of happiness
+    -type gismu
+    -definition:
+        -meaning:
+            -exp x_1 is happy/merry/glad/gleeful about x_2 (event/state).
+            -example:
+                -lojban .i lo xanka mutce rirni cu {{gleki}} lo nu lo verba za'o jmive
+                -english The very anxious parents are happy that the child is still alive.
+                -source-id cmal
+            -example:
+                -lojban .i lo nu jelca cu crori'a ki'u lo nu mi tai {{gleki}} tu'a do
+                -english As they burned it hurt because I was so {{happy}} for you
+                -source-id stil
+
+
+-entry:
+    -word gunka
+    -gloss to work on, worker &mdash; to be worked on, work &mdash; purpose, goal
+    -type gismu
+    -definition:
+        -meaning:
+            -exp x_1 [person] labors/works on/at x_2 [activity] with goal/objective x_3.
+            -note Place structure parallels {{zukte}}.
+            -example:
+                -lojban .i mi {{gunka}} lo se junri cuntu
+                -english I {{am working on}} serious matters!
+                -source-id litt
+            -example:
+                -lojban .i la .gregor. cu so'i roi tirna lo nu ra nau zanru {{lo se gunka be lo mensi}}
+                -english Gregor would often hear them say how they appreciated {{the work his sister was doing}}.
+                -source-id meta
+            -example:
+                -lojban .i la cmalu cu {{gunka}} fi tu'a lo cilylarcu
+                -english Tiny {{was working}} on her sewing.
+                -source-id clan
+                -note This sentence can be understood as "Tiny was working, so her sewing [can look good]" (implicit parts in brackets), putting the {{tu'a lo cilylarcu}} in the x_3 place. If the {{tu'a lo cilylarcu}} were in the x_2 place the sentence would mean something like "Tiny was working on [finishing] her sewing".
+            -example:
+                -lojban .i te zu'e lo nu snada {{lo mi te gunka}} kei no stuzi se mau ti maptiu
+                -english For achieving {{my goal}}, no places is better than here.
+                -source-id inag

@@ -1,0 +1,131 @@
+-entry: 
+    -word jbomi'i
+    -type lujvo
+    -definition:
+        -meaning:
+            -exp <i>This word is not registered on jbovlaste.</i>
+-entry: 
+    -word lobypli
+    -type lujvo
+    -definition:
+        -meaning:
+            -exp <i>This word is not registered on jbovlaste.</i>
+-entry: 
+    -word tolcre
+    -type lujvo
+    -definition:
+        -meaning:
+            -exp <i>This word is not registered on jbovlaste.</i>
+-entry: 
+    -word cinsne
+    -type lujvo
+    -definition:
+        -meaning:
+            -exp <i>This word is not registered on jbovlaste.</i>
+-entry: 
+    -word mafyxli
+    -type lujvo
+    -definition:
+        -meaning:
+            -exp <i>This word is not registered on jbovlaste.</i>
+-entry: 
+    -word zdakemkulgu'a
+    -type lujvo
+    -definition:
+        -meaning:
+            -exp <i>This word is not registered on jbovlaste.</i>
+-entry: 
+    -word termu'eske
+    -type lujvo
+    -definition:
+        -meaning:
+            -exp <i>This word is not registered on jbovlaste.</i>
+-entry: 
+    -word selkei
+    -type lujvo
+    -definition:
+        -meaning:
+            -exp <i>This word is not registered on jbovlaste.</i>
+-entry: 
+    -word mlemencrekei
+    -type lujvo
+    -definition:
+        -meaning:
+            -exp <i>This word is not registered on jbovlaste.</i>
+-entry: 
+    -word sorta
+    -type gismu
+    -definition:
+        -meaning:
+            -exp <i>This word is not registered on jbovlaste.</i>
+-entry: 
+    -word kinda
+    -type gismu
+    -definition:
+        -meaning:
+            -exp <i>This word is not registered on jbovlaste.</i>
+-entry: 
+    -word datru
+    -type gismu
+    -definition:
+        -meaning:
+            -exp <i>This word is not registered on jbovlaste.</i>
+-entry: 
+    -word mletca
+    -type lujvo
+    -definition:
+        -meaning:
+            -exp <i>This word is not registered on jbovlaste.</i>
+-entry: 
+    -word vlasisku
+    -type lujvo
+    -definition:
+        -meaning:
+            -exp <i>This word is not registered on jbovlaste.</i>
+-entry: 
+    -word xunplini
+    -type lujvo
+    -definition:
+        -meaning:
+            -exp <i>This word is not registered on jbovlaste.</i>
+-entry: 
+    -word jbocme
+    -type lujvo
+    -definition:
+        -meaning:
+            -exp <i>This word is not registered on jbovlaste.</i>
+-entry: 
+    -word zdaspoja
+    -type lujvo
+    -definition:
+        -meaning:
+            -exp <i>This word is not registered on jbovlaste.</i>
+-entry: 
+    -word noltru
+    -type lujvo
+    -definition:
+        -meaning:
+            -exp <i>This word is not registered on jbovlaste.</i>
+-entry: 
+    -word cmocrida
+    -type lujvo
+    -definition:
+        -meaning:
+            -exp <i>This word is not registered on jbovlaste.</i>
+-entry: 
+    -word kajypla
+    -type lujvo
+    -definition:
+        -meaning:
+            -exp <i>This word is not registered on jbovlaste.</i>
+-entry: 
+    -word jbocei
+    -type lujvo
+    -definition:
+        -meaning:
+            -exp <i>This word is not registered on jbovlaste.</i>
+
+
+
+
+

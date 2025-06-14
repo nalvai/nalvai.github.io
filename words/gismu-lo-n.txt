@@ -1,0 +1,137 @@
+
+
+-entry:
+    -word melbi
+    -gloss beautiful, pretty &mdash; to find beautiful, to find pretty &mdash; beautiful aspect &mdash; beauty standard  
+    -type gismu
+    -definition:
+        -meaning:
+            -exp x_1 is beautiful/pleasant to x_2 in aspect x_3 (ka) by aesthetic standard x_4.
+            -example:
+                -lojban &mdash; .i grusi blanu ca .i {{melbi}} mi .i xu lo do tsani cu {{melbi}} do <br>&mdash; .i {{melbi}} mi lo ka dilnu claxu blanu
+                -english &mdash; It's grayish blue now. It's {{beautiful}} to me. Is your sky {{beautiful}} to you? <br>&mdash; It's {{beautiful}} to me in that it's blue without clouds.
+                -source-id rolj
+                -speaker la lunbe, niftg
+            -example:
+                -lojban .i pe'i ro bangu cu {{melbi fi da}}
+                -english I think every language {{is beautiful in some ways}}.
+                -source-id rolj
+                -speaker la xrula
+            -example:
+                -lojban .i ku'i mi {{se melbi}} le do ganto'a sai voksa
+                -english But I {{find}} your very deep voice {{beautiful}}.
+                -source-id rolj
+                -speaker la janbe
+
+
+-entry:
+    -word milxe
+    -gloss mild, somewhat, a little ..., a bit ... &mdash; a mild property
+    -type gismu
+    -definition:
+        -meaning:
+            -exp x_1 is mild/non-extreme/gentle/middling/somewhat in property x_2 (ka); x_1 is not very x_2.
+            -note Lacks a sumti slot for direction of mildness (corresponing to x<sub>3</sub> of {{mutce}}) compared to its antonym {{mutce}}.
+            -example:
+                -lojban .i la saix. jundi gi'e {{milxe lo ka jimpe}}
+                -english Sai listened and {{understood a little}}.
+                -source-id clan
+            -example:
+                -lojban .i la .varik. cu cusku {{le milxe be le ka ce'u smimlu}}
+                -english Varik said {{something mildly similar-looking}}. 
+                -source-id rolj
+                -speaker varik
+            -example:
+                -lojban .i je lo ji'a sai pilka cu {{crino milxe}}
+                -english And even [his] skin {{was of a greenish tint}}.
+                -source-id wond
+
+
+-entry:
+    -word mlatu
+    -gloss cat &mdash; breed/species of cat
+    -type gismu
+    -definition:
+        -meaning:
+            -exp x_1 is a cat/[puss/pussy/kitten] [feline animal] of species/breed x_2; (adjective:) x_1 is feline.
+            -note Usage of x<sub>2</sub> is not attested, though the place is mentioned quite often when discussing type-semantics of Lojban.
+            -example:
+                -lojban ju'o la .dinas. ca lo cabnicte ba mutce lo ka claxu mi to sa'a la .dinas. {{cu mlatu}} toi
+                -english Dinah will miss me very much tonight, I should think! (Dinah {{was the cat}}.)
+                -source-id alic
+            -example:
+                -lojban .i la .totos. pu bajra se ka'a lo midju be lo remgunma te zu'e lo nu gercmo fa'a {{lo citno mlatu}}
+                -english Toto had run into the crowd to bark at {{a kitten}}.
+                -source-id wond
+                -noshownote Would {lo cifnu mlatu} be better?
+
+-entry:
+    -word mutce
+    -gloss extreme, much, very &mdash; an extreme property
+    -type gismu
+    -definition:
+        -meaning:
+            -exp x_1 is much/extreme in property x_2 (ka), towards x_3 extreme/direction; x_1 is, in x_2, very x_3.
+            -note Has an additional sumti slot for direction of extremeness (x<sub>3</sub>) compared to its antonym {{milxe}}.
+            -example:
+                -lojban ni'o le se morji be mi cu {{mutce}} le ka kalsa 
+                -english My memories are {{very}} confused. 
+                -source-id book
+            -example:
+                -lojban .i cu'u so'e se slabu be mi mi {{mutce be fi tu'a lo mi se nanca be'o}} mencre
+                -english Most people who are familiar with me say I'm {{really}} smart {{for my age}}.
+                -source-id muhe
+            -example:
+                -lojban .i ja'e bo ca ku mi {{cinmo lo mutce}} gi'e kakne co zukte no da
+                -english As a result I {{am overwhelmed}} and cannot do anything now.
+                -source-id rolj
+                -speaker la nalvai
+                -note To be overwhelmed = To feel an extreme emotion
+
+
+-entry:
+    -word nandu
+    -gloss (of an event, activity) difficult, to be difficult to ... &mdash; to find ... difficult &mdash; (of a situation/condition) to make it difficult for ... 
+    -type gismu
+    -definition:
+        -meaning:
+            -exp x_1 is difficult/hard/challenging for x_2 under conditions x_3; x_1 challenges (non-agentive) x_2.
+            -example:
+                -lojban .i {{nandu}} fa lo ka du'eski lo mi nunmansa
+                -english {{It's hard to}} overstate my satisfaction
+                -source-id stil
+            -example:
+                -lojban .i so'i cnima'o cu fanva {{jai nandu}}
+                -english Many attitudinals {{are difficult}} to translate.
+                -note The {{so'i cnima'o}} is raised with {{jai}} since {{nandu}} takes abstraction (event, etc.) as x<sub>1</sub>.
+                -source-id rolj
+                -speaker la lunbe
+            -example:
+                -lojban ni'o lo ralju be {{lo nandu be la .alis.}} ca lo cfari cu nu jitro lo fagycpi
+                -english The chief {{difficulty Alice found}} at first was in managing her flamingo. 
+                -source-id alic
+            -example:
+                -lojban .i ru'a {{nandu fi}} lonu smuvrici
+                -english I assume it{{'s hard when}} it's ambiguous.
+                -source-id rolj
+                -speaker la melmi
+
+-entry:
+    -word nelci
+    -gloss to like, fond &mdash; to be liked
+    -type gismu
+    -definition:
+        -meaning:
+            -exp x_1 is fond of/likes/has a taste for x_2 (object/state).
+            -example:
+                -lojban .i mi {{nelci}} ro selci be do 
+                -english I {{like}} every one of your cells.
+                -source-id pram
+            -example:
+                -lojban .i mi {{nelci}} ca lo nicte lo nu tirna lo tarci 
+                -english At night I {{love to}} listen to the stars.
+                -source-id litt
+            -example:
+                -lojban ko te cmene fi {{lo do se nelci}}
+                -english Call it {{whatever you like}}.
+                -source-id alic

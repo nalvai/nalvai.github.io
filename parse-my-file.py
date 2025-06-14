@@ -1,4 +1,5 @@
 import re
+import os
 import json
 
 def parse_lines(lines):
@@ -63,8 +64,10 @@ with open("input.txt", "r", encoding="utf-8") as file:
 
 automated_data = parse_lines(lines)["entry"]
 
-with open("my-file.txt", "r", encoding="utf-8") as file:
-    lines = file.readlines()
+lines = []
+for file in os.listdir("words"):
+    with open(os.path.join("words", file), "r", encoding="utf-8") as file:
+        lines.extend(file.readlines())
 
 manual_data = parse_lines(lines)["entry"]
 

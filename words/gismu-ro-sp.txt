@@ -1,0 +1,79 @@
+
+
+-entry:
+    -word skari
+    -gloss to be colored, to have color &mdash; color, hue &mdash; to preceive color
+    -type gismu
+    -definition:
+        -meaning:
+            -exp x_1 is/appears to be of color/hue x_2 as perceived/seen by x_3 under conditions x_4.
+            -example:
+                -lojban lo fagri cu na {{skari lo drani}}
+                -english The fire is not {{of the right color}}.
+                -source-id nict
+            -example:
+                -lojban .i ju'o .ia ro prenu cu {{skari}} so'i melbi joi so'i fegli
+                -english I'm sure everyone's {{painted in colors}}, many beautiful and many ugly.
+                -source-id colo
+
+-entry:
+    -word simsa
+    -gloss similar, to be similar to ... &mdash; what x<sub>1</sub> is similar to &mdash; similarity, commonality
+    -type gismu
+    -definition:
+        -meaning:
+            -exp x_1 is similar/parallel to x_2 in property/quantity x_3 (ka/ni); x_1 looks/appears like x_2.
+            -example:
+                -lojban .i xu ko'a {{simsa}} lo .orfolei lo ka tabyselcmu pensi gi'e farvi fo lo rectu
+                -english Are they {{like}} the orfolei? [You know,] a carbon-based intelligence that goes through a meat stage?
+                -source-id made
+            -example:
+                -lojban .i mu'i bo ca da do binxo {{lo simsa be mi}}
+                -english Because one day, you'll become {{like me}}.
+                -source-id eggq
+
+-entry:
+    -word sipna
+    -gloss to sleep, asleep
+    -type gismu
+    -definition:
+        -meaning:
+            -exp x_1 is asleep (adjective); x_1 sleeps/is sleeping.
+            -example:
+                -lojban .i mi vlalinkei ca lo nu mi {{sipna}} 
+                -english I play <i>vlalinkei</i> while I{{'m asleep}}.
+                -source-id miju
+
+-entry:
+    -word smuni
+    -gloss meaning, interpretation &mdash; (of an expression, of an event...) to mean, to be taken as ... &mdash; to interpret 
+    -type gismu
+    -definition:
+        -meaning:
+            -exp x_1 is a meaning/interpretation of x_2 recognized/seen/accepted by x_3.
+            -note x<sub>1</sub> is normally an abstraction (most commonly a {{du'u}}); x<sub>2</sub> takes a wide range of types, with texts, desctiption, abstractions all being attested.
+            -example:
+                -lojban .i di'u zo'u ma {{smuni}} zo ta
+                -english What's {{the meaning of}} {ta} in the last sentence?
+                -source-id rolj
+                -speaker la nalvai
+            -example:
+                -lojban .i ru'a lo'u do cinmo ma doi ro do le'u {{se djica jai smuni}}
+                -english I assume "do cinmo ma doi ro do" {{is what [you] want it to mean}}.
+                -source-id rolj
+                -speaker la janbe
+                -note The {{jai}} raises the quote, {{lo'u do cinmo ma doi ro do le'u}}, into an abstraction so it can go into the x<sub>1</sub> place.
+            -example:
+                -lojban .i lo du'u da de natfe cu {{se smuni}} lo du'u da .o nai de ka'e jetnu
+                -english "A contradicts B" {{means}} only one of A and B can be true.
+                -source-id alic
+                -note This sentence is localized from the original text, so it doesn't match literally to the original. The {{da}} and {{de}} are being used as generic pronouns, which is a common usage in texts from the 2000s.
+            -example:
+                -lojban .i la'e di'u cu {{se smuni}} lo barda mukti la .gregor.
+                -english It {{is taken as}} a great motivation by Gregor.
+                -source-id meta
+            -example:
+                -lojban .i krinu lo nu mabla ja dukse {{te smuni}} noi je'u fasnu ma'i lo ma'a cecmu
+                -english This can lead to mis{{interpretation}} and/or over{{interpretation}} — and that is what happens in our community.
+                -source-id offi
+

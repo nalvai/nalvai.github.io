@@ -1,0 +1,25 @@
+
+-entry:
+    -word po
+    -gloss Relative phrase marker: is specific to ... 
+    -type cmavo
+    -rafsi-cvc 
+    -rafsi-ccv 
+    -rafsi-cvv 
+    -definition:
+        -selmaho GOI
+        -meaning:
+            -exp Restrictive relative phrase marker: which is specific to ...; normal possessive physical/legal.
+            -example:
+                -lojban ni'o pu ku ro prenu cu djuno fi lo makfa burcu {{po}} ko'a
+                -english Everyone knew about Liang{{'s}} magic brush.
+                -source-id lian
+    -definition:
+        -selmaho LOhOI
+        -meaning:
+            -variation jboponei
+            -exp Equivalent to {{lo su'u}}. Terminate with {{nei}} or {{tei}}.
+            -example:
+                -lojban .i mi djuno {{po}} zanfu'a ri
+                -english I know {{[how]}} lucky they are.
+                -source-id koid

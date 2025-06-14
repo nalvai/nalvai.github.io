@@ -1,0 +1,125 @@
+
+-entry:
+    -word fe'e
+    -gloss Preposition (tense) modifier: mark spatial tense
+    -type cmavo
+    -definition:
+        -selmaho FEhE
+        -meaning:
+            -exp Converts the following time tag into its space equivalent. The following time tag must be one of {{ZAhO}}, {{TAhE}} or {{number + ROI}}. 
+            -example:
+                -lojban .i dasni zei mulno lo crino {{fe'e co'a}} lo stedu {{fe'e co'u}} lo jamfu
+                -english [He was] clothed all in green, {{from}} his head {{to}} his feet.
+                -source-id wond
+                -note The {{co'a}} and {{co'u}} follow the BPFK interpretation.
+
+
+-entry:
+    -word fi'e
+    -gloss Preposition: created by...
+    -type cmavo
+    -definition:
+        -selmaho BAI
+        -meaning:
+            -exp Created by ...; Introduces an unnumbered sumti that plays the role of {{finti}}'s x<sub>1</sub> in the sentence.
+            -note The event described by the bridi is normally associated with the creation of something, and that the creator is the referent of the tagged sumti. Often seen in titles to indicate the author of a text. 
+            -example:
+                -lojban ki'e {{jai fi'e}} mupli
+                -english Thanks, example-{{creator}}!
+                -source-id jbob
+                -speaker la fagri
+            -example:
+                -lojban clani kerlo {{fi'e}} la fagri
+                -english Long Ears, {{by}} Fagri
+                -source-id clan
+            -example:
+                -lojban .i mi jinvi lo du'u so'i cnino zmadu zgike {{be fi'e mi}} cu zabna
+                -english I think many newer songs {{by me}} are nice.
+                -source-id rolj
+                -speaker la janbe
+            -example:
+                -lojban .i gidva ro da fa lo se platu {{be fi'e mi}}
+                -english {{My}} plans were guiding everything.
+                -source-id calc
+        -meaning:
+            -context {{se}} ~
+            -exp Creating work ...; Introduces an unnumbered sumti that plays the role of {{finti}}'s x<sub>2</sub> in the sentence.
+            -note The event described by the bridi is associated with the creation of the referent of the tagged sumti. {{se fi'e}} is unattested.
+        -meaning:
+            -context {{te}} ~
+            -exp Creating with purpose ...; Introduces an unnumbered sumti that plays the role of {{finti}}'s x<sub>3</sub> in the sentence.
+            -note The event described by the bridi is associated with some event of creation, for a purpose indicated by the referent of the tagged sumti.
+            -example:
+                -lojban .i pacna {{te fi'e}} po'o lo nu kulgu'a snada
+                -english I {{invented}} [dreams] merely {{in hopes of}} completing [my] homework. 
+                -source-id rout
+        -meaning:
+            -context {{ve}} ~
+            -exp Creating from ...; Introduces an unnumbered sumti that plays the role of {{finti}}'s x<sub>4</sub> in the sentence.
+            -note The event described by the bridi is associated with some event of creation, using pre-existing ideas or elements indicated by the referent of the tagged sumti. 
+            -example:
+                -lojban lo du'u nandu fa lo nu cusku lu'e lo smuni poi simsa zo javni ku'o {{vefi'e}} lo drata smuni cu nibli pe'i lo du'u le javni smuni cu xamgu zmadu
+                -english The difficulty in expressing something similar to "javni" {{from}} other meanings means that the official meaning is better IMO. 
+                -source-id jbob
+                -speaker _4Denthusiast
+
+
+
+
+-entry:
+    -word ge'i
+    -gloss Connective: forethought connective question
+    -type cmavo
+    -definition:
+        -selmaho GA
+        -meaning:
+            -exp Logical connective: all but tanru-internal forethought connective question. Asks the listener to supply a FLC that makes the containing statement true.
+            -note Supplanted with {{ga ji}} in JACU.
+            -example:
+                -lojban ni'o xu lo prenu co vajni cu {{ge'i}} ca ranji lo nu kansa ku {{gi}} ve'u sepli do gi'e pu co'a cliva fi lo drata se litru
+                -english As for the people important [to you], do they continue to accompany you{{? Or}} are they now distant and separated from you, having departed via their own paths{{?}}
+                -source-id lett
+
+-entry:
+    -word ji
+    -gloss Connective: sumti afterthought connective question
+    -type cmavo
+    -rafsi-cvc
+    -rafsi-ccv 
+    -rafsi-cvv 
+    -definition:
+        -selmaho A
+        -meaning:
+            -exp Logical connective: sumti afterthought connective question. Connects two sumti and asks the listener to supply a sumti afterthought connective that makes the containing bridi true. 
+            -example:
+                -lojban cacra li re vo pe'i {{ji}} li pa re pei
+                -english Twenty-four hours, I think; {{or}} is it twelve{{?}}
+                -source-id alic
+    -definition:
+        -selmaho JA
+        -meaning:
+            -variation JACU
+            -exp Connective: connective question. Connects two grammatical constructs of the same type and asks the listener to supply a connective that makes the containing bridi true. 
+            -example:
+                -lojban ― coi jbope'o mi'e zi sipna <br> ― puzi {{ji}} bazi <br> ― naje li'abu'o u'i
+                -english ― Hello Lojban friends, I'm sleeping (from a short distance in time from now) <br> ― To the past {{or}} to the future? <br> ― The latter, should be obvious now, haha.
+                -source-id rolj
+                -speaker la srasu, la evis
+                -note The middle sentence would be {{puzi <u>je'i</u> bazi}} under CLL Lojban.
+
+
+
+
+-entry:
+    -word ji'a
+    -gloss Discursive: additionally
+    -type cmavo
+    -definition:
+        -selmaho UI3b
+        -meaning:
+            -exp Discursive: indicate an additional case or additional cases.
+            -note Keywords include "also", "too", "additionally", "in addition", "as well", "moreover", "furthermore", "to boot", "even".
+            -example:
+                -lojban .i lo munje cu palci je'u .i {{ji'a}} lo nu jmive cu nibli lo nu cortu
+                -english The world is truly evil, {{and}} living implies suffering.
+                -source-id kuhi

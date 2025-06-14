@@ -1,0 +1,93 @@
+
+-entry:
+    -word kakne
+    -gloss to be able to &mdash; (of an event) possible, (an) ability &mdash; condition of possibility/ability 
+    -type gismu
+    -definition:
+        -meaning:
+            -exp x_1 is able to do/be/capable of doing/being x_2 (event/state) under conditions x_3 (event/state).
+            -example:
+                -lojban .i flegau fi lo kabri djacu lo kevna be lo kumfa .i lo tsiju cu {{kakne}} lo ka bloti kei lo ka go'i
+                -english Pour a cup of water into a depression in a room, then a seed can be a boat.
+                -source-id care
+                -note The first sentence is the condition of the second, as seen in the {{lo ka go'i}} as the second sentence's x_3.
+            -example:
+                -lojban ki'e .i mi {{kakne}} lo nu tcidu de'u kei lo nu na sidju
+                -english Thanks, I {{can}} read it without help.
+                -source-id rolj
+                -speaker la bakre'u
+            -example:
+                -lojban .i la'e di'u {{na se kakne}}
+                -english That's {{impossible}}.
+                -source-id made
+            -example:
+                -lojban .i xy. nurgau xy. {{ta'i lo se kakne}}
+                -english They reassure themselves {{as best they can}}.
+                -source-id litt
+
+
+-entry:
+    -word kelci
+    -gloss to play, player &mdash; game, plaything, toy
+    -type gismu
+    -definition:
+        -meaning:
+            -exp x_1 [agent] plays with plaything/toy x_2.
+            -note The meaning of "to play (a musical instrument)" is attested (most notably in <i>The Metamorphosis</i>), but is dated (last attested in 2018) and sometimes proscribed. Despite the jbovlaste definition, the x<sub>2</sub> is most commonly intepreted as "game". The x<sub>2</sub> is generally a descriptive sumti and rarely an abstraction.
+            -example:
+                -lojban .i ko zgana le nu le mlatu cu {{kelci}} le kelproga
+                -english Watch this cat {{playing}} the video game.
+                -source-id rolj
+                -speaker yeet kitty
+            -example:
+                -lojban .i {{kelci}} lo nu gismu ke pixra smadi
+                -english [We're] {{playing}} "guessing gismu from pictures".
+                -source-id jbob
+                -speaker misotanni
+                -note A rare occasion of an event being in the x<sub>2</sub> of {{kelci}}. Judging from the conversation around it, the game seems to have rules of "one person draws a picture, and others try to guess what gismu it represents", and it is played on skribbl.io.
+            -example:
+                -lojban lo cnino tadji cu {{se kelci}} se mau lo nu nandu se troci
+                -english The new method {{was}} more {{of a game}} than an effort.
+                -source-id meta
+
+-entry:
+    -word klaku
+    -gloss to cry, to weep &mdash; tear &mdash; reason of crying, to be cried about
+    -type gismu
+    -definition:
+        -meaning:
+            -exp x_1 weeps/cries tears x_2 about/for reason x_3 (event/state).
+            -example:
+                -lojban .i se ki'u bo ro jabyboi cu binxo {{lo se klaku}}
+                -english And then the little bells are changed to {{tears}}.
+                -source-id litt
+            -example:
+                -lojban .i ko na {{klaku fi le marji}}
+                -english Don't {{cry for that material existence}}.
+                -source-id srur
+
+
+-entry:
+    -word klama
+    -gloss to go, to come &mdash; destination &mdash; origin, start &mdash; route &mdash; means of movement
+    -type gismu
+    -definition:
+        -meaning:
+            -exp x_1 comes/goes to destination x_2 from origin x_3 via route x_4 using means/vehicle x_5.
+            -example:
+                -lojban mi {{klama}} .ii le tsani le mi munje be lo xrani
+                -english I'm scared, but I'm {{going}} to the sky away from my world full of trauma
+                -source-id srur
+            -example:
+                -lojban .i le karce zo'a {{flecu klama}} fo le dargu pe le bartu noi ca'o manku binxo
+                -english Cars {{slushed}} by on the street outside, where it was getting dark.
+                -source-id ings
+            -example:
+                -lojban .i mi {{klama fu}} le roldepre'e .a'o
+                -english I hope I can {{ride}} the local train still.
+                -source-id lagt
+                -note {{roldepre'e}} expands to {{ro denpa trene}}, Train that stops at every [station] = Local train.
+            -example:
+                -lojban .i ku'i mi se slabu lo go'i po'o {{ve klama}}
+                -english But I'm only familiar with said {{route}}.
+                -source-id muhe

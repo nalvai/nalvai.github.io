@@ -1,0 +1,34 @@
+
+-entry:
+    -word bangu
+    -gloss language &mdash; to use (a language) &mdash; to be expressed with a language
+    -type gismu
+    -definition:
+        -meaning:
+            -exp x_1 is a/the language/dialect used by x_2 to express/communicate x_3 (si'o/du'u, not quote).
+            -note For "(of a text) to be written in a language", both x_2 and x_3 are attested, though using x_3 is more common. See quotes.
+            -example:
+                -lojban .i pe'i cizra milxe fa lo nu krici lo du'u lo jugbau cu {{bangu}} le ceizda 
+                -english I think it's a little strange to believe that Chinese {{is the language of}} Heaven.
+                -source-id rolj
+                -speaker la nalvai
+            -example:
+                -lojban .i ku'i mu'a la'a cu'i so'o da {{co'a se bangu}} 
+                -english But, for example, there might be some {{emerging speakers [of the language]}}.
+                -source-id asse
+            -example:
+                -lojban .i le dei pagbu cu ro roi {{se bangu la .gliban}}.
+                -english This page is always {{in English}}.
+                -note Example of "(of a text) to be written in a language" expressed with x_2 of {{bangu}}.
+                -source-id nict
+            -example:
+                -lojban ni'o da ze'u krici lo du'u lo tai selse'analka'e cukta cu {{te bangu}} fi lo prutce ja darno
+                -english For a long time it was believed that those impenetrable books {{were in}} ancient or distant {{languages}}.
+                -note Example of "(of a text) to be written in a language" expressed with x_3 of {{bangu}}.
+                -source-id libr
+            -example:
+                -lojban .i mi jinvi lo du'u lo me zoi gy jbo.wikipedia.org gy cu bilga co {{te bangu fi lo jbobau}}
+                -english I think stuffs in jbo.wikipedia.org should {{be in Lojban}}.
+                -note Example of "(of a text) to be written in a language" expressed with x_3 of {{bangu}}.
+                -source-id rolj
+                -speaker la srasu

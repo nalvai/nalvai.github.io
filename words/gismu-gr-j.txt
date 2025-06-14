@@ -1,0 +1,42 @@
+
+
+-entry:
+    -word jimpe
+    -gloss to understand, to comprehend (a fact) &mdash; fact understood &mdash; subject of understanding
+    -type gismu
+    -definition:
+        -meaning:
+            -exp x_1 understands/comprehends fact/truth x_2 (du'u) about subject x_3; x1 understands (fi) x3.
+            -example:
+                -lojban mi {{jimpe}} lo du'u do ma kau cinmo
+                -english I {{understand}} how you feel.
+                -source-id wond
+            -example:
+                -lojban .i .a bu snada lo ka {{jimpe}} tu'a lo valsi
+                -english She (Alice) made out the words.
+                -source-id alic
+                -note Make out the words = Succeed to understand the words.
+            -example:
+                -lojban .i {{jimpe}} fi lo selcni .i .au kelci ne'i le xamsi pe'a
+                -english {{Understanding}} emotions, I want to play in the (figurative) ocean.
+                -source-id diam
+            -example:
+                -lojban .i do terpa lo nu mi jai gau xrani do se pi'o {{lo se jimpe be mi}}
+                -english You fear that I'll cause harm to you with {{my understandings}}.
+                -source-id nict
+
+-entry:
+    -word jundi
+    -gloss to pay attention to, to mind, attentive &mdash; focus of attention
+    -type gismu
+    -definition:
+        -meaning:
+            -exp x_1 is attentive towards/attends/tends/pays attention to object/affair x_2.
+            -example:
+                -lojban .i ko {{jundi}} le mi selsa'a
+                -english {{Pay attention}} to my song!
+                -source-id guit
+            -example:
+                -lojban .i ca lo cabna cedra na prali fi lo nu {{na jundi}} tu'a lo bangu klesi
+                -english In the current times, there's no use in {{ignoring}} the dialects.
+                -source-id offi

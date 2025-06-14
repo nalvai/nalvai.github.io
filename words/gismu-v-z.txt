@@ -1,0 +1,113 @@
+
+-entry:
+    -word valsi
+    -gloss word, (of a word) to mean &mdash; meaning (of a word) &mdash; (of a language) to have a word for...
+    -type gismu
+    -rafsi-cvc val
+    -rafsi-ccv vla
+    -rafsi-cvv 
+    -definition:
+        -meaning:
+            -exp x_1 is a word meaning/causing x_2 in language x_3; (adjective: x_1 is lexical/verbal).
+            -example:
+                -lojban .i ma {{valsi}} zo xa'o le do pambau
+                -english What {{is the word for}} "too soon" in the language of your love?
+                -source-id baid
+            -example:
+                -lojban .i ku'i pau le'o sai zo makcu ma cu {{valsi}}
+                -english But what the hell does "adult" {{mean}} to begin with?
+                -source-id lost
+
+
+-entry:
+    -word xamgu
+    -gloss beneficial, good &mdash; to benefit  
+    -type gismu
+    -definition:
+        -meaning:
+            -exp x_1 (object/event) is good/beneficial/nice/[acceptable] for x_2 by standard x_3.
+            -example:
+                -lojban .i zu'u nai lo nu rapsku cu {{xamgu}} .a bu lo nu cilre
+                -english On the other hand, repeating {{is good}} for her (= Alice's) learning.
+                -source-id alic
+            -example:
+                -lojban {{xamgu fi}} lo nu drani lo ka lo slaka cu rilti
+                -english It's {{good in the sense that}} it scans properly.
+                -note "scans properly" = "correct in that the syllables makes a rhythm".
+                -source-id rolj
+                -speaker Magnap
+            -example:
+                -lojban .i je ku'i ri {{se xamgu}} ju'o lo nu lo plini cu glare zenba
+                -english But it certainly {{benefits from}} the planet warming.
+                -source-id anta
+
+-entry:
+    -word xunre
+    -gloss (to be) red
+    -type gismu
+    -definition:
+        -meaning:
+            -exp x_1 is red/crimson/ruddy [color adjective].
+            -example:
+                -lojban .i lo slami vanju {{cu xunre}}
+                -english The acidic wine {{is red}}.
+                -source-id cipr
+            -example:
+                -lojban .i crigau lo molmla .e lo ctebi {{lo ka xunre kei}} ja'e lo nu grusi fa vo'e ji'a
+                -english [They] had taken {{the red}} from her cheeks and lips, and (as a result) they were gray also.
+                -source-id wond
+            -example:
+                -lojban .i lo te gusni be fi {{lo xunre}} cu co'u se ganse ca lonu dy de'a vasxu ja'e loka smaji mulno kei kei
+                -english The source of {{the red [light]}} was stopped being sensed when he stopped breathing and became completely silent.
+                -source-id nufa
+
+-entry:
+    -word zgana
+    -gloss to observe, observer &mdash; to be observered &mdash; means of observation
+    -type gismu
+    -definition:
+        -meaning:
+            -exp x_1 observes/[notices]/watches/beholds x_2 using senses/means x_3 under conditions x_4.
+            -note Attested usage of this word displays family resemblance, ranging from "to watch" to "to behold" to "to feel" to "to notice". Community usage usually aligns with the English usage of "watch" (e.g. {{zgana lo skina}} is common but {{zgana lo pixra}} is rare). I didn't find usage of the x<sub>3</sub> and x<sub>4</sub> places.
+            -example:
+                -lojban .i ko'e {{zgana}} le nu le cifnu cu cliva vo'a 
+                -english She {{felt}} the baby going from her. 
+                -source-id ings
+            -example:
+                -lojban .i do ba {{zgana}} lo nu mi ja'a sai te tinbe
+                -english You will {{see}} I am indeed obeyed! 
+                -source-id litt
+            -example:
+                -lojban ca lo jibni lo lojbo ku se xlali lo {{frili se zgana}} poi pagbu lo vanbi be lo bangu
+                -english Recently, Lojbanists are suffering from the {{easily-noticed}} part of the environment of the language.
+                -source-id offi
+            -example:
+                -lojban ca ku zo'u mi {{zgana}} co skina la andor
+                -english For now I'm {{watching}} the video [series] "Andor".
+                -source-id rolj
+                -speaker qimar
+
+
+-entry:
+    -word zvati
+    -gloss to be (present) at &mdash; place, location
+    -type gismu
+    -definition:
+        -meaning:
+            -exp x_1 (object/event) is at/attending/present at x_2 (event/location).
+            -example:
+                -lojban lo finpe cu {{zvati}} ma
+                -english Where {{are}} the fish?
+                -source-id lian
+            -example:
+                -lojban .i ca facki lo du'u pa ractu ku {{co'a zvati}} le kumfa
+                -english And now, they discovered that a rabbit {{had entered}} the room.
+                -source-id melb
+            -example:
+                -lojban .i lo cmalu noltru noi {{zvati lo nu zvagau lo barda balji}} cu birti lo du'u ba barkla by fa lo se manci tolcanci
+                -english The little prince, who {{was present at the appearance of a huge bud}}, was sure that some sort of miraculous apparition must emerge from it.
+                -source-id litt
+            -example:
+                -lojban .i {{lo se zvati be mi}} cu tolmanku ze'i lo snidu
+                -english {{The place where I am}} lit up for a second.
+                -source-id zaho

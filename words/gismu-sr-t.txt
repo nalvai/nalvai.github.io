@@ -1,0 +1,19 @@
+
+
+
+-entry:
+    -word tavla
+    -gloss to tell, to talk to &mdash; to be talked to &mdash; subject of talk &mdash; language used  
+    -type gismu
+    -definition:
+        -meaning:
+            -exp x_1 talks/speaks to x_2 about subject x_3 in language x_4.
+            -example:
+                -lojban .i la .cíluuax. .ainmo lo ka {{tavla}} la cmalu le nu cy. fliba
+                -english Sheelua intended to {{talk}} to Tiny about her (= Tiny's) failures.
+                -source-id clan
+            -example:
+                -lojban ni'o la .stefen. co'a sanga gi'e {{tavla}} fi lo nu litru vau la .gliban.
+                -english Stefen started to sing and {{talked}} about the journey in English.
+                -source-id nict
+                -noshownote The original has {{je}} instead of {{gi'e}}

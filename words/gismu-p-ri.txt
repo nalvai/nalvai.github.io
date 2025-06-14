@@ -1,0 +1,32 @@
+
+-entry:
+    -word prenu
+    -gloss people, person
+    -type gismu
+    -definition:
+        -meaning:
+            -exp x_1 is a person/people (noun) [not necessarily human]; x_1 displays personality/a persona.
+            -example:
+                -lojban .i ro {{prenu}} cu mrobi'o 
+                -english Every {{person}} dies.
+                -source-id eggq
+
+-entry:
+    -word pilno
+    -gloss to use, to employ &mdash; to be used, tool &mdash; function, purpose
+    -type gismu
+    -definition:
+        -meaning:
+            -exp x_1 uses/employs x_2 [tool, apparatus, machine, agent, acting entity, material] for purpose x_3.
+            -example:
+                -lojban ro'e pe'i va {{pilno}} lo dikca lo nu jukpa
+                -english Aha, they must {{use}} electricity to cook there.
+                -source-id rest
+            -example:
+                -lojban .i mu'i ku so'i da {{pilno}} lo laldo ve cilre lo ka cilre fi lo catni lojbo
+                -english Because of it, many {{used}} old textbooks to learn the official Lojban.
+                -source-id offi
+            -example:
+                -lojban .i ma ca sevzi {{te pilno}} le bangu 
+                -english What is the current identity {{function}} of the language?
+                -source-id asse

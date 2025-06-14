@@ -1,0 +1,28 @@
+
+-entry:
+    -word to
+    -gloss Text Structure: Open parenthesis
+    -type cmavo
+    -contributor la ninlat.
+    -definition:
+        -selmaho TO
+        -meaning:
+            -exp Opens a parenthetical note. The text inside must be grammatical Lojban. Terminate with {{toi}}.
+            -note The text inside contains additional information that isn't essential to the meaning of the sentence, but can still help. 
+            -example:
+                -lojban .i mi djuno ri'a lo su'u mi cmima le jatna kamni pe la logbau skejgu {{to la'o gy ~ The Loglan Institute ~ gy toi}}
+                -english I know, because I'm a member of the leader comitee associated with the science institute of Loglan {{([English] ~ The Loglan Institute ~)}}
+                -source-id rolj
+                -speaker la janbe
+            -example:
+                -lojban le mi bruna {{to se rirni le se rirni pe le mamta pe le mi mamta toi}} cu bilma
+                -english My brother, {{(my mother's mother's child's child)}} is ill.
+                -source-id rolj
+                -speaker la kanis
+                -note Note that the {{toi}} in this sentence is elidable, as the content in the parentheses cannot take the second selbri introduced by {{cu}}.
+            -example:
+                -lojban .i da'i {{to se va'u lo nu darlu toi}} lo jmive je pensi cu kakne lo nu zasti ze'o lo bitmu be lo botpi
+                -english ..., granting {{(for the sake of argument)}} that life and thought exist beyond the walls of the caraffe.
+                -source-id cloc
+                -note If the {{toi}} was elided in this sentence, the parentheses will automatically close just before the {{cu}}, for the same reason as in the previous example.
+

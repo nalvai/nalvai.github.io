@@ -1,0 +1,350 @@
+-entry:
+    -word a
+    -gloss Connective: sumti afterthought or
+    -type cmavo
+    -rafsi-cvc
+    -rafsi-ccv 
+    -rafsi-cvv 
+    -definition:
+        -selmaho A
+        -meaning:
+            -exp Logical connective: sumti afterthought or. Connects two sumti, such that the containing bridi is true if and only if it is true for at least one of the connected sumti.
+            -note Supplanted with {{ja}} in JACU.
+            -example:
+                -lojban .i xu mi klama lo mu'a ceizda {{.a}} lo mu'a pacraistu
+                -english Do I go to, say, heaven {{or}} hell?
+                -source-id eggq
+        -meaning:
+            -context ~ {{bu}} 
+            -exp Letteral for a. When used alone, refers to the most recent sumti starting with {{a}}.
+            -example:
+                -lojban .i ro da sutra fa'a {{la .alis.}} ca lo nu {{.a bu}} tolcanci
+                -english They all made a rush at {{Alice}} the moment {{she}} (= Alice) appeared.
+                -source-id alic
+    -definition:
+        -selmaho I
+        -meaning:
+            -variation ajbo
+            -exp Equivalent to {{.i pau}}. Starts a sentence that is by default a question.
+            -note Adopting ajbo prerequires adopting JACU. A sentence started with {{.a}} always contains a question marker ({{xu}}, {{ma}}, {{mo}} etc.) 
+            -example:
+                -lojban {{.a xu}} do pu zi mo'u gunka tu'a lo do jibri
+                -english Did you just finished your job{{?}}
+                -source-id rolj
+                -speaker la srasu
+            -example:
+                -lojban {{.anai}} la loglan cu jbobau xu .i na go'i ni'i loka lujvo {{.a xu}} ku'i la loglan cu lojbo bangu
+                -english Is Loglan Lojban{{?}} It's not because of the lujvo [structure]. But is Loglan some kind of Lojban-ic language{{?}}
+                -source-id rolj
+                -speaker la melmi
+                -note The first sentence seems to be a question where the speaker is asking themselves or is expecting a negative answer, but it's hard to say for sure because there are no other instences of {{.anai}} in similar usage.
+        -meaning:
+            -variation ajbo
+            -context ~ {{nai}}
+            -exp Starts a response to a question.
+            -example:
+                -lojban &mdash; .i nancaji li xo <br> &mdash; {{.anai}} reze
+                -english &mdash; How old are you (in years)? <br> &mdash; Twenty-seven.
+                -source-id rolj
+                -speaker la nonselcme, la srasu
+                -note The former sentence is compatible with CLL Lojban. The latter is in ajbo.
+        -meaning:
+            -variation ajbo
+            -context ~ {{nai}}
+            -exp Starts a rhetorical question.
+            -note This meaning is only attested once, making it a hapax. This usage is listed separately because this usage is mentioned (but not used) by other speakers.
+            -example:
+                -lojban {{.anai}} la catra cu catra xu zo'o
+                -english Does "Killer" kill{{? /j}}
+                -source-id rolj
+                -note This is the only instance of {{.a nai}} being used as a rhetorical question starter.
+                -speaker .kúblizel.
+
+
+-entry:
+    -word ai
+    -gloss Attitudinal: intention &mdash; indicision/hesitation &mdash; refusal 
+    -type cmavo
+    -definition:
+        -selmaho UI1
+        -meaning:
+            -exp Attitudinal: express intent / purpose / design.
+            -example:
+                -lojban .i {{.ai}} mi ba snada ro se troci
+                -english I{{'ll}} succeed in everything I try.
+                -source-id zaho
+        -meaning:
+            -context ~ {{cu'i}}
+            -exp Attitudinal: express indecision / hesitation / vacillation / wavering.
+            -example:
+                -lojban ― .i pu zi co'i mo'u tinzga 100 zo'e .ibo ca surla .i {{.aicu'i}} tinzga lo velvi'u 400mei
+                -english ― Just finished listening to the first 100 and am now taking a break. {{Unsure if}} I'll listen to the remaining 400.
+                -source-id rolj
+                -speaker la lalxu
+        -meaning:
+            -context ~ {{nai}}
+            -exp Attitudinal: express rejection / refusal.
+            -note BPFK proposed changing it to "express unintention / accidentiality", but I didn't find usage of that.
+            -example:
+                -lojban .i go pu'o zei ganlo se morji gi ne'i la'e di'u milxe bacru za'a sei {{.ai nai}} tolmo'i
+                -english The unclosed memories, I hear whispers inside them that {{we never want to}} forget.
+                -source-id alwa
+
+
+-entry:
+    -word a'o
+    -gloss Attitudinal: hope &mdash; despair 
+    -type cmavo
+    -definition:
+        -selmaho UI1
+        -meaning:
+            -exp Attitudinal: express hope / longing.
+            -example:
+                -lojban .i a'o ro da zabna
+                -english {{I hope}} everything is good.
+                -source-id clax
+        -meaning:
+            -context ~ {{nai}}
+            -exp Attitudinal: express despair / hopelessness / dread / fear.
+            -example:
+                -lojban .i le trene pu zi co'a cliva se ka'a lo tcadu poi darno {{.a'o nai}}
+                -english The train's just started to leave for the faraway city, {{oh no...}}
+                -source-id lagt
+                -noshownote The original has {{ca'o}} instead of {{co'a}}
+
+
+-entry:
+    -word a'u
+    -gloss Attitudinal: interest &mdash; disinterest/indifference &mdash; repulsion
+    -type cmavo
+    -definition:
+        -selmaho UI1
+        -meaning:
+            -exp Attitudinal: express interest / curiosity / concern / preoccupation.
+            -example:
+                -lojban .i {{.a'u sai}} .i ti lo nu mi sipna cu fanmo
+                -english {{Cool,}} this is the end of my sleep.
+                -source-id zaho
+        -meaning:
+            -context ~ {{cu'i}}
+            -exp Attitudinal: express disinterest / uninterest / unconcern / apathy / detachment / indifference. 
+            -example:
+                -lojban {{.a'ucu'i}} .i ka'u mi'o na ba se fatri lo do'anai bongu .oi
+                -english {{Whatever.}} Now he won't even share the bones with us anyway...
+                -source-id rest
+        -meaning:
+            -context ~ {{nai}}
+            -exp Attitudinal: express repulsion / aversion / disgust / distaste / repugnance. 
+            -example:
+                -lojban {{.a'u nai}} bu'o pilno lo do voksa
+                -english I {{don't want to}} use your voice anymore!
+                -source-id odds
+
+-entry:
+    -word ba'e
+    -gloss Emphasize next word
+    -type cmavo
+    -definition:
+        -selmaho BAhE
+        -meaning:
+            -exp Forethought emphasis indicator: Indicates that next word is especially emphasized or emphatic. 
+            -note For grammatical purposes, {{ba'e}} marks the following word but does not change its nature. (The construct behaves just as the marked word by itself.) Multiple BAhE cmavo may be used in succession, and they combine to mark the next non-BAhE word.
+            -example:
+                -lojban .i ja'o mi bilga lo nu jmina finti {{ba'e so}} lo tricu
+                -english So I have to create {{<em>nine</em>}} more trees to add.
+                -source-id layo
+            -example:
+                -lojban .e'e ju'o ca le {{ba'e ca}} jeftu mi roldei tcidu ro se ciska be ro le mi jbope'o
+                -english {{<em>This</em>}} week, I definitely can read every day what all my Lojban friends have written!
+                -source-id rolj
+                -speaker latkerlo
+            -example:
+                -lojban .i xu {{ba'e do}} nelci lo mlatu va'o lo nu da'i do me mi
+                -english Would {{<em>you</em>}} like cats if you were me?
+                -source-id alic
+                -note The speaker is a mouse.
+
+
+-entry:
+    -word ba'o
+    -gloss Preposition (tense): retrospective
+    -type cmavo
+    -rafsi-cvc 
+    -rafsi-ccv 
+    -rafsi-cvv 
+    -definition:
+        -selmaho ZAhO
+        -meaning:
+            -exp Retrospective/perfect: signifies that the event has already ended; already.
+            -example:
+                -lojban .i lo jitro be lo te lanme {{ba'o}} cliva lo ra cmana
+                -english The shepherd of the flock {{has already}} left his hill.
+                -source-id lojb
+        -meaning:
+            -context When followed by a sumti 
+            -variation CLL
+            -exp in the aftermath of ...; since ...
+            -example:
+                -lojban ni'o {{ba'o}} le krixa ke cladu savru cu co'a klaku fa pi ro le drata prenu
+                -english {{After}} the deafeningly noisy screaming, everyone else started to cry.
+                -source-id head
+        -meaning:
+            -context When followed by a sumti 
+            -variation BPFK
+            -exp is already ended when ...
+
+-entry:
+    -word bo
+    -gloss Grouping: short scope link, strong binding
+    -type cmavo
+    -definition:
+        -selmaho BO
+        -meaning: 
+            -exp Short scope link. Used in various grammatical constructions and acts as a high precedence link, overriding usual left-grouping rules. Chains linked with {{bo}} are grouped to the right. Specific usages are explained below.
+        -meaning:
+            -context Inside a tanru 
+            -exp Joins tanru units, binding them together closely.
+            -example:
+                -lojban ni'o ze mo'o fenki tcati {{bo}} kansi'u
+                -english VII. The mad tea{{-}}party
+                -source-id alic
+                -note The {{bo}} directly corresponds to the hyphen in the English text. Without the {{bo}} the tanru will group as {{[fenki tcati] kansi'u}}, which roughly translates to "the <em>mad-tea</em> party".
+        -meaning:
+            -context Directly after a connective 
+            -exp Override the default left-grouping in chained connectives. Constituents connected by connectives with {{bo}} are grouped first. Chains linked with {{bo}} are grouped to the right.
+            -example:
+                -lojban .i ku'i mi pu ku tcidu ba'e so'u pagbu be le to'e censa se ciska gi'e ba bo ga'orgau le cukta {{gi'e bo}} co'a bevri
+                -english Yet I had read only the least fragment of that blasphemous rune before closing the book and bringing it away.
+                -source-id book
+                -note The English sentence is grouped as "I had read... before [closing the book and bringing it away]". If the underlined {{bo}} wasn't there, it'll group as "I had [read... before closing the book] and bringing it away". This example also shows the right-grouping rule with chained {{bo}}: The {{gi'e ba bo}} in the example has a lower priority because it is to the left of the underlined {{gi'e bo}}.
+        -meaning:
+            -variation CLL
+            -context Between a NAhE and a sumti 
+            -exp Binds NAhE and the sumti together.
+            -note Not required in later grammars such as camxes beta or zantufa.
+            -example:
+                -lojban .i mi ka'e binxo lo makcu prenu noi se cinri no {{na'e bo}} lo namcu
+                -english I may become like the grown-ups who are interested in anything nothing {{other than}} figures.
+                -source-id litt
+        -meaning:
+            -context After {{.i}} and a BAI modal 
+            -exp Forms a sentence link along with {{.i}} and the BAI modal. The resulting sentence link ({{.i BAI bo}}) tags the latter bridi as a whole by the BAI modal, and incorporates it to the former (main) bridi. {{BRIDI<sub>1</sub> .i BAI bo BRIDI<sub>2</sub>}} has a similar meaning to {{BRIDI<sub>1</sub> BAI lo su'u BRIDI<sub>2</sub>}} or {{lo su'u BRIDI<sub>2</sub> cu SELBRI lo su'u BRIDI<sub>1</sub>}} (where {{BAI}} is the modal for {{SELBRI}}), but {{.i BAI bo}} also asserts that both the linked bridi are true.
+            -example:
+                -lojban ni'o lo ka jinga nalka'e cu nalvai {{.i mu'i bo}} mi klama be tu mutce bo djica
+                -english It doesn't matter that I can't win, {{because}} I really want to go there.
+                -source-id aisl
+                -note The second {{bo}} in this example is of another usage (that inside a tanru). 
+        -meaning:
+            -context After {{.i}} and a tense 
+            -exp Forms a sentence link along with {{.i}} and the tense. The resulting sentence link ({{.i TENSE bo}}) tags the latter bridi as a whole by the <strong><em>opposite</em></strong> of the tense, and incorporates it to the former (main) bridi. {{BRIDI<sub>1</sub> .i TENSE bo BRIDI<sub>2</sub>}} has a similar meaning to {{BRIDI<sub>2</sub> TENSE lo su'u BRIDI<sub>1</sub>}}, but {{.i TENSE bo}} also asserts that both the linked bridi are true.
+            -note The implication of the relationship between connected sentences is the opposite for modals and tenses. The reason is likely historical, as said in <i>Lojban for Beginners (p. 110)</i>: "The very astute reader will have noted that ‘afterwards’ should have been {{.i pu bo}}; the analogy with {{ba ku}} won out, though."
+            -example:
+                -lojban .e'u mi'o klama lo korbi {{.i ba bo}} mi do jungau lo lisri be mi
+                -english Let us get to the shore, {{and then}} I'll let you know my story.
+                -source-id alic
+        -meaning:
+            -context After a connective and a BAI modal 
+            -exp Binds the connective and the model so that the model signifies the relation between the connected elements. {{.i je BAI bo}} are similar in meaning to {{.i BAI bo}}, and the meanings of other connectives can inferred analogously.
+            -note This usage is not unique to {{bo}}. Other grouping words like {{ke}} can also do this, but only those with {{bo}} are attested. 
+            -example:
+                -lojban .i ca ro dunra lo clika co'a dunja {{je ja'e bo}} sligu
+                -english Every winter the moss freezes {{and becomes}} solid {{as a result}}.
+                -source-id anta
+        -meaning:
+            -context After a connective and a tense 
+            -exp Binds the connective and the tense so that the tense signifies the time relation between the connected elements. {{.i je TENSE bo}} are similar in meaning to {{.i TENSE bo}}, and the meanings of other connectives can inferred analogously.
+            -note This usage is not unique to {{bo}}. Other grouping words like {{ke}} can also do this, but only those with {{bo}} are attested.  
+            -example:
+                -lojban .i loi sorska cinta ko fi ko'a cu se punji {{.i je ba bo}} loi xekri tabno ko'a gacri
+                -english Paint it with colorful pigments, {{and soon enough}} it'll be covered in black charcoal.
+                -source-id arma
+        -meaning:
+            -context After plain {{.i}}
+            -variation zantufa
+            -exp Forms a sentence link along with {{.i}}. The resulting sentence link separates bridi, but doesn't reset bridi level. Multiple bridi separated with {{.i bo}} shares the same prenex.
+            -note The above explanation is taken from roljbogu'e chatlog, under said explanation {{.i bo}} is analogous to {{.i je}}. In actual usage, however, {{.i bo}} often resets bridi level, making {{.i ji'a}} a closer analogue.
+
+-entry:
+    -word co'a
+    -gloss Preposition (tense): initiative
+    -type cmavo
+    -definition:
+        -selmaho ZAhO
+        -meaning:
+            -exp Initiative: signifies that the event starts.
+            -example:
+                -lojban .i mi {{co'a}} na kakne lo nu jitro
+                -english I {{start to}} be unable to control.
+                -source-id kuhi
+        -meaning:
+            -context When followed by a sumti 
+            -variation CLL
+            -exp at the starting point of ...
+        -meaning:
+            -context When followed by a sumti 
+            -variation BPFK
+            -exp starts when ...; since ...; from ...
+            -example:
+                -lojban .i xy. to'e lazni gunka {{co'a lo cerni}} co'u lo nicte gi'e na djuno lo du'u lo si'o gleki cu mo kau
+                -english He worked hard {{from morning}} till night and did not know what joy was.
+                -source-id wond
+
+-entry:
+    -word co'u
+    -gloss Preposition (tense): cessative
+    -type cmavo
+    -rafsi-cvc 
+    -rafsi-ccv 
+    -rafsi-cvv co'u
+    -definition:
+        -selmaho ZAhO
+        -meaning:
+            -exp Cessative: signifies that the event ends. The event is not neccesarily completed.
+            -example:
+                -lojban .i ko {{co'u}} tolckire gi'e prami mi
+                -english {{Stop being}} thankless and love me.
+                -source-id amap
+        -meaning:
+            -context When followed by a sumti 
+            -variation CLL
+            -exp at the ending point of ... (even if not done)
+            -example:
+                -lojban .i {{co'u}} lo nu terxra kei ly ganse lo nu le mirli co'a jmive
+                -english {{As}} he {{finished}} painting, he felt that the deer came to life.
+                -source-id lian
+        -meaning:
+            -context When followed by a sumti 
+            -variation BPFK
+            -exp ends when ...; until ...
+            -example:
+                -lojban .i sa'u ko troci {{co'u}} lo nu claxu lo titnanba
+                -english You just keep on trying {{till}} you run out of cake.
+                -source-id stil
+
+-entry:
+    -word e
+    -gloss Connective: sumti afterthought and
+    -type cmavo
+    -rafsi-cvc
+    -rafsi-ccv 
+    -rafsi-cvv 
+    -definition:
+        -selmaho A
+        -meaning:
+            -exp Logical connective: sumti afterthought and. Connects two sumti, such that the containing bridi is true if and only if it is true for each of the connected sumti. 
+            -note Supplanted with {{je}} in JACU.
+            -example:
+                -lojban .i po'o do {{.e}} mi zvati
+                -english Just you {{and}} me [are here].
+                -source-id eggq
+            -example:
+                -lojban .i .ei mi pajni ji'u lo se zukte {{.e nai}} lo valsi
+                -english I ought to have judged by deeds {{and not}} by words.
+                -source-id litt
+        -meaning:
+            -context ~ {{bu}} 
+            -exp Letteral for e. When used alone, refers to the most recent sumti starting with {{e}}.
+            -example:
+                -lojban ni'o {{la .em.}} ca lo nu klama ti te zu'e lo nu bu'u xabju cu citno je melbi speni .i lo solri jo'u lo brife cu cnegau {{.e bu}} ji'a
+                -english When {{Aunt Em}} came there to live she was a young, pretty wife. The sun and wind had changed {{her}} (= Aunt Em), too.
+                -source-id wond

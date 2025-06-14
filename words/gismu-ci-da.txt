@@ -1,0 +1,197 @@
+
+-entry:
+    -word cilre
+    -gloss to learn, learner &mdash; to be learned, facts learned &mdash; subject of learning &mdash; source of learning &mdash; learning method
+    -type gismu
+    -definition:
+        -meaning:
+            -exp x_1 learns x_2 (du'u) about subject x_3 from source x_4 (obj./event) by method x_5 (event/process).
+            -example:
+                -lojban .i mi {{cilre lo du'u ta'i ma kau zgipli lo flani kei}} mu'i lonu zdile
+                -english I'm {{learning how to play a flute}} for fun.
+                -source-id rolj
+                -speaker la ziren
+            -example:
+                -lojban .i mi ra'a {{cilre}} so'i da fo la lunbe ku noi .uinai cando do'e le jbogu'e ca
+                -english Related, I {{learned}} so much from Lunbe, who is now inactive in Lojbanistan :(
+                -source-id rolj
+                -speaker la janbe
+            -example:
+                -lojban .i mu'i ku so'i da pilno {{lo laldo ve cilre}} lo ka {{cilre fi lo catni lojbo}}
+                -english Because of it, many used {{old textbooks}} to {{learn the official Lojban}}.
+                -source-id offi
+            -example:
+                -lojban .i se ni'i bo ji'a ka'e {{cilre fu lo nu finti lo daskycizda'u cmene}}
+                -english Which means (entails) that [you] can {{learn by making Pokémon names}}.
+                -source-id rolj
+                -speaker la nonselcme
+
+-entry:
+    -word cinri
+    -gloss interesting event &mdash; to find interesting, to be interested in
+    -type gismu
+    -definition:
+        -meaning:
+            -exp x_1 (abstraction) interests/is interesting to x_2; x_2 is interested in x_1.
+            -example:
+                -lojban &mdash; .i xu do viska lo cnino trene<br>&mdash; .i go'i lo pixra be lo 777moi klesi trene .i ri na {{jai cinri}} mi 
+                -english &mdash; Did you see the new train?<br>&mdash; Yep, saw the picture of the Class 777. It didn't {{interest}} me. 
+                -source-id rolj
+                -speaker latkerlo, la samflir
+            -example:
+                -lojban xu nai lo zekri poi .i'y gasnu ke'a cu {{cinri}} do 
+                -english Doesn't the crime it ( = the word <b>ie'o</b>) caused {{interest}} you? 
+                -source-id rolj
+                -speaker la lunbe
+                -note {{.i'y}} is a proposed cmavo equivalent to {{.i bu}}. Note that this example doesn't need {{jai}} because the x_1 of {{zekri}} is already an event.
+            -example:
+                -lojban .i lo nu citka cu cizra {{cinri}} sy.
+                -english The (act of) eating is strangely {{interesting}} to her ( = Susan).
+                -source-id nict
+            -example:
+                -lojban .i mi ka'e binxo lo makcu prenu noi {{se cinri}} no na'e bo lo namcu
+                -english I may become like the grown-ups who are {{interested in}} anything nothing other than figures.
+                -source-id litt
+
+-entry:
+    -word citka
+    -gloss to eat, to consume &mdash; to be eaten, food
+    -type gismu
+    -definition:
+        -meaning:
+            -exp x_1 eats/ingests/consumes (transitive verb) x_2.
+            -example:
+                -lojban mi ba {{citka}} ma
+                -english What will I {{eat}}?
+                -source-id melb
+            -example:
+                -lojban {{lo se citka ku}} mo
+                -english What happened to {{the stuff I was going to eat}}?
+                -source-id melb
+
+-entry:
+    -word cizra
+    -gloss strange, weird &mdash; to find ... strange
+    -type gismu
+    -definition:
+        -meaning:
+            -exp x_1 is strange/weird/deviant/bizarre/odd to x_2 in property x_3 (ka).
+            -example:
+                -lojban .i ku'i ro da {{cizra}} ca lo cabdei
+                -english But everything {{is strange}} today.
+                -source-id alic
+            -example:
+                -lojban .i a'o {{na cizra}} do fa tu'a ti
+                -english I hope (something about) this {{is not strange}} to you.
+                -source-id uala
+            -example:
+                -lojban .i la gregor cu {{se cizra}} lo vrici sance be lo nu citka
+                -english Gregor {{found}} the various sounds of eating {{strange}}.
+                -source-id meta
+
+
+-entry:
+    -word cliva
+    -gloss to leave &mdash; place where x<sub>1</sub> leaves from &mdash; route of leaving
+    -type gismu
+    -definition:
+        -meaning:
+            -exp x_1 leaves/goes away/departs/parts/separates from x_2 via route x_3.
+            -example:
+                -lojban .i .e'a ko mi {{cliva}}
+                -english Go ahead and {{leave}} me 
+                -source-id stil
+            -example:
+                -lojban .i ri'a tu'a lo ckule cidja mi binxo co bilma lo za'i ru'i {{se cliva lo ciblu lo kanla}} 
+                -english Because of the school's food, I became sick, with {{blood}} continuously {{goes out through my eyes}}. 
+                -source-id muhe
+            -example:
+                -lojban ni'o xu lo prenu co vajni cu ge'i ca ranji lo nu kansa ku gi ve'u sepli do gi'e {{pu co'a cliva fi lo drata se litru}}
+                -english As for the people important [to you], do they continue to accompany you? Or are they now distant and separated from you, {{having departed via their own paths}}?
+                -source-id lett
+
+-entry:
+    -word cmavo
+    -gloss structure word &mdash; grammatical class &mdash; meaning/function of the word &mdash; usage/language of the word
+    -type gismu
+    -definition:
+        -meaning:
+            -exp x_1 is a structure word of grammatical class x_2, with meaning/function x_3 in usage (language) x_4.
+            -example:
+                -lojban {{ni'o zoi ty. e .ty cmavo fi}} lo du'u lo lifri cu sepli le drata pagbu be le jufra
+                -english {{The particle <i>e</i>}} separates a direct object from the rest of the sentence.
+                -source-id tokp
+                -note The grammatical term "direct object" is translated as {{lo lifri}}, lit. "experiencer".
+            -example:
+                -lojban .i xu la .lucil. cu jinvi le du'u lo nu jimpe cu se filri'a lo nu pilno {{lo cmavo be le cmavrfa}} tu'a lo no sumti jonai lo ro sumti
+                -english Does Lucilla thinks understanding is made easy when either none or all of the sumti is [tagged] with {{FA (cmavo of class FA)}}?
+                -source-id rolj
+                -speaker la varik
+                -note This sentence is in JACU. To convert it to CLL Lojban, substitute {{jonai}} with {{.onai}}. Also, {{cmavrfa}} is a type-3 zi'evla. {{cmavrfa}} = cmav-r-FA.
+            -example:
+                -lojban .icaku mi djica tu'a {{lo cmavo be ma'oi ca'a bei tu'a zo je'u}}
+                -english Now I want {{a CAhA (cmavo of class CAhA) that means similarly to <i>je'u</i>}}.
+                -source-id rolj
+                -speaker la srasu
+            -example:
+                -lojban .i so'ida .oiru'e {{temci cmavo fo lo jbobau}}
+                -english There are so many {{tense particles in Lojban...}}
+                -source-id jbob
+                -speaker la melmi
+
+
+-entry:
+    -word cmene
+    -gloss name, title &mdash; to be called as ..., to be named &mdash; to name, to call ... as ...
+    -type gismu
+    -definition:
+        -meaning:
+            -exp x_1 (quoted word(s)) is a/the name/title/tag of x_2 to/used-by namer/name-user x_3 (person).
+            -example:
+                -lojban .i ma {{cmene}} do poi ke'a na slabu mi
+                -english What {{is}} your {{name}}, unfamiliar one?
+                -source-id tori
+            -example:
+                -lojban ni'o lo jmive poi ka'e prami cu ca ca'o {{se cmene}} fi lo remna fa zo remna
+                -english A living thing that can love is now {{being called}} "human" by mankind.
+                -source-id jitt
+            -example:
+                -lojban .i ki'u ma lo cmalu ninmu cu {{te cmene}} dy lu te makfa li'u
+                -english Why did the little woman {{call}} her (Dorothy) "a sorceress"?
+                -source-id wond
+
+
+-entry:
+    -word cnino
+    -gloss novelty, unfamiliar &mdash; to be unfamiliar with ... 
+    -type gismu
+    -definition:
+        -meaning:
+            -exp x_1 is new/unfamiliar/novel to observer x_2 in feature x_3 (ka) by standard x_4; x_1 is a novelty.
+            -note I only found usages of x<sub>1</sub> and x<sub>2</sub> places.
+            -noshownote I found one usage of the x_3 place, but sadly the sentence has bracketing issues and I couldn't make sense of the sentence.
+            -example:
+                -lojban .i zgadi fa lo nu cusku fi do fe lo du'u lo xrani mi {{na cnino}}
+                -english I really should tell you that the world's dangers {{are nothing new}} to me.
+                -source-id jbin
+
+
+-entry:
+    -word cusku
+    -gloss to express, to say &mdash; expression &mdash; audience &mdash; communication format
+    -type gismu
+    -definition:
+        -meaning:
+            -exp x_1 (agent) expresses/says x_2 (sedu'u/text/lu'e concept) for audience x_3 via expressive medium x_4.
+            -example:
+                -lojban ni'o le ractu ku {{cusku}} lu xu do djica lo nu citka li'u
+                -english The rabbit {{said}}: "Did you want to eat?"
+                -source-id melb
+            -example:
+                -lojban .i ka'e {{cusku}} zo co'o fi ro da
+                -english [We] can just {{say}} goodbye to everything.
+                -source-id reed
+            -example:
+                -lojban .i my. {{cusku}} lo se du'u my. manci catlu po'o lo mi melbi lerfu
+                -english She (my mother) said she was just marvelling at my beautiful handwriting.
+                -source-id rolj
