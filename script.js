@@ -232,6 +232,9 @@ function displayResults(results) {
     resultsDiv.appendChild(entry);
 
   });
+  
+  // Reset toggle button
+  document.getElementById('toggle-all').textContent = 'Expand all';
 }
 
 
@@ -333,3 +336,17 @@ input.addEventListener('input', filterAndDisplay);
 typeFilterEls.forEach(el => el.addEventListener('change', filterAndDisplay));
 tagFilterEls.forEach(el => el.addEventListener('change', filterAndDisplay));
 sortOrderEl.addEventListener('change', filterAndDisplay);
+
+const toggleButton = document.getElementById('toggle-all');
+
+toggleButton.addEventListener('click', () => {
+  const allDetails = document.querySelectorAll('.entry');
+  const expand = toggleButton.textContent === 'Expand all';
+
+  allDetails.forEach(detail => {
+    detail.open = expand;
+  });
+
+  toggleButton.textContent = expand ? 'Close all' : 'Expand all';
+});
+

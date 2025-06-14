@@ -228,6 +228,11 @@
                 -english {{<em>This</em>}} week, I definitely can read every day what all my Lojban friends have written!
                 -source-id rolj
                 -speaker latkerlo
+            -example:
+                -lojban .i xu {{ba'e do}} nelci lo mlatu va'o lo nu da'i do me mi
+                -english Would {{<em>you</em>}} like cats if you were me?
+                -source-id alic
+                -note The speaker is a mouse.
 
 
 
@@ -451,6 +456,7 @@
     -definition:
         -meaning:
             -exp x_1 is much/extreme in property x_2 (ka), towards x_3 extreme/direction; x_1 is, in x_2, very x_3.
+            -note Has an additional sumti slot for direction of extremeness (x<sub>3</sub>) compared to its antonym {{milxe}}.
             -example:
                 -lojban ni'o le se morji be mi cu {{mutce}} le ka kalsa 
                 -english My memories are {{very}} confused. 
@@ -1030,6 +1036,69 @@
                 -source-id rolj
                 -speaker qimar
 
+-entry:
+    -word kelci
+    -gloss to play, player &mdash; game, plaything, toy
+    -type gismu
+    -definition:
+        -meaning:
+            -exp x_1 [agent] plays with plaything/toy x_2.
+            -note The meaning of "to play (a musical instrument)" is attested (most notably in <i>The Metamorphosis</i>), but is dated (last attested in 2018) and sometimes proscribed. Despite the jbovlaste definition, the x<sub>2</sub> is most commonly intepreted as "game". The x<sub>2</sub> is generally a descriptive sumti and rarely an abstraction.
+            -example:
+                -lojban .i ko zgana le nu le mlatu cu {{kelci}} le kelproga
+                -english Watch this cat {{playing}} the video game.
+                -source-id rolj
+                -speaker yeet kitty
+            -example:
+                -lojban .i {{kelci}} lo nu gismu ke pixra smadi
+                -english [We're] {{playing}} "guessing gismu from pictures".
+                -source-id jbob
+                -speaker misotanni
+                -note A rare occasion of an event being in the x<sub>2</sub> of {{kelci}}. Judging from the conversation around it, the game seems to have rules of "one person draws a picture, and others try to guess what gismu it represents", and it is played on skribbl.io.
+            -example:
+                -lojban lo cnino tadji cu {{se kelci}} se mau lo nu nandu se troci
+                -english The new method {{was}} more {{of a game}} than an effort.
+                -source-id meta
+
+-entry:
+    -word milxe
+    -gloss mild, somewhat, a little ..., a bit ... &mdash; a mild property
+    -type gismu
+    -definition:
+        -meaning:
+            -exp x_1 is mild/non-extreme/gentle/middling/somewhat in property x_2 (ka); x_1 is not very x_2.
+            -note Lacks a sumti slot for direction of mildness (corresponing to x<sub>3</sub> of {{mutce}}) compared to its antonym {{mutce}}.
+            -example:
+                -lojban .i la saix. jundi gi'e {{milxe lo ka jimpe}}
+                -english Sai listened and {{understood a little}}.
+                -source-id clan
+            -example:
+                -lojban .i la .varik. cu cusku {{le milxe be le ka ce'u smimlu}}
+                -english Varik said {{something mildly similar-looking}}. 
+                -source-id rolj
+                -speaker varik
+            -example:
+                -lojban .i je lo ji'a sai pilka cu {{crino milxe}}
+                -english And even [his] skin {{was of a greenish tint}}.
+                -source-id wond
+
+-entry:
+    -word mlatu
+    -gloss cat &mdash; breed/species of cat
+    -type gismu
+    -definition:
+        -meaning:
+            -exp x_1 is a cat/[puss/pussy/kitten] [feline animal] of species/breed x_2; (adjective:) x_1 is feline.
+            -note Usage of x<sub>2</sub> is not attested, though the place is mentioned quite often when discussing type-semantics of Lojban.
+            -example:
+                -lojban ju'o la .dinas. ca lo cabnicte ba mutce lo ka claxu mi to sa'a la .dinas. {{cu mlatu}} toi
+                -english Dinah will miss me very much tonight, I should think! (Dinah {{was the cat}}.)
+                -source-id alic
+            -example:
+                -lojban .i la .totos. pu bajra se ka'a lo midju be lo remgunma te zu'e lo nu gercmo fa'a {{lo citno mlatu}}
+                -english Toto had run into the crowd to bark at {{a kitten}}.
+                -source-id wond
+                -noshownote Would {lo cifnu mlatu} be better?
 
 -entry:
     -word nandu
@@ -1208,6 +1277,20 @@
                 -lojban .i xy. to'e lazni gunka {{co'a lo cerni}} co'u lo nicte gi'e na djuno lo du'u lo si'o gleki cu mo kau
                 -english He worked hard {{from morning}} till night and did not know what joy was.
                 -source-id wond
+
+-entry:
+    -word fe'e
+    -gloss Preposition (tense) modifier: mark spatial tense
+    -type cmavo
+    -definition:
+        -selmaho FEhE
+        -meaning:
+            -exp Converts the following time tag into its space equivalent. The following time tag must be one of {{ZAhO}}, {{TAhE}} or {{number + ROI}}. 
+            -example:
+                -lojban .i dasni zei mulno lo crino {{fe'e co'a}} lo stedu {{fe'e co'u}} lo jamfu
+                -english [He was] clothed all in green, {{from}} his head {{to}} his feet.
+                -source-id wond
+                -note The {{co'a}} and {{co'u}} follow the BPFK interpretation.
 
 
 -entry:

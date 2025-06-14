@@ -542,6 +542,17 @@
                                 "speaker": "latkerlo",
                                 "source": "roljbogu'e chatlog",
                                 "instance": 5
+                            },
+                            {
+                                "lojban": ".i xu {{ba'e do}} nelci lo mlatu va'o lo nu da'i do me mi",
+                                "english": "Would {{<em>you</em>}} like cats if you were me?",
+                                "source-id": "alic",
+                                "note": "The speaker is a mouse.",
+                                "source": "Alice in Wonderland",
+                                "author": "Lewis Carroll",
+                                "translator": "la .xorxes.",
+                                "link": "https://mw.lojban.org/papri/lo_selfri_be_la_.alis._bei_bu%27u_la_selmacygu%27e",
+                                "instance": 1
                             }
                         ]
                     }
@@ -2319,7 +2330,7 @@
                                 "author": "Lewis Carroll",
                                 "translator": "la .xorxes.",
                                 "link": "https://mw.lojban.org/papri/lo_selfri_be_la_.alis._bei_bu%27u_la_selmacygu%27e",
-                                "instance": 1
+                                "instance": 2
                             }
                         ]
                     },
@@ -2386,7 +2397,7 @@
                                 "author": "Lewis Carroll",
                                 "translator": "la .xorxes.",
                                 "link": "https://mw.lojban.org/papri/lo_selfri_be_la_.alis._bei_bu%27u_la_selmacygu%27e",
-                                "instance": 2
+                                "instance": 3
                             }
                         ]
                     },
@@ -5481,7 +5492,7 @@
                                 "author": "Lewis Carroll",
                                 "translator": "la .xorxes.",
                                 "link": "https://mw.lojban.org/papri/lo_selfri_be_la_.alis._bei_bu%27u_la_selmacygu%27e",
-                                "instance": 3
+                                "instance": 4
                             },
                             {
                                 "lojban": ".i a'o {{na cizra}} do fa tu'a ti",
@@ -9799,7 +9810,7 @@
                                 "author": "Lewis Carroll",
                                 "translator": "la .xorxes.",
                                 "link": "https://mw.lojban.org/papri/lo_selfri_be_la_.alis._bei_bu%27u_la_selmacygu%27e",
-                                "instance": 4
+                                "instance": 5
                             },
                             {
                                 "lojban": ".i mi na ro roi {{drani lo ka djuno kei ja lo ka jinvi vau vau}} ta'o",
@@ -11141,7 +11152,7 @@
     },
     {
         "word": "fe'e",
-        "gloss": "space aspects",
+        "gloss": "Preposition (tense) modifier: mark spatial tense",
         "type": "cmavo",
         "freq": "479",
         "rank": "1845",
@@ -11154,11 +11165,25 @@
                 "selmaho": "FEhE",
                 "meaning": [
                     {
-                        "exp": "mark space interval distributive aspects; labels interval tense modifiers as location-oriented."
+                        "exp": "Converts the following time tag into its space equivalent. The following time tag must be one of {{ZAhO}}, {{TAhE}} or {{number + ROI}}.",
+                        "example": [
+                            {
+                                "lojban": ".i dasni zei mulno lo crino {{fe'e co'a}} lo stedu {{fe'e co'u}} lo jamfu",
+                                "english": "[He was] clothed all in green, {{from}} his head {{to}} his feet.",
+                                "source-id": "wond",
+                                "note": "The {{co'a}} and {{co'u}} follow the BPFK interpretation.",
+                                "source": "The Wonderful Wizard of Oz",
+                                "author": "L. Frank Baum",
+                                "translator": "la solpa'i",
+                                "link": "https://selpahi.de/oz_plain.html",
+                                "instance": 4
+                            }
+                        ]
                     }
                 ]
             }
-        ]
+        ],
+        "good": true
     },
     {
         "word": "fe'i",
@@ -16536,7 +16561,7 @@
                                 "author": "Lewis Carroll",
                                 "translator": "la .xorxes.",
                                 "link": "https://mw.lojban.org/papri/lo_selfri_be_la_.alis._bei_bu%27u_la_selmacygu%27e",
-                                "instance": 5
+                                "instance": 6
                             }
                         ]
                     }
@@ -16865,7 +16890,7 @@
                                 "author": "L. Frank Baum",
                                 "translator": "la solpa'i",
                                 "link": "https://selpahi.de/oz_plain.html",
-                                "instance": 4
+                                "instance": 5
                             },
                             {
                                 "lojban": ".i .a bu snada lo ka {{jimpe}} tu'a lo valsi",
@@ -16876,7 +16901,7 @@
                                 "author": "Lewis Carroll",
                                 "translator": "la .xorxes.",
                                 "link": "https://mw.lojban.org/papri/lo_selfri_be_la_.alis._bei_bu%27u_la_selmacygu%27e",
-                                "instance": 6
+                                "instance": 7
                             },
                             {
                                 "lojban": ".i {{jimpe}} fi lo selcni .i .au kelci ne'i le xamsi pe'a",
@@ -19134,7 +19159,7 @@
     },
     {
         "word": "kelci",
-        "gloss": "play",
+        "gloss": "to play, player &mdash; game, plaything, toy",
         "type": "gismu",
         "freq": "32240",
         "rank": "153",
@@ -19146,11 +19171,42 @@
             {
                 "meaning": [
                     {
-                        "exp": "$x_{1}$ [agent] plays with plaything/toy $x_{2}$."
+                        "exp": "x_1 [agent] plays with plaything/toy x_2.",
+                        "note": "The meaning of \"to play (a musical instrument)\" is attested (most notably in <i>The Metamorphosis</i>), but is dated (last attested in 2018) and sometimes proscribed. Despite the jbovlaste definition, the x<sub>2</sub> is most commonly intepreted as \"game\". The x<sub>2</sub> is generally a descriptive sumti and rarely an abstraction.",
+                        "example": [
+                            {
+                                "lojban": ".i ko zgana le nu le mlatu cu {{kelci}} le kelproga",
+                                "english": "Watch this cat {{playing}} the video game.",
+                                "source-id": "rolj",
+                                "speaker": "yeet kitty",
+                                "source": "roljbogu'e chatlog",
+                                "instance": 27
+                            },
+                            {
+                                "lojban": ".i {{kelci}} lo nu gismu ke pixra smadi",
+                                "english": "[We're] {{playing}} \"guessing gismu from pictures\".",
+                                "source-id": "jbob",
+                                "speaker": "misotanni",
+                                "note": "A rare occasion of an event being in the x<sub>2</sub> of {{kelci}}. Judging from the conversation around it, the game seems to have rules of \"one person draws a picture, and others try to guess what gismu it represents\", and it is played on skribbl.io.",
+                                "source": "jbobratca chatlog",
+                                "instance": 3
+                            },
+                            {
+                                "lojban": "lo cnino tadji cu {{se kelci}} se mau lo nu nandu se troci",
+                                "english": "The new method {{was}} more {{of a game}} than an effort.",
+                                "source-id": "meta",
+                                "source": "The Metamorphosis",
+                                "author": "Franz Kafka",
+                                "translator": "la .xorxes.",
+                                "link": "https://mw.lojban.org/images/f/fc/lonubinxo.pdf",
+                                "instance": 3
+                            }
+                        ]
                     }
                 ]
             }
-        ]
+        ],
+        "good": true
     },
     {
         "word": "kelvo",
@@ -20963,7 +21019,7 @@
                                 "source-id": "rolj",
                                 "speaker": "Lucilla",
                                 "source": "roljbogu'e chatlog",
-                                "instance": 27
+                                "instance": 28
                             },
                             {
                                 "lojban": "&mdash; .i ma jmina le jugbau jufra le kibypapri<br> &mdash; {{la .lukifer.kailus.delikatus.}} no'u {{la .yu'orb.}}",
@@ -20972,7 +21028,7 @@
                                 "source-id": "rolj",
                                 "speaker": "la nalvai, la ilmen",
                                 "source": "roljbogu'e chatlog",
-                                "instance": 28
+                                "instance": 29
                             }
                         ]
                     },
@@ -20995,7 +21051,7 @@
                                 "speaker": "la solpa'i",
                                 "note": "\"Seven Ways to Say 'I Love You'\" probably refers to <a href=\"https://pastebin.com/raw/qmE06Tm0\">a set of seven sentences in Toaq</a>. The quote is from June 2017, so the Toaq is supposedly not too distant from that.",
                                 "source": "jbobratca chatlog",
-                                "instance": 3
+                                "instance": 4
                             }
                         ]
                     }
@@ -24064,7 +24120,7 @@
                                 "source-id": "rolj",
                                 "speaker": "la lunbe, niftg",
                                 "source": "roljbogu'e chatlog",
-                                "instance": 29
+                                "instance": 30
                             },
                             {
                                 "lojban": ".i pe'i ro bangu cu {{melbi fi da}}",
@@ -24072,7 +24128,7 @@
                                 "source-id": "rolj",
                                 "speaker": "la xrula",
                                 "source": "roljbogu'e chatlog",
-                                "instance": 30
+                                "instance": 31
                             },
                             {
                                 "lojban": ".i ku'i mi {{se melbi}} le do ganto'a sai voksa",
@@ -24080,7 +24136,7 @@
                                 "source-id": "rolj",
                                 "speaker": "la janbe",
                                 "source": "roljbogu'e chatlog",
-                                "instance": 31
+                                "instance": 32
                             }
                         ]
                     }
@@ -24538,7 +24594,7 @@
     },
     {
         "word": "milxe",
-        "gloss": "mild",
+        "gloss": "mild, somewhat, a little ..., a bit ... &mdash; a mild property",
         "type": "gismu",
         "freq": "33140",
         "rank": "149",
@@ -24550,11 +24606,42 @@
             {
                 "meaning": [
                     {
-                        "exp": "$x_{1}$ is mild/non-extreme/gentle/middling/somewhat in property $x_{2}$ (ka); $x_{1}$ is not very $x_{2}$."
+                        "exp": "x_1 is mild/non-extreme/gentle/middling/somewhat in property x_2 (ka); x_1 is not very x_2.",
+                        "note": "Lacks a sumti slot for direction of mildness (corresponing to x<sub>3</sub> of {{mutce}}) compared to its antonym {{mutce}}.",
+                        "example": [
+                            {
+                                "lojban": ".i la saix. jundi gi'e {{milxe lo ka jimpe}}",
+                                "english": "Sai listened and {{understood a little}}.",
+                                "source-id": "clan",
+                                "source": "clani kerlo",
+                                "author": "la fagri",
+                                "link": "https://docs.google.com/spreadsheets/d/1_vkiwqOIOIJPqZTiomzd4ApUSEQXhEY6CeyZD_6c-PA/edit?gid=1296186733#gid=1296186733",
+                                "instance": 2
+                            },
+                            {
+                                "lojban": ".i la .varik. cu cusku {{le milxe be le ka ce'u smimlu}}",
+                                "english": "Varik said {{something mildly similar-looking}}.",
+                                "source-id": "rolj",
+                                "speaker": "varik",
+                                "source": "roljbogu'e chatlog",
+                                "instance": 33
+                            },
+                            {
+                                "lojban": ".i je lo ji'a sai pilka cu {{crino milxe}}",
+                                "english": "And even [his] skin {{was of a greenish tint}}.",
+                                "source-id": "wond",
+                                "source": "The Wonderful Wizard of Oz",
+                                "author": "L. Frank Baum",
+                                "translator": "la solpa'i",
+                                "link": "https://selpahi.de/oz_plain.html",
+                                "instance": 6
+                            }
+                        ]
                     }
                 ]
             }
-        ]
+        ],
+        "good": true
     },
     {
         "word": "minde",
@@ -24840,7 +24927,7 @@
     },
     {
         "word": "mlatu",
-        "gloss": "cat",
+        "gloss": "cat &mdash; breed/species of cat",
         "type": "gismu",
         "freq": "26970",
         "rank": "183",
@@ -24852,11 +24939,36 @@
             {
                 "meaning": [
                     {
-                        "exp": "$x_{1}$ is a cat/[puss/pussy/kitten] [feline animal] of species/breed $x_{2}$; (adjective:) $x_{1}$ is feline."
+                        "exp": "x_1 is a cat/[puss/pussy/kitten] [feline animal] of species/breed x_2; (adjective:) x_1 is feline.",
+                        "note": "Usage of x<sub>2</sub> is not attested, though the place is mentioned quite often when discussing type-semantics of Lojban.",
+                        "example": [
+                            {
+                                "lojban": "ju'o la .dinas. ca lo cabnicte ba mutce lo ka claxu mi to sa'a la .dinas. {{cu mlatu}} toi",
+                                "english": "Dinah will miss me very much tonight, I should think! (Dinah {{was the cat}}.)",
+                                "source-id": "alic",
+                                "source": "Alice in Wonderland",
+                                "author": "Lewis Carroll",
+                                "translator": "la .xorxes.",
+                                "link": "https://mw.lojban.org/papri/lo_selfri_be_la_.alis._bei_bu%27u_la_selmacygu%27e",
+                                "instance": 8
+                            },
+                            {
+                                "lojban": ".i la .totos. pu bajra se ka'a lo midju be lo remgunma te zu'e lo nu gercmo fa'a {{lo citno mlatu}}",
+                                "english": "Toto had run into the crowd to bark at {{a kitten}}.",
+                                "source-id": "wond",
+                                "noshownote": "Would {lo cifnu mlatu} be better?",
+                                "source": "The Wonderful Wizard of Oz",
+                                "author": "L. Frank Baum",
+                                "translator": "la solpa'i",
+                                "link": "https://selpahi.de/oz_plain.html",
+                                "instance": 7
+                            }
+                        ]
                     }
                 ]
             }
-        ]
+        ],
+        "good": true
     },
     {
         "word": "mleca",
@@ -25685,6 +25797,7 @@
                 "meaning": [
                     {
                         "exp": "x_1 is much/extreme in property x_2 (ka), towards x_3 extreme/direction; x_1 is, in x_2, very x_3.",
+                        "note": "Has an additional sumti slot for direction of extremeness (x<sub>3</sub>) compared to its antonym {{milxe}}.",
                         "example": [
                             {
                                 "lojban": "ni'o le se morji be mi cu {{mutce}} le ka kalsa",
@@ -25712,7 +25825,7 @@
                                 "speaker": "la nalvai",
                                 "note": "To be overwhelmed = To feel an extreme emotion",
                                 "source": "roljbogu'e chatlog",
-                                "instance": 32
+                                "instance": 34
                             }
                         ]
                     }
@@ -26121,7 +26234,7 @@
                                 "source-id": "rolj",
                                 "speaker": "la lunbe",
                                 "source": "roljbogu'e chatlog",
-                                "instance": 33
+                                "instance": 35
                             },
                             {
                                 "lojban": "ni'o lo ralju be {{lo nandu be la .alis.}} ca lo cfari cu nu jitro lo fagycpi",
@@ -26131,7 +26244,7 @@
                                 "author": "Lewis Carroll",
                                 "translator": "la .xorxes.",
                                 "link": "https://mw.lojban.org/papri/lo_selfri_be_la_.alis._bei_bu%27u_la_selmacygu%27e",
-                                "instance": 7
+                                "instance": 9
                             },
                             {
                                 "lojban": ".i ru'a {{nandu fi}} lonu smuvrici",
@@ -26139,7 +26252,7 @@
                                 "source-id": "rolj",
                                 "speaker": "la melmi",
                                 "source": "roljbogu'e chatlog",
-                                "instance": 34
+                                "instance": 36
                             }
                         ]
                     }
@@ -26577,7 +26690,7 @@
                                 "author": "Lewis Carroll",
                                 "translator": "la .xorxes.",
                                 "link": "https://mw.lojban.org/papri/lo_selfri_be_la_.alis._bei_bu%27u_la_selmacygu%27e",
-                                "instance": 8
+                                "instance": 10
                             }
                         ]
                     }
@@ -35444,7 +35557,7 @@
                                 "source-id": "rolj",
                                 "speaker": "la nalvai",
                                 "source": "roljbogu'e chatlog",
-                                "instance": 35
+                                "instance": 37
                             },
                             {
                                 "lojban": ".i ru'a lo'u do cinmo ma doi ro do le'u {{se djica jai smuni}}",
@@ -35453,7 +35566,7 @@
                                 "speaker": "la janbe",
                                 "note": "The {{jai}} raises the quote, {{lo'u do cinmo ma doi ro do le'u}}, into an abstraction so it can go into the x<sub>1</sub> place.",
                                 "source": "roljbogu'e chatlog",
-                                "instance": 36
+                                "instance": 38
                             },
                             {
                                 "lojban": ".i lo du'u da de natfe cu {{se smuni}} lo du'u da .o nai de ka'e jetnu",
@@ -35464,7 +35577,7 @@
                                 "author": "Lewis Carroll",
                                 "translator": "la .xorxes.",
                                 "link": "https://mw.lojban.org/papri/lo_selfri_be_la_.alis._bei_bu%27u_la_selmacygu%27e",
-                                "instance": 9
+                                "instance": 11
                             },
                             {
                                 "lojban": ".i la'e di'u cu {{se smuni}} lo barda mukti la .gregor.",
@@ -35474,7 +35587,7 @@
                                 "author": "Franz Kafka",
                                 "translator": "la .xorxes.",
                                 "link": "https://mw.lojban.org/images/f/fc/lonubinxo.pdf",
-                                "instance": 3
+                                "instance": 4
                             },
                             {
                                 "lojban": ".i krinu lo nu mabla ja dukse {{te smuni}} noi je'u fasnu ma'i lo ma'a cecmu",
@@ -37995,7 +38108,7 @@
                                 "source": "clani kerlo",
                                 "author": "la fagri",
                                 "link": "https://docs.google.com/spreadsheets/d/1_vkiwqOIOIJPqZTiomzd4ApUSEQXhEY6CeyZD_6c-PA/edit?gid=1296186733#gid=1296186733",
-                                "instance": 2
+                                "instance": 3
                             },
                             {
                                 "lojban": "ni'o la .stefen. co'a sanga gi'e {{tavla}} fi lo nu litru vau la .gliban.",
@@ -39029,7 +39142,7 @@
                                 "source-id": "rolj",
                                 "speaker": "la janbe",
                                 "source": "roljbogu'e chatlog",
-                                "instance": 37
+                                "instance": 39
                             },
                             {
                                 "lojban": "le mi bruna {{to se rirni le se rirni pe le mamta pe le mi mamta toi}} cu bilma",
@@ -39038,7 +39151,7 @@
                                 "speaker": "la kanis",
                                 "note": "Note that the {{toi}} in this sentence is elidable, as the content in the parentheses cannot take the second selbri introduced by {{cu}}.",
                                 "source": "roljbogu'e chatlog",
-                                "instance": 38
+                                "instance": 40
                             },
                             {
                                 "lojban": ".i da'i {{to se va'u lo nu darlu toi}} lo jmive je pensi cu kakne lo nu zasti ze'o lo bitmu be lo botpi",
@@ -42364,7 +42477,7 @@
                                 "author": "Lewis Carroll",
                                 "translator": "la .xorxes.",
                                 "link": "https://mw.lojban.org/papri/lo_selfri_be_la_.alis._bei_bu%27u_la_selmacygu%27e",
-                                "instance": 10
+                                "instance": 12
                             },
                             {
                                 "lojban": "{{xamgu fi}} lo nu drani lo ka lo slaka cu rilti",
@@ -42373,7 +42486,7 @@
                                 "source-id": "rolj",
                                 "speaker": "Magnap",
                                 "source": "roljbogu'e chatlog",
-                                "instance": 39
+                                "instance": 41
                             },
                             {
                                 "lojban": ".i je ku'i ri {{se xamgu}} ju'o lo nu lo plini cu glare zenba",
@@ -43514,7 +43627,7 @@
                                 "author": "L. Frank Baum",
                                 "translator": "la solpa'i",
                                 "link": "https://selpahi.de/oz_plain.html",
-                                "instance": 5
+                                "instance": 8
                             },
                             {
                                 "lojban": ".i lo te gusni be fi {{lo xunre}} cu co'u se ganse ca lonu dy de'a vasxu ja'e loka smaji mulno kei kei",
@@ -44462,7 +44575,7 @@
                                 "source-id": "rolj",
                                 "speaker": "qimar",
                                 "source": "roljbogu'e chatlog",
-                                "instance": 40
+                                "instance": 42
                             }
                         ]
                     }
