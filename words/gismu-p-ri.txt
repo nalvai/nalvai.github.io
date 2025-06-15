@@ -1,15 +1,45 @@
 
 -entry:
-    -word prenu
-    -gloss people, person
+    -word pendo
+    -gloss friend, to befrind, friendly &mdash; to have friends
     -type gismu
     -definition:
         -meaning:
-            -exp x_1 is a person/people (noun) [not necessarily human]; x_1 displays personality/a persona.
+            -exp x_1 is/acts as a friend of/to x_2 (experiencer); x_2 befriends x_1.
             -example:
-                -lojban .i ro {{prenu}} cu mrobi'o 
-                -english Every {{person}} dies.
-                -source-id eggq
+                -lojban .i na ku ro prenu cu {{se pendo da}}
+                -english Not every one has {{had a friend}}. 
+                -source-id litt
+            -example:
+                -lojban .i je .o'e nai {{no pendo}} cu kansa do
+                -english And {{none of [your] friends}} are by your side.
+                -source-id colo
+            -example:
+                -lojban .i mi lu'ei co'o sai do li'au {{lo pu co'u pendo be mi}}
+                -english I said "Farewell." to {{my no-longer friend}}.
+                -source-id skab
+                -note {{lu'ei ... li'au}} encloses a grammatical Lojban text and turns it into a selbri meaning "x<sub>1</sub> says &lt;text&gt; to x<sub>2</sub> with expressive medium x<sub>3</sub>".
+
+-entry:
+    -word pensi
+    -gloss to think of ..., to think about ..., thinker &mdash; to be thought of, to be thought about, (a) thought
+    -type gismu
+    -definition:
+        -meaning:
+            -exp x_1 thinks/considers/cogitates/reasons/is pensive about/reflects upon subject/concept x_2.
+            -note x<sub>2</sub> can be either concrete or abstract.
+            -example:
+                -lojban .i je'u do se {{pensi}} mi .i mi {{pensi}} ca ro vanci do
+                -english Truly, I {{think about}} you, I {{think about}} you every evening.
+                -source-id pram
+            -example:
+                -lojban mi {{pensi}} lo'e nu zerle'a lo remna .e nai lo pixra
+                -english I {{was thinking of}} the spiriting away of human beings rather than pictures.
+                -source-id disa
+            -example:
+                -lojban ni'o ku'i ny. catlu mi gi'e spuda {{lo mi se pensi}}
+                -english But he looked at me steadily, and replied to {{my thought}}.
+                -source-id litt
 
 -entry:
     -word pilno
@@ -30,3 +60,15 @@
                 -lojban .i ma ca sevzi {{te pilno}} le bangu 
                 -english What is the current identity {{function}} of the language?
                 -source-id asse
+
+-entry:
+    -word prenu
+    -gloss people, person
+    -type gismu
+    -definition:
+        -meaning:
+            -exp x_1 is a person/people (noun) [not necessarily human]; x_1 displays personality/a persona.
+            -example:
+                -lojban .i ro {{prenu}} cu mrobi'o 
+                -english Every {{person}} dies.
+                -source-id eggq

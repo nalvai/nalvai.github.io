@@ -135,3 +135,29 @@
                 -lojban ko te cmene fi {{lo do se nelci}}
                 -english Call it {{whatever you like}}.
                 -source-id alic
+
+-entry:
+    -word nitcu
+    -gloss to need &mdash; to be needed, necessity, something necessary &mdash; (of an event, goal) to require 
+    -type gismu
+    -definition:
+        -meaning:
+            -exp x_1 needs/requires/is dependent on/[wants] necessity x_2 for purpose/action/stage of process x_3.
+            -note The x<sub>2</sub> can be either a concrete (person, object, etc.) or an abstraction (event etc.).
+            -example:
+                -lojban .i mi do {{na nitcu}} .i ji'a do mi {{na nitcu}}
+                -english I {{have no need of}} you. And you {{have no need of}} me.
+                -source-id litt
+            -example:
+                -lojban .i do lo nu djuno lo du'u ma kau smuvanbi cu {{nitcu}} lo nu jdice lo du'u ma kau smuni
+                -english You'll [often] {{need}} to know the context to decide what things mean.
+                -source-id tokp
+            -example:
+                -lojban .i lo nu kansa cu {{se nitcu}} .ie
+                -english Yeah, togetherness {{is needed}}.
+                -source-id nafe
+            -example:
+                -lojban .i lo mensi cu surla gasnu lo nu bredi fa {{lo ro se nitcu be fi lo nu kelci}}
+                -english His sister calmly prepared {{everything needed for her to begin playing}}.
+                -source-id meta
+

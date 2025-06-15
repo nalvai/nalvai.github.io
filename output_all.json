@@ -27088,7 +27088,7 @@
     },
     {
         "word": "nitcu",
-        "gloss": "need",
+        "gloss": "to need &mdash; to be needed, necessity, something necessary &mdash; (of an event, goal) to require",
         "type": "gismu",
         "freq": "33360",
         "rank": "147",
@@ -27100,11 +27100,54 @@
             {
                 "meaning": [
                     {
-                        "exp": "$x_{1}$ needs/requires/is dependent on/[wants] necessity $x_{2}$ for purpose/action/stage of process $x_{3}$."
+                        "exp": "x_1 needs/requires/is dependent on/[wants] necessity x_2 for purpose/action/stage of process x_3.",
+                        "note": "The x<sub>2</sub> can be either a concrete (person, object, etc.) or an abstraction (event etc.).",
+                        "example": [
+                            {
+                                "lojban": ".i mi do {{na nitcu}} .i ji'a do mi {{na nitcu}}",
+                                "english": "I {{have no need of}} you. And you {{have no need of}} me.",
+                                "source-id": "litt",
+                                "source": "The Little Prince",
+                                "author": "Antoine de Saint-Exupéry",
+                                "translator": "la .xorxes.",
+                                "link": "https://mw.lojban.org/papri/le_cmalu_noltru",
+                                "instance": 7
+                            },
+                            {
+                                "lojban": ".i do lo nu djuno lo du'u ma kau smuvanbi cu {{nitcu}} lo nu jdice lo du'u ma kau smuni",
+                                "english": "You'll [often] {{need}} to know the context to decide what things mean.",
+                                "source-id": "tokp",
+                                "source": "Toki Pona Cheatsheet",
+                                "author": "Blinry",
+                                "translator": "la .samflir.",
+                                "link": "https://blinry.org/toki-pona-cheat-sheet/toki-pona-cheat-sheet-jbo.pdf",
+                                "originallink": "https://blinry.org/toki-pona-cheat-sheet/toki-pona-cheat-sheet.pdf",
+                                "instance": 1
+                            },
+                            {
+                                "lojban": ".i lo nu kansa cu {{se nitcu}} .ie",
+                                "english": "Yeah, togetherness {{is needed}}.",
+                                "source-id": "nafe",
+                                "source": "na fengu",
+                                "author": "Mèremim",
+                                "link": "https://meremim.bandcamp.com/album/na-fengu"
+                            },
+                            {
+                                "lojban": ".i lo mensi cu surla gasnu lo nu bredi fa {{lo ro se nitcu be fi lo nu kelci}}",
+                                "english": "His sister calmly prepared {{everything needed for her to begin playing}}.",
+                                "source-id": "meta",
+                                "source": "The Metamorphosis",
+                                "author": "Franz Kafka",
+                                "translator": "la .xorxes.",
+                                "link": "https://mw.lojban.org/images/f/fc/lonubinxo.pdf",
+                                "instance": 4
+                            }
+                        ]
                     }
                 ]
             }
-        ]
+        ],
+        "good": true
     },
     {
         "word": "ni'u",
@@ -28824,7 +28867,7 @@
     },
     {
         "word": "pendo",
-        "gloss": "friend",
+        "gloss": "friend, to befrind, friendly &mdash; to have friends",
         "type": "gismu",
         "freq": "28160",
         "rank": "177",
@@ -28836,11 +28879,42 @@
             {
                 "meaning": [
                     {
-                        "exp": "$x_{1}$ is/acts as a friend of/to $x_{2}$ (experiencer); $x_{2}$ befriends $x_{1}$."
+                        "exp": "x_1 is/acts as a friend of/to x_2 (experiencer); x_2 befriends x_1.",
+                        "example": [
+                            {
+                                "lojban": ".i na ku ro prenu cu {{se pendo da}}",
+                                "english": "Not every one has {{had a friend}}.",
+                                "source-id": "litt",
+                                "source": "The Little Prince",
+                                "author": "Antoine de Saint-Exupéry",
+                                "translator": "la .xorxes.",
+                                "link": "https://mw.lojban.org/papri/le_cmalu_noltru",
+                                "instance": 8
+                            },
+                            {
+                                "lojban": ".i je .o'e nai {{no pendo}} cu kansa do",
+                                "english": "And {{none of [your] friends}} are by your side.",
+                                "source-id": "colo",
+                                "source": "Colorful",
+                                "author": "H△G",
+                                "translator": "tetsusquared (la .tirprij.)",
+                                "link": "https://www.youtube.com/watch?v=GjG2vtMOI7c"
+                            },
+                            {
+                                "lojban": ".i mi lu'ei co'o sai do li'au {{lo pu co'u pendo be mi}}",
+                                "english": "I said \"Farewell.\" to {{my no-longer friend}}.",
+                                "source-id": "skab",
+                                "note": "{{lu'ei ... li'au}} encloses a grammatical Lojban text and turns it into a selbri meaning \"x<sub>1</sub> says &lt;text&gt; to x<sub>2</sub> with expressive medium x<sub>3</sub>\".",
+                                "source": "la skaborfe'a",
+                                "author": "la .guskant.",
+                                "link": "https://fotono.tumblr.com/post/143537131514/coi-lo-se-jbobau-joau-zantufa-xi-papipare-i-la"
+                            }
+                        ]
                     }
                 ]
             }
-        ]
+        ],
+        "good": true
     },
     {
         "word": "penmi",
@@ -28864,7 +28938,7 @@
     },
     {
         "word": "pensi",
-        "gloss": "think",
+        "gloss": "to think of ..., to think about ..., thinker &mdash; to be thought of, to be thought about, (a) thought",
         "type": "gismu",
         "freq": "32100",
         "rank": "155",
@@ -28876,11 +28950,44 @@
             {
                 "meaning": [
                     {
-                        "exp": "$x_{1}$ thinks/considers/cogitates/reasons/is pensive about/reflects upon subject/concept $x_{2}$."
+                        "exp": "x_1 thinks/considers/cogitates/reasons/is pensive about/reflects upon subject/concept x_2.",
+                        "note": "x<sub>2</sub> can be either concrete or abstract.",
+                        "example": [
+                            {
+                                "lojban": ".i je'u do se {{pensi}} mi .i mi {{pensi}} ca ro vanci do",
+                                "english": "Truly, I {{think about}} you, I {{think about}} you every evening.",
+                                "source-id": "pram",
+                                "source": "prami simbi'o",
+                                "author": "Djemynai",
+                                "link": "https://www.youtube.com/watch?v=g3BQ-pE7ypY",
+                                "instance": 1
+                            },
+                            {
+                                "lojban": "mi {{pensi}} lo'e nu zerle'a lo remna .e nai lo pixra",
+                                "english": "I {{was thinking of}} the spiriting away of human beings rather than pictures.",
+                                "source-id": "disa",
+                                "source": "The Disappearance of Crispina Umberleigh",
+                                "author": "Saki",
+                                "translator": "la komfo,amonan",
+                                "link": "https://mw.lojban.org/papri/nuncanci_la_krispinas_ambylis",
+                                "originallink": "https://en.wikisource.org/wiki/The_Toys_of_Peace_and_Other_Papers/The_Disappearance_of_Crispina_Umberleigh"
+                            },
+                            {
+                                "lojban": "ni'o ku'i ny. catlu mi gi'e spuda {{lo mi se pensi}}",
+                                "english": "But he looked at me steadily, and replied to {{my thought}}.",
+                                "source-id": "litt",
+                                "source": "The Little Prince",
+                                "author": "Antoine de Saint-Exupéry",
+                                "translator": "la .xorxes.",
+                                "link": "https://mw.lojban.org/papri/le_cmalu_noltru",
+                                "instance": 9
+                            }
+                        ]
                     }
                 ]
             }
-        ]
+        ],
+        "good": true
     },
     {
         "word": "pe'o",
@@ -34935,7 +35042,7 @@
     },
     {
         "word": "skami",
-        "gloss": "computer",
+        "gloss": "computer &mdash; purpose of computer",
         "type": "gismu",
         "freq": "31840",
         "rank": "160",
@@ -34947,11 +35054,42 @@
             {
                 "meaning": [
                     {
-                        "exp": "$x_{1}$ is a computer for purpose $x_{2}$."
+                        "exp": "x_1 is a computer for purpose x_2.",
+                        "note": "Both concrete and abstract are attested in the x<sub>2</sub> place.",
+                        "example": [
+                            {
+                                "lojban": ".i {{lo skami}} cu kakne lo nu skicu lo gerna stura",
+                                "english": "{{A computer}} can describe the grammatical structure.",
+                                "source-id": "rolj",
+                                "speaker": "la katador",
+                                "source": "roljbogu'e chatlog",
+                                "instance": 37
+                            },
+                            {
+                                "lojban": "su'o da kelci secau leka ponse le selkei je {{le ka'e skami be ri}}",
+                                "english": "... several people [can] play without having the game and {{the (can-be) computer for it}}.",
+                                "source-id": "rolj",
+                                "speaker": "la srasu",
+                                "note": "This sentence is clipped from a much longer sentence. This sentence is in JACU. To convert it to CLL Lojban, substitute {{je}} with {{.e}}.",
+                                "noshownote": "The {{ka'e}} confuses me a little... I guess it's for specialized hardware for games that \"can become a computer\" by hacking?",
+                                "source": "roljbogu'e chatlog",
+                                "instance": 38
+                            },
+                            {
+                                "lojban": ".i mi terve'u lo cnino {{skami be lo nu samtcifi'i}}",
+                                "english": "I bought a new {{computer for programming}}.",
+                                "source-id": "jbob",
+                                "speaker": "la .zi.",
+                                "note": "{{samtcifi'i}} expands to {{skami tutci finti}}, Creating computer-tools = programming.",
+                                "source": "jbobratca chatlog",
+                                "instance": 5
+                            }
+                        ]
                     }
                 ]
             }
-        ]
+        ],
+        "good": true
     },
     {
         "word": "skapi",
@@ -35005,7 +35143,8 @@
                                 "source": "Colorful",
                                 "author": "H△G",
                                 "translator": "tetsusquared (la .tirprij.)",
-                                "link": "https://www.youtube.com/watch?v=GjG2vtMOI7c"
+                                "link": "https://www.youtube.com/watch?v=GjG2vtMOI7c",
+                                "instance": 1
                             }
                         ]
                     }
@@ -35557,7 +35696,7 @@
                                 "source-id": "rolj",
                                 "speaker": "la nalvai",
                                 "source": "roljbogu'e chatlog",
-                                "instance": 37
+                                "instance": 39
                             },
                             {
                                 "lojban": ".i ru'a lo'u do cinmo ma doi ro do le'u {{se djica jai smuni}}",
@@ -35566,7 +35705,7 @@
                                 "speaker": "la janbe",
                                 "note": "The {{jai}} raises the quote, {{lo'u do cinmo ma doi ro do le'u}}, into an abstraction so it can go into the x<sub>1</sub> place.",
                                 "source": "roljbogu'e chatlog",
-                                "instance": 38
+                                "instance": 40
                             },
                             {
                                 "lojban": ".i lo du'u da de natfe cu {{se smuni}} lo du'u da .o nai de ka'e jetnu",
@@ -35587,7 +35726,7 @@
                                 "author": "Franz Kafka",
                                 "translator": "la .xorxes.",
                                 "link": "https://mw.lojban.org/images/f/fc/lonubinxo.pdf",
-                                "instance": 4
+                                "instance": 5
                             },
                             {
                                 "lojban": ".i krinu lo nu mabla ja dukse {{te smuni}} noi je'u fasnu ma'i lo ma'a cecmu",
@@ -39142,7 +39281,7 @@
                                 "source-id": "rolj",
                                 "speaker": "la janbe",
                                 "source": "roljbogu'e chatlog",
-                                "instance": 39
+                                "instance": 41
                             },
                             {
                                 "lojban": "le mi bruna {{to se rirni le se rirni pe le mamta pe le mi mamta toi}} cu bilma",
@@ -39151,7 +39290,7 @@
                                 "speaker": "la kanis",
                                 "note": "Note that the {{toi}} in this sentence is elidable, as the content in the parentheses cannot take the second selbri introduced by {{cu}}.",
                                 "source": "roljbogu'e chatlog",
-                                "instance": 40
+                                "instance": 42
                             },
                             {
                                 "lojban": ".i da'i {{to se va'u lo nu darlu toi}} lo jmive je pensi cu kakne lo nu zasti ze'o lo bitmu be lo botpi",
@@ -42486,7 +42625,7 @@
                                 "source-id": "rolj",
                                 "speaker": "Magnap",
                                 "source": "roljbogu'e chatlog",
-                                "instance": 41
+                                "instance": 43
                             },
                             {
                                 "lojban": ".i je ku'i ri {{se xamgu}} ju'o lo nu lo plini cu glare zenba",
@@ -44558,7 +44697,7 @@
                                 "author": "Antoine de Saint-Exupéry",
                                 "translator": "la .xorxes.",
                                 "link": "https://mw.lojban.org/papri/le_cmalu_noltru",
-                                "instance": 7
+                                "instance": 10
                             },
                             {
                                 "lojban": "ca lo jibni lo lojbo ku se xlali lo {{frili se zgana}} poi pagbu lo vanbi be lo bangu",
@@ -44575,7 +44714,7 @@
                                 "source-id": "rolj",
                                 "speaker": "qimar",
                                 "source": "roljbogu'e chatlog",
-                                "instance": 42
+                                "instance": 44
                             }
                         ]
                     }
@@ -45346,7 +45485,7 @@
                                 "author": "Antoine de Saint-Exupéry",
                                 "translator": "la .xorxes.",
                                 "link": "https://mw.lojban.org/papri/le_cmalu_noltru",
-                                "instance": 8
+                                "instance": 11
                             },
                             {
                                 "lojban": ".i {{lo se zvati be mi}} cu tolmanku ze'i lo snidu",

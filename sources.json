@@ -107,6 +107,13 @@
         "translator": "tetsusquared (la .tirprij.)",
         "link": "https://www.youtube.com/watch?v=VEen_TdvuC0"
     },
+    "disa": {
+        "source": "The Disappearance of Crispina Umberleigh",
+        "author": "Saki",
+        "translator": "la komfo,amonan",
+        "link": "https://mw.lojban.org/papri/nuncanci_la_krispinas_ambylis",
+        "originallink": "https://en.wikisource.org/wiki/The_Toys_of_Peace_and_Other_Papers/The_Disappearance_of_Crispina_Umberleigh"
+    },
     "eggq": {
         "source": "The Egg",
         "author": "Andy Weir",
@@ -253,6 +260,11 @@
         "author": "la blutolpinxe",
         "link": "https://mw.lojban.org/papri/la_mu%27e_cuxna_lo_bradi"
     },
+    "nafe": {
+        "source": "na fengu",
+        "author": "Mèremim",
+        "link": "https://meremim.bandcamp.com/album/na-fengu"
+    },
     "nict": {
         "source": "la nicte cadzu",
         "author": "Robin Lee Powell",
@@ -305,6 +317,11 @@
         "author": "Last Note.",
         "translator": "tetsusquared (la .tirprij.)",
         "link": "https://www.youtube.com/watch?v=4aDrH3wEUtQ"
+    },
+    "skab": {
+        "source": "la skaborfe'a",
+        "author": "la .guskant.",
+        "link": "https://fotono.tumblr.com/post/143537131514/coi-lo-se-jbobau-joau-zantufa-xi-papipare-i-la"
     },
     "snow": {
         "source": "Snow White",

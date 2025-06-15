@@ -1,6 +1,33 @@
 
 
 -entry:
+    -word skami
+    -gloss computer &mdash; purpose of computer
+    -type gismu
+    -definition:
+        -meaning:
+            -exp x_1 is a computer for purpose x_2.
+            -note Both concrete and abstract are attested in the x<sub>2</sub> place.
+            -example:
+                -lojban .i {{lo skami}} cu kakne lo nu skicu lo gerna stura
+                -english {{A computer}} can describe the grammatical structure.
+                -source-id rolj
+                -speaker la katador
+            -example:
+                -lojban su'o da kelci secau leka ponse le selkei je {{le ka'e skami be ri}}
+                -english ... several people [can] play without having the game and {{the (can-be) computer for it}}.
+                -source-id rolj
+                -speaker la srasu
+                -note This sentence is clipped from a much longer sentence. This sentence is in JACU. To convert it to CLL Lojban, substitute {{je}} with {{.e}}. 
+                -noshownote The {{ka'e}} confuses me a little... I guess it's for specialized hardware for games that "can become a computer" by hacking? 
+            -example:
+                -lojban .i mi terve'u lo cnino {{skami be lo nu samtcifi'i}}
+                -english I bought a new {{computer for programming}}.
+                -source-id jbob
+                -speaker la .zi.
+                -note {{samtcifi'i}} expands to {{skami tutci finti}}, Creating computer-tools = programming.
+
+-entry:
     -word skari
     -gloss to be colored, to have color &mdash; color, hue &mdash; to preceive color
     -type gismu
