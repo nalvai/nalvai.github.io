@@ -71,7 +71,7 @@
             -exp Attitudinal: express intent / purpose / design.
             -example:
                 -lojban .i {{.ai}} mi ba snada ro se troci
-                -english I{{'ll}} succeed in everything I try.
+                -english I{{'ll}} succeed in every one of my goal.
                 -source-id zaho
         -meaning:
             -context ~ {{cu'i}}

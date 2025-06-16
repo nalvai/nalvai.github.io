@@ -1,6 +1,6 @@
 # NALVAI: Nalvai's Assortment of Lojban Vocabulary Attestation Instances
 ## What is this?
-**NALVAI** is a Lojban dictionary that uses quotations from *real-world texts* as examples of usage. It currently contains **67 words** with [**201 quotations** from **66 Lojban texts**](https://github.com/nalvai/nalvai.github.io#sources). Please provide quotations and definitions to help the dictionary grow!
+**NALVAI** is a Lojban dictionary that uses quotations from *real-world texts* as examples of usage. It currently contains **69 words** with [**206 quotations** from **68 Lojban texts**](https://github.com/nalvai/nalvai.github.io#sources). Please provide quotations and definitions to help the dictionary grow!
 
 Here is how a word look like in this dictionary:
 ![The word a in this dictionary](https://raw.githubusercontent.com/nalvai/nalvai.github.io/refs/heads/master/example_a.png)
@@ -97,7 +97,7 @@ Lojban texts with at least one quotation in this dictionary.
 - (12 quotes) [The Little Prince](https://mw.lojban.org/papri/le_cmalu_noltru) by Antoine de Saint-Exupéry, translation by la .xorxes.
 - (9 quotes) [The Wonderful Wizard of Oz](https://selpahi.de/oz_plain.html) by L. Frank Baum, translation by la solpa'i
 - (8 quotes) [The Egg](https://nalvai.neocities.org/translations/the-egg/) by Andy Weir, translation by la nalvai
-- (6 quotes) jbobratca chatlog
+- (7 quotes) jbobratca chatlog
 - (6 quotes) [The Metamorphosis](https://mw.lojban.org/images/f/fc/lonubinxo.pdf) by Franz Kafka, translation by la .xorxes.
 - (6 quotes) [la nicte cadzu](https://mw.lojban.org/papri/Robin%27s_Palm_Writings:_la_nicte_cadzu) by Robin Lee Powell
 - (5 quotes) [la melbi e le ractu](https://lynn.github.io/la-melbi-e-le-ractu/) by la lalxu
@@ -107,6 +107,7 @@ Lojban texts with at least one quotation in this dictionary.
 - (4 quotes) [Still Alive](https://www.youtube.com/watch?v=hRrIioMA4w8) by Jonathan Coulton, translation by la solpa'i
 - (3 quotes) [Always With Me](https://vimeo.com/113232481) by Youmi Kimura, translation by la .guskant.
 - (3 quotes) [la mu'e cuxna lo bradi](https://mw.lojban.org/papri/la_mu%27e_cuxna_lo_bradi) by la blutolpinxe
+- (3 quotes) [prami simbi'o](https://www.youtube.com/watch?v=g3BQ-pE7ypY) by Djemynai
 - (3 quotes) [za'o](https://www.youtube.com/watch?v=TKbFwr-1ZQ4) by Djemynai
 - (2 quotes) [Antarctica is getting greener](https://mw.lojban.org/papri/UserWiki:Ilmen/lo_ziptu%27a_ca%27o_zenba_lo_ka_crino) by Ryan Cross on <i>Science</i>, translation by la .ilmen. ([Original](https://www.science.org/content/article/antarctica-getting-greener))
 - (2 quotes) [Assessment of EGIDS Levels](https://nalvai.neocities.org/translations/egids-scale/) by M. Paul Lewis and Gary F. Simons, translation by la nalvai ([Original](https://www.lingv.ro/RRL%202%202010%20art01Lewis.pdf))
@@ -118,11 +119,11 @@ Lojban texts with at least one quotation in this dictionary.
 - (2 quotes) [The Lay of the Land](https://www.youtube.com/watch?v=ViGGR231zvQ) by Worldbuilding Notes
 - (2 quotes) [letter song](https://www.youtube.com/watch?v=5r-JIZNGAMA) by doriko, translation by tetsusquared (la .tirprij.)
 - (2 quotes) [They're Made Out of Meat](https://mw.lojban.org/papri/ko%27a_marji_lo_rectu) by Terry Bisson, translation by Pierre Abbot
-- (2 quotes) [prami simbi'o](https://www.youtube.com/watch?v=g3BQ-pE7ypY) by Djemynai
 - (2 quotes) [The Restaurant of Many Orders](https://docs.google.com/document/d/10Rnm80SieLrpFnk9kn_9bCuon96CNSPTA8hqVaWQYbQ/edit?tab=t.0) by Kenji Miyazawa, translation by la .tijlan.
 - (2 quotes) [sruri fa lo tarci](https://www.youtube.com/watch?v=xZlTA4hbY2o) by Noise and Bells (la janbe)
 - (2 quotes) [tensaia](https://djemynai.bandcamp.com/album/tensaia) by Djemynai
 - (2 quotes) [Toki Pona Cheatsheet](https://blinry.org/toki-pona-cheat-sheet/toki-pona-cheat-sheet-jbo.pdf) by Blinry, translation by la .samflir. ([Original](https://blinry.org/toki-pona-cheat-sheet/toki-pona-cheat-sheet.pdf))
+- (2 quotes) [Torinoko City](https://www.youtube.com/watch?v=Ar4On-u5vUk) by 40mP, translation by tetsusquared (la .tirprij.)
 - (1 quote) [Aisle](https://www.youtube.com/watch?v=GGoqNJjiun0) by Ibuki Tsubasa, translation by tetsusquared (la .tirprij.) ([Original](https://www.youtube.com/watch?v=9CNkjJo_Sjg))
 - (1 quote) [Amapola](https://vimeo.com/233808507) by José María Lacalle García, translation by la .guskant.
 - (1 quote) [Ĉarma Anomali’](https://www.youtube.com/watch?v=H5Bbg8HGkV0) by Noise and Bells, translation by tetsusquared (la .tirprij.) ([Original](https://www.youtube.com/watch?v=q05lSh5qfgk))
@@ -148,6 +149,7 @@ Lojban texts with at least one quotation in this dictionary.
 - (1 quote) [lo jbobau cu mo](https://www.youtube.com/watch?v=N-Y9eBBTrxU) by la solpa'i
 - (1 quote) [The Lost One's Weeping](https://www.youtube.com/watch?v=9TA1-lVHAUM) by Neru, translation by tetsusquared (la .tirprij.)
 - (1 quote) [lo mi jufra](https://www.youtube.com/watch?v=sLrmjRIMgAk) by la solpa'i
+- (1 quote) [lo nabmi](https://www.youtube.com/watch?v=gv0QIbGc8i8) by Noise and Bells (la janbe)
 - (1 quote) [na fengu](https://meremim.bandcamp.com/album/na-fengu) by Mèremim
 - (1 quote) [la nu farlu lo plini](https://liputenpo.org/toki/nanpa-kokosila/la-nu-farlu-lo-plini/) by la srasu
 - (1 quote) [ODDS&ENDS](https://www.youtube.com/watch?v=L65SWX6vbkw) by ryo, translation by tetsusquared (la .tirprij.)
@@ -156,12 +158,12 @@ Lojban texts with at least one quotation in this dictionary.
 - (1 quote) [Route Sphere](https://www.youtube.com/watch?v=4aDrH3wEUtQ) by Last Note., translation by tetsusquared (la .tirprij.)
 - (1 quote) [la skaborfe'a](https://fotono.tumblr.com/post/143537131514/coi-lo-se-jbobau-joau-zantufa-xi-papipare-i-la) by la .guskant.
 - (1 quote) [Snow White](https://selpahi.de/snimeblabi.html) by Brothers Grimm, translation by la solpa'i
-- (1 quote) [Torinoko City](https://www.youtube.com/watch?v=Ar4On-u5vUk) by 40mP, translation by tetsusquared (la .tirprij.)
+- (1 quote) [There Will Come Soft Rains](https://docs.google.com/spreadsheets/d/1_vkiwqOIOIJPqZTiomzd4ApUSEQXhEY6CeyZD_6c-PA/edit?gid=1567514983#gid=1567514983) by Sara Teasdale, translation by la lalxu
 - (1 quote) [ua langu](https://www.youtube.com/watch?v=h_avoX_Xl4I) by la solpa'i
 
 The quotes from chatlogs are from the following speakers: (in no particular order)
 
-la fagri, la srasu, misotanni, la solpa'i, la ziren, la melmi, la nalvai, la samflir, qimar, la janbe, la nonselcme, la ilmen, niftg, la katador, la evis, la bakre'u, la varik, la kanis, la .zi., Magnap, .kúblizel., la lalxu, \_4Denthusiast, yeet kitty, la lunbe, dram, latkerlo, varik, Lucilla, la xrula,
+latkerlo, la srasu, la lunbe, la lalxu, la samflir, la ziren, la xrula, la kanis, la solpa'i, la melmi, la bakre'u, niftg, \_4Denthusiast, la ilmen, qimar, Lucilla, la katador, Stephen Dedalus, la varik, varik, yeet kitty, la evis, dram, la .zi., la nonselcme, la fagri, la nalvai, la janbe, misotanni, .kúblizel., Magnap,
 
 Huge thanks to the following individuals who contributed to this project:
 

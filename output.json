@@ -128,7 +128,7 @@
                         "example": [
                             {
                                 "lojban": ".i {{.ai}} mi ba snada ro se troci",
-                                "english": "I{{'ll}} succeed in everything I try.",
+                                "english": "I{{'ll}} succeed in every one of my goal.",
                                 "source-id": "zaho",
                                 "source": "za'o",
                                 "author": "Djemynai",
@@ -3221,6 +3221,48 @@
         "good": true
     },
     {
+        "word": "slabu",
+        "gloss": "familiar, to be familiar to ... &mdash; to know (an object, a person), to be familiar with",
+        "type": "gismu",
+        "freq": "33740",
+        "rank": "144",
+        "tag": "core-1",
+        "rafsi-cvc": null,
+        "rafsi-ccv": null,
+        "rafsi-cvv": "sau",
+        "definition": [
+            {
+                "meaning": [
+                    {
+                        "exp": "x_1 is old/familiar/well-known to observer x_2 in feature x_3 (ka) by standard x_4.",
+                        "example": [
+                            {
+                                "lojban": ".i {{se slabu le jamna}} fa no cmalu danlu",
+                                "english": "No small animal {{will know the warriors}}.",
+                                "source-id": "ther",
+                                "source": "There Will Come Soft Rains",
+                                "author": "Sara Teasdale",
+                                "translator": "la lalxu",
+                                "link": "https://docs.google.com/spreadsheets/d/1_vkiwqOIOIJPqZTiomzd4ApUSEQXhEY6CeyZD_6c-PA/edit?gid=1567514983#gid=1567514983"
+                            },
+                            {
+                                "lojban": ".i ma cmene do {{poi ke'a na slabu mi}}",
+                                "english": "What is your name, {{unfamiliar one}}?",
+                                "source-id": "tori",
+                                "source": "Torinoko City",
+                                "author": "40mP",
+                                "translator": "tetsusquared (la .tirprij.)",
+                                "link": "https://www.youtube.com/watch?v=Ar4On-u5vUk",
+                                "instance": 1
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "good": true
+    },
+    {
         "word": "smuni",
         "gloss": "meaning, interpretation &mdash; (of an expression, of an event...) to mean, to be taken as ... &mdash; to interpret",
         "type": "gismu",
@@ -3385,6 +3427,56 @@
             }
         ],
         "contributor": "la ninlat.",
+        "good": true
+    },
+    {
+        "word": "troci",
+        "gloss": "to try, to attempt &mdash; goal &mdash; effort, trial",
+        "type": "gismu",
+        "freq": "32160",
+        "rank": "154",
+        "tag": "core-1",
+        "rafsi-cvc": "toc",
+        "rafsi-ccv": null,
+        "rafsi-cvv": "toi",
+        "definition": [
+            {
+                "meaning": [
+                    {
+                        "exp": "x_1 tries/attempts/makes an effort to do/attain x_2 (event/state/property) by actions/method x_3.",
+                        "note": "The x<sub>3</sub> place is seldom used. {{x<sub>1</sub> troci x<sub>2</sub> x<sub>3</sub>}} is similar in meaning to {{x<sub>1</sub> zukte x<sub>3</sub> x<sub>2</sub>}}.",
+                        "example": [
+                            {
+                                "lojban": ".i mi co'u {{troci lo nu fagysti}}",
+                                "english": "I'm done {{trying to put out fires}}.",
+                                "source-id": "nabm",
+                                "source": "lo nabmi",
+                                "author": "Noise and Bells (la janbe)",
+                                "link": "https://www.youtube.com/watch?v=gv0QIbGc8i8"
+                            },
+                            {
+                                "lojban": ".i ku'i lo prami {{na'o troci}} ba'e ju certu lo nandu",
+                                "english": "But people who love {{try}} difficult things no matter whether they are good at them.",
+                                "source-id": "pram",
+                                "source": "prami simbi'o",
+                                "author": "Djemynai",
+                                "link": "https://www.youtube.com/watch?v=g3BQ-pE7ypY",
+                                "instance": 2
+                            },
+                            {
+                                "lojban": "zo ie pe mi pu {{jai te troci lonu mi dragau tu'a mi}}",
+                                "english": "That <b>ie</b> of mine was {{me trying to correct myself}}.",
+                                "source-id": "jbob",
+                                "speaker": "Stephen Dedalus",
+                                "note": "The only usage I can find for {{troci}}'s x<sub>3</sub>.",
+                                "source": "jbobratca chatlog",
+                                "instance": 6
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
         "good": true
     },
     {

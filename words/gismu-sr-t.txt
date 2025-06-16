@@ -17,3 +17,30 @@
                 -english Stefen started to sing and {{talked}} about the journey in English.
                 -source-id nict
                 -noshownote The original has {{je}} instead of {{gi'e}}
+
+
+
+-entry:
+    -word troci
+    -gloss to try, to attempt &mdash; goal &mdash; effort, trial  
+    -type gismu
+    -definition:
+        -meaning:
+            -exp x_1 tries/attempts/makes an effort to do/attain x_2 (event/state/property) by actions/method x_3.
+            -note The x<sub>3</sub> place is seldom used. {{x<sub>1</sub> troci x<sub>2</sub> x<sub>3</sub>}} is similar in meaning to {{x<sub>1</sub> zukte x<sub>3</sub> x<sub>2</sub>}}.
+            -example:
+                -lojban .i mi co'u {{troci lo nu fagysti}}
+                -english I'm done {{trying to put out fires}}.
+                -source-id nabm
+            -example:
+                -lojban .i ku'i lo prami {{na'o troci}} ba'e ju certu lo nandu
+                -english But people who love {{try}} difficult things no matter whether they are good at them.
+                -source-id pram
+            -example:
+                -lojban zo ie pe mi pu {{jai te troci lonu mi dragau tu'a mi}}
+                -english That <b>ie</b> of mine was {{me trying to correct myself}}.
+                -source-id jbob
+                -speaker Stephen Dedalus
+                -note The only usage I can find for {{troci}}'s x<sub>3</sub>.
+
+

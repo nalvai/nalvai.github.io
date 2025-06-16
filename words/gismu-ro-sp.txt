@@ -59,6 +59,23 @@
                 -english Because one day, you'll become {{like me}}.
                 -source-id eggq
 
+
+-entry:
+    -word slabu
+    -gloss familiar, to be familiar to ... &mdash; to know (an object, a person), to be familiar with
+    -type gismu
+    -definition:
+        -meaning:
+            -exp x_1 is old/familiar/well-known to observer x_2 in feature x_3 (ka) by standard x_4.
+            -example:
+                -lojban .i {{se slabu le jamna}} fa no cmalu danlu
+                -english No small animal {{will know the warriors}}.
+                -source-id ther
+            -example:
+                -lojban .i ma cmene do {{poi ke'a na slabu mi}}
+                -english What is your name, {{unfamiliar one}}?
+                -source-id tori
+
 -entry:
     -word sipna
     -gloss to sleep, asleep
