@@ -44388,7 +44388,7 @@
     },
     {
         "word": "zdani",
-        "gloss": "nest",
+        "gloss": "home, house &mdash; to live in (a house), to have a home",
         "type": "gismu",
         "freq": "28540",
         "rank": "175",
@@ -44400,11 +44400,44 @@
             {
                 "meaning": [
                     {
-                        "exp": "$x_{1}$ is a nest/house/lair/den/[home] of/for $x_{2}$."
+                        "exp": "x_1 is a nest/house/lair/den/[home] of/for x_2.",
+                        "example": [
+                            {
+                                "lojban": "la berti cu {{zdani mi}}",
+                                "english": "The North {{is my home}}.",
+                                "source-id": "wond",
+                                "source": "The Wonderful Wizard of Oz",
+                                "author": "L. Frank Baum",
+                                "translator": "la solpa'i",
+                                "link": "https://selpahi.de/oz_plain.html",
+                                "instance": 9
+                            },
+                            {
+                                "lojban": ".i le bangu cu se pilno su'o so'o da {{va'o tu'a lo zdani}} lo fadni je voksa nu casnu",
+                                "english": "The language is used for daily oral communication {{in the home domain}} by at least some.",
+                                "source-id": "asse",
+                                "source": "Assessment of EGIDS Levels",
+                                "author": "M. Paul Lewis and Gary F. Simons",
+                                "translator": "la nalvai",
+                                "link": "https://nalvai.neocities.org/translations/egids-scale/",
+                                "originallink": "https://www.lingv.ro/RRL%202%202010%20art01Lewis.pdf",
+                                "instance": 2
+                            },
+                            {
+                                "lojban": "za'u re'u ku {{lo se zdani}} cu cusku bau na'e bo la lojban",
+                                "english": "Once again, {{the inhabitants (of the house)}} speak in a language other than Lojban.",
+                                "source-id": "nict",
+                                "source": "la nicte cadzu",
+                                "author": "Robin Lee Powell",
+                                "link": "https://mw.lojban.org/papri/Robin%27s_Palm_Writings:_la_nicte_cadzu",
+                                "instance": 6
+                            }
+                        ]
                     }
                 ]
             }
-        ]
+        ],
+        "good": true
     },
     {
         "word": "zdicaudri",

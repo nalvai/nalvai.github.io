@@ -62,6 +62,26 @@
                 -source-id nufa
 
 -entry:
+    -word zdani
+    -gloss home, house &mdash; to live in (a house), to have a home
+    -type gismu
+    -definition:
+        -meaning:
+            -exp x_1 is a nest/house/lair/den/[home] of/for x_2.
+            -example:
+                -lojban la berti cu {{zdani mi}}
+                -english The North {{is my home}}.
+                -source-id wond
+            -example:
+                -lojban .i le bangu cu se pilno su'o so'o da {{va'o tu'a lo zdani}} lo fadni je voksa nu casnu
+                -english The language is used for daily oral communication {{in the home domain}} by at least some.
+                -source-id asse
+            -example:
+                -lojban za'u re'u ku {{lo se zdani}} cu cusku bau na'e bo la lojban
+                -english Once again, {{the inhabitants (of the house)}} speak in a language other than Lojban.
+                -source-id nict
+
+-entry:
     -word zgana
     -gloss to observe, observer &mdash; to be observered &mdash; means of observation
     -type gismu
