@@ -26,3 +26,55 @@
                 -source-id cloc
                 -note If the {{toi}} was elided in this sentence, the parentheses will automatically close just before the {{cu}}, for the same reason as in the previous example.
 
+-entry:
+    -word ze'e
+    -gloss Preposition (tense): mark unbounded time interval
+    -type cmavo
+    -definition:
+        -selmaho ZEhA
+        -meaning:
+            -exp Unbounded duration: signifies that the event lasts for an unlimited time.
+            -note Although the CLL defines {{ze'e}} as "infinite duration", meaning the event extends infinitely into the past and/or future, actual usage is less strict. It only requires that the event span "as long as applicable". See the usage examples of {{ze'e pu}} and {{ze'e ba}} below.
+            -example:
+                -lojban .i ca {{ze'e ru'i}} tcika fa li xa
+                -english It's {{always}} six o'clock now.
+                -source-id alic
+        -meaning:
+            -context ~ {{pu}}
+            -exp signifies that the event extends unboundedly to the past.
+            -example:
+                -lojban ni'o pa mai la ckuzda cu {{ze'e pu}} zasti
+                -english First: The Library has existed {{ab æternitate}}. 
+                -source-id libr
+            -example:
+                -lojban .i lo po'o cmana poi {{ze'e pu slabu ny}} cu me lo ci je'erma'a noi galtu dunli lo ny cidni
+                -english The only mountains {{he had ever known}} were the three volcanoes, which came up to his knees. 
+                -source-id litt
+        -meaning:
+            -context ~ {{ba}}
+            -exp signifies that the event extends unboundedly to the future.
+            -example:
+                -lojban .i je va'o lo nu do bevri cy mi'a zo'u mi'a do {{ze'e ba}} tai ckire zei mutce
+                -english If you will bring him back to us, we shall thank you {{ever and ever}} so much.
+                -source-id wond
+            -example:
+                -lojban .i do mi {{ze'e ba}} pendo
+                -english You {{will always}} be my friend.
+                -source-id litt
+        -meaning:
+            -context When followed by a sumti
+            -variation CLL, BPFK
+            -exp mark the following sumti as the unbounded time duration of the event.
+            -note Although specified by <em>both</em> the CLL and the BPFK, this usage is unattested. See below.
+        -meaning:
+            -context When followed by a sumti
+            -exp During the entirety of ...
+            -example:
+                -lojban .i {{ze'e lo nunji'e be mi}} zo'u mi djica lo nu stuvi'e gy.
+                -english I {{always}} wanted to visit it {{in my whole life}}.
+                -source-id rolj
+                -speaker qimar
+
+
+
+

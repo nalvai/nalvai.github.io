@@ -44523,7 +44523,7 @@
     },
     {
         "word": "ze'e",
-        "gloss": "whole time interval",
+        "gloss": "Preposition (tense): mark unbounded time interval",
         "type": "cmavo",
         "freq": "5590",
         "rank": "594",
@@ -44536,11 +44536,97 @@
                 "selmaho": "ZEhA",
                 "meaning": [
                     {
-                        "exp": "time tense interval: the whole of time."
+                        "exp": "Unbounded duration: signifies that the event lasts for an unlimited time.",
+                        "note": "Although the CLL defines {{ze'e}} as \"infinite duration\", meaning the event extends infinitely into the past and/or future, actual usage is less strict. It only requires that the event span \"as long as applicable\". See the usage examples of {{ze'e pu}} and {{ze'e ba}} below.",
+                        "example": [
+                            {
+                                "lojban": ".i ca {{ze'e ru'i}} tcika fa li xa",
+                                "english": "It's {{always}} six o'clock now.",
+                                "source-id": "alic",
+                                "source": "Alice in Wonderland",
+                                "author": "Lewis Carroll",
+                                "translator": "la .xorxes.",
+                                "link": "https://mw.lojban.org/papri/lo_selfri_be_la_.alis._bei_bu%27u_la_selmacygu%27e",
+                                "instance": 13
+                            }
+                        ]
+                    },
+                    {
+                        "context": "~ {{pu}}",
+                        "exp": "signifies that the event extends unboundedly to the past.",
+                        "example": [
+                            {
+                                "lojban": "ni'o pa mai la ckuzda cu {{ze'e pu}} zasti",
+                                "english": "First: The Library has existed {{ab æternitate}}.",
+                                "source-id": "libr",
+                                "source": "The Library of Babel",
+                                "author": "Jorge Luis Borges",
+                                "translator": "la .xorxes.",
+                                "link": "https://mw.lojban.org/papri/la_ckuzda_pe_la_babel",
+                                "instance": 1
+                            },
+                            {
+                                "lojban": ".i lo po'o cmana poi {{ze'e pu slabu ny}} cu me lo ci je'erma'a noi galtu dunli lo ny cidni",
+                                "english": "The only mountains {{he had ever known}} were the three volcanoes, which came up to his knees.",
+                                "source-id": "litt",
+                                "source": "The Little Prince",
+                                "author": "Antoine de Saint-Exupéry",
+                                "translator": "la .xorxes.",
+                                "link": "https://mw.lojban.org/papri/le_cmalu_noltru",
+                                "instance": 10
+                            }
+                        ]
+                    },
+                    {
+                        "context": "~ {{ba}}",
+                        "exp": "signifies that the event extends unboundedly to the future.",
+                        "example": [
+                            {
+                                "lojban": ".i je va'o lo nu do bevri cy mi'a zo'u mi'a do {{ze'e ba}} tai ckire zei mutce",
+                                "english": "If you will bring him back to us, we shall thank you {{ever and ever}} so much.",
+                                "source-id": "wond",
+                                "source": "The Wonderful Wizard of Oz",
+                                "author": "L. Frank Baum",
+                                "translator": "la solpa'i",
+                                "link": "https://selpahi.de/oz_plain.html",
+                                "instance": 10
+                            },
+                            {
+                                "lojban": ".i do mi {{ze'e ba}} pendo",
+                                "english": "You {{will always}} be my friend.",
+                                "source-id": "litt",
+                                "source": "The Little Prince",
+                                "author": "Antoine de Saint-Exupéry",
+                                "translator": "la .xorxes.",
+                                "link": "https://mw.lojban.org/papri/le_cmalu_noltru",
+                                "instance": 11
+                            }
+                        ]
+                    },
+                    {
+                        "context": "When followed by a sumti",
+                        "variation": "CLL, BPFK",
+                        "exp": "mark the following sumti as the unbounded time duration of the event.",
+                        "note": "Although specified by <em>both</em> the CLL and the BPFK, this usage is unattested. See below."
+                    },
+                    {
+                        "context": "When followed by a sumti",
+                        "exp": "During the entirety of ...",
+                        "example": [
+                            {
+                                "lojban": ".i {{ze'e lo nunji'e be mi}} zo'u mi djica lo nu stuvi'e gy.",
+                                "english": "I {{always}} wanted to visit it {{in my whole life}}.",
+                                "source-id": "rolj",
+                                "speaker": "qimar",
+                                "source": "roljbogu'e chatlog",
+                                "instance": 44
+                            }
+                        ]
                     }
                 ]
             }
-        ]
+        ],
+        "good": true
     },
     {
         "word": "ze'ei",
@@ -44782,7 +44868,7 @@
                                 "author": "Antoine de Saint-Exupéry",
                                 "translator": "la .xorxes.",
                                 "link": "https://mw.lojban.org/papri/le_cmalu_noltru",
-                                "instance": 10
+                                "instance": 12
                             },
                             {
                                 "lojban": "ca lo jibni lo lojbo ku se xlali lo {{frili se zgana}} poi pagbu lo vanbi be lo bangu",
@@ -44799,7 +44885,7 @@
                                 "source-id": "rolj",
                                 "speaker": "qimar",
                                 "source": "roljbogu'e chatlog",
-                                "instance": 44
+                                "instance": 45
                             }
                         ]
                     }
@@ -45570,7 +45656,7 @@
                                 "author": "Antoine de Saint-Exupéry",
                                 "translator": "la .xorxes.",
                                 "link": "https://mw.lojban.org/papri/le_cmalu_noltru",
-                                "instance": 11
+                                "instance": 13
                             },
                             {
                                 "lojban": ".i {{lo se zvati be mi}} cu tolmanku ze'i lo snidu",
