@@ -1,5 +1,32 @@
 
 -entry:
+    -word ki'u
+    -gloss Preposition: because of reason ...
+    -type cmavo
+    -definition:
+        -selmaho BAI
+        -meaning:
+            -exp Because of reason ...; Introduces an unnumbered sumti that plays the role of {{krinu}}'s x<sub>1</sub> in the sentence.
+            -note The event described by the bridi occurs for the reason indicated by the referent of the tagged sumti. 
+            -example:
+                -lojban .i mi'a zukte lo se bilga {{ki'u lo nu kakne}}
+                -english We do what we must {{because we can}}.
+                -source-id stil
+            -example:
+                -lojban .i ku'i je'u ty. na'e darsi lo nu darxi la dorotis kei {{ki'u tu'a lo barna be lo mebri}}
+                -english But, in truth, she did not dare to strike Dorothy, {{because of the mark upon her forehead}}.
+                -source-id wond
+        -meaning:
+            -context {{se}} ~
+            -exp Reasonably therefore ...; Introduces an unnumbered sumti that plays the role of {{krinu}}'s x<sub>2</sub> in the sentence.
+            -note The event described by the bridi is the reason behind the event described by the referent of the tagged sumti. 
+            -example:
+                -lojban .i xu .iaru'e lu'a lo sfani cu cmacma {{seki'u lo nu lo'e sfani darxi catra tutci cu na plixau}}
+                -english Is it that (I slightly believe) the flies are so small {{the reason that flyswatters aren't useful}}?
+                -source-id rolj
+                -speaker nitfg
+
+-entry:
     -word la
     -gloss Article: the one(s) called...
     -type cmavo
@@ -72,3 +99,36 @@
                 -english {{"}}My kids... my wife," you said. {{"}}What about them?"
                 -source-id eggq
                 -note The entire sentence is grammatical, but becomes ungrammatical when split in half. 
+
+-entry:
+    -word mu'i
+    -gloss Preposition: because of motive ...
+    -type cmavo
+    -definition:
+        -selmaho BAI
+        -meaning:
+            -exp Because of motive ...; Introduces an unnumbered sumti that plays the role of {{mukti}}'s x<sub>1</sub> in the sentence.
+            -note The event described by the bridi occurs because of the motive described by the referent of the tagged sumti. 
+            -example:
+                -lojban .i ba ku {{mu'i lo nu tatpi}} cu cpana lo ckana
+                -english And then [she] lied on a bed {{because [she] was tired}}.
+                -source-id snow
+            -example:
+                -lojban .i vy. xaksu lo temci {{mu'i tu'a lo bukpu selkeipre}}
+                -english They waste their time {{over a rag doll}} [...] 
+                -source-id litt
+        -meaning:
+            -context {{se}} ~
+            -exp Motive therefore ...; Introduces an unnumbered sumti that plays the role of {{mukti}}'s x<sub>2</sub> in the sentence.
+            -note The event described by the bridi is the motive behind the event described by the referent of the tagged sumti. 
+            -example:
+                -lojban .i mi tolnei lo'e morna kibystu {{semu'i lonu zbasu lo narpanra}}
+                -english I dislike template websites in general, {{so [I] build something unique}}.
+                -source-id rolj
+                -speaker latkerlo
+        -meaning:
+            -context {{te}} ~
+            -exp Motive of person ...; Introduces an unnumbered sumti that plays the role of {{mukti}}'s x<sub>3</sub> in the sentence.
+            -note Unattested.
+            -noshownote There is a usage, {.i lo da'i nu do da viska cu mukti fi ko fe lo nu cusku no da gi'e pinxe te mu'i lo nu co'u morji} (jbobratca chatlog), in which the {te mu'i} seems like an error for {te zu'e}.
+

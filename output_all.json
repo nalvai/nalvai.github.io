@@ -1329,7 +1329,7 @@
     },
     {
         "word": "bau",
-        "gloss": "in language",
+        "gloss": "Preposition: in language ...",
         "type": "cmavo",
         "freq": "26502",
         "rank": "186",
@@ -1342,11 +1342,58 @@
                 "selmaho": "BAI",
                 "meaning": [
                     {
-                        "exp": "bangu modal, 1st place                            in language ..."
+                        "exp": "In language ...; Introduces an unnumbered sumti that plays the role of {{bangu}}'s x<sub>1</sub> in the sentence.",
+                        "note": "The event described by the bridi is normally an activity associated with language (For example: speaking, writing, reading, making creative works...), in which the sumti introduced with {{bau}} specifies the language being used.",
+                        "example": [
+                            {
+                                "lojban": "xu do djica lo nu mi cusku fi do {{bau la lojban po'o}}",
+                                "english": "Do you want me to speak to you {{in Lojban only}}?",
+                                "source-id": "nict",
+                                "source": "la nicte cadzu",
+                                "author": "Robin Lee Powell",
+                                "link": "https://mw.lojban.org/papri/Robin%27s_Palm_Writings:_la_nicte_cadzu",
+                                "instance": 1
+                            },
+                            {
+                                "lojban": ".i ku'i .u'adai do kakne lo ka ciska {{bau lo na'e jai se jimpe}}",
+                                "english": "However, gain for you that you can write {{in a language that isn't understood [by others]}}.",
+                                "source-id": "rolj",
+                                "speaker": "la janbe",
+                                "source": "roljbogu'e chatlog",
+                                "instance": 8
+                            }
+                        ]
+                    },
+                    {
+                        "context": "{{se}} ~",
+                        "exp": "In (the) language of ...; Introduces an unnumbered sumti that plays the role of {{bangu}}'s x<sub>2</sub> in the sentence.",
+                        "example": [
+                            {
+                                "lojban": ".i zo'oi Naylte valsi {{sebau}} lo ractu",
+                                "english": "\"Naylte\" is a word {{in the language of}} rabbits.",
+                                "source-id": "rolj",
+                                "speaker": "la nonselcme",
+                                "source": "roljbogu'e chatlog",
+                                "instance": 9
+                            },
+                            {
+                                "lojban": "mi {{na jai se bau}} zgijbo",
+                                "english": "I {{am not a speaker of}} Musical-Lojban.",
+                                "source-id": "jbob",
+                                "speaker": "la gleki",
+                                "source": "jbobratca chatlog"
+                            }
+                        ]
+                    },
+                    {
+                        "context": "{{te}} ~",
+                        "exp": "Expressing ...; Introduces an unnumbered sumti that plays the role of {{bangu}}'s x<sub>3</sub> in the sentence.",
+                        "note": "Unattested."
                     }
                 ]
             }
-        ]
+        ],
+        "good": true
     },
     {
         "word": "bavlamdei",
@@ -4774,7 +4821,7 @@
                                 "source-id": "rolj",
                                 "speaker": "la ziren",
                                 "source": "roljbogu'e chatlog",
-                                "instance": 8
+                                "instance": 10
                             },
                             {
                                 "lojban": ".i mi ra'a {{cilre}} so'i da fo la lunbe ku noi .uinai cando do'e le jbogu'e ca",
@@ -4782,7 +4829,7 @@
                                 "source-id": "rolj",
                                 "speaker": "la janbe",
                                 "source": "roljbogu'e chatlog",
-                                "instance": 9
+                                "instance": 11
                             },
                             {
                                 "lojban": ".i mu'i ku so'i da pilno {{lo laldo ve cilre}} lo ka {{cilre fi lo catni lojbo}}",
@@ -4798,7 +4845,7 @@
                                 "source-id": "rolj",
                                 "speaker": "la nonselcme",
                                 "source": "roljbogu'e chatlog",
-                                "instance": 10
+                                "instance": 12
                             }
                         ]
                     }
@@ -5049,7 +5096,7 @@
                                 "source-id": "rolj",
                                 "speaker": "latkerlo, la samflir",
                                 "source": "roljbogu'e chatlog",
-                                "instance": 11
+                                "instance": 13
                             },
                             {
                                 "lojban": "xu nai lo zekri poi .i'y gasnu ke'a cu {{cinri}} do",
@@ -5058,7 +5105,7 @@
                                 "speaker": "la lunbe",
                                 "note": "{{.i'y}} is a proposed cmavo equivalent to {{.i bu}}. Note that this example doesn't need {{jai}} because the x_1 of {{zekri}} is already an event.",
                                 "source": "roljbogu'e chatlog",
-                                "instance": 12
+                                "instance": 14
                             },
                             {
                                 "lojban": ".i lo nu citka cu cizra {{cinri}} sy.",
@@ -5067,7 +5114,7 @@
                                 "source": "la nicte cadzu",
                                 "author": "Robin Lee Powell",
                                 "link": "https://mw.lojban.org/papri/Robin%27s_Palm_Writings:_la_nicte_cadzu",
-                                "instance": 1
+                                "instance": 2
                             },
                             {
                                 "lojban": ".i mi ka'e binxo lo makcu prenu noi {{se cinri}} no na'e bo lo namcu",
@@ -6081,7 +6128,7 @@
                                 "speaker": "la varik",
                                 "note": "This sentence is in JACU. To convert it to CLL Lojban, substitute {{jonai}} with {{.onai}}. Also, {{cmavrfa}} is a type-3 zi'evla. {{cmavrfa}} = cmav-r-FA.",
                                 "source": "roljbogu'e chatlog",
-                                "instance": 13
+                                "instance": 15
                             },
                             {
                                 "lojban": ".icaku mi djica tu'a {{lo cmavo be ma'oi ca'a bei tu'a zo je'u}}",
@@ -6089,14 +6136,15 @@
                                 "source-id": "rolj",
                                 "speaker": "la srasu",
                                 "source": "roljbogu'e chatlog",
-                                "instance": 14
+                                "instance": 16
                             },
                             {
                                 "lojban": ".i so'ida .oiru'e {{temci cmavo fo lo jbobau}}",
                                 "english": "There are so many {{tense particles in Lojban...}}",
                                 "source-id": "jbob",
                                 "speaker": "la melmi",
-                                "source": "jbobratca chatlog"
+                                "source": "jbobratca chatlog",
+                                "instance": 1
                             }
                         ]
                     }
@@ -7579,7 +7627,7 @@
                                 "english": "She (my mother) said she was just marvelling at my beautiful handwriting.",
                                 "source-id": "rolj",
                                 "source": "roljbogu'e chatlog",
-                                "instance": 15
+                                "instance": 17
                             }
                         ]
                     }
@@ -9819,7 +9867,7 @@
                                 "speaker": "la ziren",
                                 "note": "This sentence is in JACU. To convert it to CLL Lojban, substitute {{ja}} with {{.a}}.",
                                 "source": "roljbogu'e chatlog",
-                                "instance": 16
+                                "instance": 18
                             },
                             {
                                 "lojban": ".i je mi na ralte le ci'artai {{poi drani fi zo'e}}",
@@ -9827,7 +9875,7 @@
                                 "source-id": "rolj",
                                 "speaker": "yeet kitty",
                                 "source": "roljbogu'e chatlog",
-                                "instance": 17
+                                "instance": 19
                             },
                             {
                                 "lojban": "xu {{drani fo lo ka jbobau}}",
@@ -9836,7 +9884,7 @@
                                 "speaker": "dram",
                                 "note": "The type/usage of the \"by standard\" places are never specified or defined, rendering those places virtually useless. This sentence is a rare example of a \"by standard\" place being used.",
                                 "source": "roljbogu'e chatlog",
-                                "instance": 18
+                                "instance": 20
                             }
                         ]
                     }
@@ -9868,7 +9916,7 @@
                                 "speaker": "la janbe",
                                 "note": "The emoji and italics aren't standard parts of Lojban.",
                                 "source": "roljbogu'e chatlog",
-                                "instance": 19
+                                "instance": 21
                             },
                             {
                                 "lojban": "lo voksa nu cenba cu {{na drata}} lo se bilma be fi lo lenku",
@@ -10798,7 +10846,7 @@
                                 "source": "la nicte cadzu",
                                 "author": "Robin Lee Powell",
                                 "link": "https://mw.lojban.org/papri/Robin%27s_Palm_Writings:_la_nicte_cadzu",
-                                "instance": 2
+                                "instance": 3
                             },
                             {
                                 "lojban": ".i mi na tcidu {{lo se fanva}} je cu mulno co kakne lo su'u jimpe fi {{lo xe fanva be fu do}}",
@@ -10807,7 +10855,7 @@
                                 "source-id": "rolj",
                                 "speaker": "la lunbe",
                                 "source": "roljbogu'e chatlog",
-                                "instance": 20
+                                "instance": 22
                             },
                             {
                                 "lojban": "ni'o xu ranji fa le nu na djuno lo du'u ma kau zabna lo ka ce'u zmiku {{lo nu fanva fi lo glibau fo la .lojban.}}",
@@ -10816,7 +10864,7 @@
                                 "source-id": "rolj",
                                 "speaker": "la varik",
                                 "source": "roljbogu'e chatlog",
-                                "instance": 21
+                                "instance": 23
                             }
                         ]
                     }
@@ -11555,7 +11603,7 @@
                                 "source-id": "jbob",
                                 "speaker": "la fagri",
                                 "source": "jbobratca chatlog",
-                                "instance": 1
+                                "instance": 2
                             },
                             {
                                 "lojban": "clani kerlo {{fi'e}} la fagri",
@@ -11571,7 +11619,7 @@
                                 "source-id": "rolj",
                                 "speaker": "la janbe",
                                 "source": "roljbogu'e chatlog",
-                                "instance": 22
+                                "instance": 24
                             },
                             {
                                 "lojban": ".i gidva ro da fa lo se platu {{be fi'e mi}}",
@@ -11616,7 +11664,7 @@
                                 "source-id": "jbob",
                                 "speaker": "_4Denthusiast",
                                 "source": "jbobratca chatlog",
-                                "instance": 2
+                                "instance": 3
                             }
                         ]
                     }
@@ -13051,7 +13099,7 @@
                                 "speaker": "la lunbe",
                                 "note": "{{.i'y}} is a proposed cmavo equivalent to {{.i bu}}.",
                                 "source": "roljbogu'e chatlog",
-                                "instance": 23
+                                "instance": 25
                             },
                             {
                                 "lojban": "mi nelci lo'e gundi jibri .i ku'i ri {{tatpi gasnu}}",
@@ -13060,7 +13108,7 @@
                                 "source-id": "rolj",
                                 "speaker": "qimar",
                                 "source": "roljbogu'e chatlog",
-                                "instance": 24
+                                "instance": 26
                             }
                         ]
                     }
@@ -16581,7 +16629,7 @@
                                 "speaker": "la srasu, la evis",
                                 "note": "The middle sentence would be {{puzi <u>je'i</u> bazi}} under CLL Lojban.",
                                 "source": "roljbogu'e chatlog",
-                                "instance": 25
+                                "instance": 27
                             }
                         ]
                     }
@@ -16919,7 +16967,7 @@
                                 "source": "la nicte cadzu",
                                 "author": "Robin Lee Powell",
                                 "link": "https://mw.lojban.org/papri/Robin%27s_Palm_Writings:_la_nicte_cadzu",
-                                "instance": 3
+                                "instance": 4
                             }
                         ]
                     }
@@ -18421,7 +18469,7 @@
                                 "source-id": "rolj",
                                 "speaker": "la bakre'u",
                                 "source": "roljbogu'e chatlog",
-                                "instance": 26
+                                "instance": 28
                             },
                             {
                                 "lojban": ".i la'e di'u {{na se kakne}}",
@@ -19180,7 +19228,7 @@
                                 "source-id": "rolj",
                                 "speaker": "yeet kitty",
                                 "source": "roljbogu'e chatlog",
-                                "instance": 27
+                                "instance": 29
                             },
                             {
                                 "lojban": ".i {{kelci}} lo nu gismu ke pixra smadi",
@@ -19189,7 +19237,7 @@
                                 "speaker": "misotanni",
                                 "note": "A rare occasion of an event being in the x<sub>2</sub> of {{kelci}}. Judging from the conversation around it, the game seems to have rules of \"one person draws a picture, and others try to guess what gismu it represents\", and it is played on skribbl.io.",
                                 "source": "jbobratca chatlog",
-                                "instance": 3
+                                "instance": 4
                             },
                             {
                                 "lojban": "lo cnino tadji cu {{se kelci}} se mau lo nu nandu se troci",
@@ -19698,7 +19746,7 @@
     },
     {
         "word": "ki'u",
-        "gloss": "as, because of reason",
+        "gloss": "Preposition: because of reason ...",
         "type": "cmavo",
         "freq": "54441",
         "rank": "97",
@@ -19711,11 +19759,50 @@
                 "selmaho": "BAI",
                 "meaning": [
                     {
-                        "exp": "krinu modal, 1st place (justified by)             justifiably; because of reason ..."
+                        "exp": "Because of reason ...; Introduces an unnumbered sumti that plays the role of {{krinu}}'s x<sub>1</sub> in the sentence.",
+                        "note": "The event described by the bridi occurs for the reason indicated by the referent of the tagged sumti.",
+                        "example": [
+                            {
+                                "lojban": ".i mi'a zukte lo se bilga {{ki'u lo nu kakne}}",
+                                "english": "We do what we must {{because we can}}.",
+                                "source-id": "stil",
+                                "source": "Still Alive",
+                                "author": "Jonathan Coulton",
+                                "translator": "la solpa'i",
+                                "link": "https://www.youtube.com/watch?v=hRrIioMA4w8",
+                                "instance": 3
+                            },
+                            {
+                                "lojban": ".i ku'i je'u ty. na'e darsi lo nu darxi la dorotis kei {{ki'u tu'a lo barna be lo mebri}}",
+                                "english": "But, in truth, she did not dare to strike Dorothy, {{because of the mark upon her forehead}}.",
+                                "source-id": "wond",
+                                "source": "The Wonderful Wizard of Oz",
+                                "author": "L. Frank Baum",
+                                "translator": "la solpa'i",
+                                "link": "https://selpahi.de/oz_plain.html",
+                                "instance": 6
+                            }
+                        ]
+                    },
+                    {
+                        "context": "{{se}} ~",
+                        "exp": "Reasonably therefore ...; Introduces an unnumbered sumti that plays the role of {{krinu}}'s x<sub>2</sub> in the sentence.",
+                        "note": "The event described by the bridi is the reason behind the event described by the referent of the tagged sumti.",
+                        "example": [
+                            {
+                                "lojban": ".i xu .iaru'e lu'a lo sfani cu cmacma {{seki'u lo nu lo'e sfani darxi catra tutci cu na plixau}}",
+                                "english": "Is it that (I slightly believe) the flies are so small {{the reason that flyswatters aren't useful}}?",
+                                "source-id": "rolj",
+                                "speaker": "nitfg",
+                                "source": "roljbogu'e chatlog",
+                                "instance": 30
+                            }
+                        ]
                     }
                 ]
             }
-        ]
+        ],
+        "good": true
     },
     {
         "word": "klaji",
@@ -21019,7 +21106,7 @@
                                 "source-id": "rolj",
                                 "speaker": "Lucilla",
                                 "source": "roljbogu'e chatlog",
-                                "instance": 28
+                                "instance": 31
                             },
                             {
                                 "lojban": "&mdash; .i ma jmina le jugbau jufra le kibypapri<br> &mdash; {{la .lukifer.kailus.delikatus.}} no'u {{la .yu'orb.}}",
@@ -21028,7 +21115,7 @@
                                 "source-id": "rolj",
                                 "speaker": "la nalvai, la ilmen",
                                 "source": "roljbogu'e chatlog",
-                                "instance": 29
+                                "instance": 32
                             }
                         ]
                     },
@@ -21051,7 +21138,7 @@
                                 "speaker": "la solpa'i",
                                 "note": "\"Seven Ways to Say 'I Love You'\" probably refers to <a href=\"https://pastebin.com/raw/qmE06Tm0\">a set of seven sentences in Toaq</a>. The quote is from June 2017, so the Toaq is supposedly not too distant from that.",
                                 "source": "jbobratca chatlog",
-                                "instance": 4
+                                "instance": 5
                             }
                         ]
                     }
@@ -24120,7 +24207,7 @@
                                 "source-id": "rolj",
                                 "speaker": "la lunbe, niftg",
                                 "source": "roljbogu'e chatlog",
-                                "instance": 30
+                                "instance": 33
                             },
                             {
                                 "lojban": ".i pe'i ro bangu cu {{melbi fi da}}",
@@ -24128,7 +24215,7 @@
                                 "source-id": "rolj",
                                 "speaker": "la xrula",
                                 "source": "roljbogu'e chatlog",
-                                "instance": 31
+                                "instance": 34
                             },
                             {
                                 "lojban": ".i ku'i mi {{se melbi}} le do ganto'a sai voksa",
@@ -24136,7 +24223,7 @@
                                 "source-id": "rolj",
                                 "speaker": "la janbe",
                                 "source": "roljbogu'e chatlog",
-                                "instance": 32
+                                "instance": 35
                             }
                         ]
                     }
@@ -24624,7 +24711,7 @@
                                 "source-id": "rolj",
                                 "speaker": "varik",
                                 "source": "roljbogu'e chatlog",
-                                "instance": 33
+                                "instance": 36
                             },
                             {
                                 "lojban": ".i je lo ji'a sai pilka cu {{crino milxe}}",
@@ -24634,7 +24721,7 @@
                                 "author": "L. Frank Baum",
                                 "translator": "la solpa'i",
                                 "link": "https://selpahi.de/oz_plain.html",
-                                "instance": 6
+                                "instance": 7
                             }
                         ]
                     }
@@ -24961,7 +25048,7 @@
                                 "author": "L. Frank Baum",
                                 "translator": "la solpa'i",
                                 "link": "https://selpahi.de/oz_plain.html",
-                                "instance": 7
+                                "instance": 8
                             }
                         ]
                     }
@@ -25582,7 +25669,7 @@
     },
     {
         "word": "mu'i",
-        "gloss": "because of motive",
+        "gloss": "Preposition: because of motive ...",
         "type": "cmavo",
         "freq": "39982",
         "rank": "121",
@@ -25595,11 +25682,56 @@
                 "selmaho": "BAI",
                 "meaning": [
                     {
-                        "exp": "mukti modal, 1st place                            because of motive ..."
+                        "exp": "Because of motive ...; Introduces an unnumbered sumti that plays the role of {{mukti}}'s x<sub>1</sub> in the sentence.",
+                        "note": "The event described by the bridi occurs because of the motive described by the referent of the tagged sumti.",
+                        "example": [
+                            {
+                                "lojban": ".i ba ku {{mu'i lo nu tatpi}} cu cpana lo ckana",
+                                "english": "And then [she] lied on a bed {{because [she] was tired}}.",
+                                "source-id": "snow",
+                                "source": "Snow White",
+                                "author": "Brothers Grimm",
+                                "translator": "la solpa'i",
+                                "link": "https://selpahi.de/snimeblabi.html",
+                                "instance": 1
+                            },
+                            {
+                                "lojban": ".i vy. xaksu lo temci {{mu'i tu'a lo bukpu selkeipre}}",
+                                "english": "They waste their time {{over a rag doll}} [...]",
+                                "source-id": "litt",
+                                "source": "The Little Prince",
+                                "author": "Antoine de Saint-Exupéry",
+                                "translator": "la .xorxes.",
+                                "link": "https://mw.lojban.org/papri/le_cmalu_noltru",
+                                "instance": 6
+                            }
+                        ]
+                    },
+                    {
+                        "context": "{{se}} ~",
+                        "exp": "Motive therefore ...; Introduces an unnumbered sumti that plays the role of {{mukti}}'s x<sub>2</sub> in the sentence.",
+                        "note": "The event described by the bridi is the motive behind the event described by the referent of the tagged sumti.",
+                        "example": [
+                            {
+                                "lojban": ".i mi tolnei lo'e morna kibystu {{semu'i lonu zbasu lo narpanra}}",
+                                "english": "I dislike template websites in general, {{so [I] build something unique}}.",
+                                "source-id": "rolj",
+                                "speaker": "latkerlo",
+                                "source": "roljbogu'e chatlog",
+                                "instance": 37
+                            }
+                        ]
+                    },
+                    {
+                        "context": "{{te}} ~",
+                        "exp": "Motive of person ...; Introduces an unnumbered sumti that plays the role of {{mukti}}'s x<sub>3</sub> in the sentence.",
+                        "note": "Unattested.",
+                        "noshownote": "There is a usage, {.i lo da'i nu do da viska cu mukti fi ko fe lo nu cusku no da gi'e pinxe te mu'i lo nu co'u morji} (jbobratca chatlog), in which the {te mu'i} seems like an error for {te zu'e}."
                     }
                 ]
             }
-        ]
+        ],
+        "good": true
     },
     {
         "word": "mukti",
@@ -25825,7 +25957,7 @@
                                 "speaker": "la nalvai",
                                 "note": "To be overwhelmed = To feel an extreme emotion",
                                 "source": "roljbogu'e chatlog",
-                                "instance": 34
+                                "instance": 38
                             }
                         ]
                     }
@@ -26225,7 +26357,7 @@
                                 "author": "Jonathan Coulton",
                                 "translator": "la solpa'i",
                                 "link": "https://www.youtube.com/watch?v=hRrIioMA4w8",
-                                "instance": 3
+                                "instance": 4
                             },
                             {
                                 "lojban": ".i so'i cnima'o cu fanva {{jai nandu}}",
@@ -26234,7 +26366,7 @@
                                 "source-id": "rolj",
                                 "speaker": "la lunbe",
                                 "source": "roljbogu'e chatlog",
-                                "instance": 35
+                                "instance": 39
                             },
                             {
                                 "lojban": "ni'o lo ralju be {{lo nandu be la .alis.}} ca lo cfari cu nu jitro lo fagycpi",
@@ -26252,7 +26384,7 @@
                                 "source-id": "rolj",
                                 "speaker": "la melmi",
                                 "source": "roljbogu'e chatlog",
-                                "instance": 36
+                                "instance": 40
                             }
                         ]
                     }
@@ -26680,7 +26812,7 @@
                                 "author": "Antoine de Saint-Exupéry",
                                 "translator": "la .xorxes.",
                                 "link": "https://mw.lojban.org/papri/le_cmalu_noltru",
-                                "instance": 6
+                                "instance": 7
                             },
                             {
                                 "lojban": "ko te cmene fi {{lo do se nelci}}",
@@ -27111,7 +27243,7 @@
                                 "author": "Antoine de Saint-Exupéry",
                                 "translator": "la .xorxes.",
                                 "link": "https://mw.lojban.org/papri/le_cmalu_noltru",
-                                "instance": 7
+                                "instance": 8
                             },
                             {
                                 "lojban": ".i do lo nu djuno lo du'u ma kau smuvanbi cu {{nitcu}} lo nu jdice lo du'u ma kau smuni",
@@ -28889,7 +29021,7 @@
                                 "author": "Antoine de Saint-Exupéry",
                                 "translator": "la .xorxes.",
                                 "link": "https://mw.lojban.org/papri/le_cmalu_noltru",
-                                "instance": 8
+                                "instance": 9
                             },
                             {
                                 "lojban": ".i je .o'e nai {{no pendo}} cu kansa do",
@@ -28980,7 +29112,7 @@
                                 "author": "Antoine de Saint-Exupéry",
                                 "translator": "la .xorxes.",
                                 "link": "https://mw.lojban.org/papri/le_cmalu_noltru",
-                                "instance": 9
+                                "instance": 10
                             }
                         ]
                     }
@@ -35063,7 +35195,7 @@
                                 "source-id": "rolj",
                                 "speaker": "la katador",
                                 "source": "roljbogu'e chatlog",
-                                "instance": 37
+                                "instance": 41
                             },
                             {
                                 "lojban": "su'o da kelci secau leka ponse le selkei je {{le ka'e skami be ri}}",
@@ -35073,7 +35205,7 @@
                                 "note": "This sentence is clipped from a much longer sentence. This sentence is in JACU. To convert it to CLL Lojban, substitute {{je}} with {{.e}}.",
                                 "noshownote": "The {{ka'e}} confuses me a little... I guess it's for specialized hardware for games that \"can become a computer\" by hacking?",
                                 "source": "roljbogu'e chatlog",
-                                "instance": 38
+                                "instance": 42
                             },
                             {
                                 "lojban": ".i mi terve'u lo cnino {{skami be lo nu samtcifi'i}}",
@@ -35082,7 +35214,7 @@
                                 "speaker": "la .zi.",
                                 "note": "{{samtcifi'i}} expands to {{skami tutci finti}}, Creating computer-tools = programming.",
                                 "source": "jbobratca chatlog",
-                                "instance": 5
+                                "instance": 6
                             }
                         ]
                     }
@@ -35134,7 +35266,7 @@
                                 "source": "la nicte cadzu",
                                 "author": "Robin Lee Powell",
                                 "link": "https://mw.lojban.org/papri/Robin%27s_Palm_Writings:_la_nicte_cadzu",
-                                "instance": 4
+                                "instance": 5
                             },
                             {
                                 "lojban": ".i ju'o .ia ro prenu cu {{skari}} so'i melbi joi so'i fegli",
@@ -35718,7 +35850,7 @@
                                 "source-id": "rolj",
                                 "speaker": "la nalvai",
                                 "source": "roljbogu'e chatlog",
-                                "instance": 39
+                                "instance": 43
                             },
                             {
                                 "lojban": ".i ru'a lo'u do cinmo ma doi ro do le'u {{se djica jai smuni}}",
@@ -35727,7 +35859,7 @@
                                 "speaker": "la janbe",
                                 "note": "The {{jai}} raises the quote, {{lo'u do cinmo ma doi ro do le'u}}, into an abstraction so it can go into the x<sub>1</sub> place.",
                                 "source": "roljbogu'e chatlog",
-                                "instance": 40
+                                "instance": 44
                             },
                             {
                                 "lojban": ".i lo du'u da de natfe cu {{se smuni}} lo du'u da .o nai de ka'e jetnu",
@@ -38279,7 +38411,7 @@
                                 "source": "la nicte cadzu",
                                 "author": "Robin Lee Powell",
                                 "link": "https://mw.lojban.org/papri/Robin%27s_Palm_Writings:_la_nicte_cadzu",
-                                "instance": 5
+                                "instance": 6
                             }
                         ]
                     }
@@ -39303,7 +39435,7 @@
                                 "source-id": "rolj",
                                 "speaker": "la janbe",
                                 "source": "roljbogu'e chatlog",
-                                "instance": 41
+                                "instance": 45
                             },
                             {
                                 "lojban": "le mi bruna {{to se rirni le se rirni pe le mamta pe le mi mamta toi}} cu bilma",
@@ -39312,7 +39444,7 @@
                                 "speaker": "la kanis",
                                 "note": "Note that the {{toi}} in this sentence is elidable, as the content in the parentheses cannot take the second selbri introduced by {{cu}}.",
                                 "source": "roljbogu'e chatlog",
-                                "instance": 42
+                                "instance": 46
                             },
                             {
                                 "lojban": ".i da'i {{to se va'u lo nu darlu toi}} lo jmive je pensi cu kakne lo nu zasti ze'o lo bitmu be lo botpi",
@@ -39920,7 +40052,7 @@
                                 "speaker": "Stephen Dedalus",
                                 "note": "The only usage I can find for {{troci}}'s x<sub>3</sub>.",
                                 "source": "jbobratca chatlog",
-                                "instance": 6
+                                "instance": 7
                             }
                         ]
                     }
@@ -42677,7 +42809,7 @@
                                 "source-id": "rolj",
                                 "speaker": "Magnap",
                                 "source": "roljbogu'e chatlog",
-                                "instance": 43
+                                "instance": 47
                             },
                             {
                                 "lojban": ".i je ku'i ri {{se xamgu}} ju'o lo nu lo plini cu glare zenba",
@@ -43818,7 +43950,7 @@
                                 "author": "L. Frank Baum",
                                 "translator": "la solpa'i",
                                 "link": "https://selpahi.de/oz_plain.html",
-                                "instance": 8
+                                "instance": 9
                             },
                             {
                                 "lojban": ".i lo te gusni be fi {{lo xunre}} cu co'u se ganse ca lonu dy de'a vasxu ja'e loka smaji mulno kei kei",
@@ -44410,7 +44542,7 @@
                                 "author": "L. Frank Baum",
                                 "translator": "la solpa'i",
                                 "link": "https://selpahi.de/oz_plain.html",
-                                "instance": 9
+                                "instance": 10
                             },
                             {
                                 "lojban": ".i le bangu cu se pilno su'o so'o da {{va'o tu'a lo zdani}} lo fadni je voksa nu casnu",
@@ -44430,7 +44562,7 @@
                                 "source": "la nicte cadzu",
                                 "author": "Robin Lee Powell",
                                 "link": "https://mw.lojban.org/papri/Robin%27s_Palm_Writings:_la_nicte_cadzu",
-                                "instance": 6
+                                "instance": 7
                             }
                         ]
                     }
@@ -44573,7 +44705,7 @@
                                 "author": "Antoine de Saint-Exupéry",
                                 "translator": "la .xorxes.",
                                 "link": "https://mw.lojban.org/papri/le_cmalu_noltru",
-                                "instance": 10
+                                "instance": 11
                             }
                         ]
                     },
@@ -44589,7 +44721,7 @@
                                 "author": "L. Frank Baum",
                                 "translator": "la solpa'i",
                                 "link": "https://selpahi.de/oz_plain.html",
-                                "instance": 10
+                                "instance": 11
                             },
                             {
                                 "lojban": ".i do mi {{ze'e ba}} pendo",
@@ -44599,7 +44731,7 @@
                                 "author": "Antoine de Saint-Exupéry",
                                 "translator": "la .xorxes.",
                                 "link": "https://mw.lojban.org/papri/le_cmalu_noltru",
-                                "instance": 11
+                                "instance": 12
                             }
                         ]
                     },
@@ -44619,7 +44751,7 @@
                                 "source-id": "rolj",
                                 "speaker": "qimar",
                                 "source": "roljbogu'e chatlog",
-                                "instance": 44
+                                "instance": 48
                             }
                         ]
                     }
@@ -44868,7 +45000,7 @@
                                 "author": "Antoine de Saint-Exupéry",
                                 "translator": "la .xorxes.",
                                 "link": "https://mw.lojban.org/papri/le_cmalu_noltru",
-                                "instance": 12
+                                "instance": 13
                             },
                             {
                                 "lojban": "ca lo jibni lo lojbo ku se xlali lo {{frili se zgana}} poi pagbu lo vanbi be lo bangu",
@@ -44885,7 +45017,7 @@
                                 "source-id": "rolj",
                                 "speaker": "qimar",
                                 "source": "roljbogu'e chatlog",
-                                "instance": 45
+                                "instance": 49
                             }
                         ]
                     }
@@ -45656,7 +45788,7 @@
                                 "author": "Antoine de Saint-Exupéry",
                                 "translator": "la .xorxes.",
                                 "link": "https://mw.lojban.org/papri/le_cmalu_noltru",
-                                "instance": 13
+                                "instance": 14
                             },
                             {
                                 "lojban": ".i {{lo se zvati be mi}} cu tolmanku ze'i lo snidu",

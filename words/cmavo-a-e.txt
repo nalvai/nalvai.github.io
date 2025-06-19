@@ -194,6 +194,44 @@
             -exp is already ended when ...
 
 -entry:
+    -word bau
+    -gloss Preposition: in language ...
+    -type cmavo
+    -definition:
+        -selmaho BAI
+        -meaning:
+            -exp In language ...; Introduces an unnumbered sumti that plays the role of {{bangu}}'s x<sub>1</sub> in the sentence.
+            -note The event described by the bridi is normally an activity associated with language (For example: speaking, writing, reading, making creative works...), in which the sumti introduced with {{bau}} specifies the language being used. 
+            -example:
+                -lojban xu do djica lo nu mi cusku fi do {{bau la lojban po'o}}
+                -english Do you want me to speak to you {{in Lojban only}}?
+                -source-id nict
+            -example:
+                -lojban .i ku'i .u'adai do kakne lo ka ciska {{bau lo na'e jai se jimpe}}
+                -english However, gain for you that you can write {{in a language that isn't understood [by others]}}.
+                -source-id rolj
+                -speaker la janbe
+        -meaning:
+            -context {{se}} ~
+            -exp In (the) language of ...; Introduces an unnumbered sumti that plays the role of {{bangu}}'s x<sub>2</sub> in the sentence.
+            -example:
+                -lojban .i zo'oi Naylte valsi {{sebau}} lo ractu
+                -english "Naylte" is a word {{in the language of}} rabbits.
+                -source-id rolj
+                -speaker la nonselcme
+            -example:
+                -lojban mi {{na jai se bau}} zgijbo
+                -english I {{am not a speaker of}} Musical-Lojban.
+                -source-id jbob
+                -speaker la gleki
+        -meaning:
+            -context {{te}} ~
+            -exp Expressing ...; Introduces an unnumbered sumti that plays the role of {{bangu}}'s x<sub>3</sub> in the sentence.
+            -note Unattested.
+
+
+
+-entry:
     -word bo
     -gloss Grouping: short scope link, strong binding
     -type cmavo
