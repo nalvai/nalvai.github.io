@@ -27,6 +27,32 @@
                 -note If the {{toi}} was elided in this sentence, the parentheses will automatically close just before the {{cu}}, for the same reason as in the previous example.
 
 -entry:
+    -word va'o
+    -gloss Preposition: under conditions ... / in environment ...
+    -type cmavo
+    -definition:
+        -selmaho BAI
+        -meaning:
+            -exp Under conditions ... / In environment ... ; Introduces an unnumbered sumti that plays the role of {{vanbi}}'s x<sub>1</sub> in the sentence.
+            -note The event described by the bridi occurs under the conditions described by the tagged sumti.
+            -example:
+                -lojban .i lo nu badri cu norxla {{va'o lo nu do na sisti lo ka troci}}
+                -english It's okay to feel sad {{as long as you don't give up}}.
+                -source-id clan
+            -example:
+                -lojban .i xu da do prali lo nu sanga le do zgike {{va'o lo nu le tertigni na se vajni co tinju'i do}}
+                -english Would it do you any good to sing your heart out {{if the audience didn't care to listen to you}}?
+                -source-id nabm
+        -meaning:
+            -context {{se}} ~
+            -exp As condition/environment for ...; Introduces an unnumbered sumti that plays the role of {{vanbi}}'s x<sub>2</sub> in the sentence.
+            -note The event described by the bridi is the condition/environment under which the referent of the tagged sumti occurs. 
+            -example:
+                -lojban .i ku'i {{se va'o mi}} ba da lo kandi manku ca'o culno 
+                -english But darkness had already been gathering {{round me}}.
+                -source-id inag
+
+-entry:
     -word ze'e
     -gloss Preposition (tense): mark unbounded time interval
     -type cmavo

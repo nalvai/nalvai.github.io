@@ -1,5 +1,43 @@
 
 -entry:
+    -word ka'e
+    -gloss Preposition (tense): innate capability
+    -type cmavo
+    -definition:
+        -selmaho CAhA
+        -meaning:
+            -variation CLL, BPFK
+            -exp Innate capability: signifies an innate or potential capability that may or may not be present at the moment due to certain conditions.
+            -note Innate capability is unrelated to the condition present at the moment. From BPFK Sections (without the Lojban parts): "[B]irds (except for few species) can fly but among them there are some that cannot do so now due to being crippled, too young, confined in small cage, etc."
+            -example:
+                -lojban .i va'i ro da poi {{ka'e se cusku}}
+                -english That is, all that {{is able to be expressed}}.
+                -source-id libr
+            -example:
+                -lojban .i co'a lo me ru crisa mi do jorne {{lo na ka'e se katna}}
+                -english Starting that summer you and me were connected by {{something that can't be cut apart}}.
+                -note The {{co'a}} follows the BPFK interpretation.
+                -source-id pram
+        -meaning:
+            -exp Actual capability: signifies capability present at the moment.
+            -note Under this meaning, {{x<sub>1</sub> ka'e SELBRI x<sub>2</sub> x<sub>3</sub> ...}} is usually synonymous with {{x<sub>1</sub> kakne lo ka (ce'u) SELBRI x<sub>2</sub> x<sub>3</sub> ...}}.
+            -example:
+                -lojban ni'o le barda prenu ku zukte fi lo nu le cmalu ractu ku {{na ka'e cliva}}
+                -english The big person made it so that the small rabbit {{was unable to leave}}.
+                -source-id melb
+        -meaning:
+            -exp Possibility: signifies the bridi is possible to be true.
+            -example:
+                -lojban {{ka'e ku}} lo prurai dinsauru cu cti'omni bu'u lo berti bolxadba
+                -english First dinosaurs {{may}} have been omnivores in the north hemisphere
+                -source-id firs
+        -meaning:
+            -context When followed by a sumti
+            -exp <i>This usage is undefined and not attested.</i>
+            -note Mentioned once in roljbogu'e, where {{ka'e SUMTI}} is said to mean "possibility/capability under conditions of SUMTI".
+
+
+-entry:
     -word ki'u
     -gloss Preposition: because of reason ...
     -type cmavo

@@ -18296,7 +18296,7 @@
     },
     {
         "word": "ka'e",
-        "gloss": "can, innately capable of",
+        "gloss": "Preposition (tense): innate capability",
         "type": "cmavo",
         "freq": "36140",
         "rank": "134",
@@ -18309,11 +18309,71 @@
                 "selmaho": "CAhA",
                 "meaning": [
                     {
-                        "exp": "modal aspect: innate capability; possibly unrealized."
+                        "variation": "CLL, BPFK",
+                        "exp": "Innate capability: signifies an innate or potential capability that may or may not be present at the moment due to certain conditions.",
+                        "note": "Innate capability is unrelated to the condition present at the moment. From BPFK Sections (without the Lojban parts): \"[B]irds (except for few species) can fly but among them there are some that cannot do so now due to being crippled, too young, confined in small cage, etc.\"",
+                        "example": [
+                            {
+                                "lojban": ".i va'i ro da poi {{ka'e se cusku}}",
+                                "english": "That is, all that {{is able to be expressed}}.",
+                                "source-id": "libr",
+                                "source": "The Library of Babel",
+                                "author": "Jorge Luis Borges",
+                                "translator": "la .xorxes.",
+                                "link": "https://mw.lojban.org/papri/la_ckuzda_pe_la_babel",
+                                "instance": 1
+                            },
+                            {
+                                "lojban": ".i co'a lo me ru crisa mi do jorne {{lo na ka'e se katna}}",
+                                "english": "Starting that summer you and me were connected by {{something that can't be cut apart}}.",
+                                "note": "The {{co'a}} follows the BPFK interpretation.",
+                                "source-id": "pram",
+                                "source": "prami simbi'o",
+                                "author": "Djemynai",
+                                "link": "https://www.youtube.com/watch?v=g3BQ-pE7ypY"
+                            }
+                        ]
+                    },
+                    {
+                        "exp": "Actual capability: signifies capability present at the moment.",
+                        "note": "Under this meaning, {{x<sub>1</sub> ka'e SELBRI x<sub>2</sub> x<sub>3</sub> ...}} is usually synonymous with {{x<sub>1</sub> kakne lo ka (ce'u) SELBRI x<sub>2</sub> x<sub>3</sub> ...}}.",
+                        "example": [
+                            {
+                                "lojban": "ni'o le barda prenu ku zukte fi lo nu le cmalu ractu ku {{na ka'e cliva}}",
+                                "english": "The big person made it so that the small rabbit {{was unable to leave}}.",
+                                "source-id": "melb",
+                                "source": "la melbi e le ractu",
+                                "author": "la lalxu",
+                                "link": "https://lynn.github.io/la-melbi-e-le-ractu/",
+                                "instance": 4
+                            }
+                        ]
+                    },
+                    {
+                        "exp": "Possibility: signifies the bridi is possible to be true.",
+                        "example": [
+                            {
+                                "lojban": "{{ka'e ku}} lo prurai dinsauru cu cti'omni bu'u lo berti bolxadba",
+                                "english": "First dinosaurs {{may}} have been omnivores in the north hemisphere",
+                                "source-id": "firs",
+                                "source": "First dinosaurs may have been omnivores in the north hemisphere",
+                                "author": "Chelsea Whyte on NewScientist",
+                                "translator": "la .ilmen.",
+                                "link": "https://mw.lojban.org/papri/UserWiki:Ilmen/ka%27e_ku_lo_prurai_dinsauru_cu_cti%27omni_bu%27u_lo_berti_bolxadba",
+                                "originallink": "https://www.newscientist.com/article/2125580-first-dinosaurs-may-have-been-omnivores-in-the-north-hemisphere/",
+                                "instance": 1
+                            }
+                        ]
+                    },
+                    {
+                        "context": "When followed by a sumti",
+                        "exp": "<i>This usage is undefined and not attested.</i>",
+                        "note": "Mentioned once in roljbogu'e, where {{ka'e SUMTI}} is said to mean \"possibility/capability under conditions of SUMTI\"."
                     }
                 ]
             }
-        ]
+        ],
+        "good": true
     },
     {
         "word": "kafke",
@@ -26802,7 +26862,8 @@
                                 "source-id": "pram",
                                 "source": "prami simbi'o",
                                 "author": "Djemynai",
-                                "link": "https://www.youtube.com/watch?v=g3BQ-pE7ypY"
+                                "link": "https://www.youtube.com/watch?v=g3BQ-pE7ypY",
+                                "instance": 1
                             },
                             {
                                 "lojban": ".i mi {{nelci}} ca lo nicte lo nu tirna lo tarci",
@@ -29092,7 +29153,7 @@
                                 "source": "prami simbi'o",
                                 "author": "Djemynai",
                                 "link": "https://www.youtube.com/watch?v=g3BQ-pE7ypY",
-                                "instance": 1
+                                "instance": 2
                             },
                             {
                                 "lojban": "mi {{pensi}} lo'e nu zerle'a lo remna .e nai lo pixra",
@@ -40043,7 +40104,7 @@
                                 "source": "prami simbi'o",
                                 "author": "Djemynai",
                                 "link": "https://www.youtube.com/watch?v=g3BQ-pE7ypY",
-                                "instance": 2
+                                "instance": 3
                             },
                             {
                                 "lojban": "zo ie pe mi pu {{jai te troci lonu mi dragau tu'a mi}}",
@@ -41086,7 +41147,7 @@
     },
     {
         "word": "va'o",
-        "gloss": "under conditions",
+        "gloss": "Preposition: under conditions ... / in environment ...",
         "type": "cmavo",
         "freq": "19621",
         "rank": "236",
@@ -41099,11 +41160,50 @@
                 "selmaho": "BAI",
                 "meaning": [
                     {
-                        "exp": "vanbi modal, 1st place (conditions 1)             under conditions ...; in environment ..."
+                        "exp": "Under conditions ... / In environment ... ; Introduces an unnumbered sumti that plays the role of {{vanbi}}'s x<sub>1</sub> in the sentence.",
+                        "note": "The event described by the bridi occurs under the conditions described by the tagged sumti.",
+                        "example": [
+                            {
+                                "lojban": ".i lo nu badri cu norxla {{va'o lo nu do na sisti lo ka troci}}",
+                                "english": "It's okay to feel sad {{as long as you don't give up}}.",
+                                "source-id": "clan",
+                                "source": "clani kerlo",
+                                "author": "la fagri",
+                                "link": "https://docs.google.com/spreadsheets/d/1_vkiwqOIOIJPqZTiomzd4ApUSEQXhEY6CeyZD_6c-PA/edit?gid=1296186733#gid=1296186733",
+                                "instance": 4
+                            },
+                            {
+                                "lojban": ".i xu da do prali lo nu sanga le do zgike {{va'o lo nu le tertigni na se vajni co tinju'i do}}",
+                                "english": "Would it do you any good to sing your heart out {{if the audience didn't care to listen to you}}?",
+                                "source-id": "nabm",
+                                "source": "lo nabmi",
+                                "author": "Noise and Bells (la janbe)",
+                                "link": "https://www.youtube.com/watch?v=gv0QIbGc8i8",
+                                "instance": 1
+                            }
+                        ]
+                    },
+                    {
+                        "context": "{{se}} ~",
+                        "exp": "As condition/environment for ...; Introduces an unnumbered sumti that plays the role of {{vanbi}}'s x<sub>2</sub> in the sentence.",
+                        "note": "The event described by the bridi is the condition/environment under which the referent of the tagged sumti occurs.",
+                        "example": [
+                            {
+                                "lojban": ".i ku'i {{se va'o mi}} ba da lo kandi manku ca'o culno",
+                                "english": "But darkness had already been gathering {{round me}}.",
+                                "source-id": "inag",
+                                "source": "In a Grove",
+                                "author": "Ryūnosuke Akutagawa",
+                                "translator": "la .guskant.",
+                                "link": "https://guskant.github.io/yabu/html5/jbopoho.html",
+                                "instance": 1
+                            }
+                        ]
                     }
                 ]
             }
-        ]
+        ],
+        "good": true
     },
     {
         "word": "vasru",
@@ -44695,7 +44795,7 @@
                                 "author": "Jorge Luis Borges",
                                 "translator": "la .xorxes.",
                                 "link": "https://mw.lojban.org/papri/la_ckuzda_pe_la_babel",
-                                "instance": 1
+                                "instance": 2
                             },
                             {
                                 "lojban": ".i lo po'o cmana poi {{ze'e pu slabu ny}} cu me lo ci je'erma'a noi galtu dunli lo ny cidni",
@@ -45778,7 +45878,7 @@
                                 "source": "la melbi e le ractu",
                                 "author": "la lalxu",
                                 "link": "https://lynn.github.io/la-melbi-e-le-ractu/",
-                                "instance": 4
+                                "instance": 5
                             },
                             {
                                 "lojban": ".i lo cmalu noltru noi {{zvati lo nu zvagau lo barda balji}} cu birti lo du'u ba barkla by fa lo se manci tolcanci",
