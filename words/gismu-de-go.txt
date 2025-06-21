@@ -23,6 +23,7 @@
     -definition:
         -meaning:
             -exp x_1 knows fact(s) x_2 (du'u) about subject x_3 by epistemology x_4.
+            -note Place structure parallels that of {{jinvi}}. Has an additional sumti slot for epistemology/grounds (x<sub>4</sub>) compared to its near-synonym {{jimpe}}. 
             -example:
                 -lojban .i my ba zi {{djuno}} lo du'u do ti zvati
                 -english She will soon {{know}} that you are here.
@@ -78,7 +79,6 @@
                 -english Is it correct by Lojban standards?
                 -source-id rolj
                 -speaker dram 
-                -note The type/usage of the "by standard" places are never specified or defined, rendering those places virtually useless. This sentence is a rare example of a "by standard" place being used.
 
 -entry:
     -word drata

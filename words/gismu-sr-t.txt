@@ -27,7 +27,7 @@
     -definition:
         -meaning:
             -exp x_1 tries/attempts/makes an effort to do/attain x_2 (event/state/property) by actions/method x_3.
-            -note The x<sub>3</sub> place is seldom used. {{x<sub>1</sub> troci x<sub>2</sub> x<sub>3</sub>}} is similar in meaning to {{x<sub>1</sub> zukte x<sub>3</sub> x<sub>2</sub>}}.
+            -note Place structure parallels that of {{rivbi}}. The x<sub>3</sub> place is seldom used. {{x<sub>1</sub> troci x<sub>2</sub> x<sub>3</sub>}} is similar in meaning to {{x<sub>1</sub> zukte x<sub>3</sub> x<sub>2</sub>}}.
             -example:
                 -lojban .i mi co'u {{troci lo nu fagysti}}
                 -english I'm done {{trying to put out fires}}.
@@ -43,4 +43,29 @@
                 -speaker Stephen Dedalus
                 -note The only usage I can find for {{troci}}'s x<sub>3</sub>.
 
+
+
+-entry:
+    -word tsali
+    -gloss strong, powerful &mdash; (aspect, property of) strength &mdash; standard of strength
+    -type gismu
+    -definition:
+        -meaning:
+            -exp x_1 is strong/powerful/[tough] in property/quality x_2 (ka) by standard x_3.
+            -note Sometimes confused with {{mutce}}.
+            -example:
+                -lojban .i ku'i no da prali fi {{lo nu do tsali je certu}}
+                -english Vain are {{your strength and cunning}}!
+                -source-id cloc
+            -example:
+                -lojban xu {{tsali}} lo ka te sluji fi lo vlipa
+                -english {{Strong}} as in having powerful muscles?
+                -source-id jbob
+                -speaker la gleki
+            -example:
+                -lojban .i {{tsali}} lo ka gradu kei lo sarcu be lo nu jdenoi fi lo tsunami
+                -english It{{'s so strong}} in magnitude that it met the threshold for tsumani alerts.
+                -source-id rolj
+                -speaker bancip
+                -note The only example I can find for {{tsali}}'s x<sub>3</sub>.
 

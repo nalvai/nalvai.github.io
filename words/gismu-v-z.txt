@@ -3,9 +3,6 @@
     -word valsi
     -gloss word, (of a word) to mean &mdash; meaning (of a word) &mdash; (of a language) to have a word for...
     -type gismu
-    -rafsi-cvc val
-    -rafsi-ccv vla
-    -rafsi-cvv 
     -definition:
         -meaning:
             -exp x_1 is a word meaning/causing x_2 in language x_3; (adjective: x_1 is lexical/verbal).
@@ -18,6 +15,26 @@
                 -english But what the hell does "adult" {{mean}} to begin with?
                 -source-id lost
 
+-entry:
+    -word viska
+    -gloss to see, to sight, seer &mdash; to be seen, visible &mdash; condition/environment for seeing
+    -type gismu
+    -definition:
+        -meaning:
+            -exp x_1 sees/views/perceives visually x_2 under conditions x_3.
+            -example:
+                -lojban .i catlu ro da gi'e ku'i {{viska}} no ka'e se citka
+                -english They looked everywhere, but didn't {{see}} anything they could eat.
+                -source-id melb
+            -example:
+                -lojban .i mu no pa ki'o ki'o cmalu dacti {{poi su'o roi se viska fi lo tsani}}
+                -english Five-hundred-and-one million of those little objects {{which one sometimes sees in the sky}}.
+                -source-id litt
+                -note This utterance is a response to a question and thus only consists of a single sumti.
+            -example:
+                -lojban .i le prije cu tcila ciksi {{lo se viska be bu'u lo skeku'a}}
+                -english The doctor explained at great length {{what [he] had seen in the laboratory}}.
+                -source-id scie
 
 -entry:
     -word xamgu

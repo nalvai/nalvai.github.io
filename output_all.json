@@ -66,8 +66,7 @@
                                 "source-id": "rolj",
                                 "speaker": "la melmi",
                                 "note": "The first sentence seems to be a question where the speaker is asking themselves or is expecting a negative answer, but it's hard to say for sure because there are no other instences of {{.anai}} in similar usage.",
-                                "source": "roljbogu'e chatlog",
-                                "instance": 1
+                                "source": "roljbogu'e chatlog"
                             }
                         ]
                     },
@@ -82,8 +81,7 @@
                                 "source-id": "rolj",
                                 "speaker": "la nonselcme, la srasu",
                                 "note": "The former sentence is compatible with CLL Lojban. The latter is in ajbo.",
-                                "source": "roljbogu'e chatlog",
-                                "instance": 2
+                                "source": "roljbogu'e chatlog"
                             }
                         ]
                     },
@@ -99,8 +97,7 @@
                                 "source-id": "rolj",
                                 "note": "This is the only instance of {{.a nai}} being used as a rhetorical question starter.",
                                 "speaker": ".kúblizel.",
-                                "source": "roljbogu'e chatlog",
-                                "instance": 3
+                                "source": "roljbogu'e chatlog"
                             }
                         ]
                     }
@@ -208,8 +205,7 @@
                                 "english": "― Just finished listening to the first 100 and am now taking a break. {{Unsure if}} I'll listen to the remaining 400.",
                                 "source-id": "rolj",
                                 "speaker": "la lalxu",
-                                "source": "roljbogu'e chatlog",
-                                "instance": 4
+                                "source": "roljbogu'e chatlog"
                             }
                         ]
                     },
@@ -346,8 +342,7 @@
                                 "source-id": "zaho",
                                 "source": "za'o",
                                 "author": "Djemynai",
-                                "link": "https://www.youtube.com/watch?v=TKbFwr-1ZQ4",
-                                "instance": 1
+                                "link": "https://www.youtube.com/watch?v=TKbFwr-1ZQ4"
                             }
                         ]
                     },
@@ -540,8 +535,7 @@
                                 "english": "{{<em>This</em>}} week, I definitely can read every day what all my Lojban friends have written!",
                                 "source-id": "rolj",
                                 "speaker": "latkerlo",
-                                "source": "roljbogu'e chatlog",
-                                "instance": 5
+                                "source": "roljbogu'e chatlog"
                             },
                             {
                                 "lojban": ".i xu {{ba'e do}} nelci lo mlatu va'o lo nu da'i do me mi",
@@ -551,8 +545,7 @@
                                 "source": "Alice in Wonderland",
                                 "author": "Lewis Carroll",
                                 "translator": "la .xorxes.",
-                                "link": "https://mw.lojban.org/papri/lo_selfri_be_la_.alis._bei_bu%27u_la_selmacygu%27e",
-                                "instance": 1
+                                "link": "https://mw.lojban.org/papri/lo_selfri_be_la_.alis._bei_bu%27u_la_selmacygu%27e"
                             }
                         ]
                     }
@@ -885,8 +878,7 @@
                                 "english": "I think it's a little strange to believe that Chinese {{is the language of}} Heaven.",
                                 "source-id": "rolj",
                                 "speaker": "la nalvai",
-                                "source": "roljbogu'e chatlog",
-                                "instance": 6
+                                "source": "roljbogu'e chatlog"
                             },
                             {
                                 "lojban": ".i ku'i mu'a la'a cu'i so'o da {{co'a se bangu}}",
@@ -923,8 +915,7 @@
                                 "note": "Example of \"(of a text) to be written in a language\" expressed with x_3 of {{bangu}}.",
                                 "source-id": "rolj",
                                 "speaker": "la srasu",
-                                "source": "roljbogu'e chatlog",
-                                "instance": 7
+                                "source": "roljbogu'e chatlog"
                             }
                         ]
                     }
@@ -1351,16 +1342,14 @@
                                 "source-id": "nict",
                                 "source": "la nicte cadzu",
                                 "author": "Robin Lee Powell",
-                                "link": "https://mw.lojban.org/papri/Robin%27s_Palm_Writings:_la_nicte_cadzu",
-                                "instance": 1
+                                "link": "https://mw.lojban.org/papri/Robin%27s_Palm_Writings:_la_nicte_cadzu"
                             },
                             {
                                 "lojban": ".i ku'i .u'adai do kakne lo ka ciska {{bau lo na'e jai se jimpe}}",
                                 "english": "However, gain for you that you can write {{in a language that isn't understood [by others]}}.",
                                 "source-id": "rolj",
                                 "speaker": "la janbe",
-                                "source": "roljbogu'e chatlog",
-                                "instance": 8
+                                "source": "roljbogu'e chatlog"
                             }
                         ]
                     },
@@ -1373,8 +1362,7 @@
                                 "english": "\"Naylte\" is a word {{in the language of}} rabbits.",
                                 "source-id": "rolj",
                                 "speaker": "la nonselcme",
-                                "source": "roljbogu'e chatlog",
-                                "instance": 9
+                                "source": "roljbogu'e chatlog"
                             },
                             {
                                 "lojban": "mi {{na jai se bau}} zgijbo",
@@ -2376,8 +2364,7 @@
                                 "source": "Alice in Wonderland",
                                 "author": "Lewis Carroll",
                                 "translator": "la .xorxes.",
-                                "link": "https://mw.lojban.org/papri/lo_selfri_be_la_.alis._bei_bu%27u_la_selmacygu%27e",
-                                "instance": 2
+                                "link": "https://mw.lojban.org/papri/lo_selfri_be_la_.alis._bei_bu%27u_la_selmacygu%27e"
                             }
                         ]
                     },
@@ -2443,8 +2430,7 @@
                                 "source": "Alice in Wonderland",
                                 "author": "Lewis Carroll",
                                 "translator": "la .xorxes.",
-                                "link": "https://mw.lojban.org/papri/lo_selfri_be_la_.alis._bei_bu%27u_la_selmacygu%27e",
-                                "instance": 3
+                                "link": "https://mw.lojban.org/papri/lo_selfri_be_la_.alis._bei_bu%27u_la_selmacygu%27e"
                             }
                         ]
                     },
@@ -4820,16 +4806,14 @@
                                 "english": "I'm {{learning how to play a flute}} for fun.",
                                 "source-id": "rolj",
                                 "speaker": "la ziren",
-                                "source": "roljbogu'e chatlog",
-                                "instance": 10
+                                "source": "roljbogu'e chatlog"
                             },
                             {
                                 "lojban": ".i mi ra'a {{cilre}} so'i da fo la lunbe ku noi .uinai cando do'e le jbogu'e ca",
                                 "english": "Related, I {{learned}} so much from Lunbe, who is now inactive in Lojbanistan :(",
                                 "source-id": "rolj",
                                 "speaker": "la janbe",
-                                "source": "roljbogu'e chatlog",
-                                "instance": 11
+                                "source": "roljbogu'e chatlog"
                             },
                             {
                                 "lojban": ".i mu'i ku so'i da pilno {{lo laldo ve cilre}} lo ka {{cilre fi lo catni lojbo}}",
@@ -4844,8 +4828,7 @@
                                 "english": "Which means (entails) that [you] can {{learn by making Pokémon names}}.",
                                 "source-id": "rolj",
                                 "speaker": "la nonselcme",
-                                "source": "roljbogu'e chatlog",
-                                "instance": 12
+                                "source": "roljbogu'e chatlog"
                             }
                         ]
                     }
@@ -5095,8 +5078,7 @@
                                 "english": "&mdash; Did you see the new train?<br>&mdash; Yep, saw the picture of the Class 777. It didn't {{interest}} me.",
                                 "source-id": "rolj",
                                 "speaker": "latkerlo, la samflir",
-                                "source": "roljbogu'e chatlog",
-                                "instance": 13
+                                "source": "roljbogu'e chatlog"
                             },
                             {
                                 "lojban": "xu nai lo zekri poi .i'y gasnu ke'a cu {{cinri}} do",
@@ -5104,8 +5086,7 @@
                                 "source-id": "rolj",
                                 "speaker": "la lunbe",
                                 "note": "{{.i'y}} is a proposed cmavo equivalent to {{.i bu}}. Note that this example doesn't need {{jai}} because the x_1 of {{zekri}} is already an event.",
-                                "source": "roljbogu'e chatlog",
-                                "instance": 14
+                                "source": "roljbogu'e chatlog"
                             },
                             {
                                 "lojban": ".i lo nu citka cu cizra {{cinri}} sy.",
@@ -5113,18 +5094,12 @@
                                 "source-id": "nict",
                                 "source": "la nicte cadzu",
                                 "author": "Robin Lee Powell",
-                                "link": "https://mw.lojban.org/papri/Robin%27s_Palm_Writings:_la_nicte_cadzu",
-                                "instance": 2
+                                "link": "https://mw.lojban.org/papri/Robin%27s_Palm_Writings:_la_nicte_cadzu"
                             },
                             {
                                 "lojban": ".i mi ka'e binxo lo makcu prenu noi {{se cinri}} no na'e bo lo namcu",
                                 "english": "I may become like the grown-ups who are {{interested in}} anything nothing other than figures.",
-                                "source-id": "litt",
-                                "source": "The Little Prince",
-                                "author": "Antoine de Saint-Exupéry",
-                                "translator": "la .xorxes.",
-                                "link": "https://mw.lojban.org/papri/le_cmalu_noltru",
-                                "instance": 1
+                                "source-id": "litt"
                             }
                         ]
                     }
@@ -5384,8 +5359,7 @@
                                 "source-id": "melb",
                                 "source": "la melbi e le ractu",
                                 "author": "la lalxu",
-                                "link": "https://lynn.github.io/la-melbi-e-le-ractu/",
-                                "instance": 1
+                                "link": "https://lynn.github.io/la-melbi-e-le-ractu/"
                             }
                         ]
                     }
@@ -5538,8 +5512,7 @@
                                 "source": "Alice in Wonderland",
                                 "author": "Lewis Carroll",
                                 "translator": "la .xorxes.",
-                                "link": "https://mw.lojban.org/papri/lo_selfri_be_la_.alis._bei_bu%27u_la_selmacygu%27e",
-                                "instance": 4
+                                "link": "https://mw.lojban.org/papri/lo_selfri_be_la_.alis._bei_bu%27u_la_selmacygu%27e"
                             },
                             {
                                 "lojban": ".i a'o {{na cizra}} do fa tu'a ti",
@@ -6127,24 +6100,21 @@
                                 "source-id": "rolj",
                                 "speaker": "la varik",
                                 "note": "This sentence is in JACU. To convert it to CLL Lojban, substitute {{jonai}} with {{.onai}}. Also, {{cmavrfa}} is a type-3 zi'evla. {{cmavrfa}} = cmav-r-FA.",
-                                "source": "roljbogu'e chatlog",
-                                "instance": 15
+                                "source": "roljbogu'e chatlog"
                             },
                             {
                                 "lojban": ".icaku mi djica tu'a {{lo cmavo be ma'oi ca'a bei tu'a zo je'u}}",
                                 "english": "Now I want {{a CAhA (cmavo of class CAhA) that means similarly to <i>je'u</i>}}.",
                                 "source-id": "rolj",
                                 "speaker": "la srasu",
-                                "source": "roljbogu'e chatlog",
-                                "instance": 16
+                                "source": "roljbogu'e chatlog"
                             },
                             {
                                 "lojban": ".i so'ida .oiru'e {{temci cmavo fo lo jbobau}}",
                                 "english": "There are so many {{tense particles in Lojban...}}",
                                 "source-id": "jbob",
                                 "speaker": "la melmi",
-                                "source": "jbobratca chatlog",
-                                "instance": 1
+                                "source": "jbobratca chatlog"
                             }
                         ]
                     }
@@ -6521,8 +6491,7 @@
                                 "source": "The Wonderful Wizard of Oz",
                                 "author": "L. Frank Baum",
                                 "translator": "la solpa'i",
-                                "link": "https://selpahi.de/oz_plain.html",
-                                "instance": 1
+                                "link": "https://selpahi.de/oz_plain.html"
                             }
                         ]
                     }
@@ -6753,8 +6722,7 @@
                                 "source": "Still Alive",
                                 "author": "Jonathan Coulton",
                                 "translator": "la solpa'i",
-                                "link": "https://www.youtube.com/watch?v=hRrIioMA4w8",
-                                "instance": 1
+                                "link": "https://www.youtube.com/watch?v=hRrIioMA4w8"
                             }
                         ]
                     }
@@ -7610,8 +7578,7 @@
                                 "source-id": "melb",
                                 "source": "la melbi e le ractu",
                                 "author": "la lalxu",
-                                "link": "https://lynn.github.io/la-melbi-e-le-ractu/",
-                                "instance": 2
+                                "link": "https://lynn.github.io/la-melbi-e-le-ractu/"
                             },
                             {
                                 "lojban": ".i ka'e {{cusku}} zo co'o fi ro da",
@@ -7626,8 +7593,7 @@
                                 "lojban": ".i my. {{cusku}} lo se du'u my. manci catlu po'o lo mi melbi lerfu",
                                 "english": "She (my mother) said she was just marvelling at my beautiful handwriting.",
                                 "source-id": "rolj",
-                                "source": "roljbogu'e chatlog",
-                                "instance": 17
+                                "source": "roljbogu'e chatlog"
                             }
                         ]
                     }
@@ -9423,8 +9389,7 @@
                                 "source-id": "melb",
                                 "source": "la melbi e le ractu",
                                 "author": "la lalxu",
-                                "link": "https://lynn.github.io/la-melbi-e-le-ractu/",
-                                "instance": 3
+                                "link": "https://lynn.github.io/la-melbi-e-le-ractu/"
                             },
                             {
                                 "lojban": ".i ki'u bo mutce lo ka {{djica}} tu'a lo drani noltruti'u",
@@ -9498,6 +9463,7 @@
                 "meaning": [
                     {
                         "exp": "x_1 knows fact(s) x_2 (du'u) about subject x_3 by epistemology x_4.",
+                        "note": "Place structure parallels that of {{jinvi}}. Has an additional sumti slot for epistemology/grounds (x<sub>4</sub>) compared to its near-synonym {{jimpe}}.",
                         "example": [
                             {
                                 "lojban": ".i my ba zi {{djuno}} lo du'u do ti zvati",
@@ -9516,8 +9482,7 @@
                                 "author": "Demi",
                                 "translator": "la darsi",
                                 "editor": "la gleki",
-                                "link": "https://docs.google.com/spreadsheets/d/1_vkiwqOIOIJPqZTiomzd4ApUSEQXhEY6CeyZD_6c-PA/edit?gid=768225989#gid=768225989",
-                                "instance": 1
+                                "link": "https://docs.google.com/spreadsheets/d/1_vkiwqOIOIJPqZTiomzd4ApUSEQXhEY6CeyZD_6c-PA/edit?gid=768225989#gid=768225989"
                             },
                             {
                                 "lojban": "ku'i ma'a {{djuno}} so'i da lo jipci",
@@ -9546,8 +9511,7 @@
                                 "source": "The Wonderful Wizard of Oz",
                                 "author": "L. Frank Baum",
                                 "translator": "la solpa'i",
-                                "link": "https://selpahi.de/oz_plain.html",
-                                "instance": 2
+                                "link": "https://selpahi.de/oz_plain.html"
                             }
                         ]
                     }
@@ -9847,8 +9811,7 @@
                                 "source": "The Egg",
                                 "author": "Andy Weir",
                                 "translator": "la nalvai",
-                                "link": "https://nalvai.neocities.org/translations/the-egg/",
-                                "instance": 1
+                                "link": "https://nalvai.neocities.org/translations/the-egg/"
                             },
                             {
                                 "lojban": "la .alis. pu jinvi lo du'u ju'o ta {{drani lo ka tadji lo nu tavla lo smacu}}",
@@ -9857,8 +9820,7 @@
                                 "source": "Alice in Wonderland",
                                 "author": "Lewis Carroll",
                                 "translator": "la .xorxes.",
-                                "link": "https://mw.lojban.org/papri/lo_selfri_be_la_.alis._bei_bu%27u_la_selmacygu%27e",
-                                "instance": 5
+                                "link": "https://mw.lojban.org/papri/lo_selfri_be_la_.alis._bei_bu%27u_la_selmacygu%27e"
                             },
                             {
                                 "lojban": ".i mi na ro roi {{drani lo ka djuno kei ja lo ka jinvi vau vau}} ta'o",
@@ -9866,25 +9828,21 @@
                                 "source-id": "rolj",
                                 "speaker": "la ziren",
                                 "note": "This sentence is in JACU. To convert it to CLL Lojban, substitute {{ja}} with {{.a}}.",
-                                "source": "roljbogu'e chatlog",
-                                "instance": 18
+                                "source": "roljbogu'e chatlog"
                             },
                             {
                                 "lojban": ".i je mi na ralte le ci'artai {{poi drani fi zo'e}}",
                                 "english": "And I don't have the {{correct}} font {{for it}}.",
                                 "source-id": "rolj",
                                 "speaker": "yeet kitty",
-                                "source": "roljbogu'e chatlog",
-                                "instance": 19
+                                "source": "roljbogu'e chatlog"
                             },
                             {
                                 "lojban": "xu {{drani fo lo ka jbobau}}",
                                 "english": "Is it correct by Lojban standards?",
                                 "source-id": "rolj",
                                 "speaker": "dram",
-                                "note": "The type/usage of the \"by standard\" places are never specified or defined, rendering those places virtually useless. This sentence is a rare example of a \"by standard\" place being used.",
-                                "source": "roljbogu'e chatlog",
-                                "instance": 20
+                                "source": "roljbogu'e chatlog"
                             }
                         ]
                     }
@@ -9915,8 +9873,7 @@
                                 "source-id": "rolj",
                                 "speaker": "la janbe",
                                 "note": "The emoji and italics aren't standard parts of Lojban.",
-                                "source": "roljbogu'e chatlog",
-                                "instance": 21
+                                "source": "roljbogu'e chatlog"
                             },
                             {
                                 "lojban": "lo voksa nu cenba cu {{na drata}} lo se bilma be fi lo lenku",
@@ -9925,8 +9882,7 @@
                                 "source": "The Metamorphosis",
                                 "author": "Franz Kafka",
                                 "translator": "la .xorxes.",
-                                "link": "https://mw.lojban.org/images/f/fc/lonubinxo.pdf",
-                                "instance": 1
+                                "link": "https://mw.lojban.org/images/f/fc/lonubinxo.pdf"
                             },
                             {
                                 "lojban": ".i {{no drata be lo troci}} ka'e ba snada prenu",
@@ -10335,8 +10291,7 @@
                                 "source": "The Egg",
                                 "author": "Andy Weir",
                                 "translator": "la nalvai",
-                                "link": "https://nalvai.neocities.org/translations/the-egg/",
-                                "instance": 2
+                                "link": "https://nalvai.neocities.org/translations/the-egg/"
                             },
                             {
                                 "lojban": ".i .ei mi pajni ji'u lo se zukte {{.e nai}} lo valsi",
@@ -10345,8 +10300,7 @@
                                 "source": "The Little Prince",
                                 "author": "Antoine de Saint-Exupéry",
                                 "translator": "la .xorxes.",
-                                "link": "https://mw.lojban.org/papri/le_cmalu_noltru",
-                                "instance": 2
+                                "link": "https://mw.lojban.org/papri/le_cmalu_noltru"
                             }
                         ]
                     },
@@ -10361,8 +10315,7 @@
                                 "source": "The Wonderful Wizard of Oz",
                                 "author": "L. Frank Baum",
                                 "translator": "la solpa'i",
-                                "link": "https://selpahi.de/oz_plain.html",
-                                "instance": 3
+                                "link": "https://selpahi.de/oz_plain.html"
                             }
                         ]
                     }
@@ -10845,8 +10798,7 @@
                                 "source-id": "nict",
                                 "source": "la nicte cadzu",
                                 "author": "Robin Lee Powell",
-                                "link": "https://mw.lojban.org/papri/Robin%27s_Palm_Writings:_la_nicte_cadzu",
-                                "instance": 3
+                                "link": "https://mw.lojban.org/papri/Robin%27s_Palm_Writings:_la_nicte_cadzu"
                             },
                             {
                                 "lojban": ".i mi na tcidu {{lo se fanva}} je cu mulno co kakne lo su'u jimpe fi {{lo xe fanva be fu do}}",
@@ -10854,8 +10806,7 @@
                                 "note": "This sentence is in JACU. To convert it to CLL Lojban, substitute {{je cu}} with {{gi'e}}.",
                                 "source-id": "rolj",
                                 "speaker": "la lunbe",
-                                "source": "roljbogu'e chatlog",
-                                "instance": 22
+                                "source": "roljbogu'e chatlog"
                             },
                             {
                                 "lojban": "ni'o xu ranji fa le nu na djuno lo du'u ma kau zabna lo ka ce'u zmiku {{lo nu fanva fi lo glibau fo la .lojban.}}",
@@ -10863,8 +10814,7 @@
                                 "note": "The {{fo}} is not needed in this sentence.",
                                 "source-id": "rolj",
                                 "speaker": "la varik",
-                                "source": "roljbogu'e chatlog",
-                                "instance": 23
+                                "source": "roljbogu'e chatlog"
                             }
                         ]
                     }
@@ -11223,8 +11173,7 @@
                                 "source": "The Wonderful Wizard of Oz",
                                 "author": "L. Frank Baum",
                                 "translator": "la solpa'i",
-                                "link": "https://selpahi.de/oz_plain.html",
-                                "instance": 4
+                                "link": "https://selpahi.de/oz_plain.html"
                             }
                         ]
                     }
@@ -11602,8 +11551,7 @@
                                 "english": "Thanks, example-{{creator}}!",
                                 "source-id": "jbob",
                                 "speaker": "la fagri",
-                                "source": "jbobratca chatlog",
-                                "instance": 2
+                                "source": "jbobratca chatlog"
                             },
                             {
                                 "lojban": "clani kerlo {{fi'e}} la fagri",
@@ -11618,8 +11566,7 @@
                                 "english": "I think many newer songs {{by me}} are nice.",
                                 "source-id": "rolj",
                                 "speaker": "la janbe",
-                                "source": "roljbogu'e chatlog",
-                                "instance": 24
+                                "source": "roljbogu'e chatlog"
                             },
                             {
                                 "lojban": ".i gidva ro da fa lo se platu {{be fi'e mi}}",
@@ -11663,8 +11610,7 @@
                                 "english": "The difficulty in expressing something similar to \"javni\" {{from}} other meanings means that the official meaning is better IMO.",
                                 "source-id": "jbob",
                                 "speaker": "_4Denthusiast",
-                                "source": "jbobratca chatlog",
-                                "instance": 3
+                                "source": "jbobratca chatlog"
                             }
                         ]
                     }
@@ -11777,8 +11723,7 @@
                                 "source": "The Egg",
                                 "author": "Andy Weir",
                                 "translator": "la nalvai",
-                                "link": "https://nalvai.neocities.org/translations/the-egg/",
-                                "instance": 3
+                                "link": "https://nalvai.neocities.org/translations/the-egg/"
                             },
                             {
                                 "lojban": ".i se ri'a bo mi {{finti fo ri}}",
@@ -11786,8 +11731,7 @@
                                 "source-id": "layo",
                                 "source": "The Lay of the Land",
                                 "author": "Worldbuilding Notes",
-                                "link": "https://www.youtube.com/watch?v=ViGGR231zvQ",
-                                "instance": 1
+                                "link": "https://www.youtube.com/watch?v=ViGGR231zvQ"
                             }
                         ]
                     }
@@ -13089,17 +13033,14 @@
                                 "source-id": "tens",
                                 "source": "tensaia",
                                 "author": "Djemynai",
-                                "link": "https://djemynai.bandcamp.com/album/tensaia",
-                                "instance": 1
+                                "link": "https://djemynai.bandcamp.com/album/tensaia"
                             },
                             {
                                 "lojban": "xu nai lo zekri {{poi .i'y gasnu ke'a}} cu cinri do",
                                 "english": "Doesn't the crime {{it ( = the word <b>ie'o</b>) caused}} interest you?",
                                 "source-id": "rolj",
                                 "speaker": "la lunbe",
-                                "note": "{{.i'y}} is a proposed cmavo equivalent to {{.i bu}}.",
-                                "source": "roljbogu'e chatlog",
-                                "instance": 25
+                                "note": "{{.i'y}} is a proposed cmavo equivalent to {{.i bu}}."
                             },
                             {
                                 "lojban": "mi nelci lo'e gundi jibri .i ku'i ri {{tatpi gasnu}}",
@@ -13107,8 +13048,7 @@
                                 "note": "This sentence showcase a common phenomenon of putting the effect in the seltau position of {{gasnu}}. In this sentence, {{tatpi gasnu}} is similar in meaning to {{gasnu lo nu tatpi}}. In such tanru formation, the x<sub>2</sub> of {{gasnu}} is usually left unfilled, and is assumed to be {{lo nu &lt;seltau&gt;}}.",
                                 "source-id": "rolj",
                                 "speaker": "qimar",
-                                "source": "roljbogu'e chatlog",
-                                "instance": 26
+                                "source": "roljbogu'e chatlog"
                             }
                         ]
                     }
@@ -13283,12 +13223,7 @@
                             {
                                 "lojban": "ni'o xu lo prenu co vajni cu {{ge'i}} ca ranji lo nu kansa ku {{gi}} ve'u sepli do gi'e pu co'a cliva fi lo drata se litru",
                                 "english": "As for the people important [to you], do they continue to accompany you{{? Or}} are they now distant and separated from you, having departed via their own paths{{?}}",
-                                "source-id": "lett",
-                                "source": "letter song",
-                                "author": "doriko",
-                                "translator": "tetsusquared (la .tirprij.)",
-                                "link": "https://www.youtube.com/watch?v=5r-JIZNGAMA",
-                                "instance": 1
+                                "source-id": "lett"
                             }
                         ]
                     }
@@ -13777,8 +13712,7 @@
                                 "source": "Still Alive",
                                 "author": "Jonathan Coulton",
                                 "translator": "la solpa'i",
-                                "link": "https://www.youtube.com/watch?v=hRrIioMA4w8",
-                                "instance": 2
+                                "link": "https://www.youtube.com/watch?v=hRrIioMA4w8"
                             }
                         ]
                     }
@@ -14382,8 +14316,7 @@
                                 "source": "The Little Prince",
                                 "author": "Antoine de Saint-Exupéry",
                                 "translator": "la .xorxes.",
-                                "link": "https://mw.lojban.org/papri/le_cmalu_noltru",
-                                "instance": 3
+                                "link": "https://mw.lojban.org/papri/le_cmalu_noltru"
                             },
                             {
                                 "lojban": ".i la .gregor. cu so'i roi tirna lo nu ra nau zanru {{lo se gunka be lo mensi}}",
@@ -14392,8 +14325,7 @@
                                 "source": "The Metamorphosis",
                                 "author": "Franz Kafka",
                                 "translator": "la .xorxes.",
-                                "link": "https://mw.lojban.org/images/f/fc/lonubinxo.pdf",
-                                "instance": 2
+                                "link": "https://mw.lojban.org/images/f/fc/lonubinxo.pdf"
                             },
                             {
                                 "lojban": ".i la cmalu cu {{gunka}} fi tu'a lo cilylarcu",
@@ -14402,8 +14334,7 @@
                                 "note": "This sentence can be understood as \"Tiny was working, so her sewing [can look good]\" (implicit parts in brackets), putting the {{tu'a lo cilylarcu}} in the x_3 place. If the {{tu'a lo cilylarcu}} were in the x_2 place the sentence would mean something like \"Tiny was working on [finishing] her sewing\".",
                                 "source": "clani kerlo",
                                 "author": "la fagri",
-                                "link": "https://docs.google.com/spreadsheets/d/1_vkiwqOIOIJPqZTiomzd4ApUSEQXhEY6CeyZD_6c-PA/edit?gid=1296186733#gid=1296186733",
-                                "instance": 1
+                                "link": "https://docs.google.com/spreadsheets/d/1_vkiwqOIOIJPqZTiomzd4ApUSEQXhEY6CeyZD_6c-PA/edit?gid=1296186733#gid=1296186733"
                             },
                             {
                                 "lojban": ".i te zu'e lo nu snada {{lo mi te gunka}} kei no stuzi se mau ti maptiu",
@@ -16608,8 +16539,7 @@
                                 "source": "Alice in Wonderland",
                                 "author": "Lewis Carroll",
                                 "translator": "la .xorxes.",
-                                "link": "https://mw.lojban.org/papri/lo_selfri_be_la_.alis._bei_bu%27u_la_selmacygu%27e",
-                                "instance": 6
+                                "link": "https://mw.lojban.org/papri/lo_selfri_be_la_.alis._bei_bu%27u_la_selmacygu%27e"
                             }
                         ]
                     }
@@ -16628,8 +16558,7 @@
                                 "source-id": "rolj",
                                 "speaker": "la srasu, la evis",
                                 "note": "The middle sentence would be {{puzi <u>je'i</u> bazi}} under CLL Lojban.",
-                                "source": "roljbogu'e chatlog",
-                                "instance": 27
+                                "source": "roljbogu'e chatlog"
                             }
                         ]
                     }
@@ -16662,8 +16591,7 @@
                                 "source-id": "kuhi",
                                 "source": "ku'i ba troci",
                                 "author": "Fyren",
-                                "link": "https://www.youtube.com/watch?v=Y3apKaaBK5c",
-                                "instance": 1
+                                "link": "https://www.youtube.com/watch?v=Y3apKaaBK5c"
                             }
                         ]
                     }
@@ -16929,6 +16857,7 @@
                 "meaning": [
                     {
                         "exp": "x_1 understands/comprehends fact/truth x_2 (du'u) about subject x_3; x1 understands (fi) x3.",
+                        "note": "Place structure parallels that of {{krici}}. Lacks a sumti slot for epistemology/grounds (corresponing to x<sub>4</sub> of {{djuno}}) compared to its near-synonym {{djuno}}.",
                         "example": [
                             {
                                 "lojban": "mi {{jimpe}} lo du'u do ma kau cinmo",
@@ -16937,8 +16866,7 @@
                                 "source": "The Wonderful Wizard of Oz",
                                 "author": "L. Frank Baum",
                                 "translator": "la solpa'i",
-                                "link": "https://selpahi.de/oz_plain.html",
-                                "instance": 5
+                                "link": "https://selpahi.de/oz_plain.html"
                             },
                             {
                                 "lojban": ".i .a bu snada lo ka {{jimpe}} tu'a lo valsi",
@@ -16948,8 +16876,7 @@
                                 "source": "Alice in Wonderland",
                                 "author": "Lewis Carroll",
                                 "translator": "la .xorxes.",
-                                "link": "https://mw.lojban.org/papri/lo_selfri_be_la_.alis._bei_bu%27u_la_selmacygu%27e",
-                                "instance": 7
+                                "link": "https://mw.lojban.org/papri/lo_selfri_be_la_.alis._bei_bu%27u_la_selmacygu%27e"
                             },
                             {
                                 "lojban": ".i {{jimpe}} fi lo selcni .i .au kelci ne'i le xamsi pe'a",
@@ -16966,8 +16893,7 @@
                                 "source-id": "nict",
                                 "source": "la nicte cadzu",
                                 "author": "Robin Lee Powell",
-                                "link": "https://mw.lojban.org/papri/Robin%27s_Palm_Writings:_la_nicte_cadzu",
-                                "instance": 4
+                                "link": "https://mw.lojban.org/papri/Robin%27s_Palm_Writings:_la_nicte_cadzu"
                             }
                         ]
                     }
@@ -17138,7 +17064,7 @@
     },
     {
         "word": "jinvi",
-        "gloss": "opine",
+        "gloss": "to opine, to hold (an opinion) &mdash; opinion &mdash; subject of opinion &mdash; basis/grounds of opinion",
         "type": "gismu",
         "freq": "26040",
         "rank": "191",
@@ -17150,11 +17076,42 @@
             {
                 "meaning": [
                     {
-                        "exp": "$x_{1}$ thinks/opines $x_{2}$ [opinion] (du'u) is true about subject/issue $x_{3}$ on grounds $x_{4}$."
+                        "exp": "x_1 thinks/opines x_2 [opinion] (du'u) is true about subject/issue x_3 on grounds x_4.",
+                        "note": "Place structure parallels that of {{djuno}}. Has an additional sumti slot for epistemology/grounds (x<sub>4</sub>) compared to its near-synonym {{krici}}.",
+                        "example": [
+                            {
+                                "lojban": "lo patfu cu {{jinvi}} fi gy. fe lo du'u mapti fa lo po'o traji jursa",
+                                "english": "[...] his father {{thought}} it fitting to always be extremely strict with him.",
+                                "source-id": "meta",
+                                "source": "The Metamorphosis",
+                                "author": "Franz Kafka",
+                                "translator": "la .xorxes.",
+                                "link": "https://mw.lojban.org/images/f/fc/lonubinxo.pdf"
+                            },
+                            {
+                                "lojban": "ni'o mi {{jinvi}} fo lo se junri fe lo du'u lo plini poi terdi lo cmalu noltru cu me lo plinycma po'u li B612",
+                                "english": "I have serious reason {{to believe}} that the planet from which the little prince came is the asteroid known as B-612.",
+                                "source-id": "litt",
+                                "source": "The Little Prince",
+                                "author": "Antoine de Saint-Exupéry",
+                                "translator": "la .xorxes.",
+                                "link": "https://mw.lojban.org/papri/le_cmalu_noltru"
+                            },
+                            {
+                                "lojban": "ni'o vajni lo nabmi fa lo za'i {{lo se jinvi be fi lo du'u ma kau jbobau ku ku}} frica simxu",
+                                "english": "The relevant part of this problem is the difference of {{opinions on what is considered a Lojban}}.",
+                                "source-id": "offi",
+                                "note": "Using two {{ku}} consecutively, as in this sentence, is considered by most to be poor style because it can be difficult to determine which grammatical structure each {{ku}} closes. In this sentence, replacing the two {{ku}} with a {{cu}} keeps the same sentence structure and reduces the cognitive load of backtracking.",
+                                "source": "\"Official Lojban\"",
+                                "author": "la uakci",
+                                "link": "https://docs.google.com/spreadsheets/d/1_vkiwqOIOIJPqZTiomzd4ApUSEQXhEY6CeyZD_6c-PA/edit?gid=1862526252#gid=1862526252"
+                            }
+                        ]
                     }
                 ]
             }
-        ]
+        ],
+        "good": true
     },
     {
         "word": "jinzi",
@@ -17900,8 +17857,7 @@
                                 "source-id": "offi",
                                 "source": "\"Official Lojban\"",
                                 "author": "la uakci",
-                                "link": "https://docs.google.com/spreadsheets/d/1_vkiwqOIOIJPqZTiomzd4ApUSEQXhEY6CeyZD_6c-PA/edit?gid=1862526252#gid=1862526252",
-                                "instance": 1
+                                "link": "https://docs.google.com/spreadsheets/d/1_vkiwqOIOIJPqZTiomzd4ApUSEQXhEY6CeyZD_6c-PA/edit?gid=1862526252#gid=1862526252"
                             }
                         ]
                     }
@@ -18320,8 +18276,7 @@
                                 "source": "The Library of Babel",
                                 "author": "Jorge Luis Borges",
                                 "translator": "la .xorxes.",
-                                "link": "https://mw.lojban.org/papri/la_ckuzda_pe_la_babel",
-                                "instance": 1
+                                "link": "https://mw.lojban.org/papri/la_ckuzda_pe_la_babel"
                             },
                             {
                                 "lojban": ".i co'a lo me ru crisa mi do jorne {{lo na ka'e se katna}}",
@@ -18344,8 +18299,7 @@
                                 "source-id": "melb",
                                 "source": "la melbi e le ractu",
                                 "author": "la lalxu",
-                                "link": "https://lynn.github.io/la-melbi-e-le-ractu/",
-                                "instance": 4
+                                "link": "https://lynn.github.io/la-melbi-e-le-ractu/"
                             }
                         ]
                     },
@@ -18360,8 +18314,7 @@
                                 "author": "Chelsea Whyte on NewScientist",
                                 "translator": "la .ilmen.",
                                 "link": "https://mw.lojban.org/papri/UserWiki:Ilmen/ka%27e_ku_lo_prurai_dinsauru_cu_cti%27omni_bu%27u_lo_berti_bolxadba",
-                                "originallink": "https://www.newscientist.com/article/2125580-first-dinosaurs-may-have-been-omnivores-in-the-north-hemisphere/",
-                                "instance": 1
+                                "originallink": "https://www.newscientist.com/article/2125580-first-dinosaurs-may-have-been-omnivores-in-the-north-hemisphere/"
                             }
                         ]
                     },
@@ -18528,8 +18481,7 @@
                                 "english": "Thanks, I {{can}} read it without help.",
                                 "source-id": "rolj",
                                 "speaker": "la bakre'u",
-                                "source": "roljbogu'e chatlog",
-                                "instance": 28
+                                "source": "roljbogu'e chatlog"
                             },
                             {
                                 "lojban": ".i la'e di'u {{na se kakne}}",
@@ -18547,8 +18499,7 @@
                                 "source": "The Little Prince",
                                 "author": "Antoine de Saint-Exupéry",
                                 "translator": "la .xorxes.",
-                                "link": "https://mw.lojban.org/papri/le_cmalu_noltru",
-                                "instance": 4
+                                "link": "https://mw.lojban.org/papri/le_cmalu_noltru"
                             }
                         ]
                     }
@@ -19287,8 +19238,7 @@
                                 "english": "Watch this cat {{playing}} the video game.",
                                 "source-id": "rolj",
                                 "speaker": "yeet kitty",
-                                "source": "roljbogu'e chatlog",
-                                "instance": 29
+                                "source": "roljbogu'e chatlog"
                             },
                             {
                                 "lojban": ".i {{kelci}} lo nu gismu ke pixra smadi",
@@ -19296,8 +19246,7 @@
                                 "source-id": "jbob",
                                 "speaker": "misotanni",
                                 "note": "A rare occasion of an event being in the x<sub>2</sub> of {{kelci}}. Judging from the conversation around it, the game seems to have rules of \"one person draws a picture, and others try to guess what gismu it represents\", and it is played on skribbl.io.",
-                                "source": "jbobratca chatlog",
-                                "instance": 4
+                                "source": "jbobratca chatlog"
                             },
                             {
                                 "lojban": "lo cnino tadji cu {{se kelci}} se mau lo nu nandu se troci",
@@ -19306,8 +19255,7 @@
                                 "source": "The Metamorphosis",
                                 "author": "Franz Kafka",
                                 "translator": "la .xorxes.",
-                                "link": "https://mw.lojban.org/images/f/fc/lonubinxo.pdf",
-                                "instance": 3
+                                "link": "https://mw.lojban.org/images/f/fc/lonubinxo.pdf"
                             }
                         ]
                     }
@@ -19829,8 +19777,7 @@
                                 "source": "Still Alive",
                                 "author": "Jonathan Coulton",
                                 "translator": "la solpa'i",
-                                "link": "https://www.youtube.com/watch?v=hRrIioMA4w8",
-                                "instance": 3
+                                "link": "https://www.youtube.com/watch?v=hRrIioMA4w8"
                             },
                             {
                                 "lojban": ".i ku'i je'u ty. na'e darsi lo nu darxi la dorotis kei {{ki'u tu'a lo barna be lo mebri}}",
@@ -19839,8 +19786,7 @@
                                 "source": "The Wonderful Wizard of Oz",
                                 "author": "L. Frank Baum",
                                 "translator": "la solpa'i",
-                                "link": "https://selpahi.de/oz_plain.html",
-                                "instance": 6
+                                "link": "https://selpahi.de/oz_plain.html"
                             }
                         ]
                     },
@@ -19854,8 +19800,7 @@
                                 "english": "Is it that (I slightly believe) the flies are so small {{the reason that flyswatters aren't useful}}?",
                                 "source-id": "rolj",
                                 "speaker": "nitfg",
-                                "source": "roljbogu'e chatlog",
-                                "instance": 30
+                                "source": "roljbogu'e chatlog"
                             }
                         ]
                     }
@@ -19907,8 +19852,7 @@
                                 "source": "The Little Prince",
                                 "author": "Antoine de Saint-Exupéry",
                                 "translator": "la .xorxes.",
-                                "link": "https://mw.lojban.org/papri/le_cmalu_noltru",
-                                "instance": 5
+                                "link": "https://mw.lojban.org/papri/le_cmalu_noltru"
                             },
                             {
                                 "lojban": ".i ko na {{klaku fi le marji}}",
@@ -19947,8 +19891,7 @@
                                 "source-id": "srur",
                                 "source": "sruri fa lo tarci",
                                 "author": "Noise and Bells (la janbe)",
-                                "link": "https://www.youtube.com/watch?v=xZlTA4hbY2o",
-                                "instance": 1
+                                "link": "https://www.youtube.com/watch?v=xZlTA4hbY2o"
                             },
                             {
                                 "lojban": ".i le karce zo'a {{flecu klama}} fo le dargu pe le bartu noi ca'o manku binxo",
@@ -19967,8 +19910,7 @@
                                 "source": "Lagtrain (short ver.)",
                                 "author": "inabakumori",
                                 "translator": "tetsusquared (la .tirprij.)",
-                                "link": "https://www.youtube.com/watch?v=f_NJsM8dces",
-                                "instance": 1
+                                "link": "https://www.youtube.com/watch?v=f_NJsM8dces"
                             },
                             {
                                 "lojban": ".i ku'i mi se slabu lo go'i po'o {{ve klama}}",
@@ -19976,8 +19918,7 @@
                                 "source-id": "muhe",
                                 "source": "la mu'e cuxna lo bradi",
                                 "author": "la blutolpinxe",
-                                "link": "https://mw.lojban.org/papri/la_mu%27e_cuxna_lo_bradi",
-                                "instance": 1
+                                "link": "https://mw.lojban.org/papri/la_mu%27e_cuxna_lo_bradi"
                             }
                         ]
                     }
@@ -21165,8 +21106,7 @@
                                 "note": "\"Not Important\" is the name of the person greeted. Note the {{ku}} in this expression: it closes the selbri name. if the {{ku}} wasn't there the name selbri becomes {{na'e vajni noi je'a vajni}}, in which the relative clause becomes part of the name.",
                                 "source-id": "rolj",
                                 "speaker": "Lucilla",
-                                "source": "roljbogu'e chatlog",
-                                "instance": 31
+                                "source": "roljbogu'e chatlog"
                             },
                             {
                                 "lojban": "&mdash; .i ma jmina le jugbau jufra le kibypapri<br> &mdash; {{la .lukifer.kailus.delikatus.}} no'u {{la .yu'orb.}}",
@@ -21174,8 +21114,7 @@
                                 "note": "Specifically chosen to showcase cmevla chaining, where multiple cmevla in a row functions as a single name. Also note the answer parses differently in regards to CBM: with CBM {{.lukifer.kailus.delikatus. no'u la .yu'orb.}} is a name; without CBM {{no'u la .yu'orb.}} is a relative phrase of {{la .lukifer.kailus.delikatus.}} signifying the equivalence between them. Also note {{yu'orb}} is not a standard Lojban cmevla because of the {{y}}.",
                                 "source-id": "rolj",
                                 "speaker": "la nalvai, la ilmen",
-                                "source": "roljbogu'e chatlog",
-                                "instance": 32
+                                "source": "roljbogu'e chatlog"
                             }
                         ]
                     },
@@ -21197,8 +21136,7 @@
                                 "source-id": "jbob",
                                 "speaker": "la solpa'i",
                                 "note": "\"Seven Ways to Say 'I Love You'\" probably refers to <a href=\"https://pastebin.com/raw/qmE06Tm0\">a set of seven sentences in Toaq</a>. The quote is from June 2017, so the Toaq is supposedly not too distant from that.",
-                                "source": "jbobratca chatlog",
-                                "instance": 5
+                                "source": "jbobratca chatlog"
                             }
                         ]
                     }
@@ -22145,8 +22083,7 @@
                                 "source": "Always With Me",
                                 "author": "Youmi Kimura",
                                 "translator": "la .guskant.",
-                                "link": "https://vimeo.com/113232481",
-                                "instance": 1
+                                "link": "https://vimeo.com/113232481"
                             },
                             {
                                 "lojban": ".i do lo'u .i lo mi panzi lo mi speni {{le'u}} .alcu do lo'u zo'u mo {{le'u}}",
@@ -22156,8 +22093,7 @@
                                 "source": "The Egg",
                                 "author": "Andy Weir",
                                 "translator": "la nalvai",
-                                "link": "https://nalvai.neocities.org/translations/the-egg/",
-                                "instance": 4
+                                "link": "https://nalvai.neocities.org/translations/the-egg/"
                             }
                         ]
                     }
@@ -22898,23 +22834,13 @@
                         "example": [
                             {
                                 "lojban": ".i {{lo'u}} lan lan la lan la la la la lan lan la lan la la la la lan lan la la lan la la la lan la la la la lan o'o'o'o'o'o'o'o'o'o lun lun lu lu'u'u'u'u'u lu lu lu lu lun lu lu lu lun lu le'u",
-                                "source-id": "alwa",
-                                "source": "Always With Me",
-                                "author": "Youmi Kimura",
-                                "translator": "la .guskant.",
-                                "link": "https://vimeo.com/113232481",
-                                "instance": 2
+                                "source-id": "alwa"
                             },
                             {
                                 "lojban": ".i do {{lo'u}} .i lo mi panzi lo mi speni le'u .alcu do {{lo'u}} zo'u mo le'u",
                                 "english": "{{\"}}My kids... my wife,\" you said. {{\"}}What about them?\"",
                                 "source-id": "eggq",
-                                "note": "The entire sentence is grammatical, but becomes ungrammatical when split in half.",
-                                "source": "The Egg",
-                                "author": "Andy Weir",
-                                "translator": "la nalvai",
-                                "link": "https://nalvai.neocities.org/translations/the-egg/",
-                                "instance": 5
+                                "note": "The entire sentence is grammatical, but becomes ungrammatical when split in half."
                             }
                         ]
                     }
@@ -24266,24 +24192,21 @@
                                 "english": "&mdash; It's grayish blue now. It's {{beautiful}} to me. Is your sky {{beautiful}} to you? <br>&mdash; It's {{beautiful}} to me in that it's blue without clouds.",
                                 "source-id": "rolj",
                                 "speaker": "la lunbe, niftg",
-                                "source": "roljbogu'e chatlog",
-                                "instance": 33
+                                "source": "roljbogu'e chatlog"
                             },
                             {
                                 "lojban": ".i pe'i ro bangu cu {{melbi fi da}}",
                                 "english": "I think every language {{is beautiful in some ways}}.",
                                 "source-id": "rolj",
                                 "speaker": "la xrula",
-                                "source": "roljbogu'e chatlog",
-                                "instance": 34
+                                "source": "roljbogu'e chatlog"
                             },
                             {
                                 "lojban": ".i ku'i mi {{se melbi}} le do ganto'a sai voksa",
                                 "english": "But I {{find}} your very deep voice {{beautiful}}.",
                                 "source-id": "rolj",
                                 "speaker": "la janbe",
-                                "source": "roljbogu'e chatlog",
-                                "instance": 35
+                                "source": "roljbogu'e chatlog"
                             }
                         ]
                     }
@@ -24762,16 +24685,14 @@
                                 "source-id": "clan",
                                 "source": "clani kerlo",
                                 "author": "la fagri",
-                                "link": "https://docs.google.com/spreadsheets/d/1_vkiwqOIOIJPqZTiomzd4ApUSEQXhEY6CeyZD_6c-PA/edit?gid=1296186733#gid=1296186733",
-                                "instance": 2
+                                "link": "https://docs.google.com/spreadsheets/d/1_vkiwqOIOIJPqZTiomzd4ApUSEQXhEY6CeyZD_6c-PA/edit?gid=1296186733#gid=1296186733"
                             },
                             {
                                 "lojban": ".i la .varik. cu cusku {{le milxe be le ka ce'u smimlu}}",
                                 "english": "Varik said {{something mildly similar-looking}}.",
                                 "source-id": "rolj",
                                 "speaker": "varik",
-                                "source": "roljbogu'e chatlog",
-                                "instance": 36
+                                "source": "roljbogu'e chatlog"
                             },
                             {
                                 "lojban": ".i je lo ji'a sai pilka cu {{crino milxe}}",
@@ -24780,8 +24701,7 @@
                                 "source": "The Wonderful Wizard of Oz",
                                 "author": "L. Frank Baum",
                                 "translator": "la solpa'i",
-                                "link": "https://selpahi.de/oz_plain.html",
-                                "instance": 7
+                                "link": "https://selpahi.de/oz_plain.html"
                             }
                         ]
                     }
@@ -25096,8 +25016,7 @@
                                 "source": "Alice in Wonderland",
                                 "author": "Lewis Carroll",
                                 "translator": "la .xorxes.",
-                                "link": "https://mw.lojban.org/papri/lo_selfri_be_la_.alis._bei_bu%27u_la_selmacygu%27e",
-                                "instance": 8
+                                "link": "https://mw.lojban.org/papri/lo_selfri_be_la_.alis._bei_bu%27u_la_selmacygu%27e"
                             },
                             {
                                 "lojban": ".i la .totos. pu bajra se ka'a lo midju be lo remgunma te zu'e lo nu gercmo fa'a {{lo citno mlatu}}",
@@ -25107,8 +25026,7 @@
                                 "source": "The Wonderful Wizard of Oz",
                                 "author": "L. Frank Baum",
                                 "translator": "la solpa'i",
-                                "link": "https://selpahi.de/oz_plain.html",
-                                "instance": 8
+                                "link": "https://selpahi.de/oz_plain.html"
                             }
                         ]
                     }
@@ -25752,8 +25670,7 @@
                                 "source": "Snow White",
                                 "author": "Brothers Grimm",
                                 "translator": "la solpa'i",
-                                "link": "https://selpahi.de/snimeblabi.html",
-                                "instance": 1
+                                "link": "https://selpahi.de/snimeblabi.html"
                             },
                             {
                                 "lojban": ".i vy. xaksu lo temci {{mu'i tu'a lo bukpu selkeipre}}",
@@ -25762,8 +25679,7 @@
                                 "source": "The Little Prince",
                                 "author": "Antoine de Saint-Exupéry",
                                 "translator": "la .xorxes.",
-                                "link": "https://mw.lojban.org/papri/le_cmalu_noltru",
-                                "instance": 6
+                                "link": "https://mw.lojban.org/papri/le_cmalu_noltru"
                             }
                         ]
                     },
@@ -25777,8 +25693,7 @@
                                 "english": "I dislike template websites in general, {{so [I] build something unique}}.",
                                 "source-id": "rolj",
                                 "speaker": "latkerlo",
-                                "source": "roljbogu'e chatlog",
-                                "instance": 37
+                                "source": "roljbogu'e chatlog"
                             }
                         ]
                     },
@@ -25998,8 +25913,7 @@
                                 "source": "The Book",
                                 "author": "H. P. Lovecraft",
                                 "translator": "la gleki",
-                                "link": "https://lojban.pw/en/texts/the-book/",
-                                "instance": 1
+                                "link": "https://lojban.pw/en/texts/the-book/"
                             },
                             {
                                 "lojban": ".i cu'u so'e se slabu be mi mi {{mutce be fi tu'a lo mi se nanca be'o}} mencre",
@@ -26007,8 +25921,7 @@
                                 "source-id": "muhe",
                                 "source": "la mu'e cuxna lo bradi",
                                 "author": "la blutolpinxe",
-                                "link": "https://mw.lojban.org/papri/la_mu%27e_cuxna_lo_bradi",
-                                "instance": 2
+                                "link": "https://mw.lojban.org/papri/la_mu%27e_cuxna_lo_bradi"
                             },
                             {
                                 "lojban": ".i ja'e bo ca ku mi {{cinmo lo mutce}} gi'e kakne co zukte no da",
@@ -26016,8 +25929,7 @@
                                 "source-id": "rolj",
                                 "speaker": "la nalvai",
                                 "note": "To be overwhelmed = To feel an extreme emotion",
-                                "source": "roljbogu'e chatlog",
-                                "instance": 38
+                                "source": "roljbogu'e chatlog"
                             }
                         ]
                     }
@@ -26416,8 +26328,7 @@
                                 "source": "Still Alive",
                                 "author": "Jonathan Coulton",
                                 "translator": "la solpa'i",
-                                "link": "https://www.youtube.com/watch?v=hRrIioMA4w8",
-                                "instance": 4
+                                "link": "https://www.youtube.com/watch?v=hRrIioMA4w8"
                             },
                             {
                                 "lojban": ".i so'i cnima'o cu fanva {{jai nandu}}",
@@ -26425,8 +26336,7 @@
                                 "note": "The {{so'i cnima'o}} is raised with {{jai}} since {{nandu}} takes abstraction (event, etc.) as x<sub>1</sub>.",
                                 "source-id": "rolj",
                                 "speaker": "la lunbe",
-                                "source": "roljbogu'e chatlog",
-                                "instance": 39
+                                "source": "roljbogu'e chatlog"
                             },
                             {
                                 "lojban": "ni'o lo ralju be {{lo nandu be la .alis.}} ca lo cfari cu nu jitro lo fagycpi",
@@ -26435,16 +26345,14 @@
                                 "source": "Alice in Wonderland",
                                 "author": "Lewis Carroll",
                                 "translator": "la .xorxes.",
-                                "link": "https://mw.lojban.org/papri/lo_selfri_be_la_.alis._bei_bu%27u_la_selmacygu%27e",
-                                "instance": 9
+                                "link": "https://mw.lojban.org/papri/lo_selfri_be_la_.alis._bei_bu%27u_la_selmacygu%27e"
                             },
                             {
                                 "lojban": ".i ru'a {{nandu fi}} lonu smuvrici",
                                 "english": "I assume it{{'s hard when}} it's ambiguous.",
                                 "source-id": "rolj",
                                 "speaker": "la melmi",
-                                "source": "roljbogu'e chatlog",
-                                "instance": 40
+                                "source": "roljbogu'e chatlog"
                             }
                         ]
                     }
@@ -26862,8 +26770,7 @@
                                 "source-id": "pram",
                                 "source": "prami simbi'o",
                                 "author": "Djemynai",
-                                "link": "https://www.youtube.com/watch?v=g3BQ-pE7ypY",
-                                "instance": 1
+                                "link": "https://www.youtube.com/watch?v=g3BQ-pE7ypY"
                             },
                             {
                                 "lojban": ".i mi {{nelci}} ca lo nicte lo nu tirna lo tarci",
@@ -26872,8 +26779,7 @@
                                 "source": "The Little Prince",
                                 "author": "Antoine de Saint-Exupéry",
                                 "translator": "la .xorxes.",
-                                "link": "https://mw.lojban.org/papri/le_cmalu_noltru",
-                                "instance": 7
+                                "link": "https://mw.lojban.org/papri/le_cmalu_noltru"
                             },
                             {
                                 "lojban": "ko te cmene fi {{lo do se nelci}}",
@@ -26882,8 +26788,7 @@
                                 "source": "Alice in Wonderland",
                                 "author": "Lewis Carroll",
                                 "translator": "la .xorxes.",
-                                "link": "https://mw.lojban.org/papri/lo_selfri_be_la_.alis._bei_bu%27u_la_selmacygu%27e",
-                                "instance": 10
+                                "link": "https://mw.lojban.org/papri/lo_selfri_be_la_.alis._bei_bu%27u_la_selmacygu%27e"
                             }
                         ]
                     }
@@ -27303,8 +27208,7 @@
                                 "source": "The Little Prince",
                                 "author": "Antoine de Saint-Exupéry",
                                 "translator": "la .xorxes.",
-                                "link": "https://mw.lojban.org/papri/le_cmalu_noltru",
-                                "instance": 8
+                                "link": "https://mw.lojban.org/papri/le_cmalu_noltru"
                             },
                             {
                                 "lojban": ".i do lo nu djuno lo du'u ma kau smuvanbi cu {{nitcu}} lo nu jdice lo du'u ma kau smuni",
@@ -27314,8 +27218,7 @@
                                 "author": "Blinry",
                                 "translator": "la .samflir.",
                                 "link": "https://blinry.org/toki-pona-cheat-sheet/toki-pona-cheat-sheet-jbo.pdf",
-                                "originallink": "https://blinry.org/toki-pona-cheat-sheet/toki-pona-cheat-sheet.pdf",
-                                "instance": 1
+                                "originallink": "https://blinry.org/toki-pona-cheat-sheet/toki-pona-cheat-sheet.pdf"
                             },
                             {
                                 "lojban": ".i lo nu kansa cu {{se nitcu}} .ie",
@@ -27332,8 +27235,7 @@
                                 "source": "The Metamorphosis",
                                 "author": "Franz Kafka",
                                 "translator": "la .xorxes.",
-                                "link": "https://mw.lojban.org/images/f/fc/lonubinxo.pdf",
-                                "instance": 4
+                                "link": "https://mw.lojban.org/images/f/fc/lonubinxo.pdf"
                             }
                         ]
                     }
@@ -29081,8 +28983,7 @@
                                 "source": "The Little Prince",
                                 "author": "Antoine de Saint-Exupéry",
                                 "translator": "la .xorxes.",
-                                "link": "https://mw.lojban.org/papri/le_cmalu_noltru",
-                                "instance": 9
+                                "link": "https://mw.lojban.org/papri/le_cmalu_noltru"
                             },
                             {
                                 "lojban": ".i je .o'e nai {{no pendo}} cu kansa do",
@@ -29152,8 +29053,7 @@
                                 "source-id": "pram",
                                 "source": "prami simbi'o",
                                 "author": "Djemynai",
-                                "link": "https://www.youtube.com/watch?v=g3BQ-pE7ypY",
-                                "instance": 2
+                                "link": "https://www.youtube.com/watch?v=g3BQ-pE7ypY"
                             },
                             {
                                 "lojban": "mi {{pensi}} lo'e nu zerle'a lo remna .e nai lo pixra",
@@ -29172,8 +29072,7 @@
                                 "source": "The Little Prince",
                                 "author": "Antoine de Saint-Exupéry",
                                 "translator": "la .xorxes.",
-                                "link": "https://mw.lojban.org/papri/le_cmalu_noltru",
-                                "instance": 10
+                                "link": "https://mw.lojban.org/papri/le_cmalu_noltru"
                             }
                         ]
                     }
@@ -29531,17 +29430,12 @@
                                 "source": "The Restaurant of Many Orders",
                                 "author": "Kenji Miyazawa",
                                 "translator": "la .tijlan.",
-                                "link": "https://docs.google.com/document/d/10Rnm80SieLrpFnk9kn_9bCuon96CNSPTA8hqVaWQYbQ/edit?tab=t.0",
-                                "instance": 1
+                                "link": "https://docs.google.com/document/d/10Rnm80SieLrpFnk9kn_9bCuon96CNSPTA8hqVaWQYbQ/edit?tab=t.0"
                             },
                             {
                                 "lojban": ".i mu'i ku so'i da {{pilno}} lo laldo ve cilre lo ka cilre fi lo catni lojbo",
                                 "english": "Because of it, many {{used}} old textbooks to learn the official Lojban.",
-                                "source-id": "offi",
-                                "source": "\"Official Lojban\"",
-                                "author": "la uakci",
-                                "link": "https://docs.google.com/spreadsheets/d/1_vkiwqOIOIJPqZTiomzd4ApUSEQXhEY6CeyZD_6c-PA/edit?gid=1862526252#gid=1862526252",
-                                "instance": 2
+                                "source-id": "offi"
                             },
                             {
                                 "lojban": ".i ma ca sevzi {{te pilno}} le bangu",
@@ -29551,8 +29445,7 @@
                                 "author": "M. Paul Lewis and Gary F. Simons",
                                 "translator": "la nalvai",
                                 "link": "https://nalvai.neocities.org/translations/egids-scale/",
-                                "originallink": "https://www.lingv.ro/RRL%202%202010%20art01Lewis.pdf",
-                                "instance": 1
+                                "originallink": "https://www.lingv.ro/RRL%202%202010%20art01Lewis.pdf"
                             }
                         ]
                     }
@@ -30143,13 +30036,7 @@
                             {
                                 "lojban": "ni'o pu ku ro prenu cu djuno fi lo makfa burcu {{po}} ko'a",
                                 "english": "Everyone knew about Liang{{'s}} magic brush.",
-                                "source-id": "lian",
-                                "source": "Liang and the Magic Paintbrush",
-                                "author": "Demi",
-                                "translator": "la darsi",
-                                "editor": "la gleki",
-                                "link": "https://docs.google.com/spreadsheets/d/1_vkiwqOIOIJPqZTiomzd4ApUSEQXhEY6CeyZD_6c-PA/edit?gid=768225989#gid=768225989",
-                                "instance": 2
+                                "source-id": "lian"
                             }
                         ]
                     }
@@ -30545,8 +30432,7 @@
                                 "source": "The Egg",
                                 "author": "Andy Weir",
                                 "translator": "la nalvai",
-                                "link": "https://nalvai.neocities.org/translations/the-egg/",
-                                "instance": 6
+                                "link": "https://nalvai.neocities.org/translations/the-egg/"
                             }
                         ]
                     }
@@ -34900,8 +34786,7 @@
                                 "source": "They're Made Out of Meat",
                                 "author": "Terry Bisson",
                                 "translator": "Pierre Abbot",
-                                "link": "https://mw.lojban.org/papri/ko%27a_marji_lo_rectu",
-                                "instance": 1
+                                "link": "https://mw.lojban.org/papri/ko%27a_marji_lo_rectu"
                             },
                             {
                                 "lojban": ".i mu'i bo ca da do binxo {{lo simsa be mi}}",
@@ -34910,8 +34795,7 @@
                                 "source": "The Egg",
                                 "author": "Andy Weir",
                                 "translator": "la nalvai",
-                                "link": "https://nalvai.neocities.org/translations/the-egg/",
-                                "instance": 7
+                                "link": "https://nalvai.neocities.org/translations/the-egg/"
                             }
                         ]
                     }
@@ -35255,8 +35139,7 @@
                                 "english": "{{A computer}} can describe the grammatical structure.",
                                 "source-id": "rolj",
                                 "speaker": "la katador",
-                                "source": "roljbogu'e chatlog",
-                                "instance": 41
+                                "source": "roljbogu'e chatlog"
                             },
                             {
                                 "lojban": "su'o da kelci secau leka ponse le selkei je {{le ka'e skami be ri}}",
@@ -35265,8 +35148,7 @@
                                 "speaker": "la srasu",
                                 "note": "This sentence is clipped from a much longer sentence. This sentence is in JACU. To convert it to CLL Lojban, substitute {{je}} with {{.e}}.",
                                 "noshownote": "The {{ka'e}} confuses me a little... I guess it's for specialized hardware for games that \"can become a computer\" by hacking?",
-                                "source": "roljbogu'e chatlog",
-                                "instance": 42
+                                "source": "roljbogu'e chatlog"
                             },
                             {
                                 "lojban": ".i mi terve'u lo cnino {{skami be lo nu samtcifi'i}}",
@@ -35274,8 +35156,7 @@
                                 "source-id": "jbob",
                                 "speaker": "la .zi.",
                                 "note": "{{samtcifi'i}} expands to {{skami tutci finti}}, Creating computer-tools = programming.",
-                                "source": "jbobratca chatlog",
-                                "instance": 6
+                                "source": "jbobratca chatlog"
                             }
                         ]
                     }
@@ -35326,8 +35207,7 @@
                                 "source-id": "nict",
                                 "source": "la nicte cadzu",
                                 "author": "Robin Lee Powell",
-                                "link": "https://mw.lojban.org/papri/Robin%27s_Palm_Writings:_la_nicte_cadzu",
-                                "instance": 5
+                                "link": "https://mw.lojban.org/papri/Robin%27s_Palm_Writings:_la_nicte_cadzu"
                             },
                             {
                                 "lojban": ".i ju'o .ia ro prenu cu {{skari}} so'i melbi joi so'i fegli",
@@ -35336,8 +35216,7 @@
                                 "source": "Colorful",
                                 "author": "H△G",
                                 "translator": "tetsusquared (la .tirprij.)",
-                                "link": "https://www.youtube.com/watch?v=GjG2vtMOI7c",
-                                "instance": 1
+                                "link": "https://www.youtube.com/watch?v=GjG2vtMOI7c"
                             }
                         ]
                     }
@@ -35514,12 +35393,7 @@
                             {
                                 "lojban": ".i ma cmene do {{poi ke'a na slabu mi}}",
                                 "english": "What is your name, {{unfamiliar one}}?",
-                                "source-id": "tori",
-                                "source": "Torinoko City",
-                                "author": "40mP",
-                                "translator": "tetsusquared (la .tirprij.)",
-                                "link": "https://www.youtube.com/watch?v=Ar4On-u5vUk",
-                                "instance": 1
+                                "source-id": "tori"
                             }
                         ]
                     }
@@ -35910,8 +35784,7 @@
                                 "english": "What's {{the meaning of}} {ta} in the last sentence?",
                                 "source-id": "rolj",
                                 "speaker": "la nalvai",
-                                "source": "roljbogu'e chatlog",
-                                "instance": 43
+                                "source": "roljbogu'e chatlog"
                             },
                             {
                                 "lojban": ".i ru'a lo'u do cinmo ma doi ro do le'u {{se djica jai smuni}}",
@@ -35919,8 +35792,7 @@
                                 "source-id": "rolj",
                                 "speaker": "la janbe",
                                 "note": "The {{jai}} raises the quote, {{lo'u do cinmo ma doi ro do le'u}}, into an abstraction so it can go into the x<sub>1</sub> place.",
-                                "source": "roljbogu'e chatlog",
-                                "instance": 44
+                                "source": "roljbogu'e chatlog"
                             },
                             {
                                 "lojban": ".i lo du'u da de natfe cu {{se smuni}} lo du'u da .o nai de ka'e jetnu",
@@ -35930,8 +35802,7 @@
                                 "source": "Alice in Wonderland",
                                 "author": "Lewis Carroll",
                                 "translator": "la .xorxes.",
-                                "link": "https://mw.lojban.org/papri/lo_selfri_be_la_.alis._bei_bu%27u_la_selmacygu%27e",
-                                "instance": 11
+                                "link": "https://mw.lojban.org/papri/lo_selfri_be_la_.alis._bei_bu%27u_la_selmacygu%27e"
                             },
                             {
                                 "lojban": ".i la'e di'u cu {{se smuni}} lo barda mukti la .gregor.",
@@ -35940,8 +35811,7 @@
                                 "source": "The Metamorphosis",
                                 "author": "Franz Kafka",
                                 "translator": "la .xorxes.",
-                                "link": "https://mw.lojban.org/images/f/fc/lonubinxo.pdf",
-                                "instance": 5
+                                "link": "https://mw.lojban.org/images/f/fc/lonubinxo.pdf"
                             },
                             {
                                 "lojban": ".i krinu lo nu mabla ja dukse {{te smuni}} noi je'u fasnu ma'i lo ma'a cecmu",
@@ -35949,8 +35819,7 @@
                                 "source-id": "offi",
                                 "source": "\"Official Lojban\"",
                                 "author": "la uakci",
-                                "link": "https://docs.google.com/spreadsheets/d/1_vkiwqOIOIJPqZTiomzd4ApUSEQXhEY6CeyZD_6c-PA/edit?gid=1862526252#gid=1862526252",
-                                "instance": 3
+                                "link": "https://docs.google.com/spreadsheets/d/1_vkiwqOIOIJPqZTiomzd4ApUSEQXhEY6CeyZD_6c-PA/edit?gid=1862526252#gid=1862526252"
                             }
                         ]
                     }
@@ -38461,8 +38330,7 @@
                                 "source-id": "clan",
                                 "source": "clani kerlo",
                                 "author": "la fagri",
-                                "link": "https://docs.google.com/spreadsheets/d/1_vkiwqOIOIJPqZTiomzd4ApUSEQXhEY6CeyZD_6c-PA/edit?gid=1296186733#gid=1296186733",
-                                "instance": 3
+                                "link": "https://docs.google.com/spreadsheets/d/1_vkiwqOIOIJPqZTiomzd4ApUSEQXhEY6CeyZD_6c-PA/edit?gid=1296186733#gid=1296186733"
                             },
                             {
                                 "lojban": "ni'o la .stefen. co'a sanga gi'e {{tavla}} fi lo nu litru vau la .gliban.",
@@ -38471,8 +38339,7 @@
                                 "noshownote": "The original has {{je}} instead of {{gi'e}}",
                                 "source": "la nicte cadzu",
                                 "author": "Robin Lee Powell",
-                                "link": "https://mw.lojban.org/papri/Robin%27s_Palm_Writings:_la_nicte_cadzu",
-                                "instance": 6
+                                "link": "https://mw.lojban.org/papri/Robin%27s_Palm_Writings:_la_nicte_cadzu"
                             }
                         ]
                     }
@@ -39495,8 +39362,7 @@
                                 "english": "I know, because I'm a member of the leader comitee associated with the science institute of Loglan {{([English] ~ The Loglan Institute ~)}}",
                                 "source-id": "rolj",
                                 "speaker": "la janbe",
-                                "source": "roljbogu'e chatlog",
-                                "instance": 45
+                                "source": "roljbogu'e chatlog"
                             },
                             {
                                 "lojban": "le mi bruna {{to se rirni le se rirni pe le mamta pe le mi mamta toi}} cu bilma",
@@ -39504,8 +39370,7 @@
                                 "source-id": "rolj",
                                 "speaker": "la kanis",
                                 "note": "Note that the {{toi}} in this sentence is elidable, as the content in the parentheses cannot take the second selbri introduced by {{cu}}.",
-                                "source": "roljbogu'e chatlog",
-                                "instance": 46
+                                "source": "roljbogu'e chatlog"
                             },
                             {
                                 "lojban": ".i da'i {{to se va'u lo nu darlu toi}} lo jmive je pensi cu kakne lo nu zasti ze'o lo bitmu be lo botpi",
@@ -40087,7 +39952,7 @@
                 "meaning": [
                     {
                         "exp": "x_1 tries/attempts/makes an effort to do/attain x_2 (event/state/property) by actions/method x_3.",
-                        "note": "The x<sub>3</sub> place is seldom used. {{x<sub>1</sub> troci x<sub>2</sub> x<sub>3</sub>}} is similar in meaning to {{x<sub>1</sub> zukte x<sub>3</sub> x<sub>2</sub>}}.",
+                        "note": "Place structure parallels that of {{rivbi}}. The x<sub>3</sub> place is seldom used. {{x<sub>1</sub> troci x<sub>2</sub> x<sub>3</sub>}} is similar in meaning to {{x<sub>1</sub> zukte x<sub>3</sub> x<sub>2</sub>}}.",
                         "example": [
                             {
                                 "lojban": ".i mi co'u {{troci lo nu fagysti}}",
@@ -40103,8 +39968,7 @@
                                 "source-id": "pram",
                                 "source": "prami simbi'o",
                                 "author": "Djemynai",
-                                "link": "https://www.youtube.com/watch?v=g3BQ-pE7ypY",
-                                "instance": 3
+                                "link": "https://www.youtube.com/watch?v=g3BQ-pE7ypY"
                             },
                             {
                                 "lojban": "zo ie pe mi pu {{jai te troci lonu mi dragau tu'a mi}}",
@@ -40112,8 +39976,7 @@
                                 "source-id": "jbob",
                                 "speaker": "Stephen Dedalus",
                                 "note": "The only usage I can find for {{troci}}'s x<sub>3</sub>.",
-                                "source": "jbobratca chatlog",
-                                "instance": 7
+                                "source": "jbobratca chatlog"
                             }
                         ]
                     }
@@ -40124,7 +39987,7 @@
     },
     {
         "word": "tsali",
-        "gloss": "strong",
+        "gloss": "strong, powerful &mdash; (aspect, property of) strength &mdash; standard of strength",
         "type": "gismu",
         "freq": "27250",
         "rank": "181",
@@ -40136,11 +39999,40 @@
             {
                 "meaning": [
                     {
-                        "exp": "$x_{1}$ is strong/powerful/[tough] in property/quality $x_{2}$ (ka) by standard $x_{3}$."
+                        "exp": "x_1 is strong/powerful/[tough] in property/quality x_2 (ka) by standard x_3.",
+                        "note": "Sometimes confused with {{mutce}}.",
+                        "example": [
+                            {
+                                "lojban": ".i ku'i no da prali fi {{lo nu do tsali je certu}}",
+                                "english": "Vain are {{your strength and cunning}}!",
+                                "source-id": "cloc",
+                                "source": "The Clockmaker",
+                                "author": "Robert Louis Stevenson",
+                                "translator": "la .xorxes.",
+                                "link": "https://mw.lojban.org/papri/le_junla_zbasu",
+                                "originallink": "https://en.wikisource.org/wiki/The_Clockmaker"
+                            },
+                            {
+                                "lojban": "xu {{tsali}} lo ka te sluji fi lo vlipa",
+                                "english": "{{Strong}} as in having powerful muscles?",
+                                "source-id": "jbob",
+                                "speaker": "la gleki",
+                                "source": "jbobratca chatlog"
+                            },
+                            {
+                                "lojban": ".i {{tsali}} lo ka gradu kei lo sarcu be lo nu jdenoi fi lo tsunami",
+                                "english": "It{{'s so strong}} in magnitude that it met the threshold for tsumani alerts.",
+                                "source-id": "rolj",
+                                "speaker": "bancip",
+                                "note": "The only example I can find for {{tsali}}'s x<sub>3</sub>.",
+                                "source": "roljbogu'e chatlog"
+                            }
+                        ]
                     }
                 ]
             }
-        ]
+        ],
+        "good": true
     },
     {
         "word": "tsani",
@@ -41169,8 +41061,7 @@
                                 "source-id": "clan",
                                 "source": "clani kerlo",
                                 "author": "la fagri",
-                                "link": "https://docs.google.com/spreadsheets/d/1_vkiwqOIOIJPqZTiomzd4ApUSEQXhEY6CeyZD_6c-PA/edit?gid=1296186733#gid=1296186733",
-                                "instance": 4
+                                "link": "https://docs.google.com/spreadsheets/d/1_vkiwqOIOIJPqZTiomzd4ApUSEQXhEY6CeyZD_6c-PA/edit?gid=1296186733#gid=1296186733"
                             },
                             {
                                 "lojban": ".i xu da do prali lo nu sanga le do zgike {{va'o lo nu le tertigni na se vajni co tinju'i do}}",
@@ -41178,8 +41069,7 @@
                                 "source-id": "nabm",
                                 "source": "lo nabmi",
                                 "author": "Noise and Bells (la janbe)",
-                                "link": "https://www.youtube.com/watch?v=gv0QIbGc8i8",
-                                "instance": 1
+                                "link": "https://www.youtube.com/watch?v=gv0QIbGc8i8"
                             }
                         ]
                     },
@@ -41195,8 +41085,7 @@
                                 "source": "In a Grove",
                                 "author": "Ryūnosuke Akutagawa",
                                 "translator": "la .guskant.",
-                                "link": "https://guskant.github.io/yabu/html5/jbopoho.html",
-                                "instance": 1
+                                "link": "https://guskant.github.io/yabu/html5/jbopoho.html"
                             }
                         ]
                     }
@@ -41881,7 +41770,7 @@
     },
     {
         "word": "viska",
-        "gloss": "see",
+        "gloss": "to see, to sight, seer &mdash; to be seen, visible &mdash; condition/environment for seeing",
         "type": "gismu",
         "freq": "26720",
         "rank": "185",
@@ -41893,11 +41782,42 @@
             {
                 "meaning": [
                     {
-                        "exp": "$x_{1}$ sees/views/perceives visually $x_{2}$ under conditions $x_{3}$."
+                        "exp": "x_1 sees/views/perceives visually x_2 under conditions x_3.",
+                        "example": [
+                            {
+                                "lojban": ".i catlu ro da gi'e ku'i {{viska}} no ka'e se citka",
+                                "english": "They looked everywhere, but didn't {{see}} anything they could eat.",
+                                "source-id": "melb",
+                                "source": "la melbi e le ractu",
+                                "author": "la lalxu",
+                                "link": "https://lynn.github.io/la-melbi-e-le-ractu/"
+                            },
+                            {
+                                "lojban": ".i mu no pa ki'o ki'o cmalu dacti {{poi su'o roi se viska fi lo tsani}}",
+                                "english": "Five-hundred-and-one million of those little objects {{which one sometimes sees in the sky}}.",
+                                "source-id": "litt",
+                                "note": "This utterance is a response to a question and thus only consists of a single sumti.",
+                                "source": "The Little Prince",
+                                "author": "Antoine de Saint-Exupéry",
+                                "translator": "la .xorxes.",
+                                "link": "https://mw.lojban.org/papri/le_cmalu_noltru"
+                            },
+                            {
+                                "lojban": ".i le prije cu tcila ciksi {{lo se viska be bu'u lo skeku'a}}",
+                                "english": "The doctor explained at great length {{what [he] had seen in the laboratory}}.",
+                                "source-id": "scie",
+                                "source": "The Scientific Ape",
+                                "author": "Robert Louis Stevenson",
+                                "translator": "la .xorxes.",
+                                "link": "https://mw.lojban.org/papri/le_saske_smani",
+                                "originallink": "https://en.wikisource.org/wiki/The_Scientific_Ape"
+                            }
+                        ]
                     }
                 ]
             }
-        ]
+        ],
+        "good": true
     },
     {
         "word": "vitci",
@@ -42899,8 +42819,7 @@
                                 "source": "Alice in Wonderland",
                                 "author": "Lewis Carroll",
                                 "translator": "la .xorxes.",
-                                "link": "https://mw.lojban.org/papri/lo_selfri_be_la_.alis._bei_bu%27u_la_selmacygu%27e",
-                                "instance": 12
+                                "link": "https://mw.lojban.org/papri/lo_selfri_be_la_.alis._bei_bu%27u_la_selmacygu%27e"
                             },
                             {
                                 "lojban": "{{xamgu fi}} lo nu drani lo ka lo slaka cu rilti",
@@ -42908,8 +42827,7 @@
                                 "note": "\"scans properly\" = \"correct in that the syllables makes a rhythm\".",
                                 "source-id": "rolj",
                                 "speaker": "Magnap",
-                                "source": "roljbogu'e chatlog",
-                                "instance": 47
+                                "source": "roljbogu'e chatlog"
                             },
                             {
                                 "lojban": ".i je ku'i ri {{se xamgu}} ju'o lo nu lo plini cu glare zenba",
@@ -42919,8 +42837,7 @@
                                 "author": "Ryan Cross on <i>Science</i>",
                                 "translator": "la .ilmen.",
                                 "link": "https://mw.lojban.org/papri/UserWiki:Ilmen/lo_ziptu%27a_ca%27o_zenba_lo_ka_crino",
-                                "originallink": "https://www.science.org/content/article/antarctica-getting-greener",
-                                "instance": 1
+                                "originallink": "https://www.science.org/content/article/antarctica-getting-greener"
                             }
                         ]
                     }
@@ -44049,8 +43966,7 @@
                                 "source": "The Wonderful Wizard of Oz",
                                 "author": "L. Frank Baum",
                                 "translator": "la solpa'i",
-                                "link": "https://selpahi.de/oz_plain.html",
-                                "instance": 9
+                                "link": "https://selpahi.de/oz_plain.html"
                             },
                             {
                                 "lojban": ".i lo te gusni be fi {{lo xunre}} cu co'u se ganse ca lonu dy de'a vasxu ja'e loka smaji mulno kei kei",
@@ -44641,8 +44557,7 @@
                                 "source": "The Wonderful Wizard of Oz",
                                 "author": "L. Frank Baum",
                                 "translator": "la solpa'i",
-                                "link": "https://selpahi.de/oz_plain.html",
-                                "instance": 10
+                                "link": "https://selpahi.de/oz_plain.html"
                             },
                             {
                                 "lojban": ".i le bangu cu se pilno su'o so'o da {{va'o tu'a lo zdani}} lo fadni je voksa nu casnu",
@@ -44652,8 +44567,7 @@
                                 "author": "M. Paul Lewis and Gary F. Simons",
                                 "translator": "la nalvai",
                                 "link": "https://nalvai.neocities.org/translations/egids-scale/",
-                                "originallink": "https://www.lingv.ro/RRL%202%202010%20art01Lewis.pdf",
-                                "instance": 2
+                                "originallink": "https://www.lingv.ro/RRL%202%202010%20art01Lewis.pdf"
                             },
                             {
                                 "lojban": "za'u re'u ku {{lo se zdani}} cu cusku bau na'e bo la lojban",
@@ -44661,8 +44575,7 @@
                                 "source-id": "nict",
                                 "source": "la nicte cadzu",
                                 "author": "Robin Lee Powell",
-                                "link": "https://mw.lojban.org/papri/Robin%27s_Palm_Writings:_la_nicte_cadzu",
-                                "instance": 7
+                                "link": "https://mw.lojban.org/papri/Robin%27s_Palm_Writings:_la_nicte_cadzu"
                             }
                         ]
                     }
@@ -44778,8 +44691,7 @@
                                 "source": "Alice in Wonderland",
                                 "author": "Lewis Carroll",
                                 "translator": "la .xorxes.",
-                                "link": "https://mw.lojban.org/papri/lo_selfri_be_la_.alis._bei_bu%27u_la_selmacygu%27e",
-                                "instance": 13
+                                "link": "https://mw.lojban.org/papri/lo_selfri_be_la_.alis._bei_bu%27u_la_selmacygu%27e"
                             }
                         ]
                     },
@@ -44794,8 +44706,7 @@
                                 "source": "The Library of Babel",
                                 "author": "Jorge Luis Borges",
                                 "translator": "la .xorxes.",
-                                "link": "https://mw.lojban.org/papri/la_ckuzda_pe_la_babel",
-                                "instance": 2
+                                "link": "https://mw.lojban.org/papri/la_ckuzda_pe_la_babel"
                             },
                             {
                                 "lojban": ".i lo po'o cmana poi {{ze'e pu slabu ny}} cu me lo ci je'erma'a noi galtu dunli lo ny cidni",
@@ -44804,8 +44715,7 @@
                                 "source": "The Little Prince",
                                 "author": "Antoine de Saint-Exupéry",
                                 "translator": "la .xorxes.",
-                                "link": "https://mw.lojban.org/papri/le_cmalu_noltru",
-                                "instance": 11
+                                "link": "https://mw.lojban.org/papri/le_cmalu_noltru"
                             }
                         ]
                     },
@@ -44820,8 +44730,7 @@
                                 "source": "The Wonderful Wizard of Oz",
                                 "author": "L. Frank Baum",
                                 "translator": "la solpa'i",
-                                "link": "https://selpahi.de/oz_plain.html",
-                                "instance": 11
+                                "link": "https://selpahi.de/oz_plain.html"
                             },
                             {
                                 "lojban": ".i do mi {{ze'e ba}} pendo",
@@ -44830,8 +44739,7 @@
                                 "source": "The Little Prince",
                                 "author": "Antoine de Saint-Exupéry",
                                 "translator": "la .xorxes.",
-                                "link": "https://mw.lojban.org/papri/le_cmalu_noltru",
-                                "instance": 12
+                                "link": "https://mw.lojban.org/papri/le_cmalu_noltru"
                             }
                         ]
                     },
@@ -44850,8 +44758,7 @@
                                 "english": "I {{always}} wanted to visit it {{in my whole life}}.",
                                 "source-id": "rolj",
                                 "speaker": "qimar",
-                                "source": "roljbogu'e chatlog",
-                                "instance": 48
+                                "source": "roljbogu'e chatlog"
                             }
                         ]
                     }
@@ -45089,8 +44996,7 @@
                                 "source": "Little Things",
                                 "author": "Raymond Carver",
                                 "translator": "Jordan DeLong",
-                                "link": "https://mw.lojban.org/papri/little_Things",
-                                "instance": 1
+                                "link": "https://mw.lojban.org/papri/little_Things"
                             },
                             {
                                 "lojban": ".i do ba {{zgana}} lo nu mi ja'a sai te tinbe",
@@ -45099,8 +45005,7 @@
                                 "source": "The Little Prince",
                                 "author": "Antoine de Saint-Exupéry",
                                 "translator": "la .xorxes.",
-                                "link": "https://mw.lojban.org/papri/le_cmalu_noltru",
-                                "instance": 13
+                                "link": "https://mw.lojban.org/papri/le_cmalu_noltru"
                             },
                             {
                                 "lojban": "ca lo jibni lo lojbo ku se xlali lo {{frili se zgana}} poi pagbu lo vanbi be lo bangu",
@@ -45108,16 +45013,14 @@
                                 "source-id": "offi",
                                 "source": "\"Official Lojban\"",
                                 "author": "la uakci",
-                                "link": "https://docs.google.com/spreadsheets/d/1_vkiwqOIOIJPqZTiomzd4ApUSEQXhEY6CeyZD_6c-PA/edit?gid=1862526252#gid=1862526252",
-                                "instance": 4
+                                "link": "https://docs.google.com/spreadsheets/d/1_vkiwqOIOIJPqZTiomzd4ApUSEQXhEY6CeyZD_6c-PA/edit?gid=1862526252#gid=1862526252"
                             },
                             {
                                 "lojban": "ca ku zo'u mi {{zgana}} co skina la andor",
                                 "english": "For now I'm {{watching}} the video [series] \"Andor\".",
                                 "source-id": "rolj",
                                 "speaker": "qimar",
-                                "source": "roljbogu'e chatlog",
-                                "instance": 49
+                                "source": "roljbogu'e chatlog"
                             }
                         ]
                     }
@@ -45868,8 +45771,7 @@
                                 "author": "Demi",
                                 "translator": "la darsi",
                                 "editor": "la gleki",
-                                "link": "https://docs.google.com/spreadsheets/d/1_vkiwqOIOIJPqZTiomzd4ApUSEQXhEY6CeyZD_6c-PA/edit?gid=768225989#gid=768225989",
-                                "instance": 3
+                                "link": "https://docs.google.com/spreadsheets/d/1_vkiwqOIOIJPqZTiomzd4ApUSEQXhEY6CeyZD_6c-PA/edit?gid=768225989#gid=768225989"
                             },
                             {
                                 "lojban": ".i ca facki lo du'u pa ractu ku {{co'a zvati}} le kumfa",
@@ -45877,8 +45779,7 @@
                                 "source-id": "melb",
                                 "source": "la melbi e le ractu",
                                 "author": "la lalxu",
-                                "link": "https://lynn.github.io/la-melbi-e-le-ractu/",
-                                "instance": 5
+                                "link": "https://lynn.github.io/la-melbi-e-le-ractu/"
                             },
                             {
                                 "lojban": ".i lo cmalu noltru noi {{zvati lo nu zvagau lo barda balji}} cu birti lo du'u ba barkla by fa lo se manci tolcanci",
@@ -45887,8 +45788,7 @@
                                 "source": "The Little Prince",
                                 "author": "Antoine de Saint-Exupéry",
                                 "translator": "la .xorxes.",
-                                "link": "https://mw.lojban.org/papri/le_cmalu_noltru",
-                                "instance": 14
+                                "link": "https://mw.lojban.org/papri/le_cmalu_noltru"
                             },
                             {
                                 "lojban": ".i {{lo se zvati be mi}} cu tolmanku ze'i lo snidu",
@@ -45896,8 +45796,7 @@
                                 "source-id": "zaho",
                                 "source": "za'o",
                                 "author": "Djemynai",
-                                "link": "https://www.youtube.com/watch?v=TKbFwr-1ZQ4",
-                                "instance": 2
+                                "link": "https://www.youtube.com/watch?v=TKbFwr-1ZQ4"
                             }
                         ]
                     }

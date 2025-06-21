@@ -7,6 +7,7 @@
     -definition:
         -meaning:
             -exp x_1 understands/comprehends fact/truth x_2 (du'u) about subject x_3; x1 understands (fi) x3.
+            -note Place structure parallels that of {{krici}}. Lacks a sumti slot for epistemology/grounds (corresponing to x<sub>4</sub> of {{djuno}}) compared to its near-synonym {{djuno}}. 
             -example:
                 -lojban mi {{jimpe}} lo du'u do ma kau cinmo
                 -english I {{understand}} how you feel.
@@ -24,6 +25,28 @@
                 -lojban .i do terpa lo nu mi jai gau xrani do se pi'o {{lo se jimpe be mi}}
                 -english You fear that I'll cause harm to you with {{my understandings}}.
                 -source-id nict
+
+-entry:
+    -word jinvi
+    -gloss to opine, to hold (an opinion) &mdash; opinion &mdash; subject of opinion &mdash; basis/grounds of opinion 
+    -type gismu
+    -definition:
+        -meaning:
+            -exp x_1 thinks/opines x_2 [opinion] (du'u) is true about subject/issue x_3 on grounds x_4.
+            -note Place structure parallels that of {{djuno}}. Has an additional sumti slot for epistemology/grounds (x<sub>4</sub>) compared to its near-synonym {{krici}}. 
+            -example:
+                -lojban lo patfu cu {{jinvi}} fi gy. fe lo du'u mapti fa lo po'o traji jursa
+                -english [...] his father {{thought}} it fitting to always be extremely strict with him. 
+                -source-id meta
+            -example:
+                -lojban ni'o mi {{jinvi}} fo lo se junri fe lo du'u lo plini poi terdi lo cmalu noltru cu me lo plinycma po'u li B612
+                -english I have serious reason {{to believe}} that the planet from which the little prince came is the asteroid known as B-612.
+                -source-id litt
+            -example:
+                -lojban ni'o vajni lo nabmi fa lo za'i {{lo se jinvi be fi lo du'u ma kau jbobau ku ku}} frica simxu
+                -english The relevant part of this problem is the difference of {{opinions on what is considered a Lojban}}.
+                -source-id offi
+                -note Using two {{ku}} consecutively, as in this sentence, is considered by most to be poor style because it can be difficult to determine which grammatical structure each {{ku}} closes. In this sentence, replacing the two {{ku}} with a {{cu}} keeps the same sentence structure and reduces the cognitive load of backtracking.
 
 -entry:
     -word jundi

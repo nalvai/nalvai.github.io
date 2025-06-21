@@ -77,26 +77,36 @@ sources = {}
 with open("sources.json", "r", encoding="utf-8") as file:
     sources = json.load(file)
 
-quotes_total = 0
+def get_clean_quote(quote):
+    result = ""
+    for c in quote:
+        if c.isalnum() or c == " ":
+            result += c
+    return result
+
+quotes = set()
 def process_quotes(entry):
-    global quotes_total
+    global quotes
     result = False
     for definition in entry["definition"]:
         for meaning in definition["meaning"]:
             if "example" in meaning and len(meaning["example"]) > 0:
                 for quote in meaning["example"]:
-                    if "source-id" in quote:
-                        quotes_total += 1
+                    if "source-id" in quote and get_clean_quote(quote["lojban"]) not in quotes:
+                        quotes.add(get_clean_quote(quote["lojban"]))
                         index = quote["source-id"]
                         source = sources[index]
                         for attrib in source:
-                            quote[attrib] = source[attrib]
+                            if attrib not in ["instance"]:
+                                quote[attrib] = source[attrib]
                         source["instance"] = source.get("instance", 0) + 1
                         if "speaker" in quote:
                             for speaker in quote["speaker"].split(","):
                                 speakers.add(speaker.strip())
+                    elif "source-id" in quote: # duplicate quote, don't do anything
+                        pass
                     else:
-                        print(f"Warning: unsourced quote at {entry[word]}!")
+                        print(f"Warning: unsourced quote at {entry['word']}!")
                 result = True
     return result
 
@@ -132,7 +142,7 @@ with open("output.json", "w", encoding="utf-8") as json_file:
     json.dump(good_data, json_file, ensure_ascii=False, indent=4)
 
 print(f"{len(good_data)} words recorded")
-print(f"{quotes_total} quotes recorded")
+print(f"{len(quotes)} quotes recorded")
 print("Conversion complete. Output saved to output.json.")
 
 source_order = [x for x in sources if "instance" in sources[x] and sources[x]["instance"] > 0]
@@ -179,5 +189,5 @@ for c in contributor_order:
     print(to_print[:-2] + ".")
 
 print()
-print(f"**NALVAI** is a Lojban dictionary that uses quotations from *real-world texts* as examples of usage. It currently contains **{len(good_data)} words** with [**{quotes_total} quotations** from **{len(source_order)} Lojban texts**](https://github.com/nalvai/nalvai.github.io#sources). Please provide quotations and definitions to help the dictionary grow!")
+print(f"**NALVAI** is a Lojban dictionary that uses quotations from *real-world texts* as examples of usage. It currently contains **{len(good_data)} words** with [**{len(quotes)} quotations** from **{len(source_order)} Lojban texts**](https://github.com/nalvai/nalvai.github.io#sources). Please provide quotations and definitions to help the dictionary grow!")
 
