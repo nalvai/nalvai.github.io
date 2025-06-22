@@ -32,3 +32,28 @@
                 -note Example of "(of a text) to be written in a language" expressed with x_3 of {{bangu}}.
                 -source-id rolj
                 -speaker la srasu
+
+-entry:
+    -word bebna
+    -gloss silly, fool &mdash; folly, a foolish act
+    -type gismu
+    -definition:
+        -meaning:
+            -exp x_1 is foolish/silly in event/action/property [folly] (ka) x_2; x_1 is a fool.
+            -example:
+                -lojban .i ko co'a xenru {{doi bebna}}
+                -english Start feeling some remorse, {{idiot.}}
+                -source-id nafe
+            -example:
+                -lojban .i ku'i do mi dunli {{lo ka bebna}} 
+                -english But you have been just as {{foolish}} as I.
+                -source-id litt
+            -example:
+                -lojban .i .o'u no simsa {{se bebna}} pu fasnu
+                -english No similar {{follies}} happened. Phew!
+                -source-id rolj
+                -speaker la lunbe
+            -example:
+                -lojban .i le du'u xu kau {{bebna lo ka nerkla}} cu ba se facki ca le nu bevri fi le bartu
+                -english Was {{[she] that dumb, did [she] go in}} or not, we'll see when they carry them out.
+                -source-id terr

@@ -2,6 +2,23 @@
 
 
 -entry:
+    -word tadni
+    -gloss to study, student &mdash; to be studied, subject of study  
+    -type gismu
+    -definition:
+        -meaning:
+            -exp x_1 studies/is a student of x_2; x_1 is a scholar; (adjective:) x_1 is scholarly.
+            -example:
+                -lojban .i gy. surla tcidu lo karni gi'a {{tadni}} lo trene tcika
+                -english He just reads the paper or {{studies}} train timetables.
+                -source-id meta
+            -example:
+                -lojban .i lo crecipra cu srana {{ma poi se tadni}} 
+                -english {{What subject}} is the exam about?
+                -source-id rolj
+                -speaker la janbe
+
+-entry:
     -word tavla
     -gloss to tell, to talk to &mdash; to be talked to &mdash; subject of talk &mdash; language used  
     -type gismu

@@ -1,5 +1,41 @@
 
 -entry:
+    -word o
+    -gloss Connective: sumti afterthought iff, if and only if
+    -type cmavo
+    -definition:
+        -selmaho A
+        -meaning:
+            -exp Logical connective: sumti afterthought if and only if. Connects two sumti, such that the containing bridi is true if and only if it is true for both or neither of the connected sumti. 
+            -note Supplanted with {{jo}} in JACU. In practice, {{.o nai}} (which means "either ... or ...") is much more common than just {{.o}} by itself.
+            -example:
+                -lojban .i lo du'u da de natfe cu se smuni lo du'u da {{.o nai}} de ka'e jetnu
+                -english "A contradicts B" means {{only one of}} A and B can be true.
+                -source-id alic
+                -note This sentence is localized from the original text, so it doesn't match literally to the original. The {{da}} and {{de}} are being used as generic pronouns, which is a common usage in texts from the 2000s.
+        -meaning:
+            -context ~ {{bu}} 
+            -exp Letteral for o. When used alone, refers to the most recent sumti starting with {{o}}.
+            -example:
+                -lojban {{la .oz.}} cu du la banli te makfa — [...] — .i {{.obu}} vlipa zei zmadu lo ro mi'a poi gunma
+                -english {{Oz}} himself is the Great Wizard, [...] {{He}} (= Oz) is more powerful than all the rest of us together. 
+                -source-id wond
+                -note The middle part (which is a {{sei}} discursive) is omitted.
+    -definition:
+        -selmaho I
+        -meaning:
+            -variation ajbo
+            -exp Equivalent to {{.i ko'oi}}. Starts a sentence that is a command.
+            -note Adopting ajbo prerequires adopting JACU. A sentence started with {{.o}} often contains a {{ko}}, although it is not necessary. {{.o nai}} is neither defined or used.
+            -example:
+                -lojban .iesai {{.o temci dunda}} fi lo do lanzu
+                -english Yeah, {{spend time}} with your family!
+                -source-id rolj
+                -speaker la ziren
+
+
+
+-entry:
     -word po
     -gloss Relative phrase marker: is specific to ... 
     -type cmavo

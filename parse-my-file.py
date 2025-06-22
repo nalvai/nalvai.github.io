@@ -92,19 +92,18 @@ def process_quotes(entry):
         for meaning in definition["meaning"]:
             if "example" in meaning and len(meaning["example"]) > 0:
                 for quote in meaning["example"]:
-                    if "source-id" in quote and get_clean_quote(quote["lojban"]) not in quotes:
-                        quotes.add(get_clean_quote(quote["lojban"]))
+                    if "source-id" in quote:
                         index = quote["source-id"]
                         source = sources[index]
                         for attrib in source:
                             if attrib not in ["instance"]:
                                 quote[attrib] = source[attrib]
-                        source["instance"] = source.get("instance", 0) + 1
                         if "speaker" in quote:
                             for speaker in quote["speaker"].split(","):
                                 speakers.add(speaker.strip())
-                    elif "source-id" in quote: # duplicate quote, don't do anything
-                        pass
+                        if get_clean_quote(quote["lojban"]) not in quotes:
+                            quotes.add(get_clean_quote(quote["lojban"]))
+                            source["instance"] = source.get("instance", 0) + 1
                     else:
                         print(f"Warning: unsourced quote at {entry['word']}!")
                 result = True

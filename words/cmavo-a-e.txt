@@ -33,11 +33,11 @@
                 -source-id rolj
                 -speaker la srasu
             -example:
-                -lojban {{.anai}} la loglan cu jbobau xu .i na go'i ni'i loka lujvo {{.a xu}} ku'i la loglan cu lojbo bangu
+                -lojban {{.anai}} la loglan cu jbobau {{xu}} .i na go'i ni'i loka lujvo {{.a xu}} ku'i la loglan cu lojbo bangu
                 -english Is Loglan Lojban{{?}} It's not because of the lujvo [structure]. But is Loglan some kind of Lojban-ic language{{?}}
                 -source-id rolj
                 -speaker la melmi
-                -note The first sentence seems to be a question where the speaker is asking themselves or is expecting a negative answer, but it's hard to say for sure because there are no other instences of {{.anai}} in similar usage.
+                -note The first sentence seems to be a question where the speaker is asking themselves or is expecting a negative answer, but it's hard to say for sure because there are no other instances of {{.anai}} in similar usage.
         -meaning:
             -variation ajbo
             -context ~ {{nai}}
@@ -82,13 +82,18 @@
                 -source-id rolj
                 -speaker la lalxu
         -meaning:
+            -variation CLL
             -context ~ {{nai}}
             -exp Attitudinal: express rejection / refusal.
-            -note BPFK proposed changing it to "express unintention / accidentiality", but I didn't find usage of that.
             -example:
                 -lojban .i go pu'o zei ganlo se morji gi ne'i la'e di'u milxe bacru za'a sei {{.ai nai}} tolmo'i
                 -english The unclosed memories, I hear whispers inside them that {{we never want to}} forget.
                 -source-id alwa
+        -meaning:
+            -variation BPFK
+            -context ~ {{nai}}
+            -exp Attitudinal: express unintention / accidentiality.
+            -note Unattested.
 
 
 -entry:
@@ -167,7 +172,7 @@
 
 -entry:
     -word ba'o
-    -gloss Preposition (tense): retrospective
+    -gloss Preposition (tense): retrospective; event already ended
     -type cmavo
     -rafsi-cvc 
     -rafsi-ccv 
@@ -304,7 +309,7 @@
 
 -entry:
     -word co'a
-    -gloss Preposition (tense): initiative
+    -gloss Preposition (tense): initiative; event starts
     -type cmavo
     -definition:
         -selmaho ZAhO
@@ -329,7 +334,7 @@
 
 -entry:
     -word co'u
-    -gloss Preposition (tense): cessative
+    -gloss Preposition (tense): cessative; event stops
     -type cmavo
     -rafsi-cvc 
     -rafsi-ccv 
@@ -386,3 +391,16 @@
                 -lojban ni'o {{la .em.}} ca lo nu klama ti te zu'e lo nu bu'u xabju cu citno je melbi speni .i lo solri jo'u lo brife cu cnegau {{.e bu}} ji'a
                 -english When {{Aunt Em}} came there to live she was a young, pretty wife. The sun and wind had changed {{her}} (= Aunt Em), too.
                 -source-id wond
+    -definition:
+        -selmaho I
+        -meaning:
+            -variation ajbo
+            -exp Equivalent to {{.i ji'a}}. Starts a sentence that is a direct continuation of the last sentence. Sentences separated with {{.e}} are considered to refer to the same event/concept, and are only seperated becuase of grammatical reasons.
+            -note Adopting ajbo prerequires adopting JACU. {{.e nai}} is neither defined or used.
+            -example:
+                -lojban ni'o ca le prula'i mi tolcirko lo tutci pe po skami xrazba {{.e}} mi finti le'i tolmulno pixra be lo skapypre .i ai ba di'a gunka tu'a ti
+                -english (New topic) Last [time] I recovered my digital painting tools {{and}} I made this unfinished drawing of a skinwalker. I intend to keep working on this. &lt;picture&gt;
+                -source-id rolj
+                -speaker la srasu
+                -note This utterance is in a divergent variety that has many differences with the baseline grammar: <ul><li>{{po}} is used as in jboponei, where it converts a bridi directly to a sumti, and corresponds to {{lo su'u}} in baseline.</li><li>{{.e}} is used as in ajbo, where it continues the same concept with another sentence, and corresponds to {{.i ji'a}} in baseline.</li><li>{{le'i}} is used as in gadganzu, where it functions as a demonstrative article (think of it as pointing to the &lt;picture&gt;), and corresponds to {{ti noi ... (ku'o)}} in baseline.</li></ul> This utterance serves as an example of the modularity of Lojban variaties, as said three differences from the baseline are unrelated to each other and can be employed independently.
+

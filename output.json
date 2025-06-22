@@ -61,11 +61,11 @@
                                 "source": "roljbogu'e chatlog"
                             },
                             {
-                                "lojban": "{{.anai}} la loglan cu jbobau xu .i na go'i ni'i loka lujvo {{.a xu}} ku'i la loglan cu lojbo bangu",
+                                "lojban": "{{.anai}} la loglan cu jbobau {{xu}} .i na go'i ni'i loka lujvo {{.a xu}} ku'i la loglan cu lojbo bangu",
                                 "english": "Is Loglan Lojban{{?}} It's not because of the lujvo [structure]. But is Loglan some kind of Lojban-ic language{{?}}",
                                 "source-id": "rolj",
                                 "speaker": "la melmi",
-                                "note": "The first sentence seems to be a question where the speaker is asking themselves or is expecting a negative answer, but it's hard to say for sure because there are no other instences of {{.anai}} in similar usage.",
+                                "note": "The first sentence seems to be a question where the speaker is asking themselves or is expecting a negative answer, but it's hard to say for sure because there are no other instances of {{.anai}} in similar usage.",
                                 "source": "roljbogu'e chatlog"
                             }
                         ]
@@ -147,9 +147,9 @@
                         ]
                     },
                     {
+                        "variation": "CLL",
                         "context": "~ {{nai}}",
                         "exp": "Attitudinal: express rejection / refusal.",
-                        "note": "BPFK proposed changing it to \"express unintention / accidentiality\", but I didn't find usage of that.",
                         "example": [
                             {
                                 "lojban": ".i go pu'o zei ganlo se morji gi ne'i la'e di'u milxe bacru za'a sei {{.ai nai}} tolmo'i",
@@ -161,6 +161,12 @@
                                 "link": "https://vimeo.com/113232481"
                             }
                         ]
+                    },
+                    {
+                        "variation": "BPFK",
+                        "context": "~ {{nai}}",
+                        "exp": "Attitudinal: express unintention / accidentiality.",
+                        "note": "Unattested."
                     }
                 ]
             }
@@ -397,7 +403,7 @@
     },
     {
         "word": "ba'o",
-        "gloss": "Preposition (tense): retrospective",
+        "gloss": "Preposition (tense): retrospective; event already ended",
         "type": "cmavo",
         "freq": "23571",
         "rank": "204",
@@ -507,6 +513,62 @@
                         "context": "{{te}} ~",
                         "exp": "Expressing ...; Introduces an unnumbered sumti that plays the role of {{bangu}}'s x<sub>3</sub> in the sentence.",
                         "note": "Unattested."
+                    }
+                ]
+            }
+        ],
+        "good": true
+    },
+    {
+        "word": "bebna",
+        "gloss": "silly, fool &mdash; folly, a foolish act",
+        "type": "gismu",
+        "freq": "24380",
+        "rank": "198",
+        "tag": "core-1",
+        "rafsi-cvc": "beb",
+        "rafsi-ccv": null,
+        "rafsi-cvv": null,
+        "definition": [
+            {
+                "meaning": [
+                    {
+                        "exp": "x_1 is foolish/silly in event/action/property [folly] (ka) x_2; x_1 is a fool.",
+                        "example": [
+                            {
+                                "lojban": ".i ko co'a xenru {{doi bebna}}",
+                                "english": "Start feeling some remorse, {{idiot.}}",
+                                "source-id": "nafe",
+                                "source": "na fengu",
+                                "author": "Mèremim",
+                                "link": "https://meremim.bandcamp.com/album/na-fengu"
+                            },
+                            {
+                                "lojban": ".i ku'i do mi dunli {{lo ka bebna}}",
+                                "english": "But you have been just as {{foolish}} as I.",
+                                "source-id": "litt",
+                                "source": "The Little Prince",
+                                "author": "Antoine de Saint-Exupéry",
+                                "translator": "la .xorxes.",
+                                "link": "https://mw.lojban.org/papri/le_cmalu_noltru"
+                            },
+                            {
+                                "lojban": ".i .o'u no simsa {{se bebna}} pu fasnu",
+                                "english": "No similar {{follies}} happened. Phew!",
+                                "source-id": "rolj",
+                                "speaker": "la lunbe",
+                                "source": "roljbogu'e chatlog"
+                            },
+                            {
+                                "lojban": ".i le du'u xu kau {{bebna lo ka nerkla}} cu ba se facki ca le nu bevri fi le bartu",
+                                "english": "Was {{[she] that dumb, did [she] go in}} or not, we'll see when they carry them out.",
+                                "source-id": "terr",
+                                "source": "The Terrorist, He's Watching",
+                                "author": "Szymborska Wisława",
+                                "translator": "la uakci",
+                                "link": "https://docs.google.com/spreadsheets/d/1_vkiwqOIOIJPqZTiomzd4ApUSEQXhEY6CeyZD_6c-PA/edit?gid=1567514983#gid=1567514983"
+                            }
+                        ]
                     }
                 ]
             }
@@ -751,7 +813,11 @@
                             {
                                 "lojban": ".i mi ka'e binxo lo makcu prenu noi {{se cinri}} no na'e bo lo namcu",
                                 "english": "I may become like the grown-ups who are {{interested in}} anything nothing other than figures.",
-                                "source-id": "litt"
+                                "source-id": "litt",
+                                "source": "The Little Prince",
+                                "author": "Antoine de Saint-Exupéry",
+                                "translator": "la .xorxes.",
+                                "link": "https://mw.lojban.org/papri/le_cmalu_noltru"
                             }
                         ]
                     }
@@ -1038,7 +1104,7 @@
     },
     {
         "word": "co'a",
-        "gloss": "Preposition (tense): initiative",
+        "gloss": "Preposition (tense): initiative; event starts",
         "type": "cmavo",
         "freq": "36741",
         "rank": "131",
@@ -1091,7 +1157,7 @@
     },
     {
         "word": "co'u",
-        "gloss": "Preposition (tense): cessative",
+        "gloss": "Preposition (tense): cessative; event stops",
         "type": "cmavo",
         "freq": "10260",
         "rank": "404",
@@ -1480,6 +1546,26 @@
                         ]
                     }
                 ]
+            },
+            {
+                "selmaho": "I",
+                "meaning": [
+                    {
+                        "variation": "ajbo",
+                        "exp": "Equivalent to {{.i ji'a}}. Starts a sentence that is a direct continuation of the last sentence. Sentences separated with {{.e}} are considered to refer to the same event/concept, and are only seperated becuase of grammatical reasons.",
+                        "note": "Adopting ajbo prerequires adopting JACU. {{.e nai}} is neither defined or used.",
+                        "example": [
+                            {
+                                "lojban": "ni'o ca le prula'i mi tolcirko lo tutci pe po skami xrazba {{.e}} mi finti le'i tolmulno pixra be lo skapypre .i ai ba di'a gunka tu'a ti",
+                                "english": "(New topic) Last [time] I recovered my digital painting tools {{and}} I made this unfinished drawing of a skinwalker. I intend to keep working on this. &lt;picture&gt;",
+                                "source-id": "rolj",
+                                "speaker": "la srasu",
+                                "note": "This utterance is in a divergent variety that has many differences with the baseline grammar: <ul><li>{{po}} is used as in jboponei, where it converts a bridi directly to a sumti, and corresponds to {{lo su'u}} in baseline.</li><li>{{.e}} is used as in ajbo, where it continues the same concept with another sentence, and corresponds to {{.i ji'a}} in baseline.</li><li>{{le'i}} is used as in gadganzu, where it functions as a demonstrative article (think of it as pointing to the &lt;picture&gt;), and corresponds to {{ti noi ... (ku'o)}} in baseline.</li></ul> This utterance serves as an example of the modularity of Lojban variaties, as said three differences from the baseline are unrelated to each other and can be employed independently.",
+                                "source": "roljbogu'e chatlog"
+                            }
+                        ]
+                    }
+                ]
             }
         ],
         "good": true
@@ -1735,7 +1821,8 @@
                                 "english": "Doesn't the crime {{it ( = the word <b>ie'o</b>) caused}} interest you?",
                                 "source-id": "rolj",
                                 "speaker": "la lunbe",
-                                "note": "{{.i'y}} is a proposed cmavo equivalent to {{.i bu}}."
+                                "note": "{{.i'y}} is a proposed cmavo equivalent to {{.i bu}}.",
+                                "source": "roljbogu'e chatlog"
                             },
                             {
                                 "lojban": "mi nelci lo'e gundi jibri .i ku'i ri {{tatpi gasnu}}",
@@ -1773,7 +1860,11 @@
                             {
                                 "lojban": "ni'o xu lo prenu co vajni cu {{ge'i}} ca ranji lo nu kansa ku {{gi}} ve'u sepli do gi'e pu co'a cliva fi lo drata se litru",
                                 "english": "As for the people important [to you], do they continue to accompany you{{? Or}} are they now distant and separated from you, having departed via their own paths{{?}}",
-                                "source-id": "lett"
+                                "source-id": "lett",
+                                "source": "letter song",
+                                "author": "doriko",
+                                "translator": "tetsusquared (la .tirprij.)",
+                                "link": "https://www.youtube.com/watch?v=5r-JIZNGAMA"
                             }
                         ]
                     }
@@ -2581,13 +2672,21 @@
                         "example": [
                             {
                                 "lojban": ".i {{lo'u}} lan lan la lan la la la la lan lan la lan la la la la lan lan la la lan la la la lan la la la la lan o'o'o'o'o'o'o'o'o'o lun lun lu lu'u'u'u'u'u lu lu lu lu lun lu lu lu lun lu le'u",
-                                "source-id": "alwa"
+                                "source-id": "alwa",
+                                "source": "Always With Me",
+                                "author": "Youmi Kimura",
+                                "translator": "la .guskant.",
+                                "link": "https://vimeo.com/113232481"
                             },
                             {
                                 "lojban": ".i do {{lo'u}} .i lo mi panzi lo mi speni le'u .alcu do {{lo'u}} zo'u mo le'u",
                                 "english": "{{\"}}My kids... my wife,\" you said. {{\"}}What about them?\"",
                                 "source-id": "eggq",
-                                "note": "The entire sentence is grammatical, but becomes ungrammatical when split in half."
+                                "note": "The entire sentence is grammatical, but becomes ungrammatical when split in half.",
+                                "source": "The Egg",
+                                "author": "Andy Weir",
+                                "translator": "la nalvai",
+                                "link": "https://nalvai.neocities.org/translations/the-egg/"
                             }
                         ]
                     }
@@ -3009,6 +3108,76 @@
         "good": true
     },
     {
+        "word": "o",
+        "gloss": "Connective: sumti afterthought iff, if and only if",
+        "type": "cmavo",
+        "freq": "18843",
+        "rank": "241",
+        "tag": "core-2",
+        "rafsi-cvc": null,
+        "rafsi-ccv": null,
+        "rafsi-cvv": null,
+        "definition": [
+            {
+                "selmaho": "A",
+                "meaning": [
+                    {
+                        "exp": "Logical connective: sumti afterthought if and only if. Connects two sumti, such that the containing bridi is true if and only if it is true for both or neither of the connected sumti.",
+                        "note": "Supplanted with {{jo}} in JACU. In practice, {{.o nai}} (which means \"either ... or ...\") is much more common than just {{.o}} by itself.",
+                        "example": [
+                            {
+                                "lojban": ".i lo du'u da de natfe cu se smuni lo du'u da {{.o nai}} de ka'e jetnu",
+                                "english": "\"A contradicts B\" means {{only one of}} A and B can be true.",
+                                "source-id": "alic",
+                                "note": "This sentence is localized from the original text, so it doesn't match literally to the original. The {{da}} and {{de}} are being used as generic pronouns, which is a common usage in texts from the 2000s.",
+                                "source": "Alice in Wonderland",
+                                "author": "Lewis Carroll",
+                                "translator": "la .xorxes.",
+                                "link": "https://mw.lojban.org/papri/lo_selfri_be_la_.alis._bei_bu%27u_la_selmacygu%27e"
+                            }
+                        ]
+                    },
+                    {
+                        "context": "~ {{bu}}",
+                        "exp": "Letteral for o. When used alone, refers to the most recent sumti starting with {{o}}.",
+                        "example": [
+                            {
+                                "lojban": "{{la .oz.}} cu du la banli te makfa — [...] — .i {{.obu}} vlipa zei zmadu lo ro mi'a poi gunma",
+                                "english": "{{Oz}} himself is the Great Wizard, [...] {{He}} (= Oz) is more powerful than all the rest of us together.",
+                                "source-id": "wond",
+                                "note": "The middle part (which is a {{sei}} discursive) is omitted.",
+                                "source": "The Wonderful Wizard of Oz",
+                                "author": "L. Frank Baum",
+                                "translator": "la solpa'i",
+                                "link": "https://selpahi.de/oz_plain.html"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "selmaho": "I",
+                "meaning": [
+                    {
+                        "variation": "ajbo",
+                        "exp": "Equivalent to {{.i ko'oi}}. Starts a sentence that is a command.",
+                        "note": "Adopting ajbo prerequires adopting JACU. A sentence started with {{.o}} often contains a {{ko}}, although it is not necessary. {{.o nai}} is neither defined or used.",
+                        "example": [
+                            {
+                                "lojban": ".iesai {{.o temci dunda}} fi lo do lanzu",
+                                "english": "Yeah, {{spend time}} with your family!",
+                                "source-id": "rolj",
+                                "speaker": "la ziren",
+                                "source": "roljbogu'e chatlog"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "good": true
+    },
+    {
         "word": "pendo",
         "gloss": "friend, to befrind, friendly &mdash; to have friends",
         "type": "gismu",
@@ -3137,7 +3306,10 @@
                             {
                                 "lojban": ".i mu'i ku so'i da {{pilno}} lo laldo ve cilre lo ka cilre fi lo catni lojbo",
                                 "english": "Because of it, many {{used}} old textbooks to learn the official Lojban.",
-                                "source-id": "offi"
+                                "source-id": "offi",
+                                "source": "\"Official Lojban\"",
+                                "author": "la uakci",
+                                "link": "https://docs.google.com/spreadsheets/d/1_vkiwqOIOIJPqZTiomzd4ApUSEQXhEY6CeyZD_6c-PA/edit?gid=1862526252#gid=1862526252"
                             },
                             {
                                 "lojban": ".i ma ca sevzi {{te pilno}} le bangu",
@@ -3176,7 +3348,12 @@
                             {
                                 "lojban": "ni'o pu ku ro prenu cu djuno fi lo makfa burcu {{po}} ko'a",
                                 "english": "Everyone knew about Liang{{'s}} magic brush.",
-                                "source-id": "lian"
+                                "source-id": "lian",
+                                "source": "Liang and the Magic Paintbrush",
+                                "author": "Demi",
+                                "translator": "la darsi",
+                                "editor": "la gleki",
+                                "link": "https://docs.google.com/spreadsheets/d/1_vkiwqOIOIJPqZTiomzd4ApUSEQXhEY6CeyZD_6c-PA/edit?gid=768225989#gid=768225989"
                             }
                         ]
                     }
@@ -3196,6 +3373,56 @@
                                 "source": "koi do mi na",
                                 "author": "Mèremim",
                                 "link": "https://meremim.bandcamp.com/album/koi-do-mi-na"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "good": true
+    },
+    {
+        "word": "ponse",
+        "gloss": "to own, to possess, owner &mdash; to be possessed, possession &mdash; law/custom of possessing",
+        "type": "gismu",
+        "freq": "24400",
+        "rank": "197",
+        "tag": "core-1",
+        "rafsi-cvc": "pos",
+        "rafsi-ccv": null,
+        "rafsi-cvv": "po'e",
+        "definition": [
+            {
+                "meaning": [
+                    {
+                        "exp": "x_1 possesses/owns/has x_2 under law/custom x_3; x_1 is owner/proprietor of x_2 under x_3.",
+                        "example": [
+                            {
+                                "lojban": ".i ro remna cu cinmo {{lo ka ponse lo curve je se mipri selcfu}}",
+                                "english": "All men felt {{themselves the possessors of an intact and secret treasure}}.",
+                                "source-id": "libr",
+                                "source": "The Library of Babel",
+                                "author": "Jorge Luis Borges",
+                                "translator": "la .xorxes.",
+                                "link": "https://mw.lojban.org/papri/la_ckuzda_pe_la_babel"
+                            },
+                            {
+                                "lojban": ".i ro cinmo danlu pe lo botpi cu bredi lo nu dunda {{ro lo se ponse}} te zu'e lo nu selfu lo junla zbasu",
+                                "english": "..., and there was no sentient creature of the bottle who would not have sacrificed {{all that he possessed}} to do the Clockmaker a service.",
+                                "source-id": "cloc",
+                                "source": "The Clockmaker",
+                                "author": "Robert Louis Stevenson",
+                                "translator": "la .xorxes.",
+                                "link": "https://mw.lojban.org/papri/le_junla_zbasu",
+                                "originallink": "https://en.wikisource.org/wiki/The_Clockmaker"
+                            },
+                            {
+                                "lojban": ".i marde cizra mi fa lo nu zo ponse tcita lo dalpe'o .i si'au {{ja'a ponse pe'anai}} fi so'i flalu ciste",
+                                "english": "It's morally strange for me to apply the label \"own\" to pets. It feels like [you] {{literally \"own\"}} [them] according to many legal systems.",
+                                "source-id": "jbob",
+                                "speaker": "la lalxu",
+                                "note": "The only usage I can find for {{ponse}}'s x<sub>3</sub>.",
+                                "source": "jbobratca chatlog"
                             }
                         ]
                     }
@@ -3424,7 +3651,11 @@
                             {
                                 "lojban": ".i ma cmene do {{poi ke'a na slabu mi}}",
                                 "english": "What is your name, {{unfamiliar one}}?",
-                                "source-id": "tori"
+                                "source-id": "tori",
+                                "source": "Torinoko City",
+                                "author": "40mP",
+                                "translator": "tetsusquared (la .tirprij.)",
+                                "link": "https://www.youtube.com/watch?v=Ar4On-u5vUk"
                             }
                         ]
                     }
@@ -3491,6 +3722,45 @@
                                 "source": "\"Official Lojban\"",
                                 "author": "la uakci",
                                 "link": "https://docs.google.com/spreadsheets/d/1_vkiwqOIOIJPqZTiomzd4ApUSEQXhEY6CeyZD_6c-PA/edit?gid=1862526252#gid=1862526252"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "good": true
+    },
+    {
+        "word": "tadni",
+        "gloss": "to study, student &mdash; to be studied, subject of study",
+        "type": "gismu",
+        "freq": "25490",
+        "rank": "193",
+        "tag": "core-1",
+        "rafsi-cvc": "tad",
+        "rafsi-ccv": null,
+        "rafsi-cvv": null,
+        "definition": [
+            {
+                "meaning": [
+                    {
+                        "exp": "x_1 studies/is a student of x_2; x_1 is a scholar; (adjective:) x_1 is scholarly.",
+                        "example": [
+                            {
+                                "lojban": ".i gy. surla tcidu lo karni gi'a {{tadni}} lo trene tcika",
+                                "english": "He just reads the paper or {{studies}} train timetables.",
+                                "source-id": "meta",
+                                "source": "The Metamorphosis",
+                                "author": "Franz Kafka",
+                                "translator": "la .xorxes.",
+                                "link": "https://mw.lojban.org/images/f/fc/lonubinxo.pdf"
+                            },
+                            {
+                                "lojban": ".i lo crecipra cu srana {{ma poi se tadni}}",
+                                "english": "{{What subject}} is the exam about?",
+                                "source-id": "rolj",
+                                "speaker": "la janbe",
+                                "source": "roljbogu'e chatlog"
                             }
                         ]
                     }

@@ -61,6 +61,18 @@
 
 
 -entry:
+    -word sipna
+    -gloss to sleep, asleep
+    -type gismu
+    -definition:
+        -meaning:
+            -exp x_1 is asleep (adjective); x_1 sleeps/is sleeping.
+            -example:
+                -lojban .i mi vlalinkei ca lo nu mi {{sipna}} 
+                -english I play <i>vlalinkei</i> while I{{'m asleep}}.
+                -source-id miju
+
+-entry:
     -word slabu
     -gloss familiar, to be familiar to ... &mdash; to know (an object, a person), to be familiar with
     -type gismu
@@ -75,18 +87,6 @@
                 -lojban .i ma cmene do {{poi ke'a na slabu mi}}
                 -english What is your name, {{unfamiliar one}}?
                 -source-id tori
-
--entry:
-    -word sipna
-    -gloss to sleep, asleep
-    -type gismu
-    -definition:
-        -meaning:
-            -exp x_1 is asleep (adjective); x_1 sleeps/is sleeping.
-            -example:
-                -lojban .i mi vlalinkei ca lo nu mi {{sipna}} 
-                -english I play <i>vlalinkei</i> while I{{'m asleep}}.
-                -source-id miju
 
 -entry:
     -word smuni
