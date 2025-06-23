@@ -1,6 +1,6 @@
 # NALVAI: Nalvai's Assortment of Lojban Vocabulary Attestation Instances
 ## What is this?
-**NALVAI** is a Lojban dictionary that uses quotations from *real-world texts* as examples of usage. It currently contains **83 words** with [**245 quotations** from **70 Lojban texts**](https://github.com/nalvai/nalvai.github.io#sources). Please provide quotations and definitions to help the dictionary grow!
+**NALVAI** is a Lojban dictionary that uses quotations from *real-world texts* as examples of usage. It currently contains **85 words** with [**252 quotations** from **70 Lojban texts**](https://github.com/nalvai/nalvai.github.io#sources). Please provide quotations and definitions to help the dictionary grow!
 
 Here is how a word look like in this dictionary:
 ![The word a in this dictionary](https://raw.githubusercontent.com/nalvai/nalvai.github.io/refs/heads/master/example_a.png)
@@ -92,21 +92,21 @@ A Lojban word has its meaning encompass over different parts of speech in Englis
 - [lojban.io frequency list](https://github.com/jqueiroz/lojban.io/blob/master/resources/language/frequency-lists/MyFreq-COMB_without_dots.txt) for frequency data. Note that I've made adjustments to the frequency list so it suits my purposes more. I have no knowledge of the underlying corpus of the frequency list, and it would be great if someone can provide a more modern corpus/frequency list.
 ### Quote Sources
 Lojban texts with at least one quotation in this dictionary.
-- (54 quotes) roljbogu'e chatlog
-- (17 quotes) [The Little Prince](https://mw.lojban.org/papri/le_cmalu_noltru) by Antoine de Saint-Exupéry, translation by la .xorxes.
+- (55 quotes) roljbogu'e chatlog
+- (20 quotes) [The Little Prince](https://mw.lojban.org/papri/le_cmalu_noltru) by Antoine de Saint-Exupéry, translation by la .xorxes.
 - (14 quotes) [Alice in Wonderland](https://mw.lojban.org/papri/lo_selfri_be_la_.alis._bei_bu%27u_la_selmacygu%27e) by Lewis Carroll, translation by la .xorxes.
-- (13 quotes) [The Wonderful Wizard of Oz](https://selpahi.de/oz_plain.html) by L. Frank Baum, translation by la solpa'i
+- (14 quotes) [The Wonderful Wizard of Oz](https://selpahi.de/oz_plain.html) by L. Frank Baum, translation by la solpa'i
 - (10 quotes) jbobratca chatlog
+- (8 quotes) [la melbi e le ractu](https://lynn.github.io/la-melbi-e-le-ractu/) by la lalxu
 - (8 quotes) [The Metamorphosis](https://mw.lojban.org/images/f/fc/lonubinxo.pdf) by Franz Kafka, translation by la .xorxes.
 - (8 quotes) [la nicte cadzu](https://mw.lojban.org/papri/Robin%27s_Palm_Writings:_la_nicte_cadzu) by Robin Lee Powell
 - (7 quotes) [The Egg](https://nalvai.neocities.org/translations/the-egg/) by Andy Weir, translation by la nalvai
-- (7 quotes) [la melbi e le ractu](https://lynn.github.io/la-melbi-e-le-ractu/) by la lalxu
 - (5 quotes) [clani kerlo](https://docs.google.com/spreadsheets/d/1_vkiwqOIOIJPqZTiomzd4ApUSEQXhEY6CeyZD_6c-PA/edit?gid=1296186733#gid=1296186733) by la fagri
 - (5 quotes) ["Official Lojban"](https://docs.google.com/spreadsheets/d/1_vkiwqOIOIJPqZTiomzd4ApUSEQXhEY6CeyZD_6c-PA/edit?gid=1862526252#gid=1862526252) by la uakci
 - (5 quotes) [Still Alive](https://www.youtube.com/watch?v=hRrIioMA4w8) by Jonathan Coulton, translation by la solpa'i
+- (4 quotes) [Assessment of EGIDS Levels](https://nalvai.neocities.org/translations/egids-scale/) by M. Paul Lewis and Gary F. Simons, translation by la nalvai ([Original](https://www.lingv.ro/RRL%202%202010%20art01Lewis.pdf))
 - (4 quotes) [The Library of Babel](https://mw.lojban.org/papri/la_ckuzda_pe_la_babel) by Jorge Luis Borges, translation by la .xorxes.
 - (4 quotes) [prami simbi'o](https://www.youtube.com/watch?v=g3BQ-pE7ypY) by Djemynai
-- (3 quotes) [Assessment of EGIDS Levels](https://nalvai.neocities.org/translations/egids-scale/) by M. Paul Lewis and Gary F. Simons, translation by la nalvai ([Original](https://www.lingv.ro/RRL%202%202010%20art01Lewis.pdf))
 - (3 quotes) [The Clockmaker](https://mw.lojban.org/papri/le_junla_zbasu) by Robert Louis Stevenson, translation by la .xorxes. ([Original](https://en.wikisource.org/wiki/The_Clockmaker))
 - (3 quotes) [Liang and the Magic Paintbrush](https://docs.google.com/spreadsheets/d/1_vkiwqOIOIJPqZTiomzd4ApUSEQXhEY6CeyZD_6c-PA/edit?gid=768225989#gid=768225989) by Demi, translation by la darsi
 - (3 quotes) [la mu'e cuxna lo bradi](https://mw.lojban.org/papri/la_mu%27e_cuxna_lo_bradi) by la blutolpinxe
@@ -165,7 +165,7 @@ Lojban texts with at least one quotation in this dictionary.
 
 The quotes from chatlogs are from the following speakers: (in no particular order)
 
-la evis, \_4Denthusiast, la janbe, la katador, la nalvai, la lunbe, la gleki, misotanni, Magnap, dram, la .zi., la nonselcme, qimar, varik, Stephen Dedalus, la srasu, la kanis, la melmi, la solpa'i, la bakre'u, la lalxu, la samflir, niftg, la ziren, la fagri, bancip, nitfg, la xrula, la ilmen, Lucilla, yeet kitty, .kúblizel., latkerlo, la varik,
+yeet kitty, la bakre'u, \_4Denthusiast, Magnap, Stephen Dedalus, Lucilla, la nalvai, la kanis, .kúblizel., latkerlo, la janbe, la varik, misotanni, la .zi., la melmi, niftg, varik, la nonselcme, la solpa'i, la samflir, la srasu, la katador, la lalxu, la gleki, la ilmen, bancip, la lunbe, dram, qimar, la fagri, la ziren, la evis, nitfg, la xrula,
 
 Huge thanks to the following individuals who contributed to this project:
 

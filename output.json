@@ -3329,6 +3329,54 @@
         "good": true
     },
     {
+        "word": "pluka",
+        "gloss": "to please, pleasing &mdash; to enjoy, enjoyer",
+        "type": "gismu",
+        "freq": "24380",
+        "rank": "198",
+        "tag": "core-1",
+        "rafsi-cvc": "puk",
+        "rafsi-ccv": null,
+        "rafsi-cvv": "pu'a",
+        "definition": [
+            {
+                "meaning": [
+                    {
+                        "exp": "x_1 (event/state) seems pleasant to/pleases x_2 under conditions x_3.",
+                        "example": [
+                            {
+                                "lojban": ".i lo vi gugde cu ricfu gi'e {{pluka}}",
+                                "english": "The country here is rich and {{pleasant}}.",
+                                "source-id": "wond",
+                                "source": "The Wonderful Wizard of Oz",
+                                "author": "L. Frank Baum",
+                                "translator": "la solpa'i",
+                                "link": "https://selpahi.de/oz_plain.html"
+                            },
+                            {
+                                "lojban": ".i va'o lo nu do prami lo xrula poi zvati lo tarci cu {{pluka}} fa lo nu catlu lo tsani ca lo nicte",
+                                "english": "If you love a flower that lives on a star, {{it is pleasing to}} look at the sky at night.",
+                                "source-id": "litt",
+                                "source": "The Little Prince",
+                                "author": "Antoine de Saint-Exupéry",
+                                "translator": "la .xorxes.",
+                                "link": "https://mw.lojban.org/papri/le_cmalu_noltru"
+                            },
+                            {
+                                "lojban": ".i mi mutce {{se pluka}} lo ka zgike finti",
+                                "english": "I really {{enjoy}} composing music.",
+                                "source-id": "rolj",
+                                "speaker": "la janbe",
+                                "source": "roljbogu'e chatlog"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "good": true
+    },
+    {
         "word": "po",
         "gloss": "Relative phrase marker: is specific to ...",
         "type": "cmavo",
@@ -3455,6 +3503,65 @@
                                 "author": "Andy Weir",
                                 "translator": "la nalvai",
                                 "link": "https://nalvai.neocities.org/translations/the-egg/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "good": true
+    },
+    {
+        "word": "preti",
+        "gloss": "question, (of a question) to be about &mdash; subject of question, to be ask about with (a question) &mdash; to ask a question about ... &mdash; to be asked a question about ...",
+        "type": "gismu",
+        "freq": "30410",
+        "rank": "168",
+        "tag": "core-1",
+        "rafsi-cvc": "ret",
+        "rafsi-ccv": null,
+        "rafsi-cvv": "rei",
+        "definition": [
+            {
+                "meaning": [
+                    {
+                        "exp": "x_1 (quoted text) is a question/query about subject x_2 by questioner x_3 to audience x_4.",
+                        "example": [
+                            {
+                                "lojban": ".i lu lo se citka ku mo li'u {{preti fi}} la melbi la melbi",
+                                "english": "\"What happened to the stuff I was going to eat?\" Melbi {{asked}} themself.",
+                                "source-id": "melb",
+                                "source": "la melbi e le ractu",
+                                "author": "la lalxu",
+                                "link": "https://lynn.github.io/la-melbi-e-le-ractu/"
+                            },
+                            {
+                                "lojban": "ni'o lo ca tcini be lo bangu cu ka'e jai se pajni ta'i lo nu dafyfa'i {{so'o ralju preti be lo by cecmu nunpli}}",
+                                "english": "The current status of a language can be assessed by answering {{a few key questions about community language use}}.",
+                                "source-id": "asse",
+                                "source": "Assessment of EGIDS Levels",
+                                "author": "M. Paul Lewis and Gary F. Simons",
+                                "translator": "la nalvai",
+                                "link": "https://nalvai.neocities.org/translations/egids-scale/",
+                                "originallink": "https://www.lingv.ro/RRL%202%202010%20art01Lewis.pdf"
+                            },
+                            {
+                                "lojban": ".i py. ca lo nu do py. tavla lo cnino pendo cu no roi {{te preti lo vajrai}}",
+                                "english": "When you tell them about [your] new friend, they never {{ask [you] any questions about essential matters}}.",
+                                "source-id": "litt",
+                                "source": "The Little Prince",
+                                "author": "Antoine de Saint-Exupéry",
+                                "translator": "la .xorxes.",
+                                "link": "https://mw.lojban.org/papri/le_cmalu_noltru"
+                            },
+                            {
+                                "lojban": ".i lo tedyskepre cu {{te preti}} fo lo tumfakli'u gi'e rejgau fi lo ri se morji",
+                                "english": "The geographer {{asks}} the explorers {{questions}}, and he notes down what they recall.",
+                                "source-id": "litt",
+                                "source": "The Little Prince",
+                                "author": "Antoine de Saint-Exupéry",
+                                "translator": "la .xorxes.",
+                                "link": "https://mw.lojban.org/papri/le_cmalu_noltru"
                             }
                         ]
                     }
