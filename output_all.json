@@ -30545,7 +30545,7 @@
     },
     {
         "word": "prami",
-        "gloss": "love",
+        "gloss": "to love, lover &mdash; to be loved, beloved",
         "type": "gismu",
         "freq": "23350",
         "rank": "205",
@@ -30557,11 +30557,31 @@
             {
                 "meaning": [
                     {
-                        "exp": "$x_{1}$ loves/feels strong affectionate devotion towards $x_{2}$ (object/state)."
+                        "exp": "x_1 loves/feels strong affectionate devotion towards x_2 (object/state).",
+                        "example": [
+                            {
+                                "lojban": ".i mi do {{prami}} doi {{lo se prami be mi}} tai lo nu lo xrula cu {{prami}} lo gusni",
+                                "english": "I {{love}} you, {{my beloved}}, like the flower {{loves}} the light of day",
+                                "source-id": "amap",
+                                "source": "Amapola",
+                                "author": "José María Lacalle García",
+                                "translator": "la .guskant.",
+                                "link": "https://vimeo.com/233808507"
+                            },
+                            {
+                                "lojban": ".i .ia {{lo ka prami lo jbobau}} cu kampu lo jbopre",
+                                "english": "I believe {{loving Lojban}} is common to all Lojbanists.",
+                                "source-id": "lojb",
+                                "source": "lo jbobau cu mo",
+                                "author": "la solpa'i",
+                                "link": "https://www.youtube.com/watch?v=N-Y9eBBTrxU"
+                            }
+                        ]
                     }
                 ]
             }
-        ]
+        ],
+        "good": true
     },
     {
         "word": "prane",
@@ -38484,7 +38504,7 @@
     },
     {
         "word": "tatpi",
-        "gloss": "tired",
+        "gloss": "tired &mdash; (of an event, action) to tire, tiring, tiresome",
         "type": "gismu",
         "freq": "23300",
         "rank": "206",
@@ -38496,11 +38516,39 @@
             {
                 "meaning": [
                     {
-                        "exp": "$x_{1}$ is tired/fatigued by effort/situation $x_{2}$ (event); $x_{1}$ needs/wants rest."
+                        "exp": "x_1 is tired/fatigued by effort/situation x_2 (event); x_1 needs/wants rest.",
+                        "example": [
+                            {
+                                "lojban": ".i je {{tatpi}} fa lo verba lo nu ro roi ciksi",
+                                "english": "..., and {{it is tiresome}} for children to be always [and forever] explaining things [to them].",
+                                "source-id": "litt",
+                                "source": "The Little Prince",
+                                "author": "Antoine de Saint-Exupéry",
+                                "translator": "la .xorxes.",
+                                "link": "https://mw.lojban.org/papri/le_cmalu_noltru"
+                            },
+                            {
+                                "lojban": ".i mi mutce lo ka {{tatpi lo nu ru'u limna}} doi smacu",
+                                "english": "I am very {{tired of swimming about here}}, O Mouse!",
+                                "source-id": "alic",
+                                "source": "Alice in Wonderland",
+                                "author": "Lewis Carroll",
+                                "translator": "la .xorxes.",
+                                "link": "https://mw.lojban.org/papri/lo_selfri_be_la_.alis._bei_bu%27u_la_selmacygu%27e"
+                            },
+                            {
+                                "lojban": ".i lo nu kurji cu ja'a {{se tatpi}} .uu",
+                                "english": "Taking care of someone is indeed {{tiring}}.",
+                                "source-id": "rolj",
+                                "speaker": "nitfg",
+                                "source": "roljbogu'e chatlog"
+                            }
+                        ]
                     }
                 ]
             }
-        ]
+        ],
+        "good": true
     },
     {
         "word": "tatru",

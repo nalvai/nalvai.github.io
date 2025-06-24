@@ -105,6 +105,22 @@
                 -speaker la janbe
 
 -entry:
+    -word prami
+    -gloss to love, lover &mdash; to be loved, beloved
+    -type gismu
+    -definition:
+        -meaning:
+            -exp x_1 loves/feels strong affectionate devotion towards x_2 (object/state).
+            -example:
+                -lojban .i mi do {{prami}} doi {{lo se prami be mi}} tai lo nu lo xrula cu {{prami}} lo gusni
+                -english I {{love}} you, {{my beloved}}, like the flower {{loves}} the light of day
+                -source-id amap
+            -example:
+                -lojban .i .ia {{lo ka prami lo jbobau}} cu kampu lo jbopre
+                -english I believe {{loving Lojban}} is common to all Lojbanists.
+                -source-id lojb
+
+-entry:
     -word prenu
     -gloss people, person
     -type gismu

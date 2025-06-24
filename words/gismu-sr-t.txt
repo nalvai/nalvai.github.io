@@ -19,6 +19,28 @@
                 -speaker la janbe
 
 -entry:
+    -word tatpi
+    -gloss tired &mdash; (of an event, action) to tire, tiring, tiresome  
+    -type gismu
+    -definition:
+        -meaning:
+            -exp x_1 is tired/fatigued by effort/situation x_2 (event); x_1 needs/wants rest.
+            -example:
+                -lojban .i je {{tatpi}} fa lo verba lo nu ro roi ciksi 
+                -english ..., and {{it is tiresome}} for children to be always [and forever] explaining things [to them].
+                -source-id litt
+            -example:
+                -lojban .i mi mutce lo ka {{tatpi lo nu ru'u limna}} doi smacu
+                -english I am very {{tired of swimming about here}}, O Mouse!
+                -source-id alic
+            -example:
+                -lojban .i lo nu kurji cu ja'a {{se tatpi}} .uu
+                -english Taking care of someone is indeed {{tiring}}.
+                -source-id rolj
+                -speaker nitfg
+
+
+-entry:
     -word tavla
     -gloss to tell, to talk to &mdash; to be talked to &mdash; subject of talk &mdash; language used  
     -type gismu
