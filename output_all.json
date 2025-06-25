@@ -25402,7 +25402,7 @@
     },
     {
         "word": "morji",
-        "gloss": "remember",
+        "gloss": "to remember &mdash; memory, (of a fact) to be remembered &mdash; subject of memory, (of a object, person) to be remembered",
         "type": "gismu",
         "freq": "22720",
         "rank": "212",
@@ -25414,11 +25414,51 @@
             {
                 "meaning": [
                     {
-                        "exp": "$x_{1}$ remembers/recalls/recollects fact(s)/memory $x_{2}$ (du'u) about subject $x_{3}$."
+                        "exp": "x_1 remembers/recalls/recollects fact(s)/memory x_2 (du'u) about subject x_3.",
+                        "note": "Place structure parallels that of {{jimpe}}.",
+                        "example": [
+                            {
+                                "lojban": ".i mi pu tcidu di'u lo cukta .i ku'i mi {{na morji lo du'u cy. mo kau}}",
+                                "english": "I've read that in some book, but I {{don't remember where}}.",
+                                "source-id": "alic",
+                                "source": "Alice in Wonderland",
+                                "author": "Lewis Carroll",
+                                "translator": "la .xorxes.",
+                                "link": "https://mw.lojban.org/papri/lo_selfri_be_la_.alis._bei_bu%27u_la_selmacygu%27e"
+                            },
+                            {
+                                "lojban": ".i ku'i lo prenu cu {{prami morji fi la .oz.}} gi'e simxu lo ka cusku",
+                                "english": "But the people {{remembered him (= Oz) lovingly}}, and said to one another.",
+                                "source-id": "wond",
+                                "source": "The Wonderful Wizard of Oz",
+                                "author": "L. Frank Baum",
+                                "translator": "la solpa'i",
+                                "link": "https://selpahi.de/oz_plain.html"
+                            },
+                            {
+                                "lojban": "{{le se morji be mi}} cu mutce le ka kalsa",
+                                "english": "{{My memories}} are very confused.",
+                                "source-id": "book",
+                                "source": "The Book",
+                                "author": "H. P. Lovecraft",
+                                "translator": "la gleki",
+                                "link": "https://lojban.pw/en/texts/the-book/"
+                            },
+                            {
+                                "lojban": ".i mi troci lo ka skicu py. vau te zu'e lo ka na {{to'e morji fi py.}}",
+                                "english": "I try to describe him to make sure that I shall not {{forget him}}.",
+                                "source-id": "litt",
+                                "source": "The Little Prince",
+                                "author": "Antoine de Saint-Exupéry",
+                                "translator": "la .xorxes.",
+                                "link": "https://mw.lojban.org/papri/le_cmalu_noltru"
+                            }
+                        ]
                     }
                 ]
             }
-        ]
+        ],
+        "good": true
     },
     {
         "word": "morko",
@@ -25986,7 +26026,7 @@
                         "note": "Has an additional sumti slot for direction of extremeness (x<sub>3</sub>) compared to its antonym {{milxe}}.",
                         "example": [
                             {
-                                "lojban": "ni'o le se morji be mi cu {{mutce}} le ka kalsa",
+                                "lojban": "le se morji be mi cu {{mutce}} le ka kalsa",
                                 "english": "My memories are {{very}} confused.",
                                 "source-id": "book",
                                 "source": "The Book",
@@ -38814,7 +38854,7 @@
     },
     {
         "word": "tcidu",
-        "gloss": "read",
+        "gloss": "to read, reader &mdash; (of a text) to be read &mdash; (of a medium) to be read, reading material",
         "type": "gismu",
         "freq": "38640",
         "rank": "124",
@@ -38826,11 +38866,33 @@
             {
                 "meaning": [
                     {
-                        "exp": "$x_{1}$ [agent] reads $x_{2}$ [text] from surface/document/reading material $x_{3}$; $x_{1}$ is a reader."
+                        "exp": "x_1 [agent] reads x_2 [text] from surface/document/reading material x_3; x_1 is a reader.",
+                        "note": "Place structure parallels that of {{ciska}}, but without the x<sub>4</sub> place.",
+                        "example": [
+                            {
+                                "lojban": ".i mi pu {{tcidu}} di'u lo cukta .i ku'i mi na morji lo du'u cy. mo kau",
+                                "english": "I've {{read}} that in some book, but I don't remember where.",
+                                "source-id": "alic",
+                                "source": "Alice in Wonderland",
+                                "author": "Lewis Carroll",
+                                "translator": "la .xorxes.",
+                                "link": "https://mw.lojban.org/papri/lo_selfri_be_la_.alis._bei_bu%27u_la_selmacygu%27e"
+                            },
+                            {
+                                "lojban": ".i le se ciska {{co'u kakne se tcidu}}",
+                                "english": "The [words I'd] written {{became unreadable}}.",
+                                "source-id": "rout",
+                                "source": "Route Sphere",
+                                "author": "Last Note.",
+                                "translator": "tetsusquared (la .tirprij.)",
+                                "link": "https://www.youtube.com/watch?v=4aDrH3wEUtQ"
+                            }
+                        ]
                     }
                 ]
             }
-        ]
+        ],
+        "good": true
     },
     {
         "word": "tcika",

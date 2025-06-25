@@ -57,6 +57,22 @@
                 -source-id nict
                 -noshownote The original has {{je}} instead of {{gi'e}}
 
+-entry:
+    -word tcidu
+    -gloss to read, reader &mdash; (of a text) to be read &mdash; (of a medium) to be read, reading material  
+    -type gismu
+    -definition:
+        -meaning:
+            -exp x_1 [agent] reads x_2 [text] from surface/document/reading material x_3; x_1 is a reader.
+            -note Place structure parallels that of {{ciska}}, but without the x<sub>4</sub> place.
+            -example:
+                -lojban .i mi pu {{tcidu}} di'u lo cukta .i ku'i mi na morji lo du'u cy. mo kau
+                -english I've {{read}} that in some book, but I don't remember where.
+                -source-id alic
+            -example:
+                -lojban .i le se ciska {{co'u kakne se tcidu}}
+                -english The [words I'd] written {{became unreadable}}.
+                -source-id rout
 
 
 -entry:

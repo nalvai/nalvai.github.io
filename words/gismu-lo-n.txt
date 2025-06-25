@@ -65,6 +65,33 @@
                 -source-id wond
                 -noshownote Would {lo cifnu mlatu} be better?
 
+
+-entry:
+    -word morji
+    -gloss to remember &mdash; memory, (of a fact) to be remembered &mdash; subject of memory, (of a object, person) to be remembered
+    -type gismu
+    -definition:
+        -meaning:
+            -exp x_1 remembers/recalls/recollects fact(s)/memory x_2 (du'u) about subject x_3.
+            -note Place structure parallels that of {{jimpe}}.
+            -example:
+                -lojban .i mi pu tcidu di'u lo cukta .i ku'i mi {{na morji lo du'u cy. mo kau}}
+                -english I've read that in some book, but I {{don't remember where}}.
+                -source-id alic
+            -example:
+                -lojban .i ku'i lo prenu cu {{prami morji fi la .oz.}} gi'e simxu lo ka cusku
+                -english But the people {{remembered him (= Oz) lovingly}}, and said to one another.
+                -source-id wond
+            -example:
+                -lojban {{le se morji be mi}} cu mutce le ka kalsa 
+                -english {{My memories}} are very confused.
+                -source-id book
+            -example:
+                -lojban .i mi troci lo ka skicu py. vau te zu'e lo ka na {{to'e morji fi py.}}
+                -english I try to describe him to make sure that I shall not {{forget him}}.
+                -source-id litt
+
+
 -entry:
     -word mutce
     -gloss extreme, much, very &mdash; an extreme property
@@ -74,7 +101,7 @@
             -exp x_1 is much/extreme in property x_2 (ka), towards x_3 extreme/direction; x_1 is, in x_2, very x_3.
             -note Has an additional sumti slot for direction of extremeness (x<sub>3</sub>) compared to its antonym {{milxe}}.
             -example:
-                -lojban ni'o le se morji be mi cu {{mutce}} le ka kalsa 
+                -lojban le se morji be mi cu {{mutce}} le ka kalsa 
                 -english My memories are {{very}} confused. 
                 -source-id book
             -example:

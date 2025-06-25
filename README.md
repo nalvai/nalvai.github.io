@@ -1,6 +1,6 @@
 # NALVAI: Nalvai's Assortment of Lojban Vocabulary Attestation Instances
 ## What is this?
-**NALVAI** is a Lojban dictionary that uses quotations from *real-world texts* as examples of usage. It currently contains **87 words** with [**257 quotations** from **70 Lojban texts**](https://github.com/nalvai/nalvai.github.io#sources). Please provide quotations and definitions to help the dictionary grow!
+**NALVAI** is a Lojban dictionary that uses quotations from *real-world texts* as examples of usage. It currently contains **89 words** with [**261 quotations** from **70 Lojban texts**](https://github.com/nalvai/nalvai.github.io#sources). Please provide quotations and definitions to help the dictionary grow!
 
 Here is how a word look like in this dictionary:
 ![The word a in this dictionary](https://raw.githubusercontent.com/nalvai/nalvai.github.io/refs/heads/master/example_a.png)
@@ -93,9 +93,9 @@ A Lojban word has its meaning encompass over different parts of speech in Englis
 ### Quote Sources
 Lojban texts with at least one quotation in this dictionary.
 - (56 quotes) roljbogu'e chatlog
-- (21 quotes) [The Little Prince](https://mw.lojban.org/papri/le_cmalu_noltru) by Antoine de Saint-Exupéry, translation by la .xorxes.
-- (15 quotes) [Alice in Wonderland](https://mw.lojban.org/papri/lo_selfri_be_la_.alis._bei_bu%27u_la_selmacygu%27e) by Lewis Carroll, translation by la .xorxes.
-- (14 quotes) [The Wonderful Wizard of Oz](https://selpahi.de/oz_plain.html) by L. Frank Baum, translation by la solpa'i
+- (22 quotes) [The Little Prince](https://mw.lojban.org/papri/le_cmalu_noltru) by Antoine de Saint-Exupéry, translation by la .xorxes.
+- (16 quotes) [Alice in Wonderland](https://mw.lojban.org/papri/lo_selfri_be_la_.alis._bei_bu%27u_la_selmacygu%27e) by Lewis Carroll, translation by la .xorxes.
+- (15 quotes) [The Wonderful Wizard of Oz](https://selpahi.de/oz_plain.html) by L. Frank Baum, translation by la solpa'i
 - (10 quotes) jbobratca chatlog
 - (8 quotes) [la melbi e le ractu](https://lynn.github.io/la-melbi-e-le-ractu/) by la lalxu
 - (8 quotes) [The Metamorphosis](https://mw.lojban.org/images/f/fc/lonubinxo.pdf) by Franz Kafka, translation by la .xorxes.
@@ -127,6 +127,7 @@ Lojban texts with at least one quotation in this dictionary.
 - (2 quotes) [lo nabmi](https://www.youtube.com/watch?v=gv0QIbGc8i8) by Noise and Bells (la janbe)
 - (2 quotes) [na fengu](https://meremim.bandcamp.com/album/na-fengu) by Mèremim
 - (2 quotes) [The Restaurant of Many Orders](https://docs.google.com/document/d/10Rnm80SieLrpFnk9kn_9bCuon96CNSPTA8hqVaWQYbQ/edit?tab=t.0) by Kenji Miyazawa, translation by la .tijlan.
+- (2 quotes) [Route Sphere](https://www.youtube.com/watch?v=4aDrH3wEUtQ) by Last Note., translation by tetsusquared (la .tirprij.)
 - (2 quotes) [Snow White](https://selpahi.de/snimeblabi.html) by Brothers Grimm, translation by la solpa'i
 - (2 quotes) [sruri fa lo tarci](https://www.youtube.com/watch?v=xZlTA4hbY2o) by Noise and Bells (la janbe)
 - (2 quotes) [tensaia](https://djemynai.bandcamp.com/album/tensaia) by Djemynai
@@ -155,7 +156,6 @@ Lojban texts with at least one quotation in this dictionary.
 - (1 quote) [ODDS&ENDS](https://www.youtube.com/watch?v=L65SWX6vbkw) by ryo, translation by tetsusquared (la .tirprij.)
 - (1 quote) [The Princess and the Pea](https://selpahi.de/dembi.html) by Hans Christian Andersen, translation by la solpa'i
 - (1 quote) [Re-Education](https://www.youtube.com/watch?v=XD6HKp77PbY) by Neru, translation by tetsusquared (la .tirprij.)
-- (1 quote) [Route Sphere](https://www.youtube.com/watch?v=4aDrH3wEUtQ) by Last Note., translation by tetsusquared (la .tirprij.)
 - (1 quote) [The Scientific Ape](https://mw.lojban.org/papri/le_saske_smani) by Robert Louis Stevenson, translation by la .xorxes. ([Original](https://en.wikisource.org/wiki/The_Scientific_Ape))
 - (1 quote) [la skaborfe'a](https://fotono.tumblr.com/post/143537131514/coi-lo-se-jbobau-joau-zantufa-xi-papipare-i-la) by la .guskant.
 - (1 quote) [The Terrorist, He's Watching](https://docs.google.com/spreadsheets/d/1_vkiwqOIOIJPqZTiomzd4ApUSEQXhEY6CeyZD_6c-PA/edit?gid=1567514983#gid=1567514983) by Szymborska Wisława, translation by la uakci
@@ -165,7 +165,7 @@ Lojban texts with at least one quotation in this dictionary.
 
 The quotes from chatlogs are from the following speakers: (in no particular order)
 
-latkerlo, nitfg, la kanis, la nalvai, .kúblizel., dram, la lalxu, Magnap, yeet kitty, \_4Denthusiast, Lucilla, la ilmen, varik, la katador, la lunbe, Stephen Dedalus, bancip, la nonselcme, la .zi., la fagri, la gleki, la srasu, la varik, misotanni, la samflir, niftg, la xrula, la bakre'u, la melmi, la solpa'i, la ziren, qimar, la janbe, la evis,
+la .zi., bancip, la varik, la xrula, la janbe, \_4Denthusiast, la nonselcme, Lucilla, la evis, qimar, la samflir, latkerlo, nitfg, la gleki, Stephen Dedalus, la nalvai, la kanis, la ilmen, la lunbe, niftg, dram, varik, la katador, Magnap, la fagri, la solpa'i, yeet kitty, misotanni, la bakre'u, la melmi, la ziren, .kúblizel., la srasu, la lalxu,
 
 Huge thanks to the following individuals who contributed to this project:
 
