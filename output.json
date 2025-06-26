@@ -720,6 +720,55 @@
         "good": true
     },
     {
+        "word": "certu",
+        "gloss": "expert, competent in ..., skilled at ... &mdash; expertise, profession, skill &mdash; standard of skill",
+        "type": "gismu",
+        "freq": "21450",
+        "rank": "217",
+        "tag": "core-1",
+        "rafsi-cvc": null,
+        "rafsi-ccv": "cre",
+        "rafsi-cvv": null,
+        "definition": [
+            {
+                "meaning": [
+                    {
+                        "exp": "x_1 is an expert/pro/has prowess in/is skilled at x_2 (event/activity) by standard x_3.",
+                        "example": [
+                            {
+                                "lojban": ".i li'a mi na {{certu}} lo ka sanga",
+                                "english": "Obviously I'm not {{good at}} singing.",
+                                "source-id": "pram",
+                                "source": "prami simbi'o",
+                                "author": "Djemynai",
+                                "link": "https://www.youtube.com/watch?v=g3BQ-pE7ypY"
+                            },
+                            {
+                                "lojban": ".i my se cau nai lo nu jerna cu ba'o binxo lo simlu {{be lo ka certu be ro cuntu poi srana la .gregor. bei lo rirni}}",
+                                "english": "She had become used to the idea, not without reason, {{that she is an expert to his parents about the things that concerned Gregor}}.",
+                                "source-id": "meta",
+                                "note": "The only usage I can find for {{certu}}'s x<sub>3</sub>.",
+                                "source": "The Metamorphosis",
+                                "author": "Franz Kafka",
+                                "translator": "la .xorxes.",
+                                "link": "https://mw.lojban.org/images/f/fc/lonubinxo.pdf"
+                            },
+                            {
+                                "lojban": ".oi sai la'a lo nu frili ke cikna binxo cu vajni ke renvi {{se certu}} lo blupinxe",
+                                "english": "Oww! Waking up easily is probably an important survival {{skill}} of a vampire.",
+                                "source-id": "nict",
+                                "source": "la nicte cadzu",
+                                "author": "Robin Lee Powell",
+                                "link": "https://mw.lojban.org/papri/Robin%27s_Palm_Writings:_la_nicte_cadzu"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "good": true
+    },
+    {
         "word": "cilre",
         "gloss": "to learn, learner &mdash; to be learned, facts learned &mdash; subject of learning &mdash; source of learning &mdash; learning method",
         "type": "gismu",
@@ -4404,8 +4453,47 @@
         "good": true
     },
     {
+        "word": "xabju",
+        "gloss": "to live in, to inhabit, resident &mdash; residence, place of living",
+        "type": "gismu",
+        "freq": "21420",
+        "rank": "219",
+        "tag": "core-1",
+        "rafsi-cvc": null,
+        "rafsi-ccv": null,
+        "rafsi-cvv": "xa'u",
+        "definition": [
+            {
+                "meaning": [
+                    {
+                        "exp": "x_1 dwells/lives/resides/abides at/inhabits/is a resident of location/habitat/nest/home/abode x_2.",
+                        "example": [
+                            {
+                                "lojban": ".i ly. {{xabju}} le cecmu gi'e me le pa no ctuca",
+                                "english": "She {{lived in}} the community and was one of the ten teachers.",
+                                "source-id": "clan",
+                                "source": "clani kerlo",
+                                "author": "la fagri",
+                                "link": "https://docs.google.com/spreadsheets/d/1_vkiwqOIOIJPqZTiomzd4ApUSEQXhEY6CeyZD_6c-PA/edit?gid=1296186733#gid=1296186733"
+                            },
+                            {
+                                "lojban": ".i su'o lo renvi remna poi se bloti cu farcri klamu'o {{lo cnino se xabju be ry.}}",
+                                "english": "A few surviving humans on boats would find their way to {{their new home.}}",
+                                "source-id": "layo",
+                                "source": "The Lay of the Land",
+                                "author": "Worldbuilding Notes",
+                                "link": "https://www.youtube.com/watch?v=ViGGR231zvQ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "good": true
+    },
+    {
         "word": "xamgu",
-        "gloss": "beneficial, good &mdash; to benefit",
+        "gloss": "beneficial, good &mdash; to benefit &mdash; standard of goodness",
         "type": "gismu",
         "freq": "61230",
         "rank": "90",

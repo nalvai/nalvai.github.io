@@ -35,10 +35,25 @@
                 -lojban .i le prije cu tcila ciksi {{lo se viska be bu'u lo skeku'a}}
                 -english The doctor explained at great length {{what [he] had seen in the laboratory}}.
                 -source-id scie
+-entry:
+    -word xabju
+    -gloss to live in, to inhabit, resident &mdash; residence, place of living
+    -type gismu
+    -definition:
+        -meaning:
+            -exp x_1 dwells/lives/resides/abides at/inhabits/is a resident of location/habitat/nest/home/abode x_2.
+            -example:
+                -lojban .i ly. {{xabju}} le cecmu gi'e me le pa no ctuca
+                -english She {{lived in}} the community and was one of the ten teachers. 
+                -source-id clan
+            -example:
+                -lojban .i su'o lo renvi remna poi se bloti cu farcri klamu'o {{lo cnino se xabju be ry.}}
+                -english A few surviving humans on boats would find their way to {{their new home.}}
+                -source-id layo
 
 -entry:
     -word xamgu
-    -gloss beneficial, good &mdash; to benefit  
+    -gloss beneficial, good &mdash; to benefit &mdash; standard of goodness  
     -type gismu
     -definition:
         -meaning:

@@ -57,3 +57,24 @@
                 -lojban .i le du'u xu kau {{bebna lo ka nerkla}} cu ba se facki ca le nu bevri fi le bartu
                 -english Was {{[she] that dumb, did [she] go in}} or not, we'll see when they carry them out.
                 -source-id terr
+
+-entry:
+    -word certu
+    -gloss expert, competent in ..., skilled at ... &mdash; expertise, profession, skill &mdash; standard of skill
+    -type gismu
+    -definition:
+        -meaning:
+            -exp x_1 is an expert/pro/has prowess in/is skilled at x_2 (event/activity) by standard x_3.
+            -example:
+                -lojban .i li'a mi na {{certu}} lo ka sanga
+                -english Obviously I'm not {{good at}} singing.
+                -source-id pram
+            -example:
+                -lojban .i my se cau nai lo nu jerna cu ba'o binxo lo simlu {{be lo ka certu be ro cuntu poi srana la .gregor. bei lo rirni}}
+                -english She had become used to the idea, not without reason, {{that she is an expert to his parents about the things that concerned Gregor}}. 
+                -source-id meta
+                -note The only usage I can find for {{certu}}'s x<sub>3</sub>.
+            -example:
+                -lojban .oi sai la'a lo nu frili ke cikna binxo cu vajni ke renvi {{se certu}} lo blupinxe
+                -english Oww! Waking up easily is probably an important survival {{skill}} of a vampire. 
+                -source-id nict
