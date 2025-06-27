@@ -1451,7 +1451,7 @@
     },
     {
         "word": "be",
-        "gloss": "link sumti",
+        "gloss": "Incorporates sumti into selbri",
         "type": "cmavo",
         "freq": "239901",
         "rank": "21",
@@ -1464,11 +1464,44 @@
                 "selmaho": "BE",
                 "meaning": [
                     {
-                        "exp": "sumti link to attach sumti (default $x_{2}$) to a selbri; used in descriptions."
+                        "exp": "Incorporates a sumti into a selbri ({{SELBRI be SUMTI}}). The sumti can be tagged with a FA ({{SELBRI be FA SUMTI}}) or a sumtcita ({{SELBRI be SUMTCITA SUMTI}}) to specify the place it takes in the selbri. If not specified, the sumti takes the x<sub>2</sub> place of the selbri.",
+                        "note": "Part of the Linkarg construction ({{be TERM (bei TERM)* (be'o)}}), which is attached immediately after a selbri or a tanru-unit. The place structure of a selbri with incorparted sumti isn't defined.",
+                        "example": [
+                            {
+                                "lojban": "{{claxu be do}} crisa",
+                                "english": "Summer {{without you}}",
+                                "source-id": "clax",
+                                "note": "An example of selbri with incorparted sumti used as a tanru-unit.",
+                                "source": "claxu be do crisa",
+                                "author": "la .cogas.",
+                                "link": "https://soundcloud.com/cogas-iuk/sunday-10-38-pm"
+                            },
+                            {
+                                "lojban": ".i le se cradi .e {{le notci be fo lo tarci}} cu mo",
+                                "english": "What about the radio signals? {{The messages to the stars}}?",
+                                "source-id": "made",
+                                "note": "An example of the construction {{SELBRI be FA SUMTI}}. In this sentence, the {{lo tarci}} fills the x<sub>4</sub> place of {{notci}} because of the {{fo}}.",
+                                "source": "They're Made Out of Meat",
+                                "author": "Terry Bisson",
+                                "translator": "Pierre Abbot",
+                                "link": "https://mw.lojban.org/papri/ko%27a_marji_lo_rectu"
+                            },
+                            {
+                                "lojban": ".i mi ba prami lo sance {{be}} lo brife {{be bu'u}} lo maxri",
+                                "english": "I shall love the sound {{of}} the wind {{in}} the wheat.",
+                                "source-id": "litt",
+                                "note": "An example of consecutive {{be}} and the construction {{SELBRI be SUMTCITA SUMTI}}. In this sentence, the sumti is parsed as {{lo [sance be lo [brife be bu'u [lo marxi]]]}}, in which {{lo barxi}} fills the {{bu'u}} place of {{brife}}, and {{lo brife be bu'u [lo marxi]}} in turn fills the x<sub>2</sub> place of {{sance}}.",
+                                "source": "The Little Prince",
+                                "author": "Antoine de Saint-Exupéry",
+                                "translator": "la .xorxes.",
+                                "link": "https://mw.lojban.org/papri/le_cmalu_noltru"
+                            }
+                        ]
                     }
                 ]
             }
-        ]
+        ],
+        "good": true
     },
     {
         "word": "be'a",
@@ -12164,7 +12197,7 @@
     },
     {
         "word": "fonxa",
-        "gloss": "telephone",
+        "gloss": "phone &mdash; signalling network",
         "type": "gismu",
         "freq": "23140",
         "rank": "210",
@@ -12176,11 +12209,32 @@
             {
                 "meaning": [
                     {
-                        "exp": "$x_{1}$ is a telephone transceiver/modem attached to system/network $x_{2}$."
+                        "exp": "x_1 is a telephone transceiver/modem attached to system/network x_2.",
+                        "note": "While the original definition refers to a signal transmitter/receiver, its usage has shifted to \"x_1 is a phone/cellphone/smartphone\" because of semantic shift of the word \"phone\" from technological advancements.",
+                        "example": [
+                            {
+                                "lojban": "fi'i sai susan mi'e pal mi'o pu {{fonxa casnu}}",
+                                "english": "Welcome Susan! I'm Pal, we {{talked on phone}} before.",
+                                "source-id": "nict",
+                                "note": "This usage is compatible with both the original and shifted meaning.",
+                                "source": "la nicte cadzu",
+                                "author": "Robin Lee Powell",
+                                "link": "https://mw.lojban.org/papri/Robin%27s_Palm_Writings:_la_nicte_cadzu"
+                            },
+                            {
+                                "lojban": ".i mi .ainmo lo nu skuna lo'u lo ka daspo le'u kei je cu se nandu .oi ru'e {{lo nu fonxa batkyciska}}",
+                                "english": "I wanted to say \"lo ka daspo\" and found {{typing [it] on a phone}} difficult.",
+                                "source-id": "rolj",
+                                "speaker": "la lunbe",
+                                "note": "This usage showcases the shifted meaning of {{fonxa}}, which is not compatible with the original meaning. This sentence is in JACU. To convert it to CLL Lojban, substitute {{je cu}} with {{gi'e}}. {{skuna}} is a synonym of {{cusku}}.",
+                                "source": "roljbogu'e chatlog"
+                            }
+                        ]
                     }
                 ]
             }
-        ]
+        ],
+        "good": true
     },
     {
         "word": "fo'o",
@@ -46241,10 +46295,10 @@
         ]
     },
     {
-        "word": "jbocei",
+        "word": "cinsne",
         "type": "lujvo",
-        "freq": "1070",
-        "rank": "1342",
+        "freq": "2510",
+        "rank": "891",
         "tag": "common",
         "rafsi": null,
         "definition": [
@@ -46258,95 +46312,10 @@
         ]
     },
     {
-        "word": "datru",
+        "word": "sorta",
         "type": "gismu",
-        "freq": "950",
-        "rank": "1406",
-        "tag": "common",
-        "rafsi": null,
-        "definition": [
-            {
-                "meaning": [
-                    {
-                        "exp": "<i>This word is not registered on jbovlaste.</i>"
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "word": "kinda",
-        "type": "gismu",
-        "freq": "2610",
-        "rank": "873",
-        "tag": "common",
-        "rafsi": null,
-        "definition": [
-            {
-                "meaning": [
-                    {
-                        "exp": "<i>This word is not registered on jbovlaste.</i>"
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "word": "jbocme",
-        "type": "lujvo",
-        "freq": "1510",
-        "rank": "1147",
-        "tag": "common",
-        "rafsi": null,
-        "definition": [
-            {
-                "meaning": [
-                    {
-                        "exp": "<i>This word is not registered on jbovlaste.</i>"
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "word": "tolcre",
-        "type": "lujvo",
-        "freq": "1390",
-        "rank": "1191",
-        "tag": "common",
-        "rafsi": null,
-        "definition": [
-            {
-                "meaning": [
-                    {
-                        "exp": "<i>This word is not registered on jbovlaste.</i>"
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "word": "mletca",
-        "type": "lujvo",
-        "freq": "1590",
-        "rank": "1112",
-        "tag": "common",
-        "rafsi": null,
-        "definition": [
-            {
-                "meaning": [
-                    {
-                        "exp": "<i>This word is not registered on jbovlaste.</i>"
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "word": "jbomi'i",
-        "type": "lujvo",
-        "freq": "990",
-        "rank": "1384",
+        "freq": "1160",
+        "rank": "1303",
         "tag": "common",
         "rafsi": null,
         "definition": [
@@ -46377,61 +46346,10 @@
         ]
     },
     {
-        "word": "zdakemkulgu'a",
+        "word": "lobypli",
         "type": "lujvo",
-        "freq": "1420",
-        "rank": "1181",
-        "tag": "common",
-        "rafsi": null,
-        "definition": [
-            {
-                "meaning": [
-                    {
-                        "exp": "<i>This word is not registered on jbovlaste.</i>"
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "word": "noltru",
-        "type": "lujvo",
-        "freq": "2100",
-        "rank": "967",
-        "tag": "common",
-        "rafsi": null,
-        "definition": [
-            {
-                "meaning": [
-                    {
-                        "exp": "<i>This word is not registered on jbovlaste.</i>"
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "word": "cinsne",
-        "type": "lujvo",
-        "freq": "2510",
-        "rank": "891",
-        "tag": "common",
-        "rafsi": null,
-        "definition": [
-            {
-                "meaning": [
-                    {
-                        "exp": "<i>This word is not registered on jbovlaste.</i>"
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "word": "cmocrida",
-        "type": "lujvo",
-        "freq": "1530",
-        "rank": "1141",
+        "freq": "1710",
+        "rank": "1073",
         "tag": "common",
         "rafsi": null,
         "definition": [
@@ -46479,6 +46397,23 @@
         ]
     },
     {
+        "word": "zdakemkulgu'a",
+        "type": "lujvo",
+        "freq": "1420",
+        "rank": "1181",
+        "tag": "common",
+        "rafsi": null,
+        "definition": [
+            {
+                "meaning": [
+                    {
+                        "exp": "<i>This word is not registered on jbovlaste.</i>"
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "word": "termu'eske",
         "type": "lujvo",
         "freq": "1640",
@@ -46496,10 +46431,10 @@
         ]
     },
     {
-        "word": "xunplini",
+        "word": "mletca",
         "type": "lujvo",
-        "freq": "1080",
-        "rank": "1334",
+        "freq": "1590",
+        "rank": "1112",
         "tag": "common",
         "rafsi": null,
         "definition": [
@@ -46513,11 +46448,11 @@
         ]
     },
     {
-        "word": "selkei",
+        "word": "cmocrida",
         "type": "lujvo",
-        "freq": "3920",
-        "rank": "716",
-        "tag": "core-3",
+        "freq": "1530",
+        "rank": "1141",
+        "tag": "common",
         "rafsi": null,
         "definition": [
             {
@@ -46530,10 +46465,112 @@
         ]
     },
     {
-        "word": "lobypli",
+        "word": "datru",
+        "type": "gismu",
+        "freq": "950",
+        "rank": "1406",
+        "tag": "common",
+        "rafsi": null,
+        "definition": [
+            {
+                "meaning": [
+                    {
+                        "exp": "<i>This word is not registered on jbovlaste.</i>"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "word": "noltru",
         "type": "lujvo",
-        "freq": "1710",
-        "rank": "1073",
+        "freq": "2100",
+        "rank": "967",
+        "tag": "common",
+        "rafsi": null,
+        "definition": [
+            {
+                "meaning": [
+                    {
+                        "exp": "<i>This word is not registered on jbovlaste.</i>"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "word": "jbomi'i",
+        "type": "lujvo",
+        "freq": "990",
+        "rank": "1384",
+        "tag": "common",
+        "rafsi": null,
+        "definition": [
+            {
+                "meaning": [
+                    {
+                        "exp": "<i>This word is not registered on jbovlaste.</i>"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "word": "jbocme",
+        "type": "lujvo",
+        "freq": "1510",
+        "rank": "1147",
+        "tag": "common",
+        "rafsi": null,
+        "definition": [
+            {
+                "meaning": [
+                    {
+                        "exp": "<i>This word is not registered on jbovlaste.</i>"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "word": "jbocei",
+        "type": "lujvo",
+        "freq": "1070",
+        "rank": "1342",
+        "tag": "common",
+        "rafsi": null,
+        "definition": [
+            {
+                "meaning": [
+                    {
+                        "exp": "<i>This word is not registered on jbovlaste.</i>"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "word": "mlemencrekei",
+        "type": "lujvo",
+        "freq": "950",
+        "rank": "1406",
+        "tag": "common",
+        "rafsi": null,
+        "definition": [
+            {
+                "meaning": [
+                    {
+                        "exp": "<i>This word is not registered on jbovlaste.</i>"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "word": "kinda",
+        "type": "gismu",
+        "freq": "2610",
+        "rank": "873",
         "tag": "common",
         "rafsi": null,
         "definition": [
@@ -46564,10 +46601,10 @@
         ]
     },
     {
-        "word": "sorta",
-        "type": "gismu",
-        "freq": "1160",
-        "rank": "1303",
+        "word": "tolcre",
+        "type": "lujvo",
+        "freq": "1390",
+        "rank": "1191",
         "tag": "common",
         "rafsi": null,
         "definition": [
@@ -46581,10 +46618,27 @@
         ]
     },
     {
-        "word": "mlemencrekei",
+        "word": "selkei",
         "type": "lujvo",
-        "freq": "950",
-        "rank": "1406",
+        "freq": "3920",
+        "rank": "716",
+        "tag": "core-3",
+        "rafsi": null,
+        "definition": [
+            {
+                "meaning": [
+                    {
+                        "exp": "<i>This word is not registered on jbovlaste.</i>"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "word": "xunplini",
+        "type": "lujvo",
+        "freq": "1080",
+        "rank": "1334",
         "tag": "common",
         "rafsi": null,
         "definition": [

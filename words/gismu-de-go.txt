@@ -145,6 +145,25 @@
                 -english As a result, I {{created [them] based on it}}.
                 -source-id layo
 
+-entry:
+    -word fonxa
+    -gloss phone &mdash; signalling network
+    -type gismu
+    -definition:
+        -meaning:
+            -exp x_1 is a telephone transceiver/modem attached to system/network x_2.
+            -note While the original definition refers to a signal transmitter/receiver, its usage has shifted to "x_1 is a phone/cellphone/smartphone" because of semantic shift of the word "phone" from technological advancements.
+            -example:
+                -lojban fi'i sai susan mi'e pal mi'o pu {{fonxa casnu}}
+                -english Welcome Susan! I'm Pal, we {{talked on phone}} before.
+                -source-id nict
+                -note This usage is compatible with both the original and shifted meaning.
+            -example:
+                -lojban .i mi .ainmo lo nu skuna lo'u lo ka daspo le'u kei je cu se nandu .oi ru'e {{lo nu fonxa batkyciska}}
+                -english I wanted to say "lo ka daspo" and found {{typing [it] on a phone}} difficult. 
+                -source-id rolj
+                -speaker la lunbe
+                -note This usage showcases the shifted meaning of {{fonxa}}, which is not compatible with the original meaning. This sentence is in JACU. To convert it to CLL Lojban, substitute {{je cu}} with {{gi'e}}. {{skuna}} is a synonym of {{cusku}}. 
 
 -entry:
     -word gasnu

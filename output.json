@@ -520,6 +520,60 @@
         "good": true
     },
     {
+        "word": "be",
+        "gloss": "Incorporates sumti into selbri",
+        "type": "cmavo",
+        "freq": "239901",
+        "rank": "21",
+        "tag": "core-1",
+        "rafsi-cvc": null,
+        "rafsi-ccv": null,
+        "rafsi-cvv": null,
+        "definition": [
+            {
+                "selmaho": "BE",
+                "meaning": [
+                    {
+                        "exp": "Incorporates a sumti into a selbri ({{SELBRI be SUMTI}}). The sumti can be tagged with a FA ({{SELBRI be FA SUMTI}}) or a sumtcita ({{SELBRI be SUMTCITA SUMTI}}) to specify the place it takes in the selbri. If not specified, the sumti takes the x<sub>2</sub> place of the selbri.",
+                        "note": "Part of the Linkarg construction ({{be TERM (bei TERM)* (be'o)}}), which is attached immediately after a selbri or a tanru-unit. The place structure of a selbri with incorparted sumti isn't defined.",
+                        "example": [
+                            {
+                                "lojban": "{{claxu be do}} crisa",
+                                "english": "Summer {{without you}}",
+                                "source-id": "clax",
+                                "note": "An example of selbri with incorparted sumti used as a tanru-unit.",
+                                "source": "claxu be do crisa",
+                                "author": "la .cogas.",
+                                "link": "https://soundcloud.com/cogas-iuk/sunday-10-38-pm"
+                            },
+                            {
+                                "lojban": ".i le se cradi .e {{le notci be fo lo tarci}} cu mo",
+                                "english": "What about the radio signals? {{The messages to the stars}}?",
+                                "source-id": "made",
+                                "note": "An example of the construction {{SELBRI be FA SUMTI}}. In this sentence, the {{lo tarci}} fills the x<sub>4</sub> place of {{notci}} because of the {{fo}}.",
+                                "source": "They're Made Out of Meat",
+                                "author": "Terry Bisson",
+                                "translator": "Pierre Abbot",
+                                "link": "https://mw.lojban.org/papri/ko%27a_marji_lo_rectu"
+                            },
+                            {
+                                "lojban": ".i mi ba prami lo sance {{be}} lo brife {{be bu'u}} lo maxri",
+                                "english": "I shall love the sound {{of}} the wind {{in}} the wheat.",
+                                "source-id": "litt",
+                                "note": "An example of consecutive {{be}} and the construction {{SELBRI be SUMTCITA SUMTI}}. In this sentence, the sumti is parsed as {{lo [sance be lo [brife be bu'u [lo marxi]]]}}, in which {{lo barxi}} fills the {{bu'u}} place of {{brife}}, and {{lo brife be bu'u [lo marxi]}} in turn fills the x<sub>2</sub> place of {{sance}}.",
+                                "source": "The Little Prince",
+                                "author": "Antoine de Saint-Exupéry",
+                                "translator": "la .xorxes.",
+                                "link": "https://mw.lojban.org/papri/le_cmalu_noltru"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "good": true
+    },
+    {
         "word": "bebna",
         "gloss": "silly, fool &mdash; folly, a foolish act",
         "type": "gismu",
@@ -1824,6 +1878,47 @@
                                 "source": "The Lay of the Land",
                                 "author": "Worldbuilding Notes",
                                 "link": "https://www.youtube.com/watch?v=ViGGR231zvQ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "good": true
+    },
+    {
+        "word": "fonxa",
+        "gloss": "phone &mdash; signalling network",
+        "type": "gismu",
+        "freq": "23140",
+        "rank": "210",
+        "tag": "core-1",
+        "rafsi-cvc": "fon",
+        "rafsi-ccv": null,
+        "rafsi-cvv": null,
+        "definition": [
+            {
+                "meaning": [
+                    {
+                        "exp": "x_1 is a telephone transceiver/modem attached to system/network x_2.",
+                        "note": "While the original definition refers to a signal transmitter/receiver, its usage has shifted to \"x_1 is a phone/cellphone/smartphone\" because of semantic shift of the word \"phone\" from technological advancements.",
+                        "example": [
+                            {
+                                "lojban": "fi'i sai susan mi'e pal mi'o pu {{fonxa casnu}}",
+                                "english": "Welcome Susan! I'm Pal, we {{talked on phone}} before.",
+                                "source-id": "nict",
+                                "note": "This usage is compatible with both the original and shifted meaning.",
+                                "source": "la nicte cadzu",
+                                "author": "Robin Lee Powell",
+                                "link": "https://mw.lojban.org/papri/Robin%27s_Palm_Writings:_la_nicte_cadzu"
+                            },
+                            {
+                                "lojban": ".i mi .ainmo lo nu skuna lo'u lo ka daspo le'u kei je cu se nandu .oi ru'e {{lo nu fonxa batkyciska}}",
+                                "english": "I wanted to say \"lo ka daspo\" and found {{typing [it] on a phone}} difficult.",
+                                "source-id": "rolj",
+                                "speaker": "la lunbe",
+                                "note": "This usage showcases the shifted meaning of {{fonxa}}, which is not compatible with the original meaning. This sentence is in JACU. To convert it to CLL Lojban, substitute {{je cu}} with {{gi'e}}. {{skuna}} is a synonym of {{cusku}}.",
+                                "source": "roljbogu'e chatlog"
                             }
                         ]
                     }

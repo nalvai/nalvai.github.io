@@ -174,9 +174,6 @@
     -word ba'o
     -gloss Preposition (tense): retrospective; event already ended
     -type cmavo
-    -rafsi-cvc 
-    -rafsi-ccv 
-    -rafsi-cvv 
     -definition:
         -selmaho ZAhO
         -meaning:
@@ -235,6 +232,32 @@
             -note Unattested.
 
 
+
+
+-entry:
+    -word be
+    -gloss Incorporates sumti into selbri
+    -type cmavo
+    -definition:
+        -selmaho BE
+        -meaning:
+            -exp Incorporates a sumti into a selbri ({{SELBRI be SUMTI}}). The sumti can be tagged with a FA ({{SELBRI be FA SUMTI}}) or a sumtcita ({{SELBRI be SUMTCITA SUMTI}}) to specify the place it takes in the selbri. If not specified, the sumti takes the x<sub>2</sub> place of the selbri.
+            -note Part of the Linkarg construction ({{be TERM (bei TERM)* (be'o)}}), which is attached immediately after a selbri or a tanru-unit. The place structure of a selbri with incorparted sumti isn't defined.
+            -example:
+                -lojban {{claxu be do}} crisa
+                -english Summer {{without you}}
+                -source-id clax
+                -note An example of selbri with incorparted sumti used as a tanru-unit.
+            -example:
+                -lojban .i le se cradi .e {{le notci be fo lo tarci}} cu mo
+                -english What about the radio signals? {{The messages to the stars}}? 
+                -source-id made
+                -note An example of the construction {{SELBRI be FA SUMTI}}. In this sentence, the {{lo tarci}} fills the x<sub>4</sub> place of {{notci}} because of the {{fo}}. 
+            -example:
+                -lojban .i mi ba prami lo sance {{be}} lo brife {{be bu'u}} lo maxri 
+                -english I shall love the sound {{of}} the wind {{in}} the wheat.
+                -source-id litt
+                -note An example of consecutive {{be}} and the construction {{SELBRI be SUMTCITA SUMTI}}. In this sentence, the sumti is parsed as {{lo [sance be lo [brife be bu'u [lo marxi]]]}}, in which {{lo barxi}} fills the {{bu'u}} place of {{brife}}, and {{lo brife be bu'u [lo marxi]}} in turn fills the x<sub>2</sub> place of {{sance}}.
 
 -entry:
     -word bo
