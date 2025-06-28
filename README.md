@@ -166,7 +166,7 @@ Lojban texts with at least one quotation in this dictionary.
 
 The quotes from chatlogs are from the following speakers: (in no particular order)
 
-la melmi, latkerlo, la samflir, .kúblizel., la lunbe, la ilmen, la fagri, bancip, la bakre'u, qimar, nitfg, la kanis, \_4Denthusiast, la nalvai, la .zi., la evis, niftg, la srasu, la solpa'i, dram, Lucilla, la nonselcme, yeet kitty, Stephen Dedalus, la lalxu, la varik, misotanni, Magnap, la janbe, varik, la xrula, la gleki, la ziren, la katador, 
+varik, la melmi, Lucilla, niftg, la katador, dram, la ziren, Stephen Dedalus, la bakre'u, la lalxu, la srasu, yeet kitty, la nalvai, la fagri, la nonselcme, misotanni, la .zi., Magnap, la gleki, bancip, la solpa'i, latkerlo, .kúblizel., la ilmen, la lunbe, qimar, la samflir, la evis, la kanis, \_4Denthusiast, la xrula, nitfg, la varik, la janbe, 
 
 Huge thanks to the following individuals who contributed to this project:
 
