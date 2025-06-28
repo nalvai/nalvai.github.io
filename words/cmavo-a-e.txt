@@ -330,6 +330,36 @@
             -exp Forms a sentence link along with {{.i}}. The resulting sentence link separates bridi, but doesn't reset bridi level. Multiple bridi separated with {{.i bo}} shares the same prenex.
             -note The above explanation is taken from roljbogu'e chatlog, under said explanation {{.i bo}} is analogous to {{.i je}}. In actual usage, however, {{.i bo}} often resets bridi level, making {{.i ji'a}} a closer analogue.
 
+
+-entry:
+    -word bu
+    -gloss Letteral: convert word to letteral
+    -type cmavo
+    -definition:
+        -selmaho BU
+        -meaning:
+            -exp Combines with the previous word to make a Lojban letteral. The resulting lettral, if not made from a letteral (see the next meaning) and used alone, refers to the last sumti starting with the word.
+            -note The following words cannot be convert into letteral with {{bu}}: {{bu}}, {{fa'o}}, {{zei}}, any cmavo in BAhE, erasure words ({{si}}, {{sa}}, {{su}}), quotation starters ({{lu}}, {{lo'u}} and any cmavo in ZOI).
+            -example:
+                -lojban .i ta'i ma pilno zo bo {{lonu jufra lasna}} .i {{nubu}} cu cizra makfa zo'o
+                -english How [do I] use {bo} {{to bind sentences together}}? {{It}} is black magic haha
+                -source-id rolj
+                -note When determining the referent of a letteral pro-sumti, the gadri ({{lo}}, {{le}}, {{la}}) of a description sumti is ignored. In this utterance, {{nubu}} refers to {{lonu jufra lasna}}, as the description {{nu jufra lasna}} starts with the word {{nu}}.
+                -speaker la melmi
+            -example:
+                -lojban .i lo glico panra be {{lu catni lojbo li'u}} se smuni lo du'u {{la'e lu bu lu'u}} po'o jetnu je drani je mulno lojbo noi fau lo nu masno farvi ku jai to'e sai lakne fai lo ka jetnu
+                -english The English equivalent of {{"Official Lojban"}} mostly implies that {{it}} is the only right, correct and  omplete Lojban, which, given the lack of progress over the last years, is a very improbable case.
+                -source-id offi
+                -note {{lu bu}} refers to {{lu catni lojbo li'u}}, which is the last sumti started with {{lu}}. {{la'e lu bu lu'u}} means "what {{lu catni lojbo li'u}} refers to", thus, the Lojban that is said to be "official".
+        -meaning:
+            -context When following a letteral
+            -exp Convert a letteral to another (related) letteral.
+            -note The ones defined in the CLL are {{.y'y. bu }} for {{h}}, {{ky. bu}} for {{q}}, {{vy. bu}} for {{w}}, {{ty. bu}} for {{þ}} (thorn) and {{dy. bu}} for {{ð}} (eth).
+            -example:
+                -lojban ni'o la tokpono cu pilno so zunsna to jy. .e ky. .e ly. .e my. .e py. .e sy. .e ty. .e {{vy. bu}} toi .e mu karsna to .a bu .e .e bu .e .i bu .e .o bu .e .u bu toi
+                -english Toki Pona uses nine consonants (j k l m n p s t {{w}}) and five vowels (a e i o u).
+                -source-id tokp
+
 -entry:
     -word co'a
     -gloss Preposition (tense): initiative; event starts
@@ -388,12 +418,58 @@
                 -source-id stil
 
 -entry:
+    -word do'u
+    -gloss Elidable Terminator: terminates vocative phrase
+    -type cmavo
+    -definition:
+        -selmaho DOhU
+        -meaning:
+            -exp Ends vocative phrase, which is started with {{DOI}} or {{COI}}. Elidable.
+            -note For demonstration purposes, the example sentences here only shows {{do'u}} in unelidable position. See the words in selma'o {{DOI}} and {{COI}} to see elided {{do'u}}.
+            -example:
+                -lojban .i {{ju'i vitke do'u}} sutra klama .e'o
+                -english {{Hey [visitors]!}} Come here quickly!
+                -source-id rest
+                -note If the {{do'u}} was elided in this sentence, the {{vitke}} would run into the {{sutra klama}} behind and form a tanru.
+                -noshownote Original has {{vitka}}, which I presume is a typo of {{vitke}}.
+            -example:
+                -lojban .i .o'u {{nu'e do'u}} mi'o mo'u sepli simxu
+                -english Don't worry &mdash; {{I promise}}, we'll be together again.
+                -source-id dans
+                -note If the {{do'u}} was elided in this sentence, the {{nu'e}} would take {{mi'o}} as a component of the vocative phrase, making {{mi'o}} the intended listener instead of the x<sub>1</sub> of the main selbri.
+            -example:
+                -lojban .i {{doi .dinas. noi dirba mi do'u}} .au do mi kansa lo nu vi cnita
+                -english {{Dinah, my dear!}} I wish you were down here with me! 
+                -source-id alic
+                -note If the {{do'u}} was elided in this sentence, the vocative phrase would close right before the {{kansa}}.
+
+-entry:
+    -word doi
+    -gloss Voicative: identifies the listener ("you")
+    -type cmavo
+    -definition:
+        -selmaho DOI
+        -meaning:
+            -exp Generic vocative marker; identifies intended listener/audience. When followed by a sumti, the sumti is the intended listener/audience. When followed by a cmevla, it is understood as {{doi la CMEVLA}}. When followed by a selbri, it is understood as {{doi le SELBRI}}. {{doi}} opens a vocative phrase, which automatically closes when the sumti or selbri after {{doi}} is completed. The vocative phrase can also be closed explicitly with {{do'u}}.
+            -example:
+                -lojban ni'o {{doi mi poi mo'u verba}} .i pau ma poi prenu cu se prami
+                -english {{To me when completing childhood}}, who do [you] love now?
+                -source-id lett
+            -example:
+                -lojban .i {{doi dirba}} o'u dai ko sursipna iu cai
+                -english {{Darling,}} (I feel you are relaxed), have a restful sleep <3
+                -source-id lenr
+                -note An example of {{doi SELBRI}}.
+            -example:
+                -lojban .i {{doi .dinas. noi dirba mi do'u}} .au do mi kansa lo nu vi cnita
+                -english {{Dinah, my dear!}} I wish you were down here with me! 
+                -source-id alic
+                -note An example of {{doi}} followed by a cmevla. A cmevla inside a vocative phrase can take a relative clause/phrase, and is taken as the same as {{doi <em>la</em> CMEVLA &lt;relative phrase/clause&gt;}}.
+
+-entry:
     -word e
     -gloss Connective: sumti afterthought and
     -type cmavo
-    -rafsi-cvc
-    -rafsi-ccv 
-    -rafsi-cvv 
     -definition:
         -selmaho A
         -meaning:

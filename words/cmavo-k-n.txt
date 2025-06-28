@@ -139,6 +139,39 @@
                 -note The entire sentence is grammatical, but becomes ungrammatical when split in half. 
 
 -entry:
+    -word mo
+    -gloss Selbri question
+    -type cmavo
+    -definition:
+        -selmaho GOhA
+        -meaning:
+            -exp Asks the listener to supply a selbri that makes the containing bridi true. 
+            -note As the meaning of this word is really broad, it has many possible translations in English, each with a more specific meaning than {{mo}}. Which translation applies depends on context.
+            -example:
+                -lojban lo se citka ku {{mo}}
+                -english {{What happened to}} the stuff I was going to eat?
+                -source-id melb
+            -example:
+                -lojban .i le se cradi .e le notci be fo lo tarci cu {{mo}}
+                -english {{What about}} the radio signals? The messages to the stars?
+                -source-id made  
+            -example:
+                -lojban .i xy. to'e lazni gunka co'a lo cerni co'u lo nicte gi'e na djuno lo du'u lo si'o gleki cu {{mo kau}}
+                -english He worked hard from morning till night and did not know {{what}} joy {{was}}.
+                -source-id wond  
+            -example:
+                -lojban .i {{do mo}} lo tarci
+                -english And {{what do you do with}} these stars?
+                -source-id litt  
+            -example:
+                -lojban lo {{mo}} prenu cu xabju lo vi sruri
+                -english {{What sort of}} people live about here?
+                -source-id alic
+                -note An example of {{mo}} used as a tanru unit.  
+
+   
+
+-entry:
     -word mu'i
     -gloss Preposition: because of motive ...
     -type cmavo

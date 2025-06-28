@@ -1,3 +1,18 @@
+
+-entry:
+    -word jbopre
+    -gloss Lojbanist, Lojban user  
+    -type lujvo
+    -origin lojbo prenu
+    -definition:
+        -meaning:
+            -exp x_1 is a Lojbanist.
+            -note The place x<sub>2</sub> was defined to be "Lojbanic aspect", but isn't used.
+            -example:
+                -lojban .i ja'o e'o sidju gi'e zukte fi lo xamgu be {{lo balvi jbopre}}
+                -english So, please help and do something for the betterment of {{upcoming Lojbanists}}.
+                -source-id lojb
+
 -entry: 
     -word jbomi'i
     -type lujvo

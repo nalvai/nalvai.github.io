@@ -2977,7 +2977,7 @@
     },
     {
         "word": "bu",
-        "gloss": "word to lerfu",
+        "gloss": "Letteral: convert word to letteral",
         "type": "cmavo",
         "freq": "37512",
         "rank": "128",
@@ -2990,11 +2990,49 @@
                 "selmaho": "BU",
                 "meaning": [
                     {
-                        "exp": "convert any single word to BY."
+                        "exp": "Combines with the previous word to make a Lojban letteral. The resulting lettral, if not made from a letteral (see the next meaning) and used alone, refers to the last sumti starting with the word.",
+                        "note": "The following words cannot be convert into letteral with {{bu}}: {{bu}}, {{fa'o}}, {{zei}}, any cmavo in BAhE, erasure words ({{si}}, {{sa}}, {{su}}), quotation starters ({{lu}}, {{lo'u}} and any cmavo in ZOI).",
+                        "example": [
+                            {
+                                "lojban": ".i ta'i ma pilno zo bo {{lonu jufra lasna}} .i {{nubu}} cu cizra makfa zo'o",
+                                "english": "How [do I] use {bo} {{to bind sentences together}}? {{It}} is black magic haha",
+                                "source-id": "rolj",
+                                "note": "When determining the referent of a letteral pro-sumti, the gadri ({{lo}}, {{le}}, {{la}}) of a description sumti is ignored. In this utterance, {{nubu}} refers to {{lonu jufra lasna}}, as the description {{nu jufra lasna}} starts with the word {{nu}}.",
+                                "speaker": "la melmi",
+                                "source": "roljbogu'e chatlog"
+                            },
+                            {
+                                "lojban": ".i lo glico panra be {{lu catni lojbo li'u}} se smuni lo du'u {{la'e lu bu lu'u}} po'o jetnu je drani je mulno lojbo noi fau lo nu masno farvi ku jai to'e sai lakne fai lo ka jetnu",
+                                "english": "The English equivalent of {{\"Official Lojban\"}} mostly implies that {{it}} is the only right, correct and  omplete Lojban, which, given the lack of progress over the last years, is a very improbable case.",
+                                "source-id": "offi",
+                                "note": "{{lu bu}} refers to {{lu catni lojbo li'u}}, which is the last sumti started with {{lu}}. {{la'e lu bu lu'u}} means \"what {{lu catni lojbo li'u}} refers to\", thus, the Lojban that is said to be \"official\".",
+                                "source": "\"Official Lojban\"",
+                                "author": "la uakci",
+                                "link": "https://docs.google.com/spreadsheets/d/1_vkiwqOIOIJPqZTiomzd4ApUSEQXhEY6CeyZD_6c-PA/edit?gid=1862526252#gid=1862526252"
+                            }
+                        ]
+                    },
+                    {
+                        "context": "When following a letteral",
+                        "exp": "Convert a letteral to another (related) letteral.",
+                        "note": "The ones defined in the CLL are {{.y'y. bu }} for {{h}}, {{ky. bu}} for {{q}}, {{vy. bu}} for {{w}}, {{ty. bu}} for {{þ}} (thorn) and {{dy. bu}} for {{ð}} (eth).",
+                        "example": [
+                            {
+                                "lojban": "ni'o la tokpono cu pilno so zunsna to jy. .e ky. .e ly. .e my. .e py. .e sy. .e ty. .e {{vy. bu}} toi .e mu karsna to .a bu .e .e bu .e .i bu .e .o bu .e .u bu toi",
+                                "english": "Toki Pona uses nine consonants (j k l m n p s t {{w}}) and five vowels (a e i o u).",
+                                "source-id": "tokp",
+                                "source": "Toki Pona Cheatsheet",
+                                "author": "Blinry",
+                                "translator": "la .samflir.",
+                                "link": "https://blinry.org/toki-pona-cheat-sheet/toki-pona-cheat-sheet-jbo.pdf",
+                                "originallink": "https://blinry.org/toki-pona-cheat-sheet/toki-pona-cheat-sheet.pdf"
+                            }
+                        ]
                     }
                 ]
             }
-        ]
+        ],
+        "good": true
     },
     {
         "word": "bu'a",
@@ -6137,7 +6175,7 @@
     },
     {
         "word": "cmalu",
-        "gloss": "small",
+        "gloss": "small &mdash; aspect/property/dimension of smallness &mdash; standard of smallness",
         "type": "gismu",
         "freq": "17180",
         "rank": "255",
@@ -6149,11 +6187,56 @@
             {
                 "meaning": [
                     {
-                        "exp": "$x_{1}$ is small in property/dimension(s) $x_{2}$ (ka) as compared with standard/norm $x_{3}$."
+                        "exp": "x_1 is small in property/dimension(s) x_2 (ka) as compared with standard/norm x_3.",
+                        "note": "Despite the \"dimension\" in its definition's x<sub>2</sub>, the meaning of {{cmalu}} extends to \"something small in amount/number; a small number; a small amount of ...\", and sentences like {{mi djuno lo cmalu lo jbobau}} are considered idiomatic by some fluent Lojbanists.",
+                        "example": [
+                            {
+                                "lojban": ".i le zdani ku {{cmalu}}",
+                                "english": "Their house {{was small}}.",
+                                "source-id": "melb",
+                                "source": "la melbi e le ractu",
+                                "author": "la lalxu",
+                                "link": "https://lynn.github.io/la-melbi-e-le-ractu/"
+                            },
+                            {
+                                "lojban": ".i ku'i le voksa be la ractu cu {{cmalu}}",
+                                "english": "but Rabbit's voice {{was tiny}}…",
+                                "source-id": "melb",
+                                "source": "la melbi e le ractu",
+                                "author": "la lalxu",
+                                "link": "https://lynn.github.io/la-melbi-e-le-ractu/"
+                            },
+                            {
+                                "lojban": ".i ku'i lo te frica cu {{cmalu}}",
+                                "english": "But the discrepancy {{was small}}.",
+                                "source-id": "cloc",
+                                "source": "The Clockmaker",
+                                "author": "Robert Louis Stevenson",
+                                "translator": "la .xorxes.",
+                                "link": "https://mw.lojban.org/papri/le_junla_zbasu",
+                                "originallink": "https://en.wikisource.org/wiki/The_Clockmaker"
+                            },
+                            {
+                                "lojban": "mi dejni {{lo cmalu be lo jdini}} ru vau doi la din .i xu ru cusku fi do",
+                                "english": "I owe {{a little money}} to him, Din. Did he tell you?",
+                                "source-id": "rolj",
+                                "speaker": "AstroMacGuffin",
+                                "noshownote": "It seems to be from a translation or an original work with name \"Neuromancer\", but since it's not released to public (I found it in a roljbogu'e thread), it can only take \"roljbogu'e chatlog\" as its source.",
+                                "source": "roljbogu'e chatlog"
+                            },
+                            {
+                                "lojban": ".i la silnytca zo'u silna .i tcadu je'u .i ku'i {{cmalu cmalu fi tu'a lo bratca}}",
+                                "english": "As for Salt [Lake] City: salt. It's really a city, but it's {{small small by large city standards}}.",
+                                "source-id": "rolj",
+                                "speaker": "la janbe",
+                                "source": "roljbogu'e chatlog"
+                            }
+                        ]
                     }
                 ]
             }
-        ]
+        ],
+        "good": true
     },
     {
         "word": "cmana",
@@ -9714,7 +9797,7 @@
     },
     {
         "word": "doi",
-        "gloss": "vocative marker",
+        "gloss": "Voicative: identifies the listener (\"you\")",
         "type": "cmavo",
         "freq": "289951",
         "rank": "17",
@@ -9727,11 +9810,42 @@
                 "selmaho": "DOI",
                 "meaning": [
                     {
-                        "exp": "generic vocative marker; identifies intended listener; elidable after COI."
+                        "exp": "Generic vocative marker; identifies intended listener/audience. When followed by a sumti, the sumti is the intended listener/audience. When followed by a cmevla, it is understood as {{doi la CMEVLA}}. When followed by a selbri, it is understood as {{doi le SELBRI}}. {{doi}} opens a vocative phrase, which automatically closes when the sumti or selbri after {{doi}} is completed. The vocative phrase can also be closed explicitly with {{do'u}}.",
+                        "example": [
+                            {
+                                "lojban": "ni'o {{doi mi poi mo'u verba}} .i pau ma poi prenu cu se prami",
+                                "english": "{{To me when completing childhood}}, who do [you] love now?",
+                                "source-id": "lett",
+                                "source": "letter song",
+                                "author": "doriko",
+                                "translator": "tetsusquared (la .tirprij.)",
+                                "link": "https://www.youtube.com/watch?v=5r-JIZNGAMA"
+                            },
+                            {
+                                "lojban": ".i {{doi dirba}} o'u dai ko sursipna iu cai",
+                                "english": "{{Darling,}} (I feel you are relaxed), have a restful sleep <3",
+                                "source-id": "lenr",
+                                "note": "An example of {{doi SELBRI}}.",
+                                "source": "lenrygu'i",
+                                "author": "la fagri",
+                                "link": "https://www.youtube.com/watch?v=-q0gzt4w-o8"
+                            },
+                            {
+                                "lojban": ".i {{doi .dinas. noi dirba mi do'u}} .au do mi kansa lo nu vi cnita",
+                                "english": "{{Dinah, my dear!}} I wish you were down here with me!",
+                                "source-id": "alic",
+                                "note": "An example of {{doi}} followed by a cmevla. A cmevla inside a vocative phrase can take a relative clause/phrase, and is taken as the same as {{doi <em>la</em> CMEVLA &lt;relative phrase/clause&gt;}}.",
+                                "source": "Alice in Wonderland",
+                                "author": "Lewis Carroll",
+                                "translator": "la .xorxes.",
+                                "link": "https://mw.lojban.org/papri/lo_selfri_be_la_.alis._bei_bu%27u_la_selmacygu%27e"
+                            }
+                        ]
                     }
                 ]
             }
-        ]
+        ],
+        "good": true
     },
     {
         "word": "donri",
@@ -9816,7 +9930,7 @@
     },
     {
         "word": "do'u",
-        "gloss": "end vocative",
+        "gloss": "Elidable Terminator: terminates vocative phrase",
         "type": "cmavo",
         "freq": "21431",
         "rank": "218",
@@ -9829,11 +9943,45 @@
                 "selmaho": "DOhU",
                 "meaning": [
                     {
-                        "exp": "elidable terminator: end vocative (often elidable)."
+                        "exp": "Ends vocative phrase, which is started with {{DOI}} or {{COI}}. Elidable.",
+                        "note": "For demonstration purposes, the example sentences here only shows {{do'u}} in unelidable position. See the words in selma'o {{DOI}} and {{COI}} to see elided {{do'u}}.",
+                        "example": [
+                            {
+                                "lojban": ".i {{ju'i vitke do'u}} sutra klama .e'o",
+                                "english": "{{Hey [visitors]!}} Come here quickly!",
+                                "source-id": "rest",
+                                "note": "If the {{do'u}} was elided in this sentence, the {{vitke}} would run into the {{sutra klama}} behind and form a tanru.",
+                                "noshownote": "Original has {{vitka}}, which I presume is a typo of {{vitke}}.",
+                                "source": "The Restaurant of Many Orders",
+                                "author": "Kenji Miyazawa",
+                                "translator": "la .tijlan.",
+                                "link": "https://docs.google.com/document/d/10Rnm80SieLrpFnk9kn_9bCuon96CNSPTA8hqVaWQYbQ/edit?tab=t.0"
+                            },
+                            {
+                                "lojban": ".i .o'u {{nu'e do'u}} mi'o mo'u sepli simxu",
+                                "english": "Don't worry &mdash; {{I promise}}, we'll be together again.",
+                                "source-id": "dans",
+                                "note": "If the {{do'u}} was elided in this sentence, the {{nu'e}} would take {{mi'o}} as a component of the vocative phrase, making {{mi'o}} the intended listener instead of the x<sub>1</sub> of the main selbri.",
+                                "source": "dansu co toldi",
+                                "author": "Noise and Bells (la janbe)",
+                                "link": "https://www.youtube.com/watch?v=B156ExvRjzM"
+                            },
+                            {
+                                "lojban": ".i {{doi .dinas. noi dirba mi do'u}} .au do mi kansa lo nu vi cnita",
+                                "english": "{{Dinah, my dear!}} I wish you were down here with me!",
+                                "source-id": "alic",
+                                "note": "If the {{do'u}} was elided in this sentence, the vocative phrase would close right before the {{kansa}}.",
+                                "source": "Alice in Wonderland",
+                                "author": "Lewis Carroll",
+                                "translator": "la .xorxes.",
+                                "link": "https://mw.lojban.org/papri/lo_selfri_be_la_.alis._bei_bu%27u_la_selmacygu%27e"
+                            }
+                        ]
                     }
                 ]
             }
-        ]
+        ],
+        "good": true
     },
     {
         "word": "draci",
@@ -15867,7 +16015,7 @@
     },
     {
         "word": "jbopre",
-        "gloss": "Lojbanist",
+        "gloss": "Lojbanist, Lojban user",
         "type": "lujvo",
         "freq": "25500",
         "rank": "192",
@@ -15879,11 +16027,24 @@
             {
                 "meaning": [
                     {
-                        "exp": "$l_1=p_1$ is a Lojbanist in aspect $l_2$."
+                        "exp": "x_1 is a Lojbanist.",
+                        "note": "The place x<sub>2</sub> was defined to be \"Lojbanic aspect\", but isn't used.",
+                        "example": [
+                            {
+                                "lojban": ".i ja'o e'o sidju gi'e zukte fi lo xamgu be {{lo balvi jbopre}}",
+                                "english": "So, please help and do something for the betterment of {{upcoming Lojbanists}}.",
+                                "source-id": "lojb",
+                                "source": "lo jbobau cu mo",
+                                "author": "la solpa'i",
+                                "link": "https://www.youtube.com/watch?v=N-Y9eBBTrxU"
+                            }
+                        ]
                     }
                 ]
             }
-        ]
+        ],
+        "origin": "lojbo prenu",
+        "good": true
     },
     {
         "word": "jboselkei",
@@ -25259,7 +25420,7 @@
     },
     {
         "word": "mo",
-        "gloss": "bridi ?",
+        "gloss": "Selbri question",
         "type": "cmavo",
         "freq": "137040",
         "rank": "37",
@@ -25272,11 +25433,60 @@
                 "selmaho": "GOhA",
                 "meaning": [
                     {
-                        "exp": "pro-bridi: bridi/selbri/brivla question."
+                        "exp": "Asks the listener to supply a selbri that makes the containing bridi true.",
+                        "note": "As the meaning of this word is really broad, it has many possible translations in English, each with a more specific meaning than {{mo}}. Which translation applies depends on context.",
+                        "example": [
+                            {
+                                "lojban": "lo se citka ku {{mo}}",
+                                "english": "{{What happened to}} the stuff I was going to eat?",
+                                "source-id": "melb",
+                                "source": "la melbi e le ractu",
+                                "author": "la lalxu",
+                                "link": "https://lynn.github.io/la-melbi-e-le-ractu/"
+                            },
+                            {
+                                "lojban": ".i le se cradi .e le notci be fo lo tarci cu {{mo}}",
+                                "english": "{{What about}} the radio signals? The messages to the stars?",
+                                "source-id": "made",
+                                "source": "They're Made Out of Meat",
+                                "author": "Terry Bisson",
+                                "translator": "Pierre Abbot",
+                                "link": "https://mw.lojban.org/papri/ko%27a_marji_lo_rectu"
+                            },
+                            {
+                                "lojban": ".i xy. to'e lazni gunka co'a lo cerni co'u lo nicte gi'e na djuno lo du'u lo si'o gleki cu {{mo kau}}",
+                                "english": "He worked hard from morning till night and did not know {{what}} joy {{was}}.",
+                                "source-id": "wond",
+                                "source": "The Wonderful Wizard of Oz",
+                                "author": "L. Frank Baum",
+                                "translator": "la solpa'i",
+                                "link": "https://selpahi.de/oz_plain.html"
+                            },
+                            {
+                                "lojban": ".i {{do mo}} lo tarci",
+                                "english": "And {{what do you do with}} these stars?",
+                                "source-id": "litt",
+                                "source": "The Little Prince",
+                                "author": "Antoine de Saint-Exupéry",
+                                "translator": "la .xorxes.",
+                                "link": "https://mw.lojban.org/papri/le_cmalu_noltru"
+                            },
+                            {
+                                "lojban": "lo {{mo}} prenu cu xabju lo vi sruri",
+                                "english": "{{What sort of}} people live about here?",
+                                "source-id": "alic",
+                                "note": "An example of {{mo}} used as a tanru unit.",
+                                "source": "Alice in Wonderland",
+                                "author": "Lewis Carroll",
+                                "translator": "la .xorxes.",
+                                "link": "https://mw.lojban.org/papri/lo_selfri_be_la_.alis._bei_bu%27u_la_selmacygu%27e"
+                            }
+                        ]
                     }
                 ]
             }
-        ]
+        ],
+        "good": true
     },
     {
         "word": "mo'a",

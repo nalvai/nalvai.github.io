@@ -111,6 +111,38 @@
                 -source-id lett
 
 -entry:
+    -word cmalu
+    -gloss small &mdash; aspect/property/dimension of smallness &mdash; standard of smallness
+    -type gismu
+    -definition:
+        -meaning:
+            -exp x_1 is small in property/dimension(s) x_2 (ka) as compared with standard/norm x_3.
+            -note Despite the "dimension" in its definition's x<sub>2</sub>, the meaning of {{cmalu}} extends to "something small in amount/number; a small number; a small amount of ...", and sentences like {{mi djuno lo cmalu lo jbobau}} are considered idiomatic by some fluent Lojbanists.
+            -example:
+                -lojban .i le zdani ku {{cmalu}}
+                -english Their house {{was small}}.
+                -source-id melb
+            -example:
+                -lojban .i ku'i le voksa be la ractu cu {{cmalu}}
+                -english but Rabbit's voice {{was tiny}}…
+                -source-id melb
+            -example:
+                -lojban .i ku'i lo te frica cu {{cmalu}}
+                -english But the discrepancy {{was small}}.
+                -source-id cloc
+            -example:
+                -lojban mi dejni {{lo cmalu be lo jdini}} ru vau doi la din .i xu ru cusku fi do
+                -english I owe {{a little money}} to him, Din. Did he tell you? 
+                -source-id rolj
+                -speaker AstroMacGuffin
+                -noshownote It seems to be from a translation or an original work with name "Neuromancer", but since it's not released to public (I found it in a roljbogu'e thread), it can only take "roljbogu'e chatlog" as its source.
+            -example:
+                -lojban .i la silnytca zo'u silna .i tcadu je'u .i ku'i {{cmalu cmalu fi tu'a lo bratca}}
+                -english As for Salt [Lake] City: salt. It's really a city, but it's {{small small by large city standards}}. 
+                -source-id rolj
+                -speaker la janbe
+
+-entry:
     -word cmavo
     -gloss structure word &mdash; grammatical class &mdash; meaning/function of the word &mdash; usage/language of the word
     -type gismu

@@ -164,7 +164,13 @@ function generateMetaElement(item) {
   result.setAttribute("class", "note");
   const freqText = `Frequency: ${(Number(item.freq)/3139.9446).toFixed(2)} per 10000 `;
   const rankText = item.tag.startsWith("core") ? `(rank: ${item.rank}) ` : "";
-  const rafsiText = "rafsi: " + `${item["rafsi-cvc"]} ${item["rafsi-ccv"]} ${item["rafsi-cvv"]}`.replaceAll("null", "").trim();
+  let rafsiText = "";
+  if (item.type === "lujvo") 
+    rafsiText = "underlying form: " + `${item["origin"]}`.replaceAll("null", "").trim();
+  else if (item.type === "fu'ivla")
+    rafsiText = "etymology: " + `${item["origin"]}`.replaceAll("null", "").trim();
+  else
+    rafsiText = "rafsi: " + `${item["rafsi-cvc"]} ${item["rafsi-ccv"]} ${item["rafsi-cvv"]}`.replaceAll("null", "").trim();
   result.innerHTML = `${freqText}${rankText}• ${rafsiText}`;
   return result;
 }

@@ -101,6 +101,11 @@
         "translator": "tetsusquared (la .tirprij.)",
         "link": "https://www.youtube.com/watch?v=GjG2vtMOI7c"
     },
+    "dans": {
+        "source": "dansu co toldi",
+        "author": "Noise and Bells (la janbe)",
+        "link": "https://www.youtube.com/watch?v=B156ExvRjzM"
+    },
     "diam": {
         "source": "Diamond City Lights",
         "author": "LazuLight",
@@ -196,6 +201,11 @@
         "source": "The Lay of the Land",
         "author": "Worldbuilding Notes",
         "link": "https://www.youtube.com/watch?v=ViGGR231zvQ"
+    },
+    "lenr": {
+        "source": "lenrygu'i",
+        "author": "la fagri",
+        "link": "https://www.youtube.com/watch?v=-q0gzt4w-o8"
     },
     "lett": {
         "source": "letter song",
@@ -381,6 +391,9 @@
         "author": "40mP",
         "translator": "tetsusquared (la .tirprij.)",
         "link": "https://www.youtube.com/watch?v=Ar4On-u5vUk"
+    },
+    "twit": {
+        "source": "Twitter post"
     },
     "uala": {
         "source": "ua langu",
