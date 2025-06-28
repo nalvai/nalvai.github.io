@@ -92,6 +92,7 @@ A Lojban word has its meaning encompass over different parts of speech in Englis
 - [lojban.io frequency list](https://github.com/jqueiroz/lojban.io/blob/master/resources/language/frequency-lists/MyFreq-COMB_without_dots.txt) for frequency data. Note that I've made adjustments to the frequency list so it suits my purposes more. I have no knowledge of the underlying corpus of the frequency list, and it would be great if someone can provide a more modern corpus/frequency list.
 ### Quote Sources
 Lojban texts with at least one quotation in this dictionary.
+
 - (57 quotes) roljbogu'e chatlog
 - (23 quotes) [The Little Prince](https://mw.lojban.org/papri/le_cmalu_noltru) by Antoine de Saint-Exupéry, translation by la .xorxes.
 - (16 quotes) [Alice in Wonderland](https://mw.lojban.org/papri/lo_selfri_be_la_.alis._bei_bu%27u_la_selmacygu%27e) by Lewis Carroll, translation by la .xorxes.
@@ -165,9 +166,9 @@ Lojban texts with at least one quotation in this dictionary.
 
 The quotes from chatlogs are from the following speakers: (in no particular order)
 
-la ziren, niftg, \_4Denthusiast, Stephen Dedalus, la kanis, la ilmen, la evis, dram, la samflir, latkerlo, la lalxu, .kúblizel., la nonselcme, la solpa'i, la fagri, varik, la lunbe, Magnap, nitfg, la xrula, la janbe, la katador, la gleki, la bakre'u, yeet kitty, qimar, la melmi, la nalvai, la srasu, Lucilla, bancip, misotanni, la .zi., la varik,
+la melmi, latkerlo, la samflir, .kúblizel., la lunbe, la ilmen, la fagri, bancip, la bakre'u, qimar, nitfg, la kanis, \_4Denthusiast, la nalvai, la .zi., la evis, niftg, la srasu, la solpa'i, dram, Lucilla, la nonselcme, yeet kitty, Stephen Dedalus, la lalxu, la varik, misotanni, Magnap, la janbe, varik, la xrula, la gleki, la ziren, la katador, 
 
 Huge thanks to the following individuals who contributed to this project:
 
 - la ninlat. (1 word): **to**.
-
+    
