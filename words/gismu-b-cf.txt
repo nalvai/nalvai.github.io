@@ -59,6 +59,29 @@
                 -source-id terr
 
 -entry:
+    -word cadga
+    -gloss (of an event) should happen &mdash; condition in which x<sub>1</sub> should happen &mdash; to think x<sub>1</sub> should happen
+    -type gismu
+    -definition:
+        -meaning:
+            -exp x_1 should/ought to be true if x_2 is true, according to x_3.
+            -note Definition taken from <a href="https://wiki.lojban.io/zgadi">here</a>. Synonymous with {{zgadi}} (sense 1).
+            -example:
+                -lojban .i {{cadga}} fa lo ka kunti .ijeku'i co'a zgana mu'i lo ka viska lo kandi gusni
+                -english Though it {{should have}} been empty, I started looking at it because I saw a faint light.
+                -source-id denp
+            -example:
+                -lojban .i {{cadga}} fa lo nu do cusku lu la .lojban. li'u .a lu lo jbobau li'u
+                -english You {{should}} say "la .lojban." or "lo jbobau".
+                -source-id rolj
+                -speaker la lunra
+            -example:
+                -lojban ni'o la .varik. cu {{te cadga fi}} lo nu la'oi .Mastodon. joi zo'e cu zenba pe'a le ka ce'u selpli lo jbopre
+                -english Varik {{thinks}} that Mastodon and some others {{should}} be used more by Lojbanists.
+                -source-id rolj
+                -speaker la varik
+
+-entry:
     -word certu
     -gloss expert, competent in ..., skilled at ... &mdash; expertise, profession, skill &mdash; standard of skill
     -type gismu

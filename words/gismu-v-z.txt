@@ -74,6 +74,34 @@
                 -source-id anta
 
 -entry:
+    -word xekce
+    -gloss to belittle ... by acting pedantic on their grammar, to criticize ...'s grammar without adding to the conversation &mdash; to be needlessly criticized for making a grammatical error as perceived by x<sub>1</sub> 
+    -type gismu
+    -rafsi-cvc xec
+    -rafsi-cvv xe'e
+    -definition:
+        -meaning:
+            -exp x_1 acts Lojbanically cruel/pedantic toward x_2 in manner x_3 (ka). Refers to a particular, infamous cultural phenomenon in the Lojban community wherein many conversations between speakers in or tangential to Lojban tend to very quickly devolve into an argument over grammar, semantics, or usage, with the result that it becomes difficult if not impossible to hold an ordinary conversation in the language on any subject in forums where this behavior is not explicitly discouraged.
+            -note Originally a clipping of {{xekcedipasopa}}, i.e. "XKCD #191," in which R. Munroe observes that Lojban's utility as a means of expression is severely hampered by the fact that speaking it requires you to interact with "the kind of people who learn Lojban." This word has been borrowed in English, as "xekce", which means {{lo xekce}} or {{lo nu xekce}} (depending on context) and shows up very often when talking about Lojban culture. Merely correcting other people's grammar does *not* constitute {{xekce}}. The (infamous) "Glasgow conversation" is the archetypical instance of xekce, where they start talking about something mundane, it lasts for like three sentences before nitcion gets mad and starts lecturing goran about {{bu'u}} (which wasn't accepted as "official" at that time), and then they never get back to the original topic and switch back to english to argue and then goran leaves. Practicing xekce is banned in roljbogu'e. See also <a href="https://lojban.io/FAQ/#misconception-xekce">here</a>.
+            -noshownote This long, long definition and note is taken from jbovlaste and https://discord.com/channels/771781383361921024/771782436807245835/1042853305375785030 from la janbe. How should I credit it?
+            -example:
+                -lojban .i gy. {{xekce}} mi lodu na vajni fa po lo valsi cu tordu
+                -english He {{"lectured"}} me that it's unimportant to have short words.
+                -source-id rolj
+                -speaker la janbe
+                -note Note the air quotes in the translation. This sentence is in tcekitau + jboponei. The equivalent CLL-compatible expression is {{... lo <u>du'u</u> na vajni fa <u>lo su'u</u> lo valsi cu tordu}}.
+            -example:
+                -lojban .i do {{xekce fi tu'a le glibau}}
+                -english You're now {{criticizing [my] English}}!
+                -source-id jbob
+                -speaker yeet kitty
+            -example:
+                -lojban .ie mi tugni la zearen .i ta'o doi mlatu44 ko na milxe se vajni {{lo xekce}} vi .i vajni zmadu fa lo si'o do srera
+                -english Yeah, I agree with Zearen. BTW, mlatu44: Don't care about {{the xekce}} here! (You) making errors is more important.
+                -source-id jbob
+                -speaker qimar
+
+-entry:
     -word xunre
     -gloss (to be) red
     -type gismu
@@ -112,6 +140,38 @@
                 -lojban za'u re'u ku {{lo se zdani}} cu cusku bau na'e bo la lojban
                 -english Once again, {{the inhabitants (of the house)}} speak in a language other than Lojban.
                 -source-id nict
+
+-entry:
+    -word zgadi
+    -gloss (of an event) should happen &mdash; condition in which x<sub>1</sub> should happen &mdash; to think x<sub>1</sub> should happen
+    -type gismu
+    -definition:
+        -meaning:
+            -exp x_1 should/ought to be true if x_2 is true, according to x_3.
+            -note Definition taken from <a href="https://wiki.lojban.io/zgadi">here</a>. In this sense, synonymous with {{cadga}}.
+            -example:
+                -lojban .i {{zgadi}} fa lo nu cusku fi do fe lo du'u lo xrani mi na cnino
+                -english I really {{should}} tell you that the world's dangers are nothing new to me.
+                -source-id jbin
+            -example:
+                -lojban lonu na'e se glibau jbopre cu {{se zgadi}} lonu fanva loi ro bankle ciksi la jbobau
+                -english {{If}} there are non-English-speaking Lojbanists, [we] {{should}} translate all the dialect explanations into Lojban.
+                -source-id rolj
+                -speaker la ziren
+                -noshownote {{loi ro ciksi}} would be "all the explainers"...
+        -meaning:
+            -exp x_1 should do x_2 (event/action).
+            -note This sense isn't documented, but is mentioned once in roljbogu'e (and considered malgli by the mentioner). {{x<sub>1</sub> zgadi x<sub>2</sub>}} under this sense can be expressed with {{x<sub>1</sub> jai zgadi fai x<sub>2</sub>}} under the above sense.
+            -example:
+                -lojban .i mi mo {{zgadi}} .i na'e vajni mi
+                -english What {{should}} I do? I've stopped caring ...
+                -source-id lost
+            -example:
+                -lojban .y ra'a le do smuni mi milxe nelci .e mi jijnu lodu mi {{zgadi}} loka za'o pensi sy.
+                -english Umm, about what you mean, I kinda like it and I feel (by intuition) that I {{should}} think about it more.
+                -source-id rolj
+                -speaker la ziren
+                -note This utterance is in tcekitau ({{du}} for CLL {{du'u}}) and ajbo, see the entry for {{.e}} for more explanation. The {{sy.}} refers to {{le do <u>s</u>muni}}.
 
 -entry:
     -word zgana

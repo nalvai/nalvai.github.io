@@ -146,6 +146,47 @@
                 -source-id odds
 
 -entry:
+    -word ba
+    -gloss Preposition (tense): after ...; future tense
+    -type cmavo
+    -definition:
+        -selmaho PU
+        -meaning:
+            -exp Future: signifies the event happens / the proposition holds at some point after the reference point. 
+            -note When used alone in main clauses, the reference point is usually that of the speaker, which makes {{ba}} function like a future tense marker. In subordinate clauses, the reference point is the point in spacetime at which the outer clause takes place. Note that {{ba}} alone says nothing about whether the sentence is true now or in the past.
+            -example:
+                -lojban mi {{ba}} citka ma
+                -english What {{will}} I eat…?
+                -source-id melb
+            -example:
+                -lojban ni'o {{ba ku}} lo cmalu noltru cu junri te pinka 
+                -english {{Then}} the little prince said, earnestly,
+                -source-id litt
+                -note This sentence is in the "narrative tense," in which the reference point is the time within the story itself. Thus, {{ba ku}} is taken to be the future relative to the events described in the previous sentences, thus its translation of "then". Note that the {{ku}} cannot be elided in this sentence, or the {{ba}} will take {{lo cmalu noltru}} as its reference point.
+            -example:
+                -lojban doi ga'i nai noltru mi'a pu jinvi lo du'u do {{ba}} se catra
+                -english Oh, your Majesty, we thought you {{would}} be killed!
+                -source-id wond
+                -note This is an example of a {{ba}} inside a subordinate clause that expresses a tense <i>relative to the main clause</i>. Since the main clause is in the past tense, the {{ba}} creates the effect of "future-in-the-past." The event expressed by the subordinate clause is still in the past, though later in time than the event expressed by the main clause, according to the context.
+        -meaning:
+            -context When followed by a sumti 
+            -exp Specifies the reference point to be the attached sumti. Essentially means "after ...". 
+            -example:
+                -lojban .i ro da {{ba}} lo nu .a bu limna lo lalxu cu simlu lo ka ba'o cenba
+                -english Everything seemed to have changed {{since}} her swim in the pool.
+                -source-id alic
+        -meaning:
+            -variation selba
+            -context {{se ~}}, when followed by a sumti 
+            -exp Specifies the time distance to the reference point to be the attached sumti.
+            -note Using {{se}} with {{ba}} isn't permitted in CLL Lojban, but is permitted in camxes beta, camxes experimental and zantufa.
+            -example:
+                -lojban .i mi kansa {{seba lo mentu be li ji'i reno}}
+                -english I {{will}} be with [you] {{in about twenty minutes}}.
+                -source-id rolj
+                -speaker Lucilla
+
+-entry:
     -word ba'e
     -gloss Emphasize next word
     -type cmavo

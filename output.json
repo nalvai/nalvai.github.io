@@ -284,6 +284,89 @@
         "good": true
     },
     {
+        "word": "ba",
+        "gloss": "Preposition (tense): after ...; future tense",
+        "type": "cmavo",
+        "freq": "118638",
+        "rank": "43",
+        "tag": "core-1",
+        "rafsi-cvc": null,
+        "rafsi-ccv": null,
+        "rafsi-cvv": null,
+        "definition": [
+            {
+                "selmaho": "PU",
+                "meaning": [
+                    {
+                        "exp": "Future: signifies the event happens / the proposition holds at some point after the reference point.",
+                        "note": "When used alone in main clauses, the reference point is usually that of the speaker, which makes {{ba}} function like a future tense marker. In subordinate clauses, the reference point is the point in spacetime at which the outer clause takes place. Note that {{ba}} alone says nothing about whether the sentence is true now or in the past.",
+                        "example": [
+                            {
+                                "lojban": "mi {{ba}} citka ma",
+                                "english": "What {{will}} I eat…?",
+                                "source-id": "melb",
+                                "source": "la melbi e le ractu",
+                                "author": "la lalxu",
+                                "link": "https://lynn.github.io/la-melbi-e-le-ractu/"
+                            },
+                            {
+                                "lojban": "ni'o {{ba ku}} lo cmalu noltru cu junri te pinka",
+                                "english": "{{Then}} the little prince said, earnestly,",
+                                "source-id": "litt",
+                                "note": "This sentence is in the \"narrative tense,\" in which the reference point is the time within the story itself. Thus, {{ba ku}} is taken to be the future relative to the events described in the previous sentences, thus its translation of \"then\". Note that the {{ku}} cannot be elided in this sentence, or the {{ba}} will take {{lo cmalu noltru}} as its reference point.",
+                                "source": "The Little Prince",
+                                "author": "Antoine de Saint-Exupéry",
+                                "translator": "la .xorxes.",
+                                "link": "https://mw.lojban.org/papri/le_cmalu_noltru"
+                            },
+                            {
+                                "lojban": "doi ga'i nai noltru mi'a pu jinvi lo du'u do {{ba}} se catra",
+                                "english": "Oh, your Majesty, we thought you {{would}} be killed!",
+                                "source-id": "wond",
+                                "note": "This is an example of a {{ba}} inside a subordinate clause that expresses a tense <i>relative to the main clause</i>. Since the main clause is in the past tense, the {{ba}} creates the effect of \"future-in-the-past.\" The event expressed by the subordinate clause is still in the past, though later in time than the event expressed by the main clause, according to the context.",
+                                "source": "The Wonderful Wizard of Oz",
+                                "author": "L. Frank Baum",
+                                "translator": "la solpa'i",
+                                "link": "https://selpahi.de/oz_plain.html"
+                            }
+                        ]
+                    },
+                    {
+                        "context": "When followed by a sumti",
+                        "exp": "Specifies the reference point to be the attached sumti. Essentially means \"after ...\".",
+                        "example": [
+                            {
+                                "lojban": ".i ro da {{ba}} lo nu .a bu limna lo lalxu cu simlu lo ka ba'o cenba",
+                                "english": "Everything seemed to have changed {{since}} her swim in the pool.",
+                                "source-id": "alic",
+                                "source": "Alice in Wonderland",
+                                "author": "Lewis Carroll",
+                                "translator": "la .xorxes.",
+                                "link": "https://mw.lojban.org/papri/lo_selfri_be_la_.alis._bei_bu%27u_la_selmacygu%27e"
+                            }
+                        ]
+                    },
+                    {
+                        "variation": "selba",
+                        "context": "{{se ~}}, when followed by a sumti",
+                        "exp": "Specifies the time distance to the reference point to be the attached sumti.",
+                        "note": "Using {{se}} with {{ba}} isn't permitted in CLL Lojban, but is permitted in camxes beta, camxes experimental and zantufa.",
+                        "example": [
+                            {
+                                "lojban": ".i mi kansa {{seba lo mentu be li ji'i reno}}",
+                                "english": "I {{will}} be with [you] {{in about twenty minutes}}.",
+                                "source-id": "rolj",
+                                "speaker": "Lucilla",
+                                "source": "roljbogu'e chatlog"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "good": true
+    },
+    {
         "word": "ba'e",
         "gloss": "Emphasize next word",
         "type": "cmavo",
@@ -5282,6 +5365,160 @@
                 ]
             }
         ],
+        "good": true
+    },
+    {
+        "word": "cadga",
+        "gloss": "(of an event) should happen &mdash; condition in which x<sub>1</sub> should happen &mdash; to think x<sub>1</sub> should happen",
+        "type": "gismu",
+        "definition": [
+            {
+                "meaning": [
+                    {
+                        "exp": "x_1 should/ought to be true if x_2 is true, according to x_3.",
+                        "note": "Definition taken from <a href=\"https://wiki.lojban.io/zgadi\">here</a>. Synonymous with {{zgadi}} (sense 1).",
+                        "example": [
+                            {
+                                "lojban": ".i {{cadga}} fa lo ka kunti .ijeku'i co'a zgana mu'i lo ka viska lo kandi gusni",
+                                "english": "Though it {{should have}} been empty, I started looking at it because I saw a faint light.",
+                                "source-id": "denp",
+                                "source": ".",
+                                "author": "全てあなたの所為です",
+                                "translator": "tetsusquared (la .tirprij.)",
+                                "link": "https://www.youtube.com/watch?v=O4yrd-E_xpc"
+                            },
+                            {
+                                "lojban": ".i {{cadga}} fa lo nu do cusku lu la .lojban. li'u .a lu lo jbobau li'u",
+                                "english": "You {{should}} say \"la .lojban.\" or \"lo jbobau\".",
+                                "source-id": "rolj",
+                                "speaker": "la lunra",
+                                "source": "roljbogu'e chatlog"
+                            },
+                            {
+                                "lojban": "ni'o la .varik. cu {{te cadga fi}} lo nu la'oi .Mastodon. joi zo'e cu zenba pe'a le ka ce'u selpli lo jbopre",
+                                "english": "Varik {{thinks}} that Mastodon and some others {{should}} be used more by Lojbanists.",
+                                "source-id": "rolj",
+                                "speaker": "la varik",
+                                "source": "roljbogu'e chatlog"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "tag": "attested",
+        "freq": 0,
+        "rafsi-ccv": null,
+        "rafsi-cvc": null,
+        "rafsi-cvv": null,
+        "good": true
+    },
+    {
+        "word": "xekce",
+        "gloss": "to belittle ... by acting pedantic on their grammar, to criticize ...'s grammar without adding to the conversation &mdash; to be needlessly criticized for making a grammatical error as perceived by x<sub>1</sub>",
+        "type": "gismu",
+        "rafsi-cvc": "xec",
+        "rafsi-cvv": "xe'e",
+        "definition": [
+            {
+                "meaning": [
+                    {
+                        "exp": "x_1 acts Lojbanically cruel/pedantic toward x_2 in manner x_3 (ka). Refers to a particular, infamous cultural phenomenon in the Lojban community wherein many conversations between speakers in or tangential to Lojban tend to very quickly devolve into an argument over grammar, semantics, or usage, with the result that it becomes difficult if not impossible to hold an ordinary conversation in the language on any subject in forums where this behavior is not explicitly discouraged.",
+                        "note": "Originally a clipping of {{xekcedipasopa}}, i.e. \"XKCD #191,\" in which R. Munroe observes that Lojban's utility as a means of expression is severely hampered by the fact that speaking it requires you to interact with \"the kind of people who learn Lojban.\" This word has been borrowed in English, as \"xekce\", which means {{lo xekce}} or {{lo nu xekce}} (depending on context) and shows up very often when talking about Lojban culture. Merely correcting other people's grammar does *not* constitute {{xekce}}. The (infamous) \"Glasgow conversation\" is the archetypical instance of xekce, where they start talking about something mundane, it lasts for like three sentences before nitcion gets mad and starts lecturing goran about {{bu'u}} (which wasn't accepted as \"official\" at that time), and then they never get back to the original topic and switch back to english to argue and then goran leaves. Practicing xekce is banned in roljbogu'e. See also <a href=\"https://lojban.io/FAQ/#misconception-xekce\">here</a>.",
+                        "noshownote": "This long, long definition and note is taken from jbovlaste and https://discord.com/channels/771781383361921024/771782436807245835/1042853305375785030 from la janbe. How should I credit it?",
+                        "example": [
+                            {
+                                "lojban": ".i gy. {{xekce}} mi lodu na vajni fa po lo valsi cu tordu",
+                                "english": "He {{\"lectured\"}} me that it's unimportant to have short words.",
+                                "source-id": "rolj",
+                                "speaker": "la janbe",
+                                "note": "Note the air quotes in the translation. This sentence is in tcekitau + jboponei. The equivalent CLL-compatible expression is {{... lo <u>du'u</u> na vajni fa <u>lo su'u</u> lo valsi cu tordu}}.",
+                                "source": "roljbogu'e chatlog"
+                            },
+                            {
+                                "lojban": ".i do {{xekce fi tu'a le glibau}}",
+                                "english": "You're now {{criticizing [my] English}}!",
+                                "source-id": "jbob",
+                                "speaker": "yeet kitty",
+                                "source": "jbobratca chatlog"
+                            },
+                            {
+                                "lojban": ".ie mi tugni la zearen .i ta'o doi mlatu44 ko na milxe se vajni {{lo xekce}} vi .i vajni zmadu fa lo si'o do srera",
+                                "english": "Yeah, I agree with Zearen. BTW, mlatu44: Don't care about {{the xekce}} here! (You) making errors is more important.",
+                                "source-id": "jbob",
+                                "speaker": "qimar",
+                                "source": "jbobratca chatlog"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "tag": "attested",
+        "freq": 0,
+        "rafsi-ccv": null,
+        "good": true
+    },
+    {
+        "word": "zgadi",
+        "gloss": "(of an event) should happen &mdash; condition in which x<sub>1</sub> should happen &mdash; to think x<sub>1</sub> should happen",
+        "type": "gismu",
+        "definition": [
+            {
+                "meaning": [
+                    {
+                        "exp": "x_1 should/ought to be true if x_2 is true, according to x_3.",
+                        "note": "Definition taken from <a href=\"https://wiki.lojban.io/zgadi\">here</a>. In this sense, synonymous with {{cadga}}.",
+                        "example": [
+                            {
+                                "lojban": ".i {{zgadi}} fa lo nu cusku fi do fe lo du'u lo xrani mi na cnino",
+                                "english": "I really {{should}} tell you that the world's dangers are nothing new to me.",
+                                "source-id": "jbin",
+                                "source": "jbini canlu",
+                                "author": "Noise and Bells (la janbe)",
+                                "link": "https://www.youtube.com/watch?v=3aNGqujy-6s"
+                            },
+                            {
+                                "lojban": "lonu na'e se glibau jbopre cu {{se zgadi}} lonu fanva loi ro bankle ciksi la jbobau",
+                                "english": "{{If}} there are non-English-speaking Lojbanists, [we] {{should}} translate all the dialect explanations into Lojban.",
+                                "source-id": "rolj",
+                                "speaker": "la ziren",
+                                "noshownote": "{{loi ro ciksi}} would be \"all the explainers\"...",
+                                "source": "roljbogu'e chatlog"
+                            }
+                        ]
+                    },
+                    {
+                        "exp": "x_1 should do x_2 (event/action).",
+                        "note": "This sense isn't documented, but is mentioned once in roljbogu'e (and considered malgli by the mentioner). {{x<sub>1</sub> zgadi x<sub>2</sub>}} under this sense can be expressed with {{x<sub>1</sub> jai zgadi fai x<sub>2</sub>}} under the above sense.",
+                        "example": [
+                            {
+                                "lojban": ".i mi mo {{zgadi}} .i na'e vajni mi",
+                                "english": "What {{should}} I do? I've stopped caring ...",
+                                "source-id": "lost",
+                                "source": "The Lost One's Weeping",
+                                "author": "Neru",
+                                "translator": "tetsusquared (la .tirprij.)",
+                                "link": "https://www.youtube.com/watch?v=9TA1-lVHAUM"
+                            },
+                            {
+                                "lojban": ".y ra'a le do smuni mi milxe nelci .e mi jijnu lodu mi {{zgadi}} loka za'o pensi sy.",
+                                "english": "Umm, about what you mean, I kinda like it and I feel (by intuition) that I {{should}} think about it more.",
+                                "source-id": "rolj",
+                                "speaker": "la ziren",
+                                "note": "This utterance is in tcekitau ({{du}} for CLL {{du'u}}) and ajbo, see the entry for {{.e}} for more explanation. The {{sy.}} refers to {{le do <u>s</u>muni}}.",
+                                "source": "roljbogu'e chatlog"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "tag": "attested",
+        "freq": 0,
+        "rafsi-ccv": null,
+        "rafsi-cvc": null,
+        "rafsi-cvv": null,
         "good": true
     }
 ]

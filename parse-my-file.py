@@ -116,6 +116,9 @@ def search_in_manual_data(target):
     return None
 
 good_data = []
+included_wordlist = set()
+canon_count = 0
+addon_count = 0
 
 for entry in automated_data:
     manual_entry = search_in_manual_data(entry["word"])
@@ -124,7 +127,23 @@ for entry in automated_data:
             entry[tag] = manual_entry[tag]
         if process_quotes(manual_entry):
             entry["good"] = True
+            included_wordlist.add(entry["word"])
             good_data.append(entry)
+            canon_count += 1
+
+for entry in manual_data:
+    if entry["word"] not in included_wordlist:
+        if process_quotes(entry):
+            entry["tag"] = "attested"
+            entry["freq"] = 0
+            entry["rafsi-ccv"] = entry.get("rafsi-ccv", None) 
+            entry["rafsi-cvc"] = entry.get("rafsi-cvc", None) 
+            entry["rafsi-cvv"] = entry.get("rafsi-cvv", None) 
+            entry["good"] = True
+            included_wordlist.add(entry["word"])
+            good_data.append(entry)
+            automated_data.append(entry)
+            addon_count += 1
 
 contributors = {}
 for entry in good_data:
@@ -140,7 +159,7 @@ with open("output_all.json", "w", encoding="utf-8") as json_file:
 with open("output.json", "w", encoding="utf-8") as json_file:
     json.dump(good_data, json_file, ensure_ascii=False, indent=4)
 
-print(f"{len(good_data)} words recorded")
+print(f"{len(good_data)} words recorded ({canon_count} canon + {addon_count} addon)")
 print(f"{len(quotes)} quotes recorded")
 print("Conversion complete. Output saved to output.json.")
 
@@ -189,7 +208,7 @@ for c in contributor_order:
     if len(contributors[c]) == 1:
         to_print += "(1 word): "
     else:
-        to_print += f"({len(contributor[c])} words): "
+        to_print += f"({len(contributors[c])} words): "
     for w in contributors[c]:
         to_print += f"**{w}**, "
     replace_2 += to_print[:-2] + "."
@@ -216,13 +235,15 @@ def generate_html_wordlist(wordlist):
     result += "</tbody></table>"
     return result
 
-tags = {"core-1": [], "core-2": [], "core-3": [], "common": [], "favored": []}
+tags = {"core-1": [], "core-2": [], "core-3": [], "common": [], "favored": [], "attested": []}
 tag_desc = {
 "core-1": "These words make up <b>80%</b> of the corpus.", 
 "core-2": "These words make up further <b>10%</b> of the corpus. Combined with above, they make up <b>90%</b> of the corpus.", 
 "core-3": "These words make up further <b>5%</b> of the corpus. Combined with above, they make up <b>95%</b> of the corpus.", 
 "common": "These words make up further <b>3%</b> of the corpus. Combined with above, they make up <b>98%</b> of the corpus.", 
-"favored": "Other noteworthy words. These words are included because they are either defined in gimste/ma'orste, or have a high vote score (at least +7) on jbovlaste."}
+"favored": "Other words of historical significance. These words are included because they are either defined in gimste/ma'orste, or have a high vote score (at least +7) on jbovlaste.",
+"attested": 'Other words used by the community. Words in this category are subject to the inclusion criteria described <a href="https://github.com/nalvai/nalvai.github.io?tab=readme-ov-file#suggest-a-worddefinition">here</a>. These words, while being actively used by the community, did not show up much in the frequency list, probably because of how the list was constructed.'}
+
 words = [x for x in automated_data]
 words.sort(key = lambda x: x["word"])
 for w in words:
@@ -246,8 +267,8 @@ with open("wordlist.html", "w", encoding="utf-8") as f:
                 <p>In this word list, a word with a fully filled background means that it currently has an entry in NALVAI. A word with only a border means that it has not yet been included, although I intend to include it in the future.</p>
     '''
     print(head, file=f)
-    for tag in ["core-1", "core-2", "core-3", "common", "favored"]:
-        print("<h3>" + tag.replace("-", " ").title() + f" ({len(tags[tag])} words)" +  "</h3>", file=f)
+    for tag in ["core-1", "core-2", "core-3", "common", "favored", "attested"]:
+        print("<h3>" + tag.replace("-", " ").title() + (f" ({len(tags[tag])} words)" if not tag[0] == "a" else "") +  "</h3>", file=f)
         print("<p>" + tag_desc[tag] + "</p>", file=f)
         content = generate_html_wordlist(tags[tag])
         print(content, file=f)
