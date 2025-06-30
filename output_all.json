@@ -7446,7 +7446,7 @@
     },
     {
         "word": "cu",
-        "gloss": "selbri separator",
+        "gloss": "Seperator: seperates leading sumti from main selbri",
         "type": "cmavo",
         "freq": "590720",
         "rank": "7",
@@ -7459,11 +7459,70 @@
                 "selmaho": "CU",
                 "meaning": [
                     {
-                        "exp": "elidable marker: separates selbri from preceding sumti, allows preceding terminator elision."
+                        "exp": "Elidable marker: separates selbri from preceding sumti, allows preceding terminator elision.",
+                        "note": "As defined in CLL and BPFK Lojban. {{cu}} is elidable when there are no terminators needed in place of {{cu}}. When elidable, {{cu}} is usually elided when only pro-sumti precede it; when the preceding sumti is more complex (for example, {{la'e di'u}} or quotes), {{cu}} is sometimes kept to keep the sentence structure clear.",
+                        "example": [
+                            {
+                                "lojban": ".i lo pixra {{cu}} mapti",
+                                "english": "One drawing goes along all right.",
+                                "source-id": "litt",
+                                "source": "The Little Prince",
+                                "author": "Antoine de Saint-Exupéry",
+                                "translator": "la .xorxes.",
+                                "link": "https://mw.lojban.org/papri/le_cmalu_noltru"
+                            },
+                            {
+                                "lojban": ".i do lo nu djuno lo du'u ma kau smuvanbi {{cu}} nitcu lo nu jdice lo du'u ma kau smuni",
+                                "english": "You'll [often] need to know the context to decide what things mean.",
+                                "source-id": "tokp",
+                                "note": "An example of {{cu}} closing off multiple subordinate clauses ({{lo nu djuno ...}} and {{lo du'u ma kau smuvanbi}}) at once. In this sentence, the full terminator sequence in place of {{cu}} would be {{vau kei ku vau kei ku}}. Also note that there can be a {{cu}} in {{ma kau (cu) smuvanbi}}, but it's elided: as there aren't terminators needed in the first place, using {{cu}} here offers no real benefit.",
+                                "source": "Toki Pona Cheatsheet",
+                                "author": "Blinry",
+                                "translator": "la .samflir.",
+                                "link": "https://blinry.org/toki-pona-cheat-sheet/toki-pona-cheat-sheet-jbo.pdf",
+                                "originallink": "https://blinry.org/toki-pona-cheat-sheet/toki-pona-cheat-sheet.pdf"
+                            },
+                            {
+                                "lojban": ".i se cau le cartu poi dunda ke'a mi {{cu}} bajra litru se ka'a le balvi poi mi cuxna ku",
+                                "english": "So without the map that was given to me, [I'll] run towards the future that I've chosen myself.",
+                                "source-id": "rout",
+                                "note": "An example of elidable {{cu}} kept for clarity. The last {{ku}} in this sentence is kept for metrical purpose.",
+                                "source": "Route Sphere",
+                                "author": "Last Note.",
+                                "translator": "tetsusquared (la .tirprij.)",
+                                "link": "https://www.youtube.com/watch?v=4aDrH3wEUtQ"
+                            }
+                        ]
+                    },
+                    {
+                        "exp": "Starts a bridi tail (main selbri + trailing sumti if any). Termintate with {{vau}}.",
+                        "note": "This sense is compatible with the above sense, and also enables {{cu}} to appear when there are no preceding sumti. This sense of {{cu}} is the basis of JACU and is supported by camxes beta, camxes experimental and zantufa.",
+                        "example": [
+                            {
+                                "lojban": ".i sei fa'a ti'a catlu {{cu}} zvati fa pa nobli je ro'opno simlu zdani",
+                                "english": "They looked back. There they saw a single, elegant Western-style home.",
+                                "source-id": "rest",
+                                "note": "As a {{sei}}-structure isn't a sumti, there are no sumti before {{cu}}, so this sentence doesn't parse in CLL/BPFK Lojban. In CLL/BPFK Lojban, {{se'u}} must be used in place of {{cu}} here to close off the {{sei}}-structure properly.",
+                                "source": "The Restaurant of Many Orders",
+                                "author": "Kenji Miyazawa",
+                                "translator": "la .tijlan.",
+                                "link": "https://docs.google.com/document/d/10Rnm80SieLrpFnk9kn_9bCuon96CNSPTA8hqVaWQYbQ/edit?tab=t.0"
+                            },
+                            {
+                                "lojban": ".i mi dansu je {{cu}} kansa la terdi lo ka carna",
+                                "english": "I dance and spin with the Earth.",
+                                "source-id": "zaho",
+                                "note": "An example of JACU. In this sentence, {{je}} connects two bridi-tails, {{dansu}} and {{cu kansa ...}}. Replace {{je cu}} with {{gi'e}} to convert it to CLL/BPFK Lojban.",
+                                "source": "za'o",
+                                "author": "Djemynai",
+                                "link": "https://www.youtube.com/watch?v=TKbFwr-1ZQ4"
+                            }
+                        ]
                     }
                 ]
             }
-        ]
+        ],
+        "good": true
     },
     {
         "word": "cu'a",
