@@ -1,5 +1,26 @@
 
 -entry:
+    -word vajni
+    -gloss important, to matter &mdash; to care about, to value &mdash; (of an aspect, property) to make x<sub>1</sub> important
+    -type gismu
+    -definition:
+        -meaning:
+            -exp x_1 (object/event) is important/significant to x_2 (person/event) in aspect/for reason x_3 (nu/ka).
+            -example:
+                -lojban .i nu {{se vajni}} lo tcila poi na {{vajni}}
+                -english {{Caring about}} details that don't {{matter}}
+                -source-id nafe
+            -example:
+                -lojban .i xu do lo ka gleki cu se {{vajni}}
+                -english Does happiness [not] {{mean a thing to}} you?
+                -source-id reed
+            -example:
+                -lojban .i lo nunmro xaircu'i cu {{vajni fi}} lo ka lo dracykei cu terpa
+                -english Risk of death is {{important in}} that it makes RPG players fear.
+                -source-id rolj
+                -speaker AstroMacGuffin
+
+-entry:
     -word valsi
     -gloss word, (of a word) to mean &mdash; meaning (of a word) &mdash; (of a language) to have a word for...
     -type gismu
