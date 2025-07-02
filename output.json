@@ -1072,6 +1072,54 @@
         "good": true
     },
     {
+        "word": "ciska",
+        "gloss": "to write &mdash; to be written, text &mdash; writing surface/medium &mdash; writing implement/instrument",
+        "type": "gismu",
+        "freq": "18310",
+        "rank": "248",
+        "tag": "core-2",
+        "rafsi-cvc": null,
+        "rafsi-ccv": null,
+        "rafsi-cvv": "ci'a",
+        "definition": [
+            {
+                "meaning": [
+                    {
+                        "exp": "x_1 inscribes/writes x_2 on display/storage medium x_3 with writing implement x_4; x_1 is a scribe.",
+                        "noshownote": "x_4 is sometimes seen to mean \"writing medium\", probably due to influence from {{vreji}} or {{cusku}}.",
+                        "example": [
+                            {
+                                "lojban": "do {{ciska}} fi lo mi risna fe lu ai mi do no roi cliva li'u",
+                                "english": "You {{wrote}} on my heart the phrase \"I'm never going to leave you\".",
+                                "source-id": "pram",
+                                "source": "prami simbi'o",
+                                "author": "Djemynai",
+                                "link": "https://www.youtube.com/watch?v=g3BQ-pE7ypY"
+                            },
+                            {
+                                "lojban": "la .dorotis. cu catlu lo nenri be la solji mapku gi'e viska lo so'u valsi poi {{se ciska fi lo nenri korbi}}",
+                                "english": "Dorothy looked inside the Golden Cap and saw some words {{written upon the lining}}.",
+                                "source-id": "wond",
+                                "source": "The Wonderful Wizard of Oz",
+                                "author": "L. Frank Baum",
+                                "translator": "la solpa'i",
+                                "link": "https://selpahi.de/oz_plain.html"
+                            },
+                            {
+                                "lojban": ".i mi ca mabla za'a {{ciska fo}} lo batkyfoi",
+                                "english": "I see I'm {{typing}} badly {{with}} my keyboard now.",
+                                "source-id": "rolj",
+                                "speaker": "la srasu",
+                                "source": "roljbogu'e chatlog"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "good": true
+    },
+    {
         "word": "citka",
         "gloss": "to eat, to consume &mdash; to be eaten, food",
         "type": "gismu",
@@ -4044,6 +4092,7 @@
                 "meaning": [
                     {
                         "exp": "x_1 (event/state) seems pleasant to/pleases x_2 under conditions x_3.",
+                        "noshownote": "At least two instances of \"x_1 enjoys x_2\" (= se pluka) is seen.",
                         "example": [
                             {
                                 "lojban": ".i lo vi gugde cu ricfu gi'e {{pluka}}",

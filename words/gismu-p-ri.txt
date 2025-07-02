@@ -90,6 +90,7 @@
     -definition:
         -meaning:
             -exp x_1 (event/state) seems pleasant to/pleases x_2 under conditions x_3.
+            -noshownote At least two instances of "x_1 enjoys x_2" (= se pluka) is seen.
             -example:
                 -lojban .i lo vi gugde cu ricfu gi'e {{pluka}}
                 -english The country here is rich and {{pleasant}}.
