@@ -1,6 +1,6 @@
 # NALVAI: Nalvai's Assortment of Lojban Vocabulary Attestation Instances
 ## What is this?
-**NALVAI** is a Lojban dictionary that uses quotations from *real-world texts* as examples of usage. It currently contains **106 words** with [**310 quotations** from **73 Lojban texts**](https://github.com/nalvai/nalvai.github.io#sources). Please provide quotations and definitions to help the dictionary grow!
+**NALVAI** is a Lojban dictionary that uses quotations from *real-world texts* as examples of usage. It currently contains **107 words** with [**313 quotations** from **73 Lojban texts**](https://github.com/nalvai/nalvai.github.io#sources). Please provide quotations and definitions to help the dictionary grow!
 
 Here is how a word look like in this dictionary:
 ![The word a in this dictionary](https://raw.githubusercontent.com/nalvai/nalvai.github.io/refs/heads/master/example_a.png)
@@ -94,10 +94,10 @@ A Lojban word has its meaning encompass over different parts of speech in Englis
 Lojban texts with at least one quotation in this dictionary.
 
 - (68 quotes) roljbogu'e chatlog
-- (26 quotes) [The Little Prince](https://mw.lojban.org/papri/le_cmalu_noltru) by Antoine de Saint-Exupéry, translation by la .xorxes.
+- (27 quotes) [The Little Prince](https://mw.lojban.org/papri/le_cmalu_noltru) by Antoine de Saint-Exupéry, translation by la .xorxes.
 - (19 quotes) [Alice in Wonderland](https://mw.lojban.org/papri/lo_selfri_be_la_.alis._bei_bu%27u_la_selmacygu%27e) by Lewis Carroll, translation by la .xorxes.
-- (17 quotes) [The Wonderful Wizard of Oz](https://selpahi.de/oz_plain.html) by L. Frank Baum, translation by la solpa'i
-- (12 quotes) jbobratca chatlog
+- (18 quotes) [The Wonderful Wizard of Oz](https://selpahi.de/oz_plain.html) by L. Frank Baum, translation by la solpa'i
+- (13 quotes) jbobratca chatlog
 - (10 quotes) [la melbi e le ractu](https://lynn.github.io/la-melbi-e-le-ractu/) by la lalxu
 - (10 quotes) [la nicte cadzu](https://mw.lojban.org/papri/Robin%27s_Palm_Writings:_la_nicte_cadzu) by Robin Lee Powell
 - (9 quotes) [The Metamorphosis](https://mw.lojban.org/images/f/fc/lonubinxo.pdf) by Franz Kafka, translation by la .xorxes.
@@ -169,7 +169,7 @@ Lojban texts with at least one quotation in this dictionary.
 
 The quotes from chatlogs are from the following speakers: (in no particular order)
 
-misotanni, .kúblizel., la fagri, la ziren, la lalxu, la lunra, varik, nitfg, la xrula, la .zi., la katador, latkerlo, la bakre'u, la nonselcme, la srasu, Magnap, AstroMacGuffin, la kanis, bancip, la evis, la varik, la janbe, Stephen Dedalus, dram, la gleki, yeet kitty, la samflir, niftg, Lucilla, la melmi, la nalvai, la lunbe, \_4Denthusiast, la ilmen, qimar, la solpa'i, 
+la varik, \_4Denthusiast, AstroMacGuffin, la katador, nitfg, la solpa'i, la lalxu, la lunra, la ziren, la ilmen, Magnap, dram, bancip, niftg, la bakre'u, varik, misotanni, la evis, Stephen Dedalus, la kanis, la melmi, qimar, Lucilla, la srasu, la janbe, la xrula, yeet kitty, la .zi., .kúblizel., latkerlo, la nonselcme, la nalvai, la lunbe, la gleki, la samflir, la fagri, 
 
 Huge thanks to the following individuals who contributed to this project:
 

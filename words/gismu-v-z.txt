@@ -163,6 +163,29 @@
                 -source-id nict
 
 -entry:
+    -word zdile
+    -gloss funny, fun, entertainment, amusement, (of an object, event) to entertain, to amuse &mdash; to have fun at ..., to find ... funny/entertaining/amusing &mdash; (of an aspect, property) to make x<sub>1</sub> funny
+    -type gismu
+    -definition:
+        -meaning:
+            -exp x_1 (abstract) is amusing/entertaining to x_2 in property/aspect x_3; x_3 is what amuses x_2 about x_1.
+            -note The x_1 can be either a concrete (person, object, etc.) or an abstraction (event etc.). 
+            -example:
+                -lojban .i mi na {{se zdile}} lo xalbo
+                -english I don't {{amuse myself}} with balderdash.
+                -source-id litt
+            -example:
+                -lojban .i mu'i bo sysy. kusru mutce gi'e jinvi lo du'u {{zdile fa lo nu kusru mi'a}}
+                -english ..., for they are full of mischief and think {{it great fun to plague us}}.
+                -source-id wond
+            -example:
+                -lojban doi la porgau {{ma te zdile fi}} le'i jufra
+                -english Porgau, {{what's so funny about}} that sentence?
+                -source-id jbob
+                -speaker la srasu
+                -note This sentence is in gadganzu. {{le'i}} functions as a demonstrative article (think of it as pointing to a referent) here.
+
+-entry:
     -word zgadi
     -gloss (of an event) should happen &mdash; condition in which x<sub>1</sub> should happen &mdash; to think x<sub>1</sub> should happen
     -type gismu

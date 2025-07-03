@@ -5328,6 +5328,56 @@
         "good": true
     },
     {
+        "word": "zdile",
+        "gloss": "funny, fun, entertainment, amusement, (of an object, event) to entertain, to amuse &mdash; to have fun at ..., to find ... funny/entertaining/amusing &mdash; (of an aspect, property) to make x<sub>1</sub> funny",
+        "type": "gismu",
+        "freq": "18320",
+        "rank": "247",
+        "tag": "core-2",
+        "rafsi-cvc": null,
+        "rafsi-ccv": "zdi",
+        "rafsi-cvv": null,
+        "definition": [
+            {
+                "meaning": [
+                    {
+                        "exp": "x_1 (abstract) is amusing/entertaining to x_2 in property/aspect x_3; x_3 is what amuses x_2 about x_1.",
+                        "note": "The x_1 can be either a concrete (person, object, etc.) or an abstraction (event etc.).",
+                        "example": [
+                            {
+                                "lojban": ".i mi na {{se zdile}} lo xalbo",
+                                "english": "I don't {{amuse myself}} with balderdash.",
+                                "source-id": "litt",
+                                "source": "The Little Prince",
+                                "author": "Antoine de Saint-Exupéry",
+                                "translator": "la .xorxes.",
+                                "link": "https://mw.lojban.org/papri/le_cmalu_noltru"
+                            },
+                            {
+                                "lojban": ".i mu'i bo sysy. kusru mutce gi'e jinvi lo du'u {{zdile fa lo nu kusru mi'a}}",
+                                "english": "..., for they are full of mischief and think {{it great fun to plague us}}.",
+                                "source-id": "wond",
+                                "source": "The Wonderful Wizard of Oz",
+                                "author": "L. Frank Baum",
+                                "translator": "la solpa'i",
+                                "link": "https://selpahi.de/oz_plain.html"
+                            },
+                            {
+                                "lojban": "doi la porgau {{ma te zdile fi}} le'i jufra",
+                                "english": "Porgau, {{what's so funny about}} that sentence?",
+                                "source-id": "jbob",
+                                "speaker": "la srasu",
+                                "note": "This sentence is in gadganzu. {{le'i}} functions as a demonstrative article (think of it as pointing to a referent) here.",
+                                "source": "jbobratca chatlog"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "good": true
+    },
+    {
         "word": "ze'e",
         "gloss": "Preposition (tense): mark unbounded time interval",
         "type": "cmavo",
