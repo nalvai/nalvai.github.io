@@ -3809,7 +3809,7 @@
     },
     {
         "word": "ca'o",
-        "gloss": "as, continuative, while",
+        "gloss": "Preposition (tense): continuative/progressive; event ongoing/in progress",
         "type": "cmavo",
         "freq": "31292",
         "rank": "162",
@@ -3822,11 +3822,58 @@
                 "selmaho": "ZAhO",
                 "meaning": [
                     {
-                        "exp": "interval event contour: during ...; continuative                                    |-----|."
+                        "exp": "Continuative/Progressive: signifies that the event is ongoing.",
+                        "example": [
+                            {
+                                "lojban": ".i do ca lo nu do mrobi'o cu {{ca'o klama lo do zdani}}",
+                                "english": "You {{were on your way home}} when you died.",
+                                "source-id": "eggq",
+                                "source": "The Egg",
+                                "author": "Andy Weir",
+                                "translator": "la nalvai",
+                                "link": "https://nalvai.neocities.org/translations/the-egg/"
+                            }
+                        ]
+                    },
+                    {
+                        "context": "When followed by a sumti",
+                        "variation": "CLL",
+                        "exp": "while ... is ongoing; during ...",
+                        "note": "The sumti introduced by {{ca'o}} indicates an ongoing event that encompasses the situation.",
+                        "example": [
+                            {
+                                "lojban": "ni'o ca pa nicte ku {{ca'o lo nu ly. sipna kei}} lo nanmu makcu noi cpana lo ranmi fagri cipni ku'o cu tolcanci",
+                                "english": "One night {{as he slept}}, an old man appeared on a phoenix.",
+                                "source-id": "lian",
+                                "source": "Liang and the Magic Paintbrush",
+                                "author": "Demi",
+                                "translator": "la darsi",
+                                "editor": "la gleki",
+                                "link": "https://docs.google.com/spreadsheets/d/1_vkiwqOIOIJPqZTiomzd4ApUSEQXhEY6CeyZD_6c-PA/edit?gid=768225989#gid=768225989"
+                            }
+                        ]
+                    },
+                    {
+                        "context": "When followed by a sumti",
+                        "variation": "BPFK",
+                        "exp": "(event is) ongoing when ...",
+                        "note": "The sumti introduced by {{ca'o}} indicates an event encompassed by the ongoing situation. It does not give the duration of the main event ({{ZEhA}}s do that), it only indicates that the main event completely overlaps another event.",
+                        "example": [
+                            {
+                                "lojban": ".i la .gregor. {{ca'o lo nu lo ckiku cu carna}} cu dansu sruri lo stela",
+                                "english": "{{As the key turned round}}, Gregor was turning around the lock [with it].",
+                                "source-id": "meta",
+                                "source": "The Metamorphosis",
+                                "author": "Franz Kafka",
+                                "translator": "la .xorxes.",
+                                "link": "https://mw.lojban.org/images/f/fc/lonubinxo.pdf"
+                            }
+                        ]
                     }
                 ]
             }
-        ]
+        ],
+        "good": true
     },
     {
         "word": "carce",
