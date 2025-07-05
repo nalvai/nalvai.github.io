@@ -5604,6 +5604,61 @@
         "good": true
     },
     {
+        "word": "zoi",
+        "gloss": "Quotation: start non-Lojban quotation",
+        "type": "cmavo",
+        "freq": "95550",
+        "rank": "53",
+        "tag": "core-1",
+        "rafsi-cvc": null,
+        "rafsi-ccv": null,
+        "rafsi-cvv": null,
+        "definition": [
+            {
+                "selmaho": "ZOI",
+                "meaning": [
+                    {
+                        "exp": "Begin non-Lojban quotation. The next Lojban word loses all its grammatical function, becomes the quote delimiter, and quotes all further text until the same word is repeated. The quote delimiters and the quoted text must be separated with pauses. The entire construct (from {{zoi}} to the second delimiter) is a sumti meaning \"the text &lt;quoted text&gt;\", and is considered a single word for grammatical purposes.",
+                        "note": "The delimiter is usually chosen to give hints to the nature of the quoted text. For example, the first letter of the source language, or {{urli}} when it is an URL. {{zoi}} is often used as the default delimiter if no hints is to be given (in which case the construct is {{zoi zoi. &lt;quoted text&gt; .zoi}}).",
+                        "example": [
+                            {
+                                "lojban": ".i ku'i la mapypre jo'u la cibmasti cicyractu cu bacru {{zoi sance c c sance}}",
+                                "english": "..., but the Hatter and the March Hare went {{\"Sh! sh!\"}}",
+                                "source-id": "alic",
+                                "source": "Alice in Wonderland",
+                                "author": "Lewis Carroll",
+                                "translator": "la .xorxes.",
+                                "link": "https://mw.lojban.org/papri/lo_selfri_be_la_.alis._bei_bu%27u_la_selmacygu%27e"
+                            },
+                            {
+                                "lojban": ".i {{zoi .urli. blinry.org/toki-pona-cheat-sheet/ .urli.}} ti urli",
+                                "english": "Link for this: {{blinry.org/toki-pona-cheat-sheet/}}",
+                                "source-id": "tokp",
+                                "source": "Toki Pona Cheatsheet",
+                                "author": "Blinry",
+                                "translator": "la .samflir.",
+                                "link": "https://blinry.org/toki-pona-cheat-sheet/toki-pona-cheat-sheet-jbo.pdf",
+                                "originallink": "https://blinry.org/toki-pona-cheat-sheet/toki-pona-cheat-sheet.pdf"
+                            },
+                            {
+                                "lojban": ".i mu'i gi so'o da te smuni lu kampu bangu li'u {{la'e zoi gy. lingua franca .gy}} gi mi te smuni zo kampu tu'a lo nu le bangu cu jai se pi'o kakne fai lo vrici be tu'a lo jbebau lo ka casnu",
+                                "english": "Based on the use of the phrase \"vehicular language\" by some as a synonym for {{lingua franca}}, we use the term vehicular to refer to the extent to which a language is used to facilitate communication among those who speak different first languages.",
+                                "source-id": "asse",
+                                "note": "The quote delimiter is chosen to be {{gy.}} because the quoted text, \"lingua franca\", is in English ({{<u>g</u>libau}}). The {{la'e}} is there to turn the sumti's meaning from \"the phrase 'lingua franca'\" to \"the meaning of the phrase 'lingua franca'\", making the sumti fit the x<sub>1</sub> of {{smuni}}.",
+                                "source": "Assessment of EGIDS Levels",
+                                "author": "M. Paul Lewis and Gary F. Simons",
+                                "translator": "la nalvai",
+                                "link": "https://nalvai.neocities.org/translations/egids-scale/",
+                                "originallink": "https://www.lingv.ro/RRL%202%202010%20art01Lewis.pdf"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "good": true
+    },
+    {
         "word": "zvati",
         "gloss": "to be (present) at &mdash; place, location",
         "type": "gismu",
@@ -5659,6 +5714,52 @@
                 ]
             }
         ],
+        "good": true
+    },
+    {
+        "word": "xm",
+        "gloss": "Attitudinal: \"hmm\", thoughtful humming",
+        "type": "cmavo",
+        "definition": [
+            {
+                "selmaho": "UI / Y",
+                "meaning": [
+                    {
+                        "exp": "Express pondering; thoughtful humming noise. Equivalent to English \"Hmm\".",
+                        "note": "Although morphologically a cmevla and is to be converted to an attitudinal with {{ki'ai}}, <a href=\"https://discord.com/channels/771781383361921024/771782606932803606/779777415232487424\">vowelless cmevla are declared to function as free modifiers in a 2020 roljbogu'e message</a> and such rule is adopted by some. Equivalent to {{xy'y}}, though {{xm}} is much more common. Alternative forms include {{xmm}} and {{xmmm}}.",
+                        "example": [
+                            {
+                                "lojban": ".i {{xm}} si'au lo ka djuno fi lo lojyske ja'a plixau va'o po flalu zukte",
+                                "english": "{{Hmm,}} seems that knowing logic is indeed useful when doing legal stuffs.",
+                                "source-id": "rolj",
+                                "speaker": "Lucilla",
+                                "note": "This example is in jboponei.",
+                                "source": "roljbogu'e chatlog"
+                            },
+                            {
+                                "lojban": "{{xm}} mi toltugni i lo si'o cnitsa zo'u lu ge'esai li'u matmau",
+                                "english": "{{Hmm}} I disagree, for [expressing] strong emotions \"ge'esai\" is more appropriate.",
+                                "source-id": "rolj",
+                                "speaker": "la uakci",
+                                "source": "roljbogu'e chatlog"
+                            },
+                            {
+                                "lojban": "{{xmm}} simlu loka mi na ka'e kansa",
+                                "english": "{{Hmm}} seems that I cannot be with [you]",
+                                "source-id": "rolj",
+                                "speaker": "la ziren",
+                                "source": "roljbogu'e chatlog"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "tag": "attested",
+        "freq": 0,
+        "rafsi-ccv": null,
+        "rafsi-cvc": null,
+        "rafsi-cvv": null,
         "good": true
     },
     {
