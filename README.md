@@ -1,6 +1,6 @@
 # NALVAI: Nalvai's Assortment of Lojban Vocabulary Attestation Instances
 ## What is this?
-**NALVAI** is a Lojban dictionary that uses quotations from *real-world texts* as examples of usage. It currently contains **110 words** with [**322 quotations** from **73 Lojban texts**](https://github.com/nalvai/nalvai.github.io#sources). Please provide quotations and definitions to help the dictionary grow!
+**NALVAI** is a Lojban dictionary that uses quotations from *real-world texts* as examples of usage. It currently contains **111 words** with [**326 quotations** from **73 Lojban texts**](https://github.com/nalvai/nalvai.github.io#sources). Please provide quotations and definitions to help the dictionary grow!
 
 Here is how a word look like in this dictionary:
 ![The word a in this dictionary](https://raw.githubusercontent.com/nalvai/nalvai.github.io/refs/heads/master/example_a.png)
@@ -93,8 +93,8 @@ A Lojban word has its meaning encompass over different parts of speech in Englis
 ### Quote Sources
 Lojban texts with at least one quotation in this dictionary.
 
-- (71 quotes) roljbogu'e chatlog
-- (27 quotes) [The Little Prince](https://mw.lojban.org/papri/le_cmalu_noltru) by Antoine de Saint-Exupéry, translation by la .xorxes.
+- (74 quotes) roljbogu'e chatlog
+- (28 quotes) [The Little Prince](https://mw.lojban.org/papri/le_cmalu_noltru) by Antoine de Saint-Exupéry, translation by la .xorxes.
 - (20 quotes) [Alice in Wonderland](https://mw.lojban.org/papri/lo_selfri_be_la_.alis._bei_bu%27u_la_selmacygu%27e) by Lewis Carroll, translation by la .xorxes.
 - (18 quotes) [The Wonderful Wizard of Oz](https://selpahi.de/oz_plain.html) by L. Frank Baum, translation by la solpa'i
 - (13 quotes) jbobratca chatlog
@@ -169,7 +169,7 @@ Lojban texts with at least one quotation in this dictionary.
 
 The quotes from chatlogs are from the following speakers: (in no particular order)
 
-la janbe, yeet kitty, la .zi., la katador, nitfg, la solpa'i, qimar, la kanis, \_4Denthusiast, .kúblizel., la ziren, varik, la nonselcme, Stephen Dedalus, AstroMacGuffin, la lunbe, dram, la evis, la lalxu, bancip, la ilmen, la uakci, la bakre'u, latkerlo, misotanni, la gleki, niftg, la melmi, la fagri, Magnap, la varik, la samflir, Lucilla, la lunra, la srasu, la nalvai, la xrula, 
+la srasu, la lunra, Lucilla, la xrula, Magnap, nitfg, la solpa'i, la kanis, la uakci, la .zi., melody!, dram, la samflir, la gleki, bancip, \_4Denthusiast, misotanni, latkerlo, varik, la melmi, la piier, niftg, la katador, Stephen Dedalus, la lunbe, la varik, la fagri, qimar, la ziren, la lalxu, la janbe, .kúblizel., la evis, la nalvai, Haze, yeet kitty, la ilmen, la bakre'u, la nonselcme, AstroMacGuffin, 
 
 Huge thanks to the following individuals who contributed to this project:
 

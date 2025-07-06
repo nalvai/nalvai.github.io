@@ -112,7 +112,7 @@
 
 -entry:
     -word ji'a
-    -gloss Discursive: additionally
+    -gloss Attitudinal (discursive): additionally
     -type cmavo
     -definition:
         -selmaho UI3b

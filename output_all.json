@@ -17080,7 +17080,7 @@
     },
     {
         "word": "ji'a",
-        "gloss": "Discursive: additionally",
+        "gloss": "Attitudinal (discursive): additionally",
         "type": "cmavo",
         "freq": "76820",
         "rank": "74",
@@ -20000,7 +20000,7 @@
     },
     {
         "word": "ki'a",
-        "gloss": "textual confusion",
+        "gloss": "Attitudinal (discursive): metalinguistic confusion",
         "type": "cmavo",
         "freq": "42680",
         "rank": "114",
@@ -20013,11 +20013,53 @@
                 "selmaho": "UI6",
                 "meaning": [
                     {
-                        "exp": "attitudinal question: confusion about something said."
+                        "exp": "Discursive: indicates textual/linguistic/metalinguistic confusion."
+                    },
+                    {
+                        "exp": "Said when the speaker fails to make sense of the text received because of grammaitcal errors, unfamiliar grammatical structures or unfamiliar expressions/words.",
+                        "example": [
+                            {
+                                "lojban": "— .i du'u du po tcica <br>— {{ki'a}}",
+                                "english": "— [...] <br>— {{What}}",
+                                "source-id": "rolj",
+                                "speaker": "melody!, Lucilla",
+                                "note": "The first sentence is ungrammatical under CLL/BPFK Lojban, and means literally \"[It's] the fact that it is [an act of] deceiving\" under jboponei, although it's unclear if it's the intended meaning.",
+                                "source": "roljbogu'e chatlog"
+                            },
+                            {
+                                "lojban": "— xu do skalduna? <br>— .i na go'i .i ku'i mi ca'o cilre lo skara .iu .i mi na'e certu <br>— skara {{ki'a}} .i skari xu?",
+                                "english": "— Are you Basque? <br>— No, but I'm learning <i>skara</i> &lt;3 I'm not fluent <br>— \"skara\"{{?}} Do you mean \"skari\"?",
+                                "source-id": "rolj",
+                                "speaker": "Haze, la piier",
+                                "source": "roljbogu'e chatlog"
+                            },
+                            {
+                                "lojban": "— .i ca lo cabdei .i zo'ei mi mo'u te mrilu lo re pi'e re pi'e re pi'e re mei kubli se namkei vau .uisai.u'e <br>— {{ki'a}} re pi'e re pi'e re pi'e re .i xu ta vonselcimde kubli",
+                                "english": "— Today, I received an 2×2×2×2-cube puzzle by mail :D <br>— 2×2×2×2{{?}} Is it a four-dimensional cube?",
+                                "source-id": "rolj",
+                                "speaker": "la ziren, qimar",
+                                "source": "roljbogu'e chatlog"
+                            }
+                        ]
+                    },
+                    {
+                        "exp": "Said when the speaker encounters a word or a grammatical construction whose referent is unknown.",
+                        "example": [
+                            {
+                                "lojban": "— .i .ei do zukte lo do se nupre —sei lo cmalu noltru noi za'ure'u zutse ti'a mi cu nalylau cusku<br>— .i lo {{ki'a}} se nupre",
+                                "english": "\"You must keep your promise,\" said the little prince, softly, as he sat down beside me once more.<br>\"{{What}} promise?\"",
+                                "source-id": "litt",
+                                "source": "The Little Prince",
+                                "author": "Antoine de Saint-Exupéry",
+                                "translator": "la .xorxes.",
+                                "link": "https://mw.lojban.org/papri/le_cmalu_noltru"
+                            }
+                        ]
                     }
                 ]
             }
-        ]
+        ],
+        "good": true
     },
     {
         "word": "ki'ai",
