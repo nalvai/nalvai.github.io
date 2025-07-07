@@ -3446,6 +3446,45 @@
         "good": true
     },
     {
+        "word": "mapti",
+        "gloss": "suitable, to match, to fit &mdash; what x<sub>1</sub> matches, what x<sub>1</sub> is suitable for &mdash; aspect/property where x<sub>1</sub> fits",
+        "type": "gismu",
+        "freq": "18480",
+        "rank": "244",
+        "tag": "core-2",
+        "rafsi-cvc": "mat",
+        "rafsi-ccv": null,
+        "rafsi-cvv": null,
+        "definition": [
+            {
+                "meaning": [
+                    {
+                        "exp": "x_1 fits/matches/suits/is compatible/appropriate/corresponds to/with x_2 in property/aspect x_3.",
+                        "example": [
+                            {
+                                "lojban": ".i lu mi na fengu li'u co'u {{mapti}} lo fatci",
+                                "english": "The sentence \"I'm not angry\" no longer {{matches}} the actualities.",
+                                "source-id": "nafe",
+                                "source": "na fengu",
+                                "author": "Mèremim",
+                                "link": "https://meremim.bandcamp.com/album/na-fengu"
+                            },
+                            {
+                                "lojban": "za'a dai mi na'e ke clira {{mapti}} fi lo ka kelci",
+                                "english": "As you can see, I'm not {{suitable}} for playing [because it's] too late [here now].",
+                                "source-id": "rolj",
+                                "speaker": "la uakci",
+                                "note": "The main selbri, {{clira mapti}}, translated literally to \"early-suitable\", which is taken to be \"be early enough to be suitable\" in the translation given above.",
+                                "source": "roljbogu'e chatlog"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "good": true
+    },
+    {
         "word": "melbi",
         "gloss": "beautiful, pretty &mdash; to find beautiful, to find pretty &mdash; beautiful aspect &mdash; beauty standard",
         "type": "gismu",

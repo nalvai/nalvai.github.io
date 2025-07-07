@@ -1,6 +1,6 @@
 # NALVAI: Nalvai's Assortment of Lojban Vocabulary Attestation Instances
 ## What is this?
-**NALVAI** is a Lojban dictionary that uses quotations from *real-world texts* as examples of usage. It currently contains **111 words** with [**326 quotations** from **73 Lojban texts**](https://github.com/nalvai/nalvai.github.io#sources). Please provide quotations and definitions to help the dictionary grow!
+**NALVAI** is a Lojban dictionary that uses quotations from *real-world texts* as examples of usage. It currently contains **112 words** with [**328 quotations** from **73 Lojban texts**](https://github.com/nalvai/nalvai.github.io#sources). Please provide quotations and definitions to help the dictionary grow!
 
 Here is how a word look like in this dictionary:
 ![The word a in this dictionary](https://raw.githubusercontent.com/nalvai/nalvai.github.io/refs/heads/master/example_a.png)
@@ -93,7 +93,7 @@ A Lojban word has its meaning encompass over different parts of speech in Englis
 ### Quote Sources
 Lojban texts with at least one quotation in this dictionary.
 
-- (74 quotes) roljbogu'e chatlog
+- (75 quotes) roljbogu'e chatlog
 - (28 quotes) [The Little Prince](https://mw.lojban.org/papri/le_cmalu_noltru) by Antoine de Saint-Exupéry, translation by la .xorxes.
 - (20 quotes) [Alice in Wonderland](https://mw.lojban.org/papri/lo_selfri_be_la_.alis._bei_bu%27u_la_selmacygu%27e) by Lewis Carroll, translation by la .xorxes.
 - (18 quotes) [The Wonderful Wizard of Oz](https://selpahi.de/oz_plain.html) by L. Frank Baum, translation by la solpa'i
@@ -110,6 +110,7 @@ Lojban texts with at least one quotation in this dictionary.
 - (4 quotes) [The Clockmaker](https://mw.lojban.org/papri/le_junla_zbasu) by Robert Louis Stevenson, translation by la .xorxes. ([Original](https://en.wikisource.org/wiki/The_Clockmaker))
 - (4 quotes) [Liang and the Magic Paintbrush](https://docs.google.com/spreadsheets/d/1_vkiwqOIOIJPqZTiomzd4ApUSEQXhEY6CeyZD_6c-PA/edit?gid=768225989#gid=768225989) by Demi, translation by la darsi
 - (4 quotes) [The Library of Babel](https://mw.lojban.org/papri/la_ckuzda_pe_la_babel) by Jorge Luis Borges, translation by la .xorxes.
+- (4 quotes) [na fengu](https://meremim.bandcamp.com/album/na-fengu) by Mèremim
 - (4 quotes) [The Restaurant of Many Orders](https://docs.google.com/document/d/10Rnm80SieLrpFnk9kn_9bCuon96CNSPTA8hqVaWQYbQ/edit?tab=t.0) by Kenji Miyazawa, translation by la .tijlan.
 - (4 quotes) [Toki Pona Cheatsheet](https://blinry.org/toki-pona-cheat-sheet/toki-pona-cheat-sheet-jbo.pdf) by Blinry, translation by la .samflir. ([Original](https://blinry.org/toki-pona-cheat-sheet/toki-pona-cheat-sheet.pdf))
 - (4 quotes) [za'o](https://www.youtube.com/watch?v=TKbFwr-1ZQ4) by Djemynai
@@ -117,7 +118,6 @@ Lojban texts with at least one quotation in this dictionary.
 - (3 quotes) [lo jbobau cu mo](https://www.youtube.com/watch?v=N-Y9eBBTrxU) by la solpa'i
 - (3 quotes) [They're Made Out of Meat](https://mw.lojban.org/papri/ko%27a_marji_lo_rectu) by Terry Bisson, translation by Pierre Abbot
 - (3 quotes) [la mu'e cuxna lo bradi](https://mw.lojban.org/papri/la_mu%27e_cuxna_lo_bradi) by la blutolpinxe
-- (3 quotes) [na fengu](https://meremim.bandcamp.com/album/na-fengu) by Mèremim
 - (3 quotes) [Route Sphere](https://www.youtube.com/watch?v=4aDrH3wEUtQ) by Last Note., translation by tetsusquared (la .tirprij.)
 - (2 quotes) [Always With Me](https://vimeo.com/113232481) by Youmi Kimura, translation by la .guskant.
 - (2 quotes) [Amapola](https://vimeo.com/233808507) by José María Lacalle García, translation by la .guskant.
@@ -169,7 +169,7 @@ Lojban texts with at least one quotation in this dictionary.
 
 The quotes from chatlogs are from the following speakers: (in no particular order)
 
-la srasu, la lunra, Lucilla, la xrula, Magnap, nitfg, la solpa'i, la kanis, la uakci, la .zi., melody!, dram, la samflir, la gleki, bancip, \_4Denthusiast, misotanni, latkerlo, varik, la melmi, la piier, niftg, la katador, Stephen Dedalus, la lunbe, la varik, la fagri, qimar, la ziren, la lalxu, la janbe, .kúblizel., la evis, la nalvai, Haze, yeet kitty, la ilmen, la bakre'u, la nonselcme, AstroMacGuffin, 
+la xrula, Lucilla, niftg, nitfg, la lunbe, yeet kitty, .kúblizel., la bakre'u, la samflir, melody!, la nonselcme, la srasu, la lalxu, la .zi., la ilmen, qimar, Stephen Dedalus, la fagri, la varik, la evis, varik, bancip, dram, la katador, la melmi, la janbe, la kanis, la uakci, misotanni, Haze, la solpa'i, Magnap, la piier, la lunra, la gleki, la ziren, la nalvai, AstroMacGuffin, \_4Denthusiast, latkerlo, 
 
 Huge thanks to the following individuals who contributed to this project:
 
