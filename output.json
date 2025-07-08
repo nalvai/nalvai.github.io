@@ -3362,6 +3362,50 @@
         "good": true
     },
     {
+        "word": "la'o",
+        "gloss": "Quotation: start non-Lojban quotation as name",
+        "type": "cmavo",
+        "freq": "46890",
+        "rank": "109",
+        "tag": "core-1",
+        "rafsi-cvc": null,
+        "rafsi-ccv": null,
+        "rafsi-cvv": null,
+        "definition": [
+            {
+                "selmaho": "ZOI",
+                "meaning": [
+                    {
+                        "exp": "Begin non-Lojban name. The next Lojban word loses all its grammatical function, becomes the quote delimiter, and quotes all further text until the same word is repeated. The quote delimiters and the quoted text must be separated with pauses. The entire construct (from {{la'o}} to the second delimiter) is a sumti meaning \"that named &lt;quoted text&gt;\", and is considered a single word for grammatical purposes.",
+                        "note": "The delimiter is usually chosen to give hints to the nature of the quoted text. For example, the first letter of the source language. {{zoi}} is often used as the default delimiter if no hints is to be given (in which case the construct is {{la'o zoi. &lt;quoted text&gt; .zoi}}).",
+                        "example": [
+                            {
+                                "lojban": "ni'o ti datni papri fi'e {{la'o gy. blinry .gy.}} fi'o plijaspu {{la'o gy. CC0 .gy.}}",
+                                "english": "Cheat sheet by {{blinry}}, (with license) {{CC0}}.",
+                                "source-id": "tokp",
+                                "source": "Toki Pona Cheatsheet",
+                                "author": "Blinry",
+                                "translator": "la .samflir.",
+                                "link": "https://blinry.org/toki-pona-cheat-sheet/toki-pona-cheat-sheet-jbo.pdf",
+                                "originallink": "https://blinry.org/toki-pona-cheat-sheet/toki-pona-cheat-sheet.pdf"
+                            },
+                            {
+                                "lojban": "ni'o salci {{la'o zoi León Werth zoi}} pe ca lo nu ly. verba",
+                                "english": "To {{León Werth}} when he was a little boy",
+                                "source-id": "litt",
+                                "source": "The Little Prince",
+                                "author": "Antoine de Saint-Exupéry",
+                                "translator": "la .xorxes.",
+                                "link": "https://mw.lojban.org/papri/le_cmalu_noltru"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "good": true
+    },
+    {
         "word": "le'u",
         "gloss": "Quotation: end ungrammatical/out-of-context/sentence fragment quotation",
         "type": "cmavo",
