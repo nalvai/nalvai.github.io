@@ -1,6 +1,6 @@
 # NALVAI: Nalvai's Assortment of Lojban Vocabulary Attestation Instances
 ## What is this?
-**NALVAI** is a Lojban dictionary that uses quotations from *real-world texts* as examples of usage. It currently contains **113 words** with [**330 quotations** from **73 Lojban texts**](https://github.com/nalvai/nalvai.github.io#sources). Please provide quotations and definitions to help the dictionary grow!
+**NALVAI** is a Lojban dictionary that uses quotations from *real-world texts* as examples of usage. It currently contains **114 words** with [**333 quotations** from **73 Lojban texts**](https://github.com/nalvai/nalvai.github.io#sources). Please provide quotations and definitions to help the dictionary grow!
 
 Here is how a word look like in this dictionary:
 ![The word a in this dictionary](https://raw.githubusercontent.com/nalvai/nalvai.github.io/refs/heads/master/example_a.png)
@@ -95,15 +95,15 @@ Lojban texts with at least one quotation in this dictionary.
 
 - (75 quotes) roljbogu'e chatlog
 - (29 quotes) [The Little Prince](https://mw.lojban.org/papri/le_cmalu_noltru) by Antoine de Saint-Exupéry, translation by la .xorxes.
-- (20 quotes) [Alice in Wonderland](https://mw.lojban.org/papri/lo_selfri_be_la_.alis._bei_bu%27u_la_selmacygu%27e) by Lewis Carroll, translation by la .xorxes.
+- (21 quotes) [Alice in Wonderland](https://mw.lojban.org/papri/lo_selfri_be_la_.alis._bei_bu%27u_la_selmacygu%27e) by Lewis Carroll, translation by la .xorxes.
 - (18 quotes) [The Wonderful Wizard of Oz](https://selpahi.de/oz_plain.html) by L. Frank Baum, translation by la solpa'i
 - (13 quotes) jbobratca chatlog
 - (10 quotes) [la melbi e le ractu](https://lynn.github.io/la-melbi-e-le-ractu/) by la lalxu
 - (10 quotes) [The Metamorphosis](https://mw.lojban.org/images/f/fc/lonubinxo.pdf) by Franz Kafka, translation by la .xorxes.
 - (10 quotes) [la nicte cadzu](https://mw.lojban.org/papri/Robin%27s_Palm_Writings:_la_nicte_cadzu) by Robin Lee Powell
 - (8 quotes) [The Egg](https://nalvai.neocities.org/translations/the-egg/) by Andy Weir, translation by la nalvai
+- (7 quotes) ["Official Lojban"](https://docs.google.com/spreadsheets/d/1_vkiwqOIOIJPqZTiomzd4ApUSEQXhEY6CeyZD_6c-PA/edit?gid=1862526252#gid=1862526252) by la uakci
 - (6 quotes) [clani kerlo](https://docs.google.com/spreadsheets/d/1_vkiwqOIOIJPqZTiomzd4ApUSEQXhEY6CeyZD_6c-PA/edit?gid=1296186733#gid=1296186733) by la fagri
-- (6 quotes) ["Official Lojban"](https://docs.google.com/spreadsheets/d/1_vkiwqOIOIJPqZTiomzd4ApUSEQXhEY6CeyZD_6c-PA/edit?gid=1862526252#gid=1862526252) by la uakci
 - (6 quotes) [prami simbi'o](https://www.youtube.com/watch?v=g3BQ-pE7ypY) by Djemynai
 - (5 quotes) [Assessment of EGIDS Levels](https://nalvai.neocities.org/translations/egids-scale/) by M. Paul Lewis and Gary F. Simons, translation by la nalvai ([Original](https://www.lingv.ro/RRL%202%202010%20art01Lewis.pdf))
 - (5 quotes) [Still Alive](https://www.youtube.com/watch?v=hRrIioMA4w8) by Jonathan Coulton, translation by la solpa'i
@@ -137,6 +137,7 @@ Lojban texts with at least one quotation in this dictionary.
 - (2 quotes) [Snow White](https://selpahi.de/snimeblabi.html) by Brothers Grimm, translation by la solpa'i
 - (2 quotes) [sruri fa lo tarci](https://www.youtube.com/watch?v=xZlTA4hbY2o) by Noise and Bells (la janbe)
 - (2 quotes) [tensaia](https://djemynai.bandcamp.com/album/tensaia) by Djemynai
+- (2 quotes) [The Terrorist, He's Watching](https://docs.google.com/spreadsheets/d/1_vkiwqOIOIJPqZTiomzd4ApUSEQXhEY6CeyZD_6c-PA/edit?gid=1514901818#gid=1514901818) by Szymborska Wisława, translation by la uakci
 - (1 quote) [Aisle](https://www.youtube.com/watch?v=GGoqNJjiun0) by Ibuki Tsubasa, translation by tetsusquared (la .tirprij.) ([Original](https://www.youtube.com/watch?v=9CNkjJo_Sjg))
 - (1 quote) [Ĉarma Anomali’](https://www.youtube.com/watch?v=H5Bbg8HGkV0) by Noise and Bells, translation by tetsusquared (la .tirprij.) ([Original](https://www.youtube.com/watch?v=q05lSh5qfgk))
 - (1 quote) [bai do](https://www.youtube.com/watch?v=fR-Z3h1Jsms) by Noise and Bells (la janbe)
@@ -162,14 +163,13 @@ Lojban texts with at least one quotation in this dictionary.
 - (1 quote) [The Princess and the Pea](https://selpahi.de/dembi.html) by Hans Christian Andersen, translation by la solpa'i
 - (1 quote) [The Scientific Ape](https://mw.lojban.org/papri/le_saske_smani) by Robert Louis Stevenson, translation by la .xorxes. ([Original](https://en.wikisource.org/wiki/The_Scientific_Ape))
 - (1 quote) [la skaborfe'a](https://fotono.tumblr.com/post/143537131514/coi-lo-se-jbobau-joau-zantufa-xi-papipare-i-la) by la .guskant.
-- (1 quote) [The Terrorist, He's Watching](https://docs.google.com/spreadsheets/d/1_vkiwqOIOIJPqZTiomzd4ApUSEQXhEY6CeyZD_6c-PA/edit?gid=1567514983#gid=1567514983) by Szymborska Wisława, translation by la uakci
 - (1 quote) [There Will Come Soft Rains](https://docs.google.com/spreadsheets/d/1_vkiwqOIOIJPqZTiomzd4ApUSEQXhEY6CeyZD_6c-PA/edit?gid=1567514983#gid=1567514983) by Sara Teasdale, translation by la lalxu
 - (1 quote) [Torinoko City](https://www.youtube.com/watch?v=Ar4On-u5vUk) by 40mP, translation by tetsusquared (la .tirprij.)
 - (1 quote) [ua langu](https://www.youtube.com/watch?v=h_avoX_Xl4I) by la solpa'i
 
 The quotes from chatlogs are from the following speakers: (in no particular order)
 
-la ilmen, yeet kitty, la samflir, la varik, la piier, AstroMacGuffin, la ziren, la xrula, varik, la lunbe, la gleki, nitfg, la .zi., la melmi, la srasu, la nalvai, latkerlo, melody!, Stephen Dedalus, la nonselcme, qimar, niftg, Magnap, .kúblizel., dram, la lunra, la fagri, la janbe, \_4Denthusiast, la solpa'i, bancip, la kanis, misotanni, Haze, Lucilla, la evis, la katador, la lalxu, la bakre'u, la uakci, 
+AstroMacGuffin, \_4Denthusiast, Haze, varik, la uakci, la srasu, dram, la nonselcme, la varik, la ilmen, la xrula, la lalxu, yeet kitty, la bakre'u, melody!, nitfg, la evis, la solpa'i, Magnap, la janbe, la piier, bancip, Lucilla, la katador, la nalvai, .kúblizel., qimar, la melmi, la fagri, niftg, la lunra, misotanni, Stephen Dedalus, la gleki, latkerlo, la samflir, la lunbe, la kanis, la .zi., la ziren, 
 
 Huge thanks to the following individuals who contributed to this project:
 

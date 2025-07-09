@@ -57,7 +57,7 @@
     -gloss Attitudinal: "hmm", thoughtful humming
     -type cmavo
     -definition:
-        -selmaho UI / Y
+        -selmaho Y
         -meaning:
             -exp Express pondering; thoughtful humming noise. Equivalent to English "Hmm".
             -note Although morphologically a cmevla and is to be converted to an attitudinal with {{ki'ai}}, <a href="https://discord.com/channels/771781383361921024/771782606932803606/779777415232487424">vowelless cmevla are declared to function as free modifiers in a 2020 roljbogu'e message</a> and such rule is adopted by some. Equivalent to {{xy'y}}, though {{xm}} is much more common. Alternative forms include {{xmm}} and {{xmmm}}.

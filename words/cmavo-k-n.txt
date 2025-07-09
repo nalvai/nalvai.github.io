@@ -171,6 +171,29 @@
                 -source-id eggq
                 -note The entire sentence is grammatical, but becomes ungrammatical when split in half. 
 
+-entry:
+    -word li
+    -gloss Mekso: forms number, convert methematical expression to sumti
+    -type cmavo
+    -definition:
+        -selmaho LI
+        -meaning:
+            -exp Number. It converts a mathematical or numerical expression (MEX) into a sumti. The sumti refers to the value of the numerical expression. It is usually a numerical value, but it may be any referent of a numerical expression, for example a date. Terminate with {{lo'o}}.
+            -example:
+                -lojban .i ca ku .abu {{centre li so'u re mu}}
+                -english ..., she was now {{only ten inches}} [high], ...
+                -source-id alic
+                -note The Lojban example translates literally to "... only 25 centimeters", as ten inches is about 25 centimeters. Combining definite and indefinite numbers into a single number implies that the two kinds of numbers have the same value in the given context (CLL 18.8), as seen in the {{so'u re mu}} in this example, where the {{re mu}} is taken to have the same value of {{so'u}} (few), thus the translation of "only 25". 
+            -example:
+                -lojban .i .e'o pensi ~ mi'e la uakci to'i de'i {{li re no pa ze ny pa ly mu dy}}
+                -english Please [take some time to] consider this! ~ la uakci, {{January 5, 2017}}
+                -source-id offi
+                -note The mathematical expression is taken as a date. The {{ny}}, {{ly}}, {{dy}} stand for year, month, day respectively.
+            -example:
+                -lojban .i ku'i simlu lo ka sisku fi tu'a le daski kei ja'e le nu ti'u {{li pa ci pi'e re no vu'u pi'e pi'e dau}} cu klama le jai purci te zu'e tu'a le nalvai gluta pe le nei
+                -english Wait a second, looks like he's looking for something in his pockets and at {{thirteen twenty minus ten seconds}} he goes back in for his crummy gloves.
+                -source-id terr
+                -note The mathematical expression is taken as a time.
 
 -entry:
     -word lo'u
