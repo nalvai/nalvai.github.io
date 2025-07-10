@@ -3501,6 +3501,69 @@
         "good": true
     },
     {
+        "word": "li'a",
+        "gloss": "Attitudinal (discursive): obviously, clearly",
+        "type": "cmavo",
+        "freq": "47890",
+        "rank": "105",
+        "tag": "core-1",
+        "rafsi-cvc": null,
+        "rafsi-ccv": null,
+        "rafsi-cvv": null,
+        "definition": [
+            {
+                "selmaho": "UI3",
+                "meaning": [
+                    {
+                        "exp": "Express obviousness. Indicates that the speaker regards the referent of the construct as obvious.",
+                        "example": [
+                            {
+                                "lojban": ".i {{li'a}} mi na certu lo ka sanga",
+                                "english": "{{Obviously}} I'm not good at singing.",
+                                "source-id": "pram",
+                                "source": "prami simbi'o",
+                                "author": "Djemynai",
+                                "link": "https://www.youtube.com/watch?v=g3BQ-pE7ypY"
+                            },
+                            {
+                                "lojban": ".i no da poi na xabju lo djacu cu kakne lo nu te sidbo lo temci .e {{ji'a li'a}} lo junla",
+                                "english": "No one not living in water could conceive the idea of time, {{how much less of}} a clock!",
+                                "source-id": "cloc",
+                                "source": "The Clockmaker",
+                                "author": "Robert Louis Stevenson",
+                                "translator": "la .xorxes.",
+                                "link": "https://mw.lojban.org/papri/le_junla_zbasu",
+                                "originallink": "https://en.wikisource.org/wiki/The_Clockmaker"
+                            },
+                            {
+                                "lojban": ".i mi to'e ri'a nai snada .i {{li'a dai}} go'i",
+                                "english": "Despite [all that] I succeeded (It {{should be obvious to you}})",
+                                "source-id": "miju",
+                                "source": "lo mi jufra",
+                                "author": "la solpa'i",
+                                "link": "https://www.youtube.com/watch?v=sLrmjRIMgAk"
+                            }
+                        ]
+                    },
+                    {
+                        "context": "~ {{nai}}",
+                        "exp": "Express obscureness. Indicates that the speaker regards the referent of the construct as obscure (ie. difficult to understand).",
+                        "example": [
+                            {
+                                "lojban": ".i li'a mi na dunli pilno ro lo cumki jbogerna noi cimni {{li'a nai pei}}",
+                                "english": "Obviously I don't use all possible Lojban grammar equally, which are infinite, {{isn't it hard to understand?}}",
+                                "source-id": "jbob",
+                                "speaker": "la lunbe",
+                                "source": "jbobratca chatlog"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "good": true
+    },
+    {
         "word": "lo'u",
         "gloss": "Quotation: start ungrammatical/out-of-context/sentence fragment quotation",
         "type": "cmavo",
@@ -5921,7 +5984,7 @@
         "type": "cmavo",
         "definition": [
             {
-                "selmaho": "UI / Y",
+                "selmaho": "Y",
                 "meaning": [
                     {
                         "exp": "Express pondering; thoughtful humming noise. Equivalent to English \"Hmm\".",
