@@ -527,6 +527,37 @@
                 -note An example of JACU. In this sentence, {{je}} connects two bridi-tails, {{dansu}} and {{cu kansa ...}}. Replace {{je cu}} with {{gi'e}} to convert it to CLL/BPFK Lojban.
 
 -entry:
+    -word de'a
+    -gloss Preposition (tense): pausative; event temporarily suspended
+    -type cmavo
+    -definition:
+        -selmaho ZAhO
+        -meaning:
+            -exp Pausative: signifies that the event is interrupted and/or temporarily suspended.
+            -example:
+                -lojban la .bil. uu pu {{de'a}} ciska fi lo tanbo lo degji
+                -english The unfortunate little Bill had {{left off}} writing on his slate with one finger.
+                -source-id alic
+            -example:
+                -lojban .i lo te gusni be fi lo xunre cu co'u se ganse ca lonu dy {{de'a}} vasxu ja'e loka smaji mulno kei kei
+                -english The source of the red [light] was stopped being sensed when he {{stopped}} breathing and became completely silent as a result.
+                -source-id nufa
+            -example:
+                -lojban .i .e'u do di'i {{de'a}} gunka je cu surla lo ka tavla lo drata jbopre
+                -english I suggest you regularly {{take break from}} working and relax by talking with other Lojbanists.
+                -source-id rolj
+                -speaker la xrula
+                -note This sentence is in JACU. To convert it to CLL Lojban, substitute {{je cu}} with {{gi'e}}.
+        -meaning:
+            -context When followed by a sumti 
+            -variation CLL
+            -exp during ... is suspended
+        -meaning:
+            -context When followed by a sumti 
+            -variation BPFK
+            -exp is suspended when ...
+
+-entry:
     -word do'u
     -gloss Elidable Terminator: terminates vocative phrase
     -type cmavo

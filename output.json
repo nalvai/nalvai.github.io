@@ -1774,6 +1774,65 @@
         "good": true
     },
     {
+        "word": "de'a",
+        "gloss": "Preposition (tense): pausative; event temporarily suspended",
+        "type": "cmavo",
+        "freq": "26240",
+        "rank": "189",
+        "tag": "core-1",
+        "rafsi-cvc": null,
+        "rafsi-ccv": null,
+        "rafsi-cvv": null,
+        "definition": [
+            {
+                "selmaho": "ZAhO",
+                "meaning": [
+                    {
+                        "exp": "Pausative: signifies that the event is interrupted and/or temporarily suspended.",
+                        "example": [
+                            {
+                                "lojban": "la .bil. uu pu {{de'a}} ciska fi lo tanbo lo degji",
+                                "english": "The unfortunate little Bill had {{left off}} writing on his slate with one finger.",
+                                "source-id": "alic",
+                                "source": "Alice in Wonderland",
+                                "author": "Lewis Carroll",
+                                "translator": "la .xorxes.",
+                                "link": "https://mw.lojban.org/papri/lo_selfri_be_la_.alis._bei_bu%27u_la_selmacygu%27e"
+                            },
+                            {
+                                "lojban": ".i lo te gusni be fi lo xunre cu co'u se ganse ca lonu dy {{de'a}} vasxu ja'e loka smaji mulno kei kei",
+                                "english": "The source of the red [light] was stopped being sensed when he {{stopped}} breathing and became completely silent as a result.",
+                                "source-id": "nufa",
+                                "source": "la nu farlu lo plini",
+                                "author": "la srasu",
+                                "link": "https://liputenpo.org/toki/nanpa-kokosila/la-nu-farlu-lo-plini/"
+                            },
+                            {
+                                "lojban": ".i .e'u do di'i {{de'a}} gunka je cu surla lo ka tavla lo drata jbopre",
+                                "english": "I suggest you regularly {{take break from}} working and relax by talking with other Lojbanists.",
+                                "source-id": "rolj",
+                                "speaker": "la xrula",
+                                "note": "This sentence is in JACU. To convert it to CLL Lojban, substitute {{je cu}} with {{gi'e}}.",
+                                "source": "roljbogu'e chatlog"
+                            }
+                        ]
+                    },
+                    {
+                        "context": "When followed by a sumti",
+                        "variation": "CLL",
+                        "exp": "during ... is suspended"
+                    },
+                    {
+                        "context": "When followed by a sumti",
+                        "variation": "BPFK",
+                        "exp": "is suspended when ..."
+                    }
+                ]
+            }
+        ],
+        "good": true
+    },
+    {
         "word": "djica",
         "gloss": "to want, to desire &mdash; (a) desire &mdash; purpose of desire",
         "type": "gismu",
