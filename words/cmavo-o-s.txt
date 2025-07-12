@@ -59,3 +59,34 @@
                 -lojban .i mi djuno {{po}} zanfu'a ri
                 -english I know {{[how]}} lucky they are.
                 -source-id koid
+
+-entry:
+    -word sa'e
+    -gloss Attitudinal (discursive): precisely speaking 
+    -type cmavo
+    -definition:
+        -selmaho UI3
+        -meaning:
+            -exp Express exactness. Indicates that the speaker thinks what was said exactly matches what was meant.
+            -example:
+                -lojban .i {{sa'e}} mi djica tu'a lo zirli se tavla be bau lo lojbo
+                -english {{To be precise}}, I want someone I can speak Lojban to IRL.
+                -source-id rolj
+                -speaker la tirprij
+            -example:
+                -lojban .i lo javni na cenba —sei lo cikygau cu cusku— .i la'e di'u {{sa'e}} nabmi
+                -english "The orders have not been changed," said the lamplighter. "That is {{(exactly) the}} tragedy! ...
+                -source-id litt
+        -meaning:
+            -context ~ {{nai}}
+            -exp Express inexactness. Indicates that the speaker believes what was said does not accurately reflect their intended meaning, yet is used in a somewhat fitting way.
+            -example:
+                -lojban .i lo tcika zo'u {{sa'e nai}} prulamcte ke pa moi ctetcika
+                -english The time? It was {{around}} the first hours of last night. 
+                -source-id inag
+            -example:
+                -lojban .i ku'i {{sa'e nai}} lo ko'a velcki cu jibni mapti lo fatci
+                -english But {{in most points}}, their theory accorded rudely with the facts.
+                -source-id cloc
+
+

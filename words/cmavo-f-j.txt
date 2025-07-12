@@ -64,6 +64,33 @@
                 -speaker _4Denthusiast
 
 
+-entry:
+    -word fi'o
+    -gloss Preposition: converts selbri into preposition
+    -type cmavo
+    -definition:
+        -selmaho FIhO
+        -meaning:
+            -exp Converts the following selbri into a modal/tag/preposition. The resulting preposition introduces an unnumbered sumti that plays the role of the converted selbri's x<sub>1</sub> in the sentence.
+            -note The exact relation between the introduced sumti and the rest of the sentence has not been rigorously defined and is usually understood in an ad-hoc manner. The same goes for BAI prepositions.
+            -example:
+                -lojban .i do prane ro zu'i {{fi'o morji le do panzi}}
+                -english {{Your kids will remember}} you as perfect in every way.
+                -source-id eggq
+            -example:
+                -lojban ni'o ti datni papri fi'e la'o gy. blinry .gy. {{fi'o plijaspu}} la'o gy. CC0 .gy.
+                -english Cheat sheet by blinry, {{with license}} CC0.
+                -source-id tokp
+            -example:
+                -lojban .i viska bu'u lo cmana lo mrovau .e la snime blabi ku noi melbi ku'o gi'e tcidu lo se ciska {{be fi'o lerfu lo solji}}
+                -english He saw the coffin on the mountain and lovely Snow White inside, and read what was written {{in golden letters}}.
+                -source-id snow
+            -example:
+                -lojban .iku'i la jbovlaste cu na {{jai fi'o ve vreji fe'u smuni}} fai da zo ninja
+                -english But there aren't any meaning of "ninja" {{recorded in}} jbovlaste.
+                -source-id rolj
+                -speaker la srasu
+                -note The sumti slot introduced by {{fi'o ve vreji fe'u}} is promoted to x<sub>1</sub> by {{jai}}.
 
 
 -entry:
@@ -79,6 +106,46 @@
                 -lojban ni'o xu lo prenu co vajni cu {{ge'i}} ca ranji lo nu kansa ku {{gi}} ve'u sepli do gi'e pu co'a cliva fi lo drata se litru
                 -english As for the people important [to you], do they continue to accompany you{{? Or}} are they now distant and separated from you, having departed via their own paths{{?}}
                 -source-id lett
+
+-entry:
+    -word jai
+    -gloss Place Structure: promote other sumti slot to x<sub>1</sub>
+    -type cmavo
+    -definition:
+        -selmaho JAI
+        -meaning:
+            -context before a selbri/tanru-unit
+            -exp Sumti raising: replaces the meaning of the selbri's original x_1 with "some proposition/event/preperty... involved in x_1". The original x_1 is moved to the {{fai}} place. {{ko'a jai broda}} is equivalent to {{tu'a ko'a (lu'u) broda}}. Used when the selbri takes an abstraction as x_1, but a concrete (object etc.) is desired for the place. 
+            -note Note that {{jai}} acts on tanru unit (instead of selbri as a whole), so {{jai broda brode}} will have the exact same place strcutre as {{brode}}.
+            -example:
+                -lojban .i mi {{na jai se curmi fai}} lo nu fitytu'i da
+                -english I {{am not allowed to}} let anyone in.
+                -source-id snow
+            -example:
+                -lojban ni'o {{lo jai daspo}} cu tolcliva
+                -english {{The destroyer}} arrives.
+                -source-id nict
+            -example:
+                -lojban .i lo pulji cu {{jai lerci}} dukse
+                -english The police are too {{late}}.
+                -source-id maze
+                -note {{lo pulji}} is <u>not</u> raised in this sentence because {{jai lerci}} is in the seltau (modifying) position of the tanru and thus have no effect on the place strucure of the selbri.
+        -meaning:
+            -context before a preposition
+            -exp Replaces the selbri's original x_1 with the sumti introduced by the following preposition. The original x_1 is moved to the {{fai}} place.  
+            -note Note that {{jai}} acts on tanru unit (instead of selbri as a whole), so {{jai PREPOSITION broda brode}} will have the exact same place strcutre as {{brode}}.
+            -example:
+                -lojban .i {{jai gau sepli fa ko}} {{fai le terdi}} fe le fagri
+                -english {{Separate}} {{the earth}} from the fire. 
+                -source-id emer
+            -example:
+                -lojban .i {{lo jai ca cliva}} cu jibni
+                -english {{The hour of his departure}} drew near.
+                -source-id litt
+            -example:
+                -lojban .i {{lo jai ja'e dzicatlu be fai py.}} {{lo jai ja'e galcatlu be fai py.}} cu simsa pe'i
+                -english {{The effect to the bird looking down}} would be just the same as to {{that (the effect) of looking up}}.
+                -source-id care
 
 -entry:
     -word ji

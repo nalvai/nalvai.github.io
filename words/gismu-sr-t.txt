@@ -37,7 +37,7 @@
                 -lojban .i lo nu kurji cu ja'a {{se tatpi}} .uu
                 -english Taking care of someone is indeed {{tiring}}.
                 -source-id rolj
-                -speaker nitfg
+                -speaker niftg
 
 
 -entry:

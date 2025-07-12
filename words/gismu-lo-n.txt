@@ -56,7 +56,7 @@
                 -lojban .i la .varik. cu cusku {{le milxe be le ka ce'u smimlu}}
                 -english Varik said {{something mildly similar-looking}}. 
                 -source-id rolj
-                -speaker varik
+                -speaker la varik
             -example:
                 -lojban .i je lo ji'a sai pilka cu {{crino milxe}}
                 -english And even [his] skin {{was of a greenish tint}}.
@@ -196,8 +196,8 @@
                 -english You'll [often] {{need}} to know the context to decide what things mean.
                 -source-id tokp
             -example:
-                -lojban .i lo nu kansa cu {{se nitcu}} .ie
-                -english Yeah, togetherness {{is needed}}.
+                -lojban .i lo nu kansa cu {{se nitcu}} .ie .i ku'i za'a do na djica
+                -english Togetherness {{is needed}}. But, I observe, you don't want that.
                 -source-id nafe
             -example:
                 -lojban .i lo mensi cu surla gasnu lo nu bredi fa {{lo ro se nitcu be fi lo nu kelci}}

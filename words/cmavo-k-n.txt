@@ -96,7 +96,7 @@
                 -lojban .i xu .iaru'e lu'a lo sfani cu cmacma {{seki'u lo nu lo'e sfani darxi catra tutci cu na plixau}}
                 -english Is it that (I slightly believe) the flies are so small {{the reason that flyswatters aren't useful}}?
                 -source-id rolj
-                -speaker nitfg
+                -speaker niftg
 
 -entry:
     -word la

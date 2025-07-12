@@ -85,8 +85,10 @@ def get_clean_quote(quote):
     return result
 
 quotes = set()
+chatlog_speakers = {}
 def process_quotes(entry):
     global quotes
+    global chatlog_speakers
     result = False
     for definition in entry["definition"]:
         for meaning in definition["meaning"]:
@@ -101,6 +103,9 @@ def process_quotes(entry):
                         if "speaker" in quote:
                             for speaker in quote["speaker"].split(","):
                                 speakers.add(speaker.strip())
+                                if index not in chatlog_speakers:
+                                    chatlog_speakers[index] = {}
+                                chatlog_speakers[index][speaker.strip()] = chatlog_speakers[index].get(speaker.strip(), 0) + 1
                         if get_clean_quote(quote["lojban"]) not in quotes:
                             quotes.add(get_clean_quote(quote["lojban"]))
                             source["instance"] = source.get("instance", 0) + 1
@@ -164,6 +169,12 @@ print(f"{len(quotes)} quotes recorded")
 print("Conversion complete. Output saved to output.json.")
 
 ### Generating the HTML files ###
+
+### source infomation ###
+with open("quote_stats.json", "w", encoding="utf-8") as json_file:
+    json.dump(sources, json_file, ensure_ascii=False, indent=4)
+with open("quote_stats_chatlog.json", "w", encoding="utf-8") as json_file:
+    json.dump(chatlog_speakers, json_file, ensure_ascii=False, indent=4)
 
 ### README.md ###
 source_order = [x for x in sources if "instance" in sources[x] and sources[x]["instance"] > 0]

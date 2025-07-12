@@ -79,6 +79,29 @@
                 -speaker la ziren
 
 -entry:
+    -word za'a
+    -gloss Attitudinal (evidential): I directly observe
+    -type cmavo
+    -definition:
+        -selmaho UI2
+        -meaning:
+            -exp Evidential: used to express direct observation or perception as the source of information or idea.
+            -example:
+                -lojban .i lo nu kansa cu se nitcu .ie .i ku'i {{za'a}} do na djica
+                -english Togetherness is needed. But, {{I observe}}, you don't want that.
+                -source-id nafe
+            -example:
+                -lojban .i mi ca {{mabla za'a}} ciska fo lo batkyfoi
+                -english {{I see}} I'm typing {{badly}} with my keyboard now.
+                -source-id rolj
+                -speaker la srasu
+                -note The {{za'a}} applies directly to {{mabla}}, which emphasizes that it is the badness (of typing) that is observed.
+            -example:
+                -lojban .i {{za'a dai}} mi jai katna lo plise lo re mei
+                -english {{See}}, I will cut the apple in half.
+                -source-id snow
+
+-entry:
     -word ze'e
     -gloss Preposition (tense): mark unbounded time interval
     -type cmavo

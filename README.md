@@ -1,6 +1,6 @@
 # NALVAI: Nalvai's Assortment of Lojban Vocabulary Attestation Instances
 ## What is this?
-**NALVAI** is a Lojban dictionary that uses quotations from *real-world texts* as examples of usage. It currently contains **116 words** with [**338 quotations** from **73 Lojban texts**](https://github.com/nalvai/nalvai.github.io#sources). Please provide quotations and definitions to help the dictionary grow!
+**NALVAI** is a Lojban dictionary that uses quotations from *real-world texts* as examples of usage. It currently contains **120 words** with [**352 quotations** from **75 Lojban texts**](https://github.com/nalvai/nalvai.github.io#sources). Please provide quotations and definitions to help the dictionary grow!
 
 Here is how a word look like in this dictionary:
 ![The word a in this dictionary](https://raw.githubusercontent.com/nalvai/nalvai.github.io/refs/heads/master/example_a.png)
@@ -93,20 +93,21 @@ A Lojban word has its meaning encompass over different parts of speech in Englis
 ### Quote Sources
 Lojban texts with at least one quotation in this dictionary.
 
-- (76 quotes) roljbogu'e chatlog
-- (29 quotes) [The Little Prince](https://mw.lojban.org/papri/le_cmalu_noltru) by Antoine de Saint-Exupéry, translation by la .xorxes.
+- (78 quotes) roljbogu'e chatlog
+- (31 quotes) [The Little Prince](https://mw.lojban.org/papri/le_cmalu_noltru) by Antoine de Saint-Exupéry, translation by la .xorxes.
 - (22 quotes) [Alice in Wonderland](https://mw.lojban.org/papri/lo_selfri_be_la_.alis._bei_bu%27u_la_selmacygu%27e) by Lewis Carroll, translation by la .xorxes.
 - (18 quotes) [The Wonderful Wizard of Oz](https://selpahi.de/oz_plain.html) by L. Frank Baum, translation by la solpa'i
 - (14 quotes) jbobratca chatlog
+- (11 quotes) [la nicte cadzu](https://mw.lojban.org/papri/Robin%27s_Palm_Writings:_la_nicte_cadzu) by Robin Lee Powell
 - (10 quotes) [la melbi e le ractu](https://lynn.github.io/la-melbi-e-le-ractu/) by la lalxu
 - (10 quotes) [The Metamorphosis](https://mw.lojban.org/images/f/fc/lonubinxo.pdf) by Franz Kafka, translation by la .xorxes.
-- (10 quotes) [la nicte cadzu](https://mw.lojban.org/papri/Robin%27s_Palm_Writings:_la_nicte_cadzu) by Robin Lee Powell
-- (8 quotes) [The Egg](https://nalvai.neocities.org/translations/the-egg/) by Andy Weir, translation by la nalvai
+- (9 quotes) [The Egg](https://nalvai.neocities.org/translations/the-egg/) by Andy Weir, translation by la nalvai
 - (7 quotes) ["Official Lojban"](https://docs.google.com/spreadsheets/d/1_vkiwqOIOIJPqZTiomzd4ApUSEQXhEY6CeyZD_6c-PA/edit?gid=1862526252#gid=1862526252) by la uakci
 - (6 quotes) [clani kerlo](https://docs.google.com/spreadsheets/d/1_vkiwqOIOIJPqZTiomzd4ApUSEQXhEY6CeyZD_6c-PA/edit?gid=1296186733#gid=1296186733) by la fagri
+- (6 quotes) [The Clockmaker](https://mw.lojban.org/papri/le_junla_zbasu) by Robert Louis Stevenson, translation by la .xorxes. ([Original](https://en.wikisource.org/wiki/The_Clockmaker))
 - (6 quotes) [prami simbi'o](https://www.youtube.com/watch?v=g3BQ-pE7ypY) by Djemynai
 - (5 quotes) [Assessment of EGIDS Levels](https://nalvai.neocities.org/translations/egids-scale/) by M. Paul Lewis and Gary F. Simons, translation by la nalvai ([Original](https://www.lingv.ro/RRL%202%202010%20art01Lewis.pdf))
-- (5 quotes) [The Clockmaker](https://mw.lojban.org/papri/le_junla_zbasu) by Robert Louis Stevenson, translation by la .xorxes. ([Original](https://en.wikisource.org/wiki/The_Clockmaker))
+- (5 quotes) [Snow White](https://selpahi.de/snimeblabi.html) by Brothers Grimm, translation by la solpa'i
 - (5 quotes) [Still Alive](https://www.youtube.com/watch?v=hRrIioMA4w8) by Jonathan Coulton, translation by la solpa'i
 - (5 quotes) [Toki Pona Cheatsheet](https://blinry.org/toki-pona-cheat-sheet/toki-pona-cheat-sheet-jbo.pdf) by Blinry, translation by la .samflir. ([Original](https://blinry.org/toki-pona-cheat-sheet/toki-pona-cheat-sheet.pdf))
 - (4 quotes) [Liang and the Magic Paintbrush](https://docs.google.com/spreadsheets/d/1_vkiwqOIOIJPqZTiomzd4ApUSEQXhEY6CeyZD_6c-PA/edit?gid=768225989#gid=768225989) by Demi, translation by la darsi
@@ -114,6 +115,7 @@ Lojban texts with at least one quotation in this dictionary.
 - (4 quotes) [na fengu](https://meremim.bandcamp.com/album/na-fengu) by Mèremim
 - (4 quotes) [The Restaurant of Many Orders](https://docs.google.com/document/d/10Rnm80SieLrpFnk9kn_9bCuon96CNSPTA8hqVaWQYbQ/edit?tab=t.0) by Kenji Miyazawa, translation by la .tijlan.
 - (4 quotes) [za'o](https://www.youtube.com/watch?v=TKbFwr-1ZQ4) by Djemynai
+- (3 quotes) [In a Grove](https://guskant.github.io/yabu/html5/jbopoho.html) by Ryūnosuke Akutagawa, translation by la .guskant.
 - (3 quotes) [The Lay of the Land](https://www.youtube.com/watch?v=ViGGR231zvQ) by Worldbuilding Notes
 - (3 quotes) [lo jbobau cu mo](https://www.youtube.com/watch?v=N-Y9eBBTrxU) by la solpa'i
 - (3 quotes) [They're Made Out of Meat](https://mw.lojban.org/papri/ko%27a_marji_lo_rectu) by Terry Bisson, translation by Pierre Abbot
@@ -123,10 +125,10 @@ Lojban texts with at least one quotation in this dictionary.
 - (2 quotes) [Amapola](https://vimeo.com/233808507) by José María Lacalle García, translation by la .guskant.
 - (2 quotes) [Antarctica is getting greener](https://mw.lojban.org/papri/UserWiki:Ilmen/lo_ziptu%27a_ca%27o_zenba_lo_ka_crino) by Ryan Cross on <i>Science</i>, translation by la .ilmen. ([Original](https://www.science.org/content/article/antarctica-getting-greener))
 - (2 quotes) [The Book](https://lojban.pw/en/texts/the-book/) by H. P. Lovecraft, translation by la gleki
+- (2 quotes) [Carefree Wandering (逍遙遊)](https://www.youtube.com/watch?v=FGY3awgABhU) by Zhuangzi, translation by geezmolycos
 - (2 quotes) [claxu be do crisa](https://soundcloud.com/cogas-iuk/sunday-10-38-pm) by la .cogas.
 - (2 quotes) [Colorful](https://www.youtube.com/watch?v=GjG2vtMOI7c) by H△G, translation by tetsusquared (la .tirprij.)
 - (2 quotes) [First dinosaurs may have been omnivores in the north hemisphere](https://mw.lojban.org/papri/UserWiki:Ilmen/ka%27e_ku_lo_prurai_dinsauru_cu_cti%27omni_bu%27u_lo_berti_bolxadba) by Chelsea Whyte on NewScientist, translation by la .ilmen. ([Original](https://www.newscientist.com/article/2125580-first-dinosaurs-may-have-been-omnivores-in-the-north-hemisphere/))
-- (2 quotes) [In a Grove](https://guskant.github.io/yabu/html5/jbopoho.html) by Ryūnosuke Akutagawa, translation by la .guskant.
 - (2 quotes) [Little Things](https://mw.lojban.org/papri/little_Things) by Raymond Carver, translation by Jordan DeLong
 - (2 quotes) [ku'i ba troci](https://www.youtube.com/watch?v=Y3apKaaBK5c) by Fyren
 - (2 quotes) [Lagtrain (short ver.)](https://www.youtube.com/watch?v=f_NJsM8dces) by inabakumori, translation by tetsusquared (la .tirprij.)
@@ -135,7 +137,6 @@ Lojban texts with at least one quotation in this dictionary.
 - (2 quotes) [lo mi jufra](https://www.youtube.com/watch?v=sLrmjRIMgAk) by la solpa'i
 - (2 quotes) [lo nabmi](https://www.youtube.com/watch?v=gv0QIbGc8i8) by Noise and Bells (la janbe)
 - (2 quotes) [Re-Education](https://www.youtube.com/watch?v=XD6HKp77PbY) by Neru, translation by tetsusquared (la .tirprij.)
-- (2 quotes) [Snow White](https://selpahi.de/snimeblabi.html) by Brothers Grimm, translation by la solpa'i
 - (2 quotes) [sruri fa lo tarci](https://www.youtube.com/watch?v=xZlTA4hbY2o) by Noise and Bells (la janbe)
 - (2 quotes) [tensaia](https://djemynai.bandcamp.com/album/tensaia) by Djemynai
 - (2 quotes) [The Terrorist, He's Watching](https://docs.google.com/spreadsheets/d/1_vkiwqOIOIJPqZTiomzd4ApUSEQXhEY6CeyZD_6c-PA/edit?gid=1514901818#gid=1514901818) by Szymborska Wisława, translation by la uakci
@@ -143,13 +144,13 @@ Lojban texts with at least one quotation in this dictionary.
 - (1 quote) [Ĉarma Anomali’](https://www.youtube.com/watch?v=H5Bbg8HGkV0) by Noise and Bells, translation by tetsusquared (la .tirprij.) ([Original](https://www.youtube.com/watch?v=q05lSh5qfgk))
 - (1 quote) [bai do](https://www.youtube.com/watch?v=fR-Z3h1Jsms) by Noise and Bells (la janbe)
 - (1 quote) [Calc.](https://www.youtube.com/watch?v=n4NhUEUvwew) by JimmyThumbP, translation by tetsusquared (la .tirprij.)
-- (1 quote) [Carefree Wandering (逍遙遊)](https://www.youtube.com/watch?v=FGY3awgABhU) by Zhuangzi, translation by geezmolycos
 - (1 quote) [cipra lo skari lo vanju](https://guskant.github.io/lojbo/cipra.html) by la .guskant.
 - (1 quote) [lo cmalu](https://selpahi.de/cmalu.html) by la solpa'i
 - (1 quote) [dansu co toldi](https://www.youtube.com/watch?v=B156ExvRjzM) by Noise and Bells (la janbe)
 - (1 quote) [.](https://www.youtube.com/watch?v=O4yrd-E_xpc) by 全てあなたの所為です, translation by tetsusquared (la .tirprij.)
 - (1 quote) [Diamond City Lights](https://www.youtube.com/watch?v=VEen_TdvuC0) by LazuLight, translation by tetsusquared (la .tirprij.)
 - (1 quote) [The Disappearance of Crispina Umberleigh](https://mw.lojban.org/papri/nuncanci_la_krispinas_ambylis) by Saki, translation by la komfo,amonan ([Original](https://en.wikisource.org/wiki/The_Toys_of_Peace_and_Other_Papers/The_Disappearance_of_Crispina_Umberleigh))
+- (1 quote) [Emerald Tablet](https://lojban.pw/en/texts/emerald-tablet/) by an unknown Arabic writer, translation by la gleki
 - (1 quote) [Guitar, Loneliness and Blue Planet](https://www.youtube.com/watch?v=Kul_crM2RKg) by Kessoku Band, translation by tetsusquared (la .tirprij.)
 - (1 quote) [Headphone Actor](https://www.youtube.com/watch?v=X7jXrgWeltw) by Jin, translation by tetsusquared (la .tirprij.)
 - (1 quote) [How the enemy came to Thlunrana](https://lojban.pw/en/texts/how-the-enemy-came-to-thlunrana/) by Lord Dunsany, translation by la gleki
@@ -158,6 +159,7 @@ Lojban texts with at least one quotation in this dictionary.
 - (1 quote) [ko gleki gau la cevni](https://www.youtube.com/watch?v=6swu1ESUw0E) by Noise and Bells (la janbe)
 - (1 quote) [koi do mi na](https://meremim.bandcamp.com/album/koi-do-mi-na) by Mèremim
 - (1 quote) [lenrygu'i](https://www.youtube.com/watch?v=-q0gzt4w-o8) by la fagri
+- (1 quote) [ma zerfu'e](https://selpahi.de/mazerfuhe.html) by Unknown, translation by la solpa'i
 - (1 quote) [la nu farlu lo plini](https://liputenpo.org/toki/nanpa-kokosila/la-nu-farlu-lo-plini/) by la srasu
 - (1 quote) [ODDS&ENDS](https://www.youtube.com/watch?v=L65SWX6vbkw) by ryo, translation by tetsusquared (la .tirprij.)
 - (1 quote) [The Princess and the Pea](https://selpahi.de/dembi.html) by Hans Christian Andersen, translation by la solpa'i
@@ -169,7 +171,7 @@ Lojban texts with at least one quotation in this dictionary.
 
 The quotes from chatlogs are from the following speakers: (in no particular order)
 
-la ilmen, AstroMacGuffin, Lucilla, misotanni, melody!, yeet kitty, latkerlo, la fagri, Magnap, la .zi., la uakci, la srasu, Haze, la ziren, la bakre'u, Stephen Dedalus, la katador, nitfg, la evis, la piier, la solpa'i, dram, la xrula, varik, la lunra, bancip, la nalvai, la melmi, niftg, la lunbe, la nonselcme, la gleki, la varik, la samflir, qimar, la lalxu, la kanis, .kúblizel., la janbe, \_4Denthusiast, 
+la xrula, la melmi, latkerlo, la samflir, misotanni, la uakci, la .zi., Stephen Dedalus, Magnap, la fagri, Haze, la varik, la janbe, la gleki, la nonselcme, Lucilla, la nalvai, la evis, la lunra, niftg, yeet kitty, la tirprij, la kanis, la bakre'u, la katador, la piier, la lunbe, AstroMacGuffin, melody!, la solpa'i, la ziren, .kúblizel., \_4Denthusiast, dram, la srasu, bancip, la ilmen, la lalxu, qimar, 
 
 Huge thanks to the following individuals who contributed to this project:
 

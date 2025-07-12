@@ -12252,7 +12252,7 @@
     },
     {
         "word": "fi'o",
-        "gloss": "selbri to modal",
+        "gloss": "Preposition: converts selbri into preposition",
         "type": "cmavo",
         "freq": "23260",
         "rank": "208",
@@ -12265,11 +12265,51 @@
                 "selmaho": "FIhO",
                 "meaning": [
                     {
-                        "exp": "convert selbri to nonce modal/sumti tag."
+                        "exp": "Converts the following selbri into a modal/tag/preposition. The resulting preposition introduces an unnumbered sumti that plays the role of the converted selbri's x<sub>1</sub> in the sentence.",
+                        "note": "The exact relation between the introduced sumti and the rest of the sentence has not been rigorously defined and is usually understood in an ad-hoc manner. The same goes for BAI prepositions.",
+                        "example": [
+                            {
+                                "lojban": ".i do prane ro zu'i {{fi'o morji le do panzi}}",
+                                "english": "{{Your kids will remember}} you as perfect in every way.",
+                                "source-id": "eggq",
+                                "source": "The Egg",
+                                "author": "Andy Weir",
+                                "translator": "la nalvai",
+                                "link": "https://nalvai.neocities.org/translations/the-egg/"
+                            },
+                            {
+                                "lojban": "ni'o ti datni papri fi'e la'o gy. blinry .gy. {{fi'o plijaspu}} la'o gy. CC0 .gy.",
+                                "english": "Cheat sheet by blinry, {{with license}} CC0.",
+                                "source-id": "tokp",
+                                "source": "Toki Pona Cheatsheet",
+                                "author": "Blinry",
+                                "translator": "la .samflir.",
+                                "link": "https://blinry.org/toki-pona-cheat-sheet/toki-pona-cheat-sheet-jbo.pdf",
+                                "originallink": "https://blinry.org/toki-pona-cheat-sheet/toki-pona-cheat-sheet.pdf"
+                            },
+                            {
+                                "lojban": ".i viska bu'u lo cmana lo mrovau .e la snime blabi ku noi melbi ku'o gi'e tcidu lo se ciska {{be fi'o lerfu lo solji}}",
+                                "english": "He saw the coffin on the mountain and lovely Snow White inside, and read what was written {{in golden letters}}.",
+                                "source-id": "snow",
+                                "source": "Snow White",
+                                "author": "Brothers Grimm",
+                                "translator": "la solpa'i",
+                                "link": "https://selpahi.de/snimeblabi.html"
+                            },
+                            {
+                                "lojban": ".iku'i la jbovlaste cu na {{jai fi'o ve vreji fe'u smuni}} fai da zo ninja",
+                                "english": "But there aren't any meaning of \"ninja\" {{recorded in}} jbovlaste.",
+                                "source-id": "rolj",
+                                "speaker": "la srasu",
+                                "note": "The sumti slot introduced by {{fi'o ve vreji fe'u}} is promoted to x<sub>1</sub> by {{jai}}.",
+                                "source": "roljbogu'e chatlog"
+                            }
+                        ]
                     }
                 ]
             }
-        ]
+        ],
+        "good": true
     },
     {
         "word": "fi'u",
@@ -15588,7 +15628,7 @@
     },
     {
         "word": "jai",
-        "gloss": "modal conversion",
+        "gloss": "Place Structure: promote other sumti slot to x<sub>1</sub>",
         "type": "cmavo",
         "freq": "63160",
         "rank": "87",
@@ -15601,11 +15641,77 @@
                 "selmaho": "JAI",
                 "meaning": [
                     {
-                        "exp": "convert tense/modal (tagged) place to 1st place; 1st place moves to extra FA place (fai)."
+                        "context": "before a selbri/tanru-unit",
+                        "exp": "Sumti raising: replaces the meaning of the selbri's original x_1 with \"some proposition/event/preperty... involved in x_1\". The original x_1 is moved to the {{fai}} place. {{ko'a jai broda}} is equivalent to {{tu'a ko'a (lu'u) broda}}. Used when the selbri takes an abstraction as x_1, but a concrete (object etc.) is desired for the place.",
+                        "note": "Note that {{jai}} acts on tanru unit (instead of selbri as a whole), so {{jai broda brode}} will have the exact same place strcutre as {{brode}}.",
+                        "example": [
+                            {
+                                "lojban": ".i mi {{na jai se curmi fai}} lo nu fitytu'i da",
+                                "english": "I {{am not allowed to}} let anyone in.",
+                                "source-id": "snow",
+                                "source": "Snow White",
+                                "author": "Brothers Grimm",
+                                "translator": "la solpa'i",
+                                "link": "https://selpahi.de/snimeblabi.html"
+                            },
+                            {
+                                "lojban": "ni'o {{lo jai daspo}} cu tolcliva",
+                                "english": "{{The destroyer}} arrives.",
+                                "source-id": "nict",
+                                "source": "la nicte cadzu",
+                                "author": "Robin Lee Powell",
+                                "link": "https://mw.lojban.org/papri/Robin%27s_Palm_Writings:_la_nicte_cadzu"
+                            },
+                            {
+                                "lojban": ".i lo pulji cu {{jai lerci}} dukse",
+                                "english": "The police are too {{late}}.",
+                                "source-id": "maze",
+                                "note": "{{lo pulji}} is <u>not</u> raised in this sentence because {{jai lerci}} is in the seltau (modifying) position of the tanru and thus have no effect on the place strucure of the selbri.",
+                                "source": "ma zerfu'e",
+                                "author": "Unknown",
+                                "translator": "la solpa'i",
+                                "link": "https://selpahi.de/mazerfuhe.html"
+                            }
+                        ]
+                    },
+                    {
+                        "context": "before a preposition",
+                        "exp": "Replaces the selbri's original x_1 with the sumti introduced by the following preposition. The original x_1 is moved to the {{fai}} place.",
+                        "note": "Note that {{jai}} acts on tanru unit (instead of selbri as a whole), so {{jai PREPOSITION broda brode}} will have the exact same place strcutre as {{brode}}.",
+                        "example": [
+                            {
+                                "lojban": ".i {{jai gau sepli fa ko}} {{fai le terdi}} fe le fagri",
+                                "english": "{{Separate}} {{the earth}} from the fire.",
+                                "source-id": "emer",
+                                "source": "Emerald Tablet",
+                                "author": "an unknown Arabic writer",
+                                "translator": "la gleki",
+                                "link": "https://lojban.pw/en/texts/emerald-tablet/"
+                            },
+                            {
+                                "lojban": ".i {{lo jai ca cliva}} cu jibni",
+                                "english": "{{The hour of his departure}} drew near.",
+                                "source-id": "litt",
+                                "source": "The Little Prince",
+                                "author": "Antoine de Saint-Exupéry",
+                                "translator": "la .xorxes.",
+                                "link": "https://mw.lojban.org/papri/le_cmalu_noltru"
+                            },
+                            {
+                                "lojban": ".i {{lo jai ja'e dzicatlu be fai py.}} {{lo jai ja'e galcatlu be fai py.}} cu simsa pe'i",
+                                "english": "{{The effect to the bird looking down}} would be just the same as to {{that (the effect) of looking up}}.",
+                                "source-id": "care",
+                                "source": "Carefree Wandering (逍遙遊)",
+                                "author": "Zhuangzi",
+                                "translator": "geezmolycos",
+                                "link": "https://www.youtube.com/watch?v=FGY3awgABhU"
+                            }
+                        ]
                     }
                 ]
             }
-        ]
+        ],
+        "good": true
     },
     {
         "word": "jakne",
@@ -20390,7 +20496,7 @@
                                 "lojban": ".i xu .iaru'e lu'a lo sfani cu cmacma {{seki'u lo nu lo'e sfani darxi catra tutci cu na plixau}}",
                                 "english": "Is it that (I slightly believe) the flies are so small {{the reason that flyswatters aren't useful}}?",
                                 "source-id": "rolj",
-                                "speaker": "nitfg",
+                                "speaker": "niftg",
                                 "source": "roljbogu'e chatlog"
                             }
                         ]
@@ -25406,7 +25512,7 @@
                                 "lojban": ".i la .varik. cu cusku {{le milxe be le ka ce'u smimlu}}",
                                 "english": "Varik said {{something mildly similar-looking}}.",
                                 "source-id": "rolj",
-                                "speaker": "varik",
+                                "speaker": "la varik",
                                 "source": "roljbogu'e chatlog"
                             },
                             {
@@ -28025,8 +28131,8 @@
                                 "originallink": "https://blinry.org/toki-pona-cheat-sheet/toki-pona-cheat-sheet.pdf"
                             },
                             {
-                                "lojban": ".i lo nu kansa cu {{se nitcu}} .ie",
-                                "english": "Yeah, togetherness {{is needed}}.",
+                                "lojban": ".i lo nu kansa cu {{se nitcu}} .ie .i ku'i za'a do na djica",
+                                "english": "Togetherness {{is needed}}. But, I observe, you don't want that.",
                                 "source-id": "nafe",
                                 "source": "na fengu",
                                 "author": "Mèremim",
@@ -34068,7 +34174,7 @@
     },
     {
         "word": "sa'e",
-        "gloss": "precisely speaking",
+        "gloss": "Attitudinal (discursive): precisely speaking",
         "type": "cmavo",
         "freq": "30820",
         "rank": "167",
@@ -34081,11 +34187,55 @@
                 "selmaho": "UI3",
                 "meaning": [
                     {
-                        "exp": "discursive: precisely speaking - loosely speaking."
+                        "exp": "Express exactness. Indicates that the speaker thinks what was said exactly matches what was meant.",
+                        "example": [
+                            {
+                                "lojban": ".i {{sa'e}} mi djica tu'a lo zirli se tavla be bau lo lojbo",
+                                "english": "{{To be precise}}, I want someone I can speak Lojban to IRL.",
+                                "source-id": "rolj",
+                                "speaker": "la tirprij",
+                                "source": "roljbogu'e chatlog"
+                            },
+                            {
+                                "lojban": ".i lo javni na cenba —sei lo cikygau cu cusku— .i la'e di'u {{sa'e}} nabmi",
+                                "english": "\"The orders have not been changed,\" said the lamplighter. \"That is {{(exactly) the}} tragedy! ...",
+                                "source-id": "litt",
+                                "source": "The Little Prince",
+                                "author": "Antoine de Saint-Exupéry",
+                                "translator": "la .xorxes.",
+                                "link": "https://mw.lojban.org/papri/le_cmalu_noltru"
+                            }
+                        ]
+                    },
+                    {
+                        "context": "~ {{nai}}",
+                        "exp": "Express inexactness. Indicates that the speaker believes what was said does not accurately reflect their intended meaning, yet is used in a somewhat fitting way.",
+                        "example": [
+                            {
+                                "lojban": ".i lo tcika zo'u {{sa'e nai}} prulamcte ke pa moi ctetcika",
+                                "english": "The time? It was {{around}} the first hours of last night.",
+                                "source-id": "inag",
+                                "source": "In a Grove",
+                                "author": "Ryūnosuke Akutagawa",
+                                "translator": "la .guskant.",
+                                "link": "https://guskant.github.io/yabu/html5/jbopoho.html"
+                            },
+                            {
+                                "lojban": ".i ku'i {{sa'e nai}} lo ko'a velcki cu jibni mapti lo fatci",
+                                "english": "But {{in most points}}, their theory accorded rudely with the facts.",
+                                "source-id": "cloc",
+                                "source": "The Clockmaker",
+                                "author": "Robert Louis Stevenson",
+                                "translator": "la .xorxes.",
+                                "link": "https://mw.lojban.org/papri/le_junla_zbasu",
+                                "originallink": "https://en.wikisource.org/wiki/The_Clockmaker"
+                            }
+                        ]
                     }
                 ]
             }
-        ]
+        ],
+        "good": true
     },
     {
         "word": "sa'i",
@@ -39266,7 +39416,7 @@
                                 "lojban": ".i lo nu kurji cu ja'a {{se tatpi}} .uu",
                                 "english": "Taking care of someone is indeed {{tiring}}.",
                                 "source-id": "rolj",
-                                "speaker": "nitfg",
+                                "speaker": "niftg",
                                 "source": "roljbogu'e chatlog"
                             }
                         ]
@@ -45227,7 +45377,7 @@
     },
     {
         "word": "za'a",
-        "gloss": "I observe",
+        "gloss": "Attitudinal (evidential): I directly observe",
         "type": "cmavo",
         "freq": "33120",
         "rank": "150",
@@ -45240,11 +45390,39 @@
                 "selmaho": "UI2",
                 "meaning": [
                     {
-                        "exp": "evidential: I observe."
+                        "exp": "Evidential: used to express direct observation or perception as the source of information or idea.",
+                        "example": [
+                            {
+                                "lojban": ".i lo nu kansa cu se nitcu .ie .i ku'i {{za'a}} do na djica",
+                                "english": "Togetherness is needed. But, {{I observe}}, you don't want that.",
+                                "source-id": "nafe",
+                                "source": "na fengu",
+                                "author": "Mèremim",
+                                "link": "https://meremim.bandcamp.com/album/na-fengu"
+                            },
+                            {
+                                "lojban": ".i mi ca {{mabla za'a}} ciska fo lo batkyfoi",
+                                "english": "{{I see}} I'm typing {{badly}} with my keyboard now.",
+                                "source-id": "rolj",
+                                "speaker": "la srasu",
+                                "note": "The {{za'a}} applies directly to {{mabla}}, which emphasizes that it is the badness (of typing) that is observed.",
+                                "source": "roljbogu'e chatlog"
+                            },
+                            {
+                                "lojban": ".i {{za'a dai}} mi jai katna lo plise lo re mei",
+                                "english": "{{See}}, I will cut the apple in half.",
+                                "source-id": "snow",
+                                "source": "Snow White",
+                                "author": "Brothers Grimm",
+                                "translator": "la solpa'i",
+                                "link": "https://selpahi.de/snimeblabi.html"
+                            }
+                        ]
                     }
                 ]
             }
-        ]
+        ],
+        "good": true
     },
     {
         "word": "zabna",

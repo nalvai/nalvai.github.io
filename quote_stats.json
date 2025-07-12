@@ -4,411 +4,483 @@
         "author": "Ibuki Tsubasa",
         "translator": "tetsusquared (la .tirprij.)",
         "link": "https://www.youtube.com/watch?v=GGoqNJjiun0",
-        "originallink": "https://www.youtube.com/watch?v=9CNkjJo_Sjg"
+        "originallink": "https://www.youtube.com/watch?v=9CNkjJo_Sjg",
+        "instance": 1
     },
     "alic": {
         "source": "Alice in Wonderland",
         "author": "Lewis Carroll",
         "translator": "la .xorxes.",
-        "link": "https://mw.lojban.org/papri/lo_selfri_be_la_.alis._bei_bu%27u_la_selmacygu%27e"
+        "link": "https://mw.lojban.org/papri/lo_selfri_be_la_.alis._bei_bu%27u_la_selmacygu%27e",
+        "instance": 22
     },
     "alwa": {
         "source": "Always With Me",
         "author": "Youmi Kimura",
         "translator": "la .guskant.",
-        "link": "https://vimeo.com/113232481"
+        "link": "https://vimeo.com/113232481",
+        "instance": 2
     },
     "amap": {
         "source": "Amapola",
         "author": "José María Lacalle García",
         "translator": "la .guskant.",
-        "link": "https://vimeo.com/233808507"
+        "link": "https://vimeo.com/233808507",
+        "instance": 2
     },
     "anta": {
         "source": "Antarctica is getting greener",
         "author": "Ryan Cross on <i>Science</i>",
         "translator": "la .ilmen.",
         "link": "https://mw.lojban.org/papri/UserWiki:Ilmen/lo_ziptu%27a_ca%27o_zenba_lo_ka_crino",
-        "originallink": "https://www.science.org/content/article/antarctica-getting-greener"
+        "originallink": "https://www.science.org/content/article/antarctica-getting-greener",
+        "instance": 2
     },
     "arma": {
         "source": "Ĉarma Anomali’",
         "author": "Noise and Bells",
         "translator": "tetsusquared (la .tirprij.)",
         "link": "https://www.youtube.com/watch?v=H5Bbg8HGkV0",
-        "originallink": "https://www.youtube.com/watch?v=q05lSh5qfgk"
+        "originallink": "https://www.youtube.com/watch?v=q05lSh5qfgk",
+        "instance": 1
     },
     "asse": {
         "source": "Assessment of EGIDS Levels",
         "author": "M. Paul Lewis and Gary F. Simons",
         "translator": "la nalvai",
         "link": "https://nalvai.neocities.org/translations/egids-scale/",
-        "originallink": "https://www.lingv.ro/RRL%202%202010%20art01Lewis.pdf"
+        "originallink": "https://www.lingv.ro/RRL%202%202010%20art01Lewis.pdf",
+        "instance": 5
     },
     "baid": {
         "source": "bai do",
         "author": "Noise and Bells (la janbe)",
-        "link": "https://www.youtube.com/watch?v=fR-Z3h1Jsms"
+        "link": "https://www.youtube.com/watch?v=fR-Z3h1Jsms",
+        "instance": 1
     },
     "book": {
         "source": "The Book",
         "author": "H. P. Lovecraft",
         "translator": "la gleki",
-        "link": "https://lojban.pw/en/texts/the-book/"
+        "link": "https://lojban.pw/en/texts/the-book/",
+        "instance": 2
     },
     "calc": {
         "source": "Calc.",
         "author": "JimmyThumbP",
         "translator": "tetsusquared (la .tirprij.)",
-        "link": "https://www.youtube.com/watch?v=n4NhUEUvwew"
+        "link": "https://www.youtube.com/watch?v=n4NhUEUvwew",
+        "instance": 1
     },
     "care": {
         "source": "Carefree Wandering (逍遙遊)",
         "author": "Zhuangzi",
         "translator": "geezmolycos",
-        "link": "https://www.youtube.com/watch?v=FGY3awgABhU"
+        "link": "https://www.youtube.com/watch?v=FGY3awgABhU",
+        "instance": 2
     },
     "cipr": {
         "source": "cipra lo skari lo vanju",
         "author": "la .guskant.",
-        "link": "https://guskant.github.io/lojbo/cipra.html"
+        "link": "https://guskant.github.io/lojbo/cipra.html",
+        "instance": 1
     },
     "clan": {
         "source": "clani kerlo",
         "author": "la fagri",
-        "link": "https://docs.google.com/spreadsheets/d/1_vkiwqOIOIJPqZTiomzd4ApUSEQXhEY6CeyZD_6c-PA/edit?gid=1296186733#gid=1296186733"
+        "link": "https://docs.google.com/spreadsheets/d/1_vkiwqOIOIJPqZTiomzd4ApUSEQXhEY6CeyZD_6c-PA/edit?gid=1296186733#gid=1296186733",
+        "instance": 6
     },
     "clax": {
         "source": "claxu be do crisa",
         "author": "la .cogas.",
-        "link": "https://soundcloud.com/cogas-iuk/sunday-10-38-pm"
+        "link": "https://soundcloud.com/cogas-iuk/sunday-10-38-pm",
+        "instance": 2
     },
     "cloc": {
         "source": "The Clockmaker",
         "author": "Robert Louis Stevenson",
         "translator": "la .xorxes.",
-        "link": "https://mw.lojban.org/papri/le_junla_zbasu",        
-        "originallink": "https://en.wikisource.org/wiki/The_Clockmaker"
+        "link": "https://mw.lojban.org/papri/le_junla_zbasu",
+        "originallink": "https://en.wikisource.org/wiki/The_Clockmaker",
+        "instance": 6
     },
     "cmal": {
         "source": "lo cmalu",
         "author": "la solpa'i",
-        "link": "https://selpahi.de/cmalu.html"
+        "link": "https://selpahi.de/cmalu.html",
+        "instance": 1
     },
     "colo": {
         "source": "Colorful",
         "author": "H△G",
         "translator": "tetsusquared (la .tirprij.)",
-        "link": "https://www.youtube.com/watch?v=GjG2vtMOI7c"
+        "link": "https://www.youtube.com/watch?v=GjG2vtMOI7c",
+        "instance": 2
     },
     "dans": {
         "source": "dansu co toldi",
         "author": "Noise and Bells (la janbe)",
-        "link": "https://www.youtube.com/watch?v=B156ExvRjzM"
+        "link": "https://www.youtube.com/watch?v=B156ExvRjzM",
+        "instance": 1
     },
     "denp": {
         "source": ".",
         "author": "全てあなたの所為です",
         "translator": "tetsusquared (la .tirprij.)",
-        "link": "https://www.youtube.com/watch?v=O4yrd-E_xpc"
+        "link": "https://www.youtube.com/watch?v=O4yrd-E_xpc",
+        "instance": 1
     },
     "diam": {
         "source": "Diamond City Lights",
         "author": "LazuLight",
         "translator": "tetsusquared (la .tirprij.)",
-        "link": "https://www.youtube.com/watch?v=VEen_TdvuC0"
+        "link": "https://www.youtube.com/watch?v=VEen_TdvuC0",
+        "instance": 1
     },
     "disa": {
         "source": "The Disappearance of Crispina Umberleigh",
         "author": "Saki",
         "translator": "la komfo,amonan",
         "link": "https://mw.lojban.org/papri/nuncanci_la_krispinas_ambylis",
-        "originallink": "https://en.wikisource.org/wiki/The_Toys_of_Peace_and_Other_Papers/The_Disappearance_of_Crispina_Umberleigh"
+        "originallink": "https://en.wikisource.org/wiki/The_Toys_of_Peace_and_Other_Papers/The_Disappearance_of_Crispina_Umberleigh",
+        "instance": 1
     },
     "emer": {
         "source": "Emerald Tablet",
         "author": "an unknown Arabic writer",
         "translator": "la gleki",
-        "link": "https://lojban.pw/en/texts/emerald-tablet/"
+        "link": "https://lojban.pw/en/texts/emerald-tablet/",
+        "instance": 1
     },
     "eggq": {
         "source": "The Egg",
         "author": "Andy Weir",
         "translator": "la nalvai",
-        "link": "https://nalvai.neocities.org/translations/the-egg/"
+        "link": "https://nalvai.neocities.org/translations/the-egg/",
+        "instance": 9
     },
     "firs": {
         "source": "First dinosaurs may have been omnivores in the north hemisphere",
         "author": "Chelsea Whyte on NewScientist",
         "translator": "la .ilmen.",
         "link": "https://mw.lojban.org/papri/UserWiki:Ilmen/ka%27e_ku_lo_prurai_dinsauru_cu_cti%27omni_bu%27u_lo_berti_bolxadba",
-        "originallink": "https://www.newscientist.com/article/2125580-first-dinosaurs-may-have-been-omnivores-in-the-north-hemisphere/"
+        "originallink": "https://www.newscientist.com/article/2125580-first-dinosaurs-may-have-been-omnivores-in-the-north-hemisphere/",
+        "instance": 2
     },
     "guit": {
         "source": "Guitar, Loneliness and Blue Planet",
         "author": "Kessoku Band",
         "translator": "tetsusquared (la .tirprij.)",
-        "link": "https://www.youtube.com/watch?v=Kul_crM2RKg"
+        "link": "https://www.youtube.com/watch?v=Kul_crM2RKg",
+        "instance": 1
     },
     "head": {
         "source": "Headphone Actor",
         "author": "Jin",
         "translator": "tetsusquared (la .tirprij.)",
-        "link": "https://www.youtube.com/watch?v=X7jXrgWeltw"
+        "link": "https://www.youtube.com/watch?v=X7jXrgWeltw",
+        "instance": 1
     },
     "howt": {
         "source": "How the enemy came to Thlunrana",
         "author": "Lord Dunsany",
         "translator": "la gleki",
-        "link": "https://lojban.pw/en/texts/how-the-enemy-came-to-thlunrana/"
+        "link": "https://lojban.pw/en/texts/how-the-enemy-came-to-thlunrana/",
+        "instance": 1
     },
     "inag": {
         "source": "In a Grove",
         "author": "Ryūnosuke Akutagawa",
         "translator": "la .guskant.",
-        "link": "https://guskant.github.io/yabu/html5/jbopoho.html"
+        "link": "https://guskant.github.io/yabu/html5/jbopoho.html",
+        "instance": 3
     },
     "ings": {
         "source": "Little Things",
         "author": "Raymond Carver",
         "translator": "Jordan DeLong",
-        "link": "https://mw.lojban.org/papri/little_Things"
+        "link": "https://mw.lojban.org/papri/little_Things",
+        "instance": 2
     },
     "jbob": {
-        "source": "jbobratca chatlog"
+        "source": "jbobratca chatlog",
+        "instance": 14
     },
     "jbin": {
         "source": "jbini canlu",
         "author": "Noise and Bells (la janbe)",
-        "link": "https://www.youtube.com/watch?v=3aNGqujy-6s"
+        "link": "https://www.youtube.com/watch?v=3aNGqujy-6s",
+        "instance": 1
     },
     "jitt": {
         "source": "Jitter Doll",
         "author": "niki",
         "translator": "tetsusquared (la .tirprij.)",
-        "link": "https://www.youtube.com/watch?v=kkCQibMbN2s"
+        "link": "https://www.youtube.com/watch?v=kkCQibMbN2s",
+        "instance": 1
     },
     "kogl": {
         "source": "ko gleki gau la cevni",
         "author": "Noise and Bells (la janbe)",
-        "link": "https://www.youtube.com/watch?v=6swu1ESUw0E"
+        "link": "https://www.youtube.com/watch?v=6swu1ESUw0E",
+        "instance": 1
     },
     "koid": {
         "source": "koi do mi na",
         "author": "Mèremim",
-        "link": "https://meremim.bandcamp.com/album/koi-do-mi-na"
+        "link": "https://meremim.bandcamp.com/album/koi-do-mi-na",
+        "instance": 1
     },
     "kuhi": {
         "source": "ku'i ba troci",
         "author": "Fyren",
-        "link": "https://www.youtube.com/watch?v=Y3apKaaBK5c"
+        "link": "https://www.youtube.com/watch?v=Y3apKaaBK5c",
+        "instance": 2
     },
     "lagt": {
         "source": "Lagtrain (short ver.)",
         "author": "inabakumori",
         "translator": "tetsusquared (la .tirprij.)",
-        "link": "https://www.youtube.com/watch?v=f_NJsM8dces"
+        "link": "https://www.youtube.com/watch?v=f_NJsM8dces",
+        "instance": 2
     },
     "layo": {
         "source": "The Lay of the Land",
         "author": "Worldbuilding Notes",
-        "link": "https://www.youtube.com/watch?v=ViGGR231zvQ"
+        "link": "https://www.youtube.com/watch?v=ViGGR231zvQ",
+        "instance": 3
     },
     "lenr": {
         "source": "lenrygu'i",
         "author": "la fagri",
-        "link": "https://www.youtube.com/watch?v=-q0gzt4w-o8"
+        "link": "https://www.youtube.com/watch?v=-q0gzt4w-o8",
+        "instance": 1
     },
     "lett": {
         "source": "letter song",
         "author": "doriko",
         "translator": "tetsusquared (la .tirprij.)",
-        "link": "https://www.youtube.com/watch?v=5r-JIZNGAMA"
+        "link": "https://www.youtube.com/watch?v=5r-JIZNGAMA",
+        "instance": 2
     },
     "lian": {
         "source": "Liang and the Magic Paintbrush",
         "author": "Demi",
         "translator": "la darsi",
         "editor": "la gleki",
-        "link": "https://docs.google.com/spreadsheets/d/1_vkiwqOIOIJPqZTiomzd4ApUSEQXhEY6CeyZD_6c-PA/edit?gid=768225989#gid=768225989"
+        "link": "https://docs.google.com/spreadsheets/d/1_vkiwqOIOIJPqZTiomzd4ApUSEQXhEY6CeyZD_6c-PA/edit?gid=768225989#gid=768225989",
+        "instance": 4
     },
     "libr": {
         "source": "The Library of Babel",
         "author": "Jorge Luis Borges",
         "translator": "la .xorxes.",
-        "link": "https://mw.lojban.org/papri/la_ckuzda_pe_la_babel"
+        "link": "https://mw.lojban.org/papri/la_ckuzda_pe_la_babel",
+        "instance": 4
     },
     "litt": {
         "source": "The Little Prince",
         "author": "Antoine de Saint-Exupéry",
         "translator": "la .xorxes.",
-        "link": "https://mw.lojban.org/papri/le_cmalu_noltru"
+        "link": "https://mw.lojban.org/papri/le_cmalu_noltru",
+        "instance": 31
     },
     "lojb": {
         "source": "lo jbobau cu mo",
         "author": "la solpa'i",
-        "link": "https://www.youtube.com/watch?v=N-Y9eBBTrxU"
+        "link": "https://www.youtube.com/watch?v=N-Y9eBBTrxU",
+        "instance": 3
     },
     "lost": {
         "source": "The Lost One's Weeping",
         "author": "Neru",
         "translator": "tetsusquared (la .tirprij.)",
-        "link": "https://www.youtube.com/watch?v=9TA1-lVHAUM"
+        "link": "https://www.youtube.com/watch?v=9TA1-lVHAUM",
+        "instance": 2
     },
     "made": {
         "source": "They're Made Out of Meat",
         "author": "Terry Bisson",
         "translator": "Pierre Abbot",
-        "link": "https://mw.lojban.org/papri/ko%27a_marji_lo_rectu"
+        "link": "https://mw.lojban.org/papri/ko%27a_marji_lo_rectu",
+        "instance": 3
     },
     "maze": {
         "source": "ma zerfu'e",
         "author": "Unknown",
         "translator": "la solpa'i",
-        "link": "https://selpahi.de/mazerfuhe.html"
+        "link": "https://selpahi.de/mazerfuhe.html",
+        "instance": 1
     },
     "melb": {
         "source": "la melbi e le ractu",
         "author": "la lalxu",
-        "link": "https://lynn.github.io/la-melbi-e-le-ractu/"
+        "link": "https://lynn.github.io/la-melbi-e-le-ractu/",
+        "instance": 10
     },
     "meta": {
         "source": "The Metamorphosis",
         "author": "Franz Kafka",
         "translator": "la .xorxes.",
-        "link": "https://mw.lojban.org/images/f/fc/lonubinxo.pdf"
+        "link": "https://mw.lojban.org/images/f/fc/lonubinxo.pdf",
+        "instance": 10
     },
     "miju": {
         "source": "lo mi jufra",
         "author": "la solpa'i",
-        "link": "https://www.youtube.com/watch?v=sLrmjRIMgAk"
+        "link": "https://www.youtube.com/watch?v=sLrmjRIMgAk",
+        "instance": 2
     },
     "muhe": {
         "source": "la mu'e cuxna lo bradi",
         "author": "la blutolpinxe",
-        "link": "https://mw.lojban.org/papri/la_mu%27e_cuxna_lo_bradi"
+        "link": "https://mw.lojban.org/papri/la_mu%27e_cuxna_lo_bradi",
+        "instance": 3
     },
     "nabm": {
         "source": "lo nabmi",
         "author": "Noise and Bells (la janbe)",
-        "link": "https://www.youtube.com/watch?v=gv0QIbGc8i8"
+        "link": "https://www.youtube.com/watch?v=gv0QIbGc8i8",
+        "instance": 2
     },
     "nafe": {
         "source": "na fengu",
         "author": "Mèremim",
-        "link": "https://meremim.bandcamp.com/album/na-fengu"
+        "link": "https://meremim.bandcamp.com/album/na-fengu",
+        "instance": 4
     },
     "nict": {
         "source": "la nicte cadzu",
         "author": "Robin Lee Powell",
-        "link": "https://mw.lojban.org/papri/Robin%27s_Palm_Writings:_la_nicte_cadzu"
+        "link": "https://mw.lojban.org/papri/Robin%27s_Palm_Writings:_la_nicte_cadzu",
+        "instance": 11
     },
     "nufa": {
         "source": "la nu farlu lo plini",
         "author": "la srasu",
-        "link": "https://liputenpo.org/toki/nanpa-kokosila/la-nu-farlu-lo-plini/"
+        "link": "https://liputenpo.org/toki/nanpa-kokosila/la-nu-farlu-lo-plini/",
+        "instance": 1
     },
     "odds": {
         "source": "ODDS&ENDS",
         "author": "ryo",
         "translator": "tetsusquared (la .tirprij.)",
-        "link": "https://www.youtube.com/watch?v=L65SWX6vbkw"
+        "link": "https://www.youtube.com/watch?v=L65SWX6vbkw",
+        "instance": 1
     },
     "offi": {
         "source": "\"Official Lojban\"",
         "author": "la uakci",
-        "link": "https://docs.google.com/spreadsheets/d/1_vkiwqOIOIJPqZTiomzd4ApUSEQXhEY6CeyZD_6c-PA/edit?gid=1862526252#gid=1862526252"
+        "link": "https://docs.google.com/spreadsheets/d/1_vkiwqOIOIJPqZTiomzd4ApUSEQXhEY6CeyZD_6c-PA/edit?gid=1862526252#gid=1862526252",
+        "instance": 7
     },
     "pram": {
         "source": "prami simbi'o",
         "author": "Djemynai",
-        "link": "https://www.youtube.com/watch?v=g3BQ-pE7ypY"
+        "link": "https://www.youtube.com/watch?v=g3BQ-pE7ypY",
+        "instance": 6
     },
     "prin": {
         "source": "The Princess and the Pea",
         "author": "Hans Christian Andersen",
         "translator": "la solpa'i",
-        "link": "https://selpahi.de/dembi.html"
+        "link": "https://selpahi.de/dembi.html",
+        "instance": 1
     },
     "reed": {
         "source": "Re-Education",
         "author": "Neru",
         "translator": "tetsusquared (la .tirprij.)",
-        "link": "https://www.youtube.com/watch?v=XD6HKp77PbY"
+        "link": "https://www.youtube.com/watch?v=XD6HKp77PbY",
+        "instance": 2
     },
     "rest": {
         "source": "The Restaurant of Many Orders",
         "author": "Kenji Miyazawa",
         "translator": "la .tijlan.",
-        "link": "https://docs.google.com/document/d/10Rnm80SieLrpFnk9kn_9bCuon96CNSPTA8hqVaWQYbQ/edit?tab=t.0"
+        "link": "https://docs.google.com/document/d/10Rnm80SieLrpFnk9kn_9bCuon96CNSPTA8hqVaWQYbQ/edit?tab=t.0",
+        "instance": 4
     },
     "rolj": {
-        "source": "roljbogu'e chatlog"
+        "source": "roljbogu'e chatlog",
+        "instance": 78
     },
     "rout": {
         "source": "Route Sphere",
         "author": "Last Note.",
         "translator": "tetsusquared (la .tirprij.)",
-        "link": "https://www.youtube.com/watch?v=4aDrH3wEUtQ"
+        "link": "https://www.youtube.com/watch?v=4aDrH3wEUtQ",
+        "instance": 3
     },
     "scie": {
         "source": "The Scientific Ape",
         "author": "Robert Louis Stevenson",
         "translator": "la .xorxes.",
-        "link": "https://mw.lojban.org/papri/le_saske_smani",        
-        "originallink": "https://en.wikisource.org/wiki/The_Scientific_Ape"
+        "link": "https://mw.lojban.org/papri/le_saske_smani",
+        "originallink": "https://en.wikisource.org/wiki/The_Scientific_Ape",
+        "instance": 1
     },
     "skab": {
         "source": "la skaborfe'a",
         "author": "la .guskant.",
-        "link": "https://fotono.tumblr.com/post/143537131514/coi-lo-se-jbobau-joau-zantufa-xi-papipare-i-la"
+        "link": "https://fotono.tumblr.com/post/143537131514/coi-lo-se-jbobau-joau-zantufa-xi-papipare-i-la",
+        "instance": 1
     },
     "snow": {
         "source": "Snow White",
         "author": "Brothers Grimm",
         "translator": "la solpa'i",
-        "link": "https://selpahi.de/snimeblabi.html"
+        "link": "https://selpahi.de/snimeblabi.html",
+        "instance": 5
     },
     "srur": {
         "source": "sruri fa lo tarci",
         "author": "Noise and Bells (la janbe)",
-        "link": "https://www.youtube.com/watch?v=xZlTA4hbY2o"
+        "link": "https://www.youtube.com/watch?v=xZlTA4hbY2o",
+        "instance": 2
     },
     "stil": {
         "source": "Still Alive",
         "author": "Jonathan Coulton",
         "translator": "la solpa'i",
-        "link": "https://www.youtube.com/watch?v=hRrIioMA4w8"
+        "link": "https://www.youtube.com/watch?v=hRrIioMA4w8",
+        "instance": 5
     },
     "tens": {
         "source": "tensaia",
         "author": "Djemynai",
-        "link": "https://djemynai.bandcamp.com/album/tensaia"
+        "link": "https://djemynai.bandcamp.com/album/tensaia",
+        "instance": 2
     },
     "terr": {
         "source": "The Terrorist, He's Watching",
         "author": "Szymborska Wisława",
         "translator": "la uakci",
-        "link": "https://docs.google.com/spreadsheets/d/1_vkiwqOIOIJPqZTiomzd4ApUSEQXhEY6CeyZD_6c-PA/edit?gid=1514901818#gid=1514901818"
+        "link": "https://docs.google.com/spreadsheets/d/1_vkiwqOIOIJPqZTiomzd4ApUSEQXhEY6CeyZD_6c-PA/edit?gid=1514901818#gid=1514901818",
+        "instance": 2
     },
     "ther": {
         "source": "There Will Come Soft Rains",
         "author": "Sara Teasdale",
         "translator": "la lalxu",
-        "link": "https://docs.google.com/spreadsheets/d/1_vkiwqOIOIJPqZTiomzd4ApUSEQXhEY6CeyZD_6c-PA/edit?gid=1567514983#gid=1567514983"
+        "link": "https://docs.google.com/spreadsheets/d/1_vkiwqOIOIJPqZTiomzd4ApUSEQXhEY6CeyZD_6c-PA/edit?gid=1567514983#gid=1567514983",
+        "instance": 1
     },
     "tokp": {
         "source": "Toki Pona Cheatsheet",
         "author": "Blinry",
         "translator": "la .samflir.",
         "link": "https://blinry.org/toki-pona-cheat-sheet/toki-pona-cheat-sheet-jbo.pdf",
-        "originallink": "https://blinry.org/toki-pona-cheat-sheet/toki-pona-cheat-sheet.pdf"
+        "originallink": "https://blinry.org/toki-pona-cheat-sheet/toki-pona-cheat-sheet.pdf",
+        "instance": 5
     },
     "tori": {
         "source": "Torinoko City",
         "author": "40mP",
         "translator": "tetsusquared (la .tirprij.)",
-        "link": "https://www.youtube.com/watch?v=Ar4On-u5vUk"
+        "link": "https://www.youtube.com/watch?v=Ar4On-u5vUk",
+        "instance": 1
     },
     "twit": {
         "source": "Twitter post"
@@ -416,17 +488,20 @@
     "uala": {
         "source": "ua langu",
         "author": "la solpa'i",
-        "link": "https://www.youtube.com/watch?v=h_avoX_Xl4I"
+        "link": "https://www.youtube.com/watch?v=h_avoX_Xl4I",
+        "instance": 1
     },
     "wond": {
         "source": "The Wonderful Wizard of Oz",
         "author": "L. Frank Baum",
         "translator": "la solpa'i",
-        "link": "https://selpahi.de/oz_plain.html"
+        "link": "https://selpahi.de/oz_plain.html",
+        "instance": 18
     },
     "zaho": {
         "source": "za'o",
         "author": "Djemynai",
-        "link": "https://www.youtube.com/watch?v=TKbFwr-1ZQ4"
+        "link": "https://www.youtube.com/watch?v=TKbFwr-1ZQ4",
+        "instance": 4
     }
 }
