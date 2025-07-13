@@ -250,3 +250,24 @@
                 -lojban .i my. {{cusku}} lo se du'u my. manci catlu po'o lo mi melbi lerfu
                 -english She (my mother) said she was just marvelling at my beautiful handwriting.
                 -source-id rolj
+
+-entry:
+    -word dacti
+    -gloss object, thing
+    -type gismu
+    -definition:
+        -meaning:
+            -exp x_1 is a material object enduring in space-time; x_1 is a thing.
+            -example:
+                -lojban .i {{lo va dacti}} cu mo
+                -english What is {{that object}}?
+                -source-id litt
+            -example:
+                -lojban .i mi'a ba zi catra le jitro be {{le dacti}}
+                -english We will soon kill the controller of {{the thing}}.
+                -source-id nict
+            -example:
+                -lojban .i le nu mi ba ba'o {{dacti}} zo'u sruri fa lo tarci
+                -english I will cease to {{be an object}}, where stars are all around
+                -source-id srur
+                

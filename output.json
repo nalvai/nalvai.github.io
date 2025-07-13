@@ -1774,6 +1774,54 @@
         "good": true
     },
     {
+        "word": "dacti",
+        "gloss": "object, thing",
+        "type": "gismu",
+        "freq": "4610",
+        "rank": "650",
+        "tag": "core-3",
+        "rafsi-cvc": null,
+        "rafsi-ccv": null,
+        "rafsi-cvv": "dai",
+        "definition": [
+            {
+                "meaning": [
+                    {
+                        "exp": "x_1 is a material object enduring in space-time; x_1 is a thing.",
+                        "example": [
+                            {
+                                "lojban": ".i {{lo va dacti}} cu mo",
+                                "english": "What is {{that object}}?",
+                                "source-id": "litt",
+                                "source": "The Little Prince",
+                                "author": "Antoine de Saint-Exupéry",
+                                "translator": "la .xorxes.",
+                                "link": "https://mw.lojban.org/papri/le_cmalu_noltru"
+                            },
+                            {
+                                "lojban": ".i mi'a ba zi catra le jitro be {{le dacti}}",
+                                "english": "We will soon kill the controller of {{the thing}}.",
+                                "source-id": "nict",
+                                "source": "la nicte cadzu",
+                                "author": "Robin Lee Powell",
+                                "link": "https://mw.lojban.org/papri/Robin%27s_Palm_Writings:_la_nicte_cadzu"
+                            },
+                            {
+                                "lojban": ".i le nu mi ba ba'o {{dacti}} zo'u sruri fa lo tarci",
+                                "english": "I will cease to {{be an object}}, where stars are all around",
+                                "source-id": "srur",
+                                "source": "sruri fa lo tarci",
+                                "author": "Noise and Bells (la janbe)",
+                                "link": "https://www.youtube.com/watch?v=xZlTA4hbY2o"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "good": true
+    },
+    {
         "word": "de'a",
         "gloss": "Preposition (tense): pausative; event temporarily suspended",
         "type": "cmavo",
