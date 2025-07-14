@@ -2339,6 +2339,56 @@
         "good": true
     },
     {
+        "word": "fatci",
+        "gloss": "fact, reality, truth",
+        "type": "gismu",
+        "freq": "3010",
+        "rank": "817",
+        "tag": "core-3",
+        "rafsi-cvc": "fac",
+        "rafsi-ccv": null,
+        "rafsi-cvv": null,
+        "definition": [
+            {
+                "meaning": [
+                    {
+                        "exp": "x_1 (du'u) is a fact/reality/truth/actuality, in the absolute.",
+                        "example": [
+                            {
+                                "lojban": ".i ku'i sa'e nai lo ko'a velcki cu jibni mapti {{lo fatci}}",
+                                "english": "But in most points, their theory accorded rudely with {{the facts}}.",
+                                "source-id": "cloc",
+                                "source": "The Clockmaker",
+                                "author": "Robert Louis Stevenson",
+                                "translator": "la .xorxes.",
+                                "link": "https://mw.lojban.org/papri/le_junla_zbasu",
+                                "originallink": "https://en.wikisource.org/wiki/The_Clockmaker"
+                            },
+                            {
+                                "lojban": ".i je'u no drata cu {{fatci}}",
+                                "english": "Really, nothing else {{is the truth}}.",
+                                "source-id": "tens",
+                                "source": "tensaia",
+                                "author": "Djemynai",
+                                "link": "https://djemynai.bandcamp.com/album/tensaia"
+                            },
+                            {
+                                "lojban": ".i le pu se djuno {{co'a fatci}}",
+                                "english": "The prophecy {{was fulfilled}}.",
+                                "source-id": "howt",
+                                "source": "How the enemy came to Thlunrana",
+                                "author": "Lord Dunsany",
+                                "translator": "la gleki",
+                                "link": "https://lojban.pw/en/texts/how-the-enemy-came-to-thlunrana/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "good": true
+    },
+    {
         "word": "fe'e",
         "gloss": "Preposition (tense) modifier: mark spatial tense",
         "type": "cmavo",

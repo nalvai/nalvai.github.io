@@ -127,6 +127,27 @@
                 -note The {{fo}} is not needed in this sentence.
                 -source-id rolj
                 -speaker la varik
+                
+-entry:
+    -word fatci
+    -gloss fact, reality, truth
+    -type gismu
+    -definition:
+        -meaning:
+            -exp x_1 (du'u) is a fact/reality/truth/actuality, in the absolute.
+            -example:
+                -lojban .i ku'i sa'e nai lo ko'a velcki cu jibni mapti {{lo fatci}}
+                -english But in most points, their theory accorded rudely with {{the facts}}.
+                -source-id cloc
+            -example:
+                -lojban .i je'u no drata cu {{fatci}}
+                -english Really, nothing else {{is the truth}}.
+                -source-id tens
+            -example:
+                -lojban .i le pu se djuno {{co'a fatci}}
+                -english The prophecy {{was fulfilled}}.
+                -source-id howt
+
 
 
 -entry:
