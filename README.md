@@ -1,6 +1,6 @@
 # NALVAI: Nalvai's Assortment of Lojban Vocabulary Attestation Instances
 ## What is this?
-**NALVAI** is a Lojban dictionary that uses quotations from *real-world texts* as examples of usage. It currently contains **122 words** with [**356 quotations** from **75 Lojban texts**](https://github.com/nalvai/nalvai.github.io#sources). Please provide quotations and definitions to help the dictionary grow!
+**NALVAI** is a Lojban dictionary that uses quotations from *real-world texts* as examples of usage. It currently contains **123 words** with [**358 quotations** from **75 Lojban texts**](https://github.com/nalvai/nalvai.github.io#sources). Please provide quotations and definitions to help the dictionary grow!
 
 Here is how a word look like in this dictionary:
 ![The word a in this dictionary](https://raw.githubusercontent.com/nalvai/nalvai.github.io/refs/heads/master/example_a.png)
@@ -95,8 +95,8 @@ Lojban texts with at least one quotation in this dictionary.
 
 - (78 quotes) roljbogu'e chatlog
 - (32 quotes) [The Little Prince](https://mw.lojban.org/papri/le_cmalu_noltru) by Antoine de Saint-Exupéry, translation by la .xorxes.
-- (22 quotes) [Alice in Wonderland](https://mw.lojban.org/papri/lo_selfri_be_la_.alis._bei_bu%27u_la_selmacygu%27e) by Lewis Carroll, translation by la .xorxes.
-- (18 quotes) [The Wonderful Wizard of Oz](https://selpahi.de/oz_plain.html) by L. Frank Baum, translation by la solpa'i
+- (23 quotes) [Alice in Wonderland](https://mw.lojban.org/papri/lo_selfri_be_la_.alis._bei_bu%27u_la_selmacygu%27e) by Lewis Carroll, translation by la .xorxes.
+- (19 quotes) [The Wonderful Wizard of Oz](https://selpahi.de/oz_plain.html) by L. Frank Baum, translation by la solpa'i
 - (14 quotes) jbobratca chatlog
 - (12 quotes) [la nicte cadzu](https://mw.lojban.org/papri/Robin%27s_Palm_Writings:_la_nicte_cadzu) by Robin Lee Powell
 - (10 quotes) [la melbi e le ractu](https://lynn.github.io/la-melbi-e-le-ractu/) by la lalxu
@@ -171,7 +171,7 @@ Lojban texts with at least one quotation in this dictionary.
 
 The quotes from chatlogs are from the following speakers: (in no particular order)
 
-misotanni, la solpa'i, la ziren, la piier, dram, la gleki, la kanis, yeet kitty, melody!, niftg, \_4Denthusiast, qimar, .kúblizel., la janbe, Lucilla, la .zi., Magnap, la varik, la nalvai, la xrula, la samflir, latkerlo, la lunbe, la nonselcme, la lunra, la evis, la melmi, la tirprij, la katador, bancip, Stephen Dedalus, AstroMacGuffin, Haze, la uakci, la fagri, la lalxu, la bakre'u, la srasu, la ilmen, 
+la solpa'i, la .zi., niftg, la ziren, Magnap, yeet kitty, la janbe, dram, la srasu, la lunra, la nalvai, Haze, la xrula, la nonselcme, la lunbe, la varik, la tirprij, la gleki, .kúblizel., Lucilla, la katador, la ilmen, \_4Denthusiast, latkerlo, la piier, la samflir, bancip, la lalxu, la uakci, la evis, la melmi, qimar, la kanis, misotanni, Stephen Dedalus, melody!, AstroMacGuffin, la fagri, la bakre'u, 
 
 Huge thanks to the following individuals who contributed to this project:
 

@@ -25,6 +25,23 @@
                 -english They reassure themselves {{as best they can}}.
                 -source-id litt
 
+                
+-entry:
+    -word kavbu
+    -gloss to capture, to seize, to catch &mdash; to be captured, to be caught &mdash; to be used to capture ..., tool for capture
+    -type gismu
+    -definition:
+        -meaning:
+            -exp x_1 captures/catches/apprehends/seizes/nabs x_2 with trap/restraint x_3.
+            -example:
+                -lojban .i dy. tai certu lo nu {{kavbu}} lo smacu
+                -english ..., and she's such a capital one for {{catching}} mice.
+                -source-id alic
+            -example:
+                -lojban .i je ba zi bo la selna'i smani cu {{kavbu}} lo vo litru .e .la totos. lo birka gi'e to'o bevri voikla
+                -english ..., and at once the Winged Monkeys {{caught}} the four travelers and Toto up in their arms and flew away with them.
+                -source-id wond
+
 
 -entry:
     -word kelci

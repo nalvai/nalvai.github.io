@@ -19786,7 +19786,7 @@
     },
     {
         "word": "kavbu",
-        "gloss": "capture, catch",
+        "gloss": "to capture, to seize, to catch &mdash; to be captured, to be caught &mdash; to be used to capture ..., tool for capture",
         "type": "gismu",
         "freq": "1330",
         "rank": "1209",
@@ -19798,11 +19798,32 @@
             {
                 "meaning": [
                     {
-                        "exp": "$x_{1}$ captures/catches/apprehends/seizes/nabs $x_{2}$ with trap/restraint $x_{3}$."
+                        "exp": "x_1 captures/catches/apprehends/seizes/nabs x_2 with trap/restraint x_3.",
+                        "example": [
+                            {
+                                "lojban": ".i dy. tai certu lo nu {{kavbu}} lo smacu",
+                                "english": "..., and she's such a capital one for {{catching}} mice.",
+                                "source-id": "alic",
+                                "source": "Alice in Wonderland",
+                                "author": "Lewis Carroll",
+                                "translator": "la .xorxes.",
+                                "link": "https://mw.lojban.org/papri/lo_selfri_be_la_.alis._bei_bu%27u_la_selmacygu%27e"
+                            },
+                            {
+                                "lojban": ".i je ba zi bo la selna'i smani cu {{kavbu}} lo vo litru .e .la totos. lo birka gi'e to'o bevri voikla",
+                                "english": "..., and at once the Winged Monkeys {{caught}} the four travelers and Toto up in their arms and flew away with them.",
+                                "source-id": "wond",
+                                "source": "The Wonderful Wizard of Oz",
+                                "author": "L. Frank Baum",
+                                "translator": "la solpa'i",
+                                "link": "https://selpahi.de/oz_plain.html"
+                            }
+                        ]
                     }
                 ]
             }
-        ]
+        ],
+        "good": true
     },
     {
         "word": "ke",
