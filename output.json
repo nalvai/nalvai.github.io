@@ -4946,6 +4946,56 @@
         "good": true
     },
     {
+        "word": "prane",
+        "gloss": "prefect, ideal, flawless &mdash; aspect/property of prefection",
+        "type": "gismu",
+        "freq": "2290",
+        "rank": "935",
+        "tag": "common",
+        "rafsi-cvc": null,
+        "rafsi-ccv": null,
+        "rafsi-cvv": "pa'e",
+        "definition": [
+            {
+                "meaning": [
+                    {
+                        "exp": "x_1 is perfect/ideal/archetypical/faultless/flawless/un-improvable in property/aspect x_2 (ka).",
+                        "example": [
+                            {
+                                "lojban": ".i patfu le za'u badytci .i ra'irgau le se manci {{.i prane le se zukte}}",
+                                "english": "Father of the talismans, keeper of the wonders, {{perfect in the powers}},",
+                                "source-id": "emer",
+                                "source": "Emerald Tablet",
+                                "author": "an unknown Arabic writer",
+                                "translator": "la gleki",
+                                "link": "https://lojban.pw/en/texts/emerald-tablet/"
+                            },
+                            {
+                                "lojban": ".i do {{prane}} ro zu'i fi'o morji le do panzi",
+                                "english": "Your kids will remember you as {{perfect in}} every way.",
+                                "source-id": "eggq",
+                                "source": "The Egg",
+                                "author": "Andy Weir",
+                                "translator": "la nalvai",
+                                "link": "https://nalvai.neocities.org/translations/the-egg/"
+                            },
+                            {
+                                "lojban": ".i ta {{prane}} lo ka mi djica",
+                                "english": "That {{is exactly the way}} I wanted it!",
+                                "source-id": "litt",
+                                "source": "The Little Prince",
+                                "author": "Antoine de Saint-Exupéry",
+                                "translator": "la .xorxes.",
+                                "link": "https://mw.lojban.org/papri/le_cmalu_noltru"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "good": true
+    },
+    {
         "word": "prenu",
         "gloss": "people, person",
         "type": "gismu",

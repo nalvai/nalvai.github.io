@@ -121,6 +121,27 @@
                 -english I believe {{loving Lojban}} is common to all Lojbanists.
                 -source-id lojb
 
+
+-entry:
+    -word prane
+    -gloss prefect, ideal, flawless &mdash; aspect/property of prefection
+    -type gismu
+    -definition:
+        -meaning:
+            -exp x_1 is perfect/ideal/archetypical/faultless/flawless/un-improvable in property/aspect x_2 (ka).
+            -example:
+                -lojban .i patfu le za'u badytci .i ra'irgau le se manci {{.i prane le se zukte}}
+                -english Father of the talismans, keeper of the wonders, {{perfect in the powers}}, 
+                -source-id emer
+            -example:
+                -lojban .i do {{prane}} ro zu'i fi'o morji le do panzi
+                -english Your kids will remember you as {{perfect in}} every way.
+                -source-id eggq
+            -example:
+                -lojban .i ta {{prane}} lo ka mi djica
+                -english That {{is exactly the way}} I wanted it!
+                -source-id litt
+
 -entry:
     -word prenu
     -gloss people, person
