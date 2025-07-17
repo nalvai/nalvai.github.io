@@ -1,6 +1,6 @@
 # NALVAI: Nalvai's Assortment of Lojban Vocabulary Attestation Instances
 ## What is this?
-**NALVAI** is a Lojban dictionary that uses quotations from *real-world texts* as examples of usage. It currently contains **124 words** with [**360 quotations** from **75 Lojban texts**](https://github.com/nalvai/nalvai.github.io#sources). Please provide quotations and definitions to help the dictionary grow!
+**NALVAI** is a Lojban dictionary that uses quotations from *real-world texts* as examples of usage. It currently contains **125 words** with [**361 quotations** from **75 Lojban texts**](https://github.com/nalvai/nalvai.github.io#sources). Please provide quotations and definitions to help the dictionary grow!
 
 Here is how a word look like in this dictionary:
 ![The word a in this dictionary](https://raw.githubusercontent.com/nalvai/nalvai.github.io/refs/heads/master/example_a.png)
@@ -139,6 +139,7 @@ Lojban texts with at least one quotation in this dictionary.
 - (2 quotes) [The Lost One's Weeping](https://www.youtube.com/watch?v=9TA1-lVHAUM) by Neru, translation by tetsusquared (la .tirprij.)
 - (2 quotes) [lo mi jufra](https://www.youtube.com/watch?v=sLrmjRIMgAk) by la solpa'i
 - (2 quotes) [lo nabmi](https://www.youtube.com/watch?v=gv0QIbGc8i8) by Noise and Bells (la janbe)
+- (2 quotes) [la nu farlu lo plini](https://liputenpo.org/toki/nanpa-kokosila/la-nu-farlu-lo-plini/) by la srasu
 - (2 quotes) [Re-Education](https://www.youtube.com/watch?v=XD6HKp77PbY) by Neru, translation by tetsusquared (la .tirprij.)
 - (2 quotes) [The Terrorist, He's Watching](https://docs.google.com/spreadsheets/d/1_vkiwqOIOIJPqZTiomzd4ApUSEQXhEY6CeyZD_6c-PA/edit?gid=1514901818#gid=1514901818) by Szymborska Wisława, translation by la uakci
 - (1 quote) [Aisle](https://www.youtube.com/watch?v=GGoqNJjiun0) by Ibuki Tsubasa, translation by tetsusquared (la .tirprij.) ([Original](https://www.youtube.com/watch?v=9CNkjJo_Sjg))
@@ -160,7 +161,6 @@ Lojban texts with at least one quotation in this dictionary.
 - (1 quote) [koi do mi na](https://meremim.bandcamp.com/album/koi-do-mi-na) by Mèremim
 - (1 quote) [lenrygu'i](https://www.youtube.com/watch?v=-q0gzt4w-o8) by la fagri
 - (1 quote) [ma zerfu'e](https://selpahi.de/mazerfuhe.html) by Unknown, translation by la solpa'i
-- (1 quote) [la nu farlu lo plini](https://liputenpo.org/toki/nanpa-kokosila/la-nu-farlu-lo-plini/) by la srasu
 - (1 quote) [ODDS&ENDS](https://www.youtube.com/watch?v=L65SWX6vbkw) by ryo, translation by tetsusquared (la .tirprij.)
 - (1 quote) [The Princess and the Pea](https://selpahi.de/dembi.html) by Hans Christian Andersen, translation by la solpa'i
 - (1 quote) [The Scientific Ape](https://mw.lojban.org/papri/le_saske_smani) by Robert Louis Stevenson, translation by la .xorxes. ([Original](https://en.wikisource.org/wiki/The_Scientific_Ape))
@@ -171,7 +171,7 @@ Lojban texts with at least one quotation in this dictionary.
 
 The quotes from chatlogs are from the following speakers: (in no particular order)
 
-la piier, la bakre'u, \_4Denthusiast, la tirprij, AstroMacGuffin, la nalvai, qimar, bancip, niftg, la varik, .kúblizel., la ilmen, la srasu, melody!, la solpa'i, Haze, la kanis, la katador, latkerlo, la lunra, yeet kitty, la lunbe, la uakci, la ziren, la xrula, la fagri, dram, Stephen Dedalus, Magnap, la evis, la .zi., misotanni, la janbe, Lucilla, la lalxu, la samflir, la gleki, la nonselcme, la melmi, 
+la fagri, niftg, la srasu, la nalvai, la evis, la ziren, la kanis, la gleki, melody!, la lunbe, la samflir, la xrula, la lunra, misotanni, Haze, AstroMacGuffin, qimar, la nonselcme, bancip, Stephen Dedalus, la piier, Lucilla, la ilmen, la varik, la solpa'i, yeet kitty, la janbe, .kúblizel., latkerlo, la .zi., la lalxu, la tirprij, la bakre'u, \_4Denthusiast, Magnap, la melmi, dram, la katador, la uakci, 
 
 Huge thanks to the following individuals who contributed to this project:
 

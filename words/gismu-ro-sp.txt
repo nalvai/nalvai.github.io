@@ -1,4 +1,24 @@
 
+-entry:
+    -word sance
+    -gloss sound &mdash; to make sound, to produce sound
+    -type gismu
+    -definition:
+        -meaning:
+            -exp x_1 is sound produced/emitted by x_2.
+            -example:
+                -lojban .i .io la cevni zo'u doi lo zvati be vi ti ko gasnu lo nu {{sance fa lo gleki si'azgi}} 
+                -english To God on high, all you in this place, let {{hymns ring out in joyful chorus}}!
+                -source-id kogl
+            -example:
+                -lojban .i mi ba prami {{lo sance be lo brife be bu'u lo maxri}} 
+                -english I shall love {{the sound of the wind in the wheat}}.
+                -source-id litt
+            -example:
+                -lojban .i lo tubnu poi pu si'au trixe lo stizu cu ca cpana lo tuple be dy. je cu {{se sance lo sibli}}
+                -english The tube that was seemingly behind the chair is now on his leg and {{hissing}}.
+                -source-id nufa
+                -note This examlpe is in JACU. To convert it to CLL/BPFK Lojban, substitute {{je cu}} with {{gi'e}}.
 
 -entry:
     -word skami
