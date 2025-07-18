@@ -81,6 +81,27 @@
                 -source-id rolj
                 -speaker la varik
 
+
+-entry:
+    -word catra
+    -gloss to kill, to murder &mdash; to be killed &mdash; method of killing
+    -type gismu
+    -definition:
+        -meaning:
+            -exp x_1 (agent) kills/slaughters/murders x_2 by action/method x_3.
+            -example:
+                -lojban ni'o {{lo catra be le nanmu goi ko'a}} cu du mi
+                -english {{The killer of the man (called "ko'a" from now on)}} is me.
+                -source-id inag
+            -example:
+                -lojban .i lo marde cu {{catra}} lo ma'a ka pacna kei ca lo za'i lo ma'a balvi cu se lebna
+                -english Morals {{killed}} our hopes while our futures continue to be taken from us
+                -source-id reed
+            -example:
+                -lojban .i lu ca ku ai sei ny cusku mi platu lo prane {{te catra}} li'u
+                -english "Now," she said, "I'll devise the perfect {{plan to put an end [to her]}}!"
+                -source-id snow
+
 -entry:
     -word certu
     -gloss expert, competent in ..., skilled at ... &mdash; expertise, profession, skill &mdash; standard of skill
