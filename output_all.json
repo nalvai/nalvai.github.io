@@ -33354,7 +33354,7 @@
     },
     {
         "word": "rinka",
-        "gloss": "cause",
+        "gloss": "cause, (of an event) to cause, to effect &mdash; effect",
         "type": "gismu",
         "freq": "18790",
         "rank": "242",
@@ -33366,11 +33366,41 @@
             {
                 "meaning": [
                     {
-                        "exp": "$x_{1}$ (event/state) effects/physically causes effect $x_{2}$ (event/state) under conditions $x_{3}$."
+                        "exp": "x_1 (event/state) effects/physically causes effect x_2 (event/state) under conditions x_3.",
+                        "example": [
+                            {
+                                "lojban": ".i flegau fi lo kabri djacu lo kevna be lo kumfa [...] .i lo nu punji lo kabri cu {{rinka}} lo nu ri snipa kei lo ka go'e",
+                                "english": "Pour a cup of water into a depression in a room, [...]. Under said condition, putting a cup {{will make}} it stick.",
+                                "source-id": "care",
+                                "note": "There is a sentence between the two sentences shown, thus the {{go'e}} refers to the former sentence.",
+                                "source": "Carefree Wandering (逍遙遊)",
+                                "author": "Zhuangzi",
+                                "translator": "geezmolycos",
+                                "link": "https://www.youtube.com/watch?v=FGY3awgABhU"
+                            },
+                            {
+                                "lojban": ".i ie —sei mi fi lo cmalu noltru cu cusku— lo zdani lo tarci lo kutytu'a zo'u {{lo rinka be lo nu melbi}} cu nonselji'u",
+                                "english": "\"Yes,\" I said to the little prince. \"The house, the stars, the desert -- {{what gives them their beauty}} is something that is invisible!\"",
+                                "source-id": "litt",
+                                "source": "The Little Prince",
+                                "author": "Antoine de Saint-Exupéry",
+                                "translator": "la .xorxes.",
+                                "link": "https://mw.lojban.org/papri/le_cmalu_noltru"
+                            },
+                            {
+                                "lojban": ".i ku'i .e'u ko sanji tu'a {{lo jinku se rinka}}",
+                                "english": "But I suggest you be aware of {{the effects of the vaccine}}.",
+                                "source-id": "rolj",
+                                "speaker": "la janbe",
+                                "noshownote": "changed {{jinka}} to {{jinku}} - I think it's a typo",
+                                "source": "roljbogu'e chatlog"
+                            }
+                        ]
                     }
                 ]
             }
-        ]
+        ],
+        "good": true
     },
     {
         "word": "rinsa",
