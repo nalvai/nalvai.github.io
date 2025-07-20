@@ -1,4 +1,25 @@
 
+-entry:
+    -word stidi
+    -gloss to suggest, to advise, to propose &mdash; suggestion, advice, proposal &mdash; to receive (a suggestion), (of a person) to be advised
+    -type gismu
+    -definition:
+        -meaning:
+            -exp x_1 (agent) suggests/proposes idea/action x_2 to audience x_3; x_1 (event) inspires x_2 in/among x_3.
+            -example:
+                -lojban .i do {{stidi}} lo nu mi vitke fi ma kei mi
+                -english What place would you {{advise}} me to visit now?
+                -source-id litt
+            -example:
+                -lojban .i .e'o do lanli {{lo se stidi be mi be'o}} pe cylyly
+                -english Please examine {{my suggestions}} about the CLL.
+                -source-id jbob
+                -speaker la gleki
+            -example:
+                -lojban .i zo'o to .ua zo'onai toi le'e merpre cu se tolpluka {{lo nu te stidi}}
+                -english The (stereotypical) Americans dislike {{being advised}} /j (I just learned this /gen)
+                -source-id jbob
+                -speaker la kanba
 
 
 -entry:

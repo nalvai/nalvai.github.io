@@ -2608,8 +2608,7 @@
                     {
                         "context": "After plain {{.i}}",
                         "variation": "zantufa",
-                        "exp": "Forms a sentence link along with {{.i}}. The resulting sentence link separates bridi, but doesn't reset bridi level. Multiple bridi separated with {{.i bo}} shares the same prenex.",
-                        "note": "The above explanation is taken from roljbogu'e chatlog, under said explanation {{.i bo}} is analogous to {{.i je}}. In actual usage, however, {{.i bo}} often resets bridi level, making {{.i ji'a}} a closer analogue."
+                        "exp": "Forms a sentence link along with {{.i}}. The resulting sentence link separates bridi, but doesn't reset bridi level. Multiple bridi separated with {{.i bo}} shares the same prenex."
                     }
                 ]
             }
@@ -38427,7 +38426,7 @@
     },
     {
         "word": "stidi",
-        "gloss": "propose, suggest",
+        "gloss": "to suggest, to advise, to propose &mdash; suggestion, advice, proposal &mdash; to receive (a suggestion), (of a person) to be advised",
         "type": "gismu",
         "freq": "19190",
         "rank": "240",
@@ -38439,11 +38438,37 @@
             {
                 "meaning": [
                     {
-                        "exp": "$x_{1}$ (agent) suggests/proposes idea/action $x_{2}$ to audience $x_{3}$; $x_{1}$ (event) inspires $x_{2}$ in/among $x_{3}$."
+                        "exp": "x_1 (agent) suggests/proposes idea/action x_2 to audience x_3; x_1 (event) inspires x_2 in/among x_3.",
+                        "example": [
+                            {
+                                "lojban": ".i do {{stidi}} lo nu mi vitke fi ma kei mi",
+                                "english": "What place would you {{advise}} me to visit now?",
+                                "source-id": "litt",
+                                "source": "The Little Prince",
+                                "author": "Antoine de Saint-Exupéry",
+                                "translator": "la .xorxes.",
+                                "link": "https://mw.lojban.org/papri/le_cmalu_noltru"
+                            },
+                            {
+                                "lojban": ".i .e'o do lanli {{lo se stidi be mi be'o}} pe cylyly",
+                                "english": "Please examine {{my suggestions}} about the CLL.",
+                                "source-id": "jbob",
+                                "speaker": "la gleki",
+                                "source": "jbobratca chatlog"
+                            },
+                            {
+                                "lojban": ".i zo'o to .ua zo'onai toi le'e merpre cu se tolpluka {{lo nu te stidi}}",
+                                "english": "The (stereotypical) Americans dislike {{being advised}} /j (I just learned this /gen)",
+                                "source-id": "jbob",
+                                "speaker": "la kanba",
+                                "source": "jbobratca chatlog"
+                            }
+                        ]
                     }
                 ]
             }
-        ]
+        ],
+        "good": true
     },
     {
         "word": "stika",
