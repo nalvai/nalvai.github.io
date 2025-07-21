@@ -3694,6 +3694,46 @@
         "good": true
     },
     {
+        "word": "krixa",
+        "gloss": "to scream, to yell, to cry out &mdash; (a) scream",
+        "type": "gismu",
+        "freq": "3100",
+        "rank": "802",
+        "tag": "core-3",
+        "rafsi-cvc": "kix",
+        "rafsi-ccv": null,
+        "rafsi-cvv": "ki'a",
+        "definition": [
+            {
+                "meaning": [
+                    {
+                        "exp": "x_1 cries out/yells/howls sound x_2; x_1 is a crier.",
+                        "example": [
+                            {
+                                "lojban": ".i ba bo sutra {{krixa}} zo go'i gi'e troci lo ka cliva",
+                                "english": "Then, it quickly {{squeaked}} \"yup!\" and tried to run away.",
+                                "source-id": "melb",
+                                "source": "la melbi e le ractu",
+                                "author": "la lalxu",
+                                "link": "https://lynn.github.io/la-melbi-e-le-ractu/"
+                            },
+                            {
+                                "lojban": ".i lu voksa lo danlu li'u cu se cusku lo krati se pi'o lo voksa poi mutce mleca {{lo se krixa be lo mamta}} lo ka cladu",
+                                "english": "\"That was the voice of an animal\", said the chief clerk, with a voice that was much less loud than {{his mother's scream}}.",
+                                "source-id": "meta",
+                                "source": "The Metamorphosis",
+                                "author": "Franz Kafka",
+                                "translator": "la .xorxes.",
+                                "link": "https://mw.lojban.org/images/f/fc/lonubinxo.pdf"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "good": true
+    },
+    {
         "word": "la",
         "gloss": "Article: the one(s) called...",
         "type": "cmavo",

@@ -1,6 +1,6 @@
 # NALVAI: Nalvai's Assortment of Lojban Vocabulary Attestation Instances
 ## What is this?
-**NALVAI** is a Lojban dictionary that uses quotations from *real-world texts* as examples of usage. It currently contains **128 words** with [**370 quotations** from **75 Lojban texts**](https://github.com/nalvai/nalvai.github.io#sources). Please provide quotations and definitions to help the dictionary grow!
+**NALVAI** is a Lojban dictionary that uses quotations from *real-world texts* as examples of usage. It currently contains **129 words** with [**372 quotations** from **75 Lojban texts**](https://github.com/nalvai/nalvai.github.io#sources). Please provide quotations and definitions to help the dictionary grow!
 
 Here is how a word look like in this dictionary:
 ![The word a in this dictionary](https://raw.githubusercontent.com/nalvai/nalvai.github.io/refs/heads/master/example_a.png)
@@ -99,8 +99,8 @@ Lojban texts with at least one quotation in this dictionary.
 - (19 quotes) [The Wonderful Wizard of Oz](https://selpahi.de/oz_plain.html) by L. Frank Baum, translation by la solpa'i
 - (16 quotes) jbobratca chatlog
 - (12 quotes) [la nicte cadzu](https://mw.lojban.org/papri/Robin%27s_Palm_Writings:_la_nicte_cadzu) by Robin Lee Powell
-- (10 quotes) [la melbi e le ractu](https://lynn.github.io/la-melbi-e-le-ractu/) by la lalxu
-- (10 quotes) [The Metamorphosis](https://mw.lojban.org/images/f/fc/lonubinxo.pdf) by Franz Kafka, translation by la .xorxes.
+- (11 quotes) [la melbi e le ractu](https://lynn.github.io/la-melbi-e-le-ractu/) by la lalxu
+- (11 quotes) [The Metamorphosis](https://mw.lojban.org/images/f/fc/lonubinxo.pdf) by Franz Kafka, translation by la .xorxes.
 - (9 quotes) [The Egg](https://nalvai.neocities.org/translations/the-egg/) by Andy Weir, translation by la nalvai
 - (7 quotes) ["Official Lojban"](https://docs.google.com/spreadsheets/d/1_vkiwqOIOIJPqZTiomzd4ApUSEQXhEY6CeyZD_6c-PA/edit?gid=1862526252#gid=1862526252) by la uakci
 - (6 quotes) [clani kerlo](https://docs.google.com/spreadsheets/d/1_vkiwqOIOIJPqZTiomzd4ApUSEQXhEY6CeyZD_6c-PA/edit?gid=1296186733#gid=1296186733) by la fagri
@@ -171,7 +171,7 @@ Lojban texts with at least one quotation in this dictionary.
 
 The quotes from chatlogs are from the following speakers: (in no particular order)
 
-la kanis, la lunbe, la janbe, la katador, la ziren, qimar, la xrula, Stephen Dedalus, la tirprij, niftg, Magnap, la lunra, la uakci, la evis, melody!, la melmi, la varik, latkerlo, bancip, la srasu, AstroMacGuffin, la nalvai, Lucilla, la ilmen, la piier, la bakre'u, la fagri, Haze, la kanba, la lalxu, dram, la nonselcme, .kúblizel., misotanni, \_4Denthusiast, la solpa'i, la .zi., la samflir, la gleki, yeet kitty, 
+la lalxu, la srasu, la varik, la solpa'i, la samflir, la ziren, la bakre'u, Stephen Dedalus, \_4Denthusiast, la tirprij, la kanba, bancip, la uakci, la nonselcme, la janbe, melody!, AstroMacGuffin, la katador, Lucilla, niftg, .kúblizel., la nalvai, qimar, la fagri, la gleki, yeet kitty, la evis, misotanni, la piier, la lunbe, la ilmen, la xrula, latkerlo, la melmi, la .zi., la lunra, Magnap, la kanis, dram, Haze, 
 
 Huge thanks to the following individuals who contributed to this project:
 
