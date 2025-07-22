@@ -25040,7 +25040,7 @@
     },
     {
         "word": "megdo",
-        "gloss": "1E6",
+        "gloss": "million, millions of ... &mdash; unit (of millions), to form millions, to make up millions",
         "type": "gismu",
         "freq": "340",
         "rank": "2080",
@@ -25052,11 +25052,32 @@
             {
                 "meaning": [
                     {
-                        "exp": "$x_{1}$ is a million [$10^6$] of $x_{2}$ in dimension/aspect $x_{3}$ (default is units)."
+                        "exp": "x_1 is a million [10<sup>6</sup>] of x_2 in dimension/aspect x_3 (default is units).",
+                        "example": [
+                            {
+                                "lojban": ".i ze'u lo nanca be {{lo megdo}} lo xrula cu zbasu lo kinli",
+                                "english": "The flowers have been growing thorns for {{millions}} of years.",
+                                "source-id": "litt",
+                                "source": "The Little Prince",
+                                "author": "Antoine de Saint-Exupéry",
+                                "translator": "la .xorxes.",
+                                "link": "https://mw.lojban.org/papri/le_cmalu_noltru"
+                            },
+                            {
+                                "lojban": ".i lo nu ra fengu je jusycurve lumci cu rinka lo nalracli nu cirko {{lo megdo be lo cukta}}",
+                                "english": "It is their rage-fueled and fundamentalist cleansing that caused the senseless loss of {{millions of volumes}}.",
+                                "source-id": "libr",
+                                "source": "The Library of Babel",
+                                "author": "Jorge Luis Borges",
+                                "translator": "la .xorxes.",
+                                "link": "https://mw.lojban.org/papri/la_ckuzda_pe_la_babel"
+                            }
+                        ]
                     }
                 ]
             }
-        ]
+        ],
+        "good": true
     },
     {
         "word": "me'i",

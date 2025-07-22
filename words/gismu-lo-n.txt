@@ -17,6 +17,23 @@
                 -note The main selbri, {{clira mapti}}, translated literally to "early-suitable", which is taken to be "be early enough to be suitable" in the translation given above.
 
 -entry:
+    -word megdo
+    -gloss million, millions of ... &mdash; unit (of millions), to form millions, to make up millions
+    -type gismu
+    -definition:
+        -meaning:
+            -exp x_1 is a million [10<sup>6</sup>] of x_2 in dimension/aspect x_3 (default is units).
+            -example:
+                -lojban .i ze'u lo nanca be {{lo megdo}} lo xrula cu zbasu lo kinli
+                -english The flowers have been growing thorns for {{millions}} of years.
+                -source-id litt
+            -example:
+                -lojban .i lo nu ra fengu je jusycurve lumci cu rinka lo nalracli nu cirko {{lo megdo be lo cukta}}
+                -english It is their rage-fueled and fundamentalist cleansing that caused the senseless loss of {{millions of volumes}}.
+                -source-id libr
+
+
+-entry:
     -word melbi
     -gloss beautiful, pretty &mdash; to find beautiful, to find pretty &mdash; beautiful aspect &mdash; beauty standard  
     -type gismu
