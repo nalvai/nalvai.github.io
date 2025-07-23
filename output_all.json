@@ -11392,7 +11392,7 @@
     },
     {
         "word": "fanza",
-        "gloss": "annoy",
+        "gloss": "to annoy, to bother, to irritate, distraction &mdash; to be annoyed, to be bothered",
         "type": "gismu",
         "freq": "10540",
         "rank": "392",
@@ -11404,11 +11404,48 @@
             {
                 "meaning": [
                     {
-                        "exp": "$x_{1}$ (event) annoys/irritates/bothers/distracts $x_{2}$."
+                        "exp": "x_1 (event) annoys/irritates/bothers/distracts x_2.",
+                        "note": "Despite the (event) in the jbovlaste definition, both concrete and abstract are attested in the x<sub>1</sub> place.",
+                        "example": [
+                            {
+                                "lojban": "ro'e .ie {{fanza}} fa lo nu ceclyxarci tagji citka",
+                                "english": "Makes sense. {{It's irritating}} to eat with guns.",
+                                "source-id": "rest",
+                                "source": "The Restaurant of Many Orders",
+                                "author": "Kenji Miyazawa",
+                                "translator": "la .tijlan.",
+                                "link": "https://docs.google.com/document/d/10Rnm80SieLrpFnk9kn_9bCuon96CNSPTA8hqVaWQYbQ/edit?tab=t.0"
+                            },
+                            {
+                                "lojban": ".i .o'a lo nu {{mi se fanza}} no roi dukse ja'e lo nu mi skuna su da poi mi na skudji",
+                                "english": "I'm proud to say that {{I'm}} never so {{annoyed}} that I say things I don't want to say.",
+                                "source-id": "nafe",
+                                "note": "This sentence is in tcekitau. Substitute the {{su}} with {{su'o}} to convert it into CLL/BPFK Lojban.",
+                                "source": "na fengu",
+                                "author": "Mèremim",
+                                "link": "https://meremim.bandcamp.com/album/na-fengu"
+                            },
+                            {
+                                "lojban": ".i .u'i lo temci cmavo cu {{jai fanza}} mi",
+                                "english": "The tense words {{are distracting}} me haha",
+                                "source-id": "rolj",
+                                "speaker": "la melmi",
+                                "source": "roljbogu'e chatlog"
+                            },
+                            {
+                                "lojban": ".i .au mi do na {{fanza}} vau",
+                                "english": "I don't want to {{bother}} you.",
+                                "source-id": "dans",
+                                "source": "dansu co toldi",
+                                "author": "Noise and Bells (la janbe)",
+                                "link": "https://www.youtube.com/watch?v=B156ExvRjzM"
+                            }
+                        ]
                     }
                 ]
             }
-        ]
+        ],
+        "good": true
     },
     {
         "word": "fa'o",

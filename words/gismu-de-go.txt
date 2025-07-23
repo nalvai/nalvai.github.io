@@ -127,7 +127,37 @@
                 -note The {{fo}} is not needed in this sentence.
                 -source-id rolj
                 -speaker la varik
-                
+              
+
+
+-entry:
+    -word fanza
+    -gloss to annoy, to bother, to irritate, distraction &mdash; to be annoyed, to be bothered
+    -type gismu
+    -definition:
+        -meaning:
+            -exp x_1 (event) annoys/irritates/bothers/distracts x_2.
+            -note Despite the (event) in the jbovlaste definition, both concrete and abstract are attested in the x<sub>1</sub> place. 
+            -example:
+                -lojban ro'e .ie {{fanza}} fa lo nu ceclyxarci tagji citka
+                -english Makes sense. {{It's irritating}} to eat with guns.
+                -source-id rest
+            -example:
+                -lojban .i .o'a lo nu {{mi se fanza}} no roi dukse ja'e lo nu mi skuna su da poi mi na skudji
+                -english I'm proud to say that {{I'm}} never so {{annoyed}} that I say things I don't want to say.
+                -source-id nafe
+                -note This sentence is in tcekitau. Substitute the {{su}} with {{su'o}} to convert it into CLL/BPFK Lojban.
+            -example:
+                -lojban .i .u'i lo temci cmavo cu {{jai fanza}} mi
+                -english The tense words {{are distracting}} me haha
+                -source-id rolj
+                -speaker la melmi
+            -example:
+                -lojban .i .au mi do na {{fanza}} vau
+                -english I don't want to {{bother}} you.
+                -source-id dans
+
+
 -entry:
     -word fatci
     -gloss fact, reality, truth

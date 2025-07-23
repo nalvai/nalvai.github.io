@@ -1,6 +1,6 @@
 # NALVAI: Nalvai's Assortment of Lojban Vocabulary Attestation Instances
 ## What is this?
-**NALVAI** is a Lojban dictionary that uses quotations from *real-world texts* as examples of usage. It currently contains **130 words** with [**374 quotations** from **75 Lojban texts**](https://github.com/nalvai/nalvai.github.io#sources). Please provide quotations and definitions to help the dictionary grow!
+**NALVAI** is a Lojban dictionary that uses quotations from *real-world texts* as examples of usage. It currently contains **131 words** with [**378 quotations** from **75 Lojban texts**](https://github.com/nalvai/nalvai.github.io#sources). Please provide quotations and definitions to help the dictionary grow!
 
 Here is how a word look like in this dictionary:
 ![The word a in this dictionary](https://raw.githubusercontent.com/nalvai/nalvai.github.io/refs/heads/master/example_a.png)
@@ -93,7 +93,7 @@ A Lojban word has its meaning encompass over different parts of speech in Englis
 ### Quote Sources
 Lojban texts with at least one quotation in this dictionary.
 
-- (79 quotes) roljbogu'e chatlog
+- (80 quotes) roljbogu'e chatlog
 - (36 quotes) [The Little Prince](https://mw.lojban.org/papri/le_cmalu_noltru) by Antoine de Saint-Exupéry, translation by la .xorxes.
 - (23 quotes) [Alice in Wonderland](https://mw.lojban.org/papri/lo_selfri_be_la_.alis._bei_bu%27u_la_selmacygu%27e) by Lewis Carroll, translation by la .xorxes.
 - (19 quotes) [The Wonderful Wizard of Oz](https://selpahi.de/oz_plain.html) by L. Frank Baum, translation by la solpa'i
@@ -109,12 +109,12 @@ Lojban texts with at least one quotation in this dictionary.
 - (6 quotes) [Snow White](https://selpahi.de/snimeblabi.html) by Brothers Grimm, translation by la solpa'i
 - (5 quotes) [Assessment of EGIDS Levels](https://nalvai.neocities.org/translations/egids-scale/) by M. Paul Lewis and Gary F. Simons, translation by la nalvai ([Original](https://www.lingv.ro/RRL%202%202010%20art01Lewis.pdf))
 - (5 quotes) [The Library of Babel](https://mw.lojban.org/papri/la_ckuzda_pe_la_babel) by Jorge Luis Borges, translation by la .xorxes.
+- (5 quotes) [na fengu](https://meremim.bandcamp.com/album/na-fengu) by Mèremim
+- (5 quotes) [The Restaurant of Many Orders](https://docs.google.com/document/d/10Rnm80SieLrpFnk9kn_9bCuon96CNSPTA8hqVaWQYbQ/edit?tab=t.0) by Kenji Miyazawa, translation by la .tijlan.
 - (5 quotes) [Still Alive](https://www.youtube.com/watch?v=hRrIioMA4w8) by Jonathan Coulton, translation by la solpa'i
 - (5 quotes) [Toki Pona Cheatsheet](https://blinry.org/toki-pona-cheat-sheet/toki-pona-cheat-sheet-jbo.pdf) by Blinry, translation by la .samflir. ([Original](https://blinry.org/toki-pona-cheat-sheet/toki-pona-cheat-sheet.pdf))
 - (4 quotes) [In a Grove](https://guskant.github.io/yabu/html5/jbopoho.html) by Ryūnosuke Akutagawa, translation by la .guskant.
 - (4 quotes) [Liang and the Magic Paintbrush](https://docs.google.com/spreadsheets/d/1_vkiwqOIOIJPqZTiomzd4ApUSEQXhEY6CeyZD_6c-PA/edit?gid=768225989#gid=768225989) by Demi, translation by la darsi
-- (4 quotes) [na fengu](https://meremim.bandcamp.com/album/na-fengu) by Mèremim
-- (4 quotes) [The Restaurant of Many Orders](https://docs.google.com/document/d/10Rnm80SieLrpFnk9kn_9bCuon96CNSPTA8hqVaWQYbQ/edit?tab=t.0) by Kenji Miyazawa, translation by la .tijlan.
 - (4 quotes) [za'o](https://www.youtube.com/watch?v=TKbFwr-1ZQ4) by Djemynai
 - (3 quotes) [Carefree Wandering (逍遙遊)](https://www.youtube.com/watch?v=FGY3awgABhU) by Zhuangzi, translation by geezmolycos
 - (3 quotes) [The Lay of the Land](https://www.youtube.com/watch?v=ViGGR231zvQ) by Worldbuilding Notes
@@ -131,6 +131,7 @@ Lojban texts with at least one quotation in this dictionary.
 - (2 quotes) [The Book](https://lojban.pw/en/texts/the-book/) by H. P. Lovecraft, translation by la gleki
 - (2 quotes) [claxu be do crisa](https://soundcloud.com/cogas-iuk/sunday-10-38-pm) by la .cogas.
 - (2 quotes) [Colorful](https://www.youtube.com/watch?v=GjG2vtMOI7c) by H△G, translation by tetsusquared (la .tirprij.)
+- (2 quotes) [dansu co toldi](https://www.youtube.com/watch?v=B156ExvRjzM) by Noise and Bells (la janbe)
 - (2 quotes) [Emerald Tablet](https://lojban.pw/en/texts/emerald-tablet/) by an unknown Arabic writer, translation by la gleki
 - (2 quotes) [First dinosaurs may have been omnivores in the north hemisphere](https://mw.lojban.org/papri/UserWiki:Ilmen/ka%27e_ku_lo_prurai_dinsauru_cu_cti%27omni_bu%27u_lo_berti_bolxadba) by Chelsea Whyte on NewScientist, translation by la .ilmen. ([Original](https://www.newscientist.com/article/2125580-first-dinosaurs-may-have-been-omnivores-in-the-north-hemisphere/))
 - (2 quotes) [Little Things](https://mw.lojban.org/papri/little_Things) by Raymond Carver, translation by Jordan DeLong
@@ -148,7 +149,6 @@ Lojban texts with at least one quotation in this dictionary.
 - (1 quote) [Calc.](https://www.youtube.com/watch?v=n4NhUEUvwew) by JimmyThumbP, translation by tetsusquared (la .tirprij.)
 - (1 quote) [cipra lo skari lo vanju](https://guskant.github.io/lojbo/cipra.html) by la .guskant.
 - (1 quote) [lo cmalu](https://selpahi.de/cmalu.html) by la solpa'i
-- (1 quote) [dansu co toldi](https://www.youtube.com/watch?v=B156ExvRjzM) by Noise and Bells (la janbe)
 - (1 quote) [.](https://www.youtube.com/watch?v=O4yrd-E_xpc) by 全てあなたの所為です, translation by tetsusquared (la .tirprij.)
 - (1 quote) [Diamond City Lights](https://www.youtube.com/watch?v=VEen_TdvuC0) by LazuLight, translation by tetsusquared (la .tirprij.)
 - (1 quote) [The Disappearance of Crispina Umberleigh](https://mw.lojban.org/papri/nuncanci_la_krispinas_ambylis) by Saki, translation by la komfo,amonan ([Original](https://en.wikisource.org/wiki/The_Toys_of_Peace_and_Other_Papers/The_Disappearance_of_Crispina_Umberleigh))
@@ -171,7 +171,7 @@ Lojban texts with at least one quotation in this dictionary.
 
 The quotes from chatlogs are from the following speakers: (in no particular order)
 
-la tirprij, la janbe, qimar, dram, la fagri, Stephen Dedalus, la lalxu, \_4Denthusiast, la xrula, la lunra, la ziren, la ilmen, la melmi, Magnap, la evis, la kanba, yeet kitty, la nonselcme, la uakci, la katador, la kanis, latkerlo, la lunbe, Lucilla, la samflir, la srasu, Haze, la nalvai, la piier, .kúblizel., AstroMacGuffin, niftg, la gleki, la .zi., la bakre'u, misotanni, la solpa'i, melody!, bancip, la varik, 
+la varik, la xrula, qimar, la lunra, la uakci, melody!, la lunbe, AstroMacGuffin, la ilmen, Haze, la kanis, la katador, yeet kitty, Stephen Dedalus, la solpa'i, la nonselcme, la gleki, bancip, la melmi, la janbe, dram, misotanni, latkerlo, \_4Denthusiast, la samflir, la bakre'u, Lucilla, la lalxu, la evis, la piier, niftg, la kanba, Magnap, la srasu, la ziren, la .zi., la fagri, .kúblizel., la tirprij, la nalvai, 
 
 Huge thanks to the following individuals who contributed to this project:
 
