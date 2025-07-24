@@ -215,6 +215,19 @@
                                 "link": "https://www.youtube.com/watch?v=f_NJsM8dces"
                             }
                         ]
+                    },
+                    {
+                        "context": "~ {{nai}}",
+                        "exp": "Attitudinal: express hope/longing that the opposite is true.",
+                        "example": [
+                            {
+                                "lojban": ".i ra'apxu co zabnytce .i ti zabna bangu .i .ai mi xabju pe'a .i ta'o xu xekce {{.a'o nai}} .ie'i",
+                                "english": "It's a really nice rap. This is a nice language, I wanna live in it. BTW, is it xekce ({{I hope not}}, eww)?",
+                                "source-id": "rolj",
+                                "speaker": "la lunbe",
+                                "source": "roljbogu'e chatlog"
+                            }
+                        ]
                     }
                 ]
             }
@@ -1419,10 +1432,11 @@
                             {
                                 "lojban": "mi dejni {{lo cmalu be lo jdini}} ru vau doi la din .i xu ru cusku fi do",
                                 "english": "I owe {{a little money}} to him, Din. Did he tell you?",
-                                "source-id": "rolj",
-                                "speaker": "AstroMacGuffin",
-                                "noshownote": "It seems to be from a translation or an original work with name \"Neuromancer\", but since it's not released to public (I found it in a roljbogu'e thread), it can only take \"roljbogu'e chatlog\" as its source.",
-                                "source": "roljbogu'e chatlog"
+                                "source-id": "neur",
+                                "source": "Neuromancer",
+                                "author": "William Gibson",
+                                "translator": "AstroMacGuffin",
+                                "link": "https://discord.com/channels/771781383361921024/898612135121272932/"
                             },
                             {
                                 "lojban": ".i la silnytca zo'u silna .i tcadu je'u .i ku'i {{cmalu cmalu fi tu'a lo bratca}}",
@@ -5696,6 +5710,71 @@
                                 "source": "\"Official Lojban\"",
                                 "author": "la uakci",
                                 "link": "https://docs.google.com/spreadsheets/d/1_vkiwqOIOIJPqZTiomzd4ApUSEQXhEY6CeyZD_6c-PA/edit?gid=1862526252#gid=1862526252"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "good": true
+    },
+    {
+        "word": "srera",
+        "gloss": "to err, to make mistake(s) &mdash; error, mistake &mdash; condition/environment of mistake &mdash; standard of mistake",
+        "type": "gismu",
+        "freq": "20570",
+        "rank": "225",
+        "tag": "core-1",
+        "rafsi-cvc": null,
+        "rafsi-ccv": "sre",
+        "rafsi-cvv": null,
+        "definition": [
+            {
+                "meaning": [
+                    {
+                        "exp": "x_1 errs in doing/being/making mistake x_2 (event), an error under conditions x_3 by standard x_4.",
+                        "example": [
+                            {
+                                "lojban": ".i mi'a pu {{srera}} lo nu sombo lo blabi",
+                                "english": "We planted a white one {{by mistake}}.",
+                                "source-id": "alic",
+                                "source": "Alice in Wonderland",
+                                "author": "Lewis Carroll",
+                                "translator": "la .xorxes.",
+                                "link": "https://mw.lojban.org/papri/lo_selfri_be_la_.alis._bei_bu%27u_la_selmacygu%27e"
+                            },
+                            {
+                                "lojban": ".i mi ba {{srera}} tu'a lo vajni mutce tcila",
+                                "english": "In certain more important details I shall {{make mistakes}}.",
+                                "source-id": "litt",
+                                "source": "The Little Prince",
+                                "author": "Antoine de Saint-Exupéry",
+                                "translator": "la .xorxes.",
+                                "link": "https://mw.lojban.org/papri/le_cmalu_noltru"
+                            },
+                            {
+                                "lojban": ".i mlauca lo klesi be lo jbopre poi jinvi lo du'u lo jbobau cu ve tavla fi po'o lo gerna ja lo nu dragau {{lo se srera}}",
+                                "english": "It mentions a type of Lojbanists who think Lojban is only for talking about grammar or correcting {{[other's] mistakes}}.",
+                                "source-id": "rolj",
+                                "speaker": "Lucilla",
+                                "source": "roljbogu'e chatlog"
+                            },
+                            {
+                                "lojban": ".i .u'uru'e mi {{srera}} fi le nu dramau fa le nu cusku lu do tadni fi ma li'u",
+                                "english": "Oops, I {{made a mistake}}, saying \"do tadni fi ma\" would be more correct.",
+                                "source-id": "jbob",
+                                "speaker": "la kanba",
+                                "note": "The previous sentence is the same speaker saying {{.i do tadni ma}}. Interestingly, {{tadni}} doesn't have its x<sub>3</sub> defined, so it's unclear what their intended meaning is.",
+                                "source": "jbobratca chatlog"
+                            },
+                            {
+                                "lojban": "ni'o ky klasiko {{srera}} fo pa ky nupre be lo nu nonroi gasnu",
+                                "english": "He'd made the classic {{mistake}}, the one he'd sworn he'd never make.",
+                                "source-id": "neur",
+                                "source": "Neuromancer",
+                                "author": "William Gibson",
+                                "translator": "AstroMacGuffin",
+                                "link": "https://discord.com/channels/771781383361921024/898612135121272932/"
                             }
                         ]
                     }

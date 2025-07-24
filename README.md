@@ -1,6 +1,6 @@
 # NALVAI: Nalvai's Assortment of Lojban Vocabulary Attestation Instances
 ## What is this?
-**NALVAI** is a Lojban dictionary that uses quotations from *real-world texts* as examples of usage. It currently contains **131 words** with [**378 quotations** from **75 Lojban texts**](https://github.com/nalvai/nalvai.github.io#sources). Please provide quotations and definitions to help the dictionary grow!
+**NALVAI** is a Lojban dictionary that uses quotations from *real-world texts* as examples of usage. It currently contains **132 words** with [**384 quotations** from **76 Lojban texts**](https://github.com/nalvai/nalvai.github.io#sources). Please provide quotations and definitions to help the dictionary grow!
 
 Here is how a word look like in this dictionary:
 ![The word a in this dictionary](https://raw.githubusercontent.com/nalvai/nalvai.github.io/refs/heads/master/example_a.png)
@@ -93,11 +93,11 @@ A Lojban word has its meaning encompass over different parts of speech in Englis
 ### Quote Sources
 Lojban texts with at least one quotation in this dictionary.
 
-- (80 quotes) roljbogu'e chatlog
-- (36 quotes) [The Little Prince](https://mw.lojban.org/papri/le_cmalu_noltru) by Antoine de Saint-Exupéry, translation by la .xorxes.
-- (23 quotes) [Alice in Wonderland](https://mw.lojban.org/papri/lo_selfri_be_la_.alis._bei_bu%27u_la_selmacygu%27e) by Lewis Carroll, translation by la .xorxes.
+- (81 quotes) roljbogu'e chatlog
+- (37 quotes) [The Little Prince](https://mw.lojban.org/papri/le_cmalu_noltru) by Antoine de Saint-Exupéry, translation by la .xorxes.
+- (24 quotes) [Alice in Wonderland](https://mw.lojban.org/papri/lo_selfri_be_la_.alis._bei_bu%27u_la_selmacygu%27e) by Lewis Carroll, translation by la .xorxes.
 - (19 quotes) [The Wonderful Wizard of Oz](https://selpahi.de/oz_plain.html) by L. Frank Baum, translation by la solpa'i
-- (16 quotes) jbobratca chatlog
+- (17 quotes) jbobratca chatlog
 - (12 quotes) [la nicte cadzu](https://mw.lojban.org/papri/Robin%27s_Palm_Writings:_la_nicte_cadzu) by Robin Lee Powell
 - (11 quotes) [la melbi e le ractu](https://lynn.github.io/la-melbi-e-le-ractu/) by la lalxu
 - (11 quotes) [The Metamorphosis](https://mw.lojban.org/images/f/fc/lonubinxo.pdf) by Franz Kafka, translation by la .xorxes.
@@ -141,6 +141,7 @@ Lojban texts with at least one quotation in this dictionary.
 - (2 quotes) [The Lost One's Weeping](https://www.youtube.com/watch?v=9TA1-lVHAUM) by Neru, translation by tetsusquared (la .tirprij.)
 - (2 quotes) [lo mi jufra](https://www.youtube.com/watch?v=sLrmjRIMgAk) by la solpa'i
 - (2 quotes) [lo nabmi](https://www.youtube.com/watch?v=gv0QIbGc8i8) by Noise and Bells (la janbe)
+- (2 quotes) [Neuromancer](https://discord.com/channels/771781383361921024/898612135121272932/) by William Gibson, translation by AstroMacGuffin
 - (2 quotes) [la nu farlu lo plini](https://liputenpo.org/toki/nanpa-kokosila/la-nu-farlu-lo-plini/) by la srasu
 - (2 quotes) [The Terrorist, He's Watching](https://docs.google.com/spreadsheets/d/1_vkiwqOIOIJPqZTiomzd4ApUSEQXhEY6CeyZD_6c-PA/edit?gid=1514901818#gid=1514901818) by Szymborska Wisława, translation by la uakci
 - (1 quote) [Aisle](https://www.youtube.com/watch?v=GGoqNJjiun0) by Ibuki Tsubasa, translation by tetsusquared (la .tirprij.) ([Original](https://www.youtube.com/watch?v=9CNkjJo_Sjg))
@@ -171,7 +172,7 @@ Lojban texts with at least one quotation in this dictionary.
 
 The quotes from chatlogs are from the following speakers: (in no particular order)
 
-la varik, la xrula, qimar, la lunra, la uakci, melody!, la lunbe, AstroMacGuffin, la ilmen, Haze, la kanis, la katador, yeet kitty, Stephen Dedalus, la solpa'i, la nonselcme, la gleki, bancip, la melmi, la janbe, dram, misotanni, latkerlo, \_4Denthusiast, la samflir, la bakre'u, Lucilla, la lalxu, la evis, la piier, niftg, la kanba, Magnap, la srasu, la ziren, la .zi., la fagri, .kúblizel., la tirprij, la nalvai, 
+la nonselcme, la tirprij, la lalxu, la katador, la kanba, la gleki, \_4Denthusiast, qimar, la fagri, Lucilla, dram, misotanni, Haze, la xrula, la ilmen, la varik, la piier, la lunbe, la solpa'i, la bakre'u, la melmi, la uakci, latkerlo, AstroMacGuffin, la evis, yeet kitty, niftg, bancip, Magnap, melody!, la ziren, la kanis, la janbe, la lunra, la samflir, la nalvai, Stephen Dedalus, la srasu, la .zi., .kúblizel., 
 
 Huge thanks to the following individuals who contributed to this project:
 

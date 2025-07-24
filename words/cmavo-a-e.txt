@@ -116,6 +116,14 @@
                 -english The train's just started to leave for the faraway city, {{oh no...}}
                 -source-id lagt
                 -noshownote The original has {{ca'o}} instead of {{co'a}}
+        -meaning:
+            -context ~ {{nai}}
+            -exp Attitudinal: express hope/longing that the opposite is true.
+            -example:
+                -lojban .i ra'apxu co zabnytce .i ti zabna bangu .i .ai mi xabju pe'a .i ta'o xu xekce {{.a'o nai}} .ie'i
+                -english It's a really nice rap. This is a nice language, I wanna live in it. BTW, is it xekce ({{I hope not}}, eww)?
+                -source-id rolj
+                -speaker la lunbe
 
 
 -entry:

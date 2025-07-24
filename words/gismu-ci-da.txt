@@ -156,9 +156,7 @@
             -example:
                 -lojban mi dejni {{lo cmalu be lo jdini}} ru vau doi la din .i xu ru cusku fi do
                 -english I owe {{a little money}} to him, Din. Did he tell you? 
-                -source-id rolj
-                -speaker AstroMacGuffin
-                -noshownote It seems to be from a translation or an original work with name "Neuromancer", but since it's not released to public (I found it in a roljbogu'e thread), it can only take "roljbogu'e chatlog" as its source.
+                -source-id neur
             -example:
                 -lojban .i la silnytca zo'u silna .i tcadu je'u .i ku'i {{cmalu cmalu fi tu'a lo bratca}}
                 -english As for Salt [Lake] City: salt. It's really a city, but it's {{small small by large city standards}}. 

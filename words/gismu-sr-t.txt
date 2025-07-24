@@ -1,5 +1,37 @@
 
 -entry:
+    -word srera
+    -gloss to err, to make mistake(s) &mdash; error, mistake &mdash; condition/environment of mistake &mdash; standard of mistake 
+    -type gismu
+    -definition:
+        -meaning:
+            -exp x_1 errs in doing/being/making mistake x_2 (event), an error under conditions x_3 by standard x_4.
+            -example:
+                -lojban .i mi'a pu {{srera}} lo nu sombo lo blabi
+                -english We planted a white one {{by mistake}}.
+                -source-id alic
+            -example:
+                -lojban .i mi ba {{srera}} tu'a lo vajni mutce tcila
+                -english In certain more important details I shall {{make mistakes}}.
+                -source-id litt
+            -example:
+                -lojban .i mlauca lo klesi be lo jbopre poi jinvi lo du'u lo jbobau cu ve tavla fi po'o lo gerna ja lo nu dragau {{lo se srera}}
+                -english It mentions a type of Lojbanists who think Lojban is only for talking about grammar or correcting {{[other's] mistakes}}.
+                -source-id rolj
+                -speaker Lucilla
+            -example:
+                -lojban .i .u'uru'e mi {{srera}} fi le nu dramau fa le nu cusku lu do tadni fi ma li'u
+                -english Oops, I {{made a mistake}}, saying "do tadni fi ma" would be more correct.
+                -source-id jbob
+                -speaker la kanba
+                -note The previous sentence is the same speaker saying {{.i do tadni ma}}. Interestingly, {{tadni}} doesn't have its x<sub>3</sub> defined, so it's unclear what their intended meaning is.
+            -example:
+                -lojban ni'o ky klasiko {{srera}} fo pa ky nupre be lo nu nonroi gasnu
+                -english He'd made the classic {{mistake}}, the one he'd sworn he'd never make.
+                -source-id neur
+
+
+-entry:
     -word stidi
     -gloss to suggest, to advise, to propose &mdash; suggestion, advice, proposal &mdash; to receive (a suggestion), (of a person) to be advised
     -type gismu

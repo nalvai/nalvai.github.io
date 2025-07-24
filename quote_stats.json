@@ -12,7 +12,7 @@
         "author": "Lewis Carroll",
         "translator": "la .xorxes.",
         "link": "https://mw.lojban.org/papri/lo_selfri_be_la_.alis._bei_bu%27u_la_selmacygu%27e",
-        "instance": 23
+        "instance": 24
     },
     "alwa": {
         "source": "Always With Me",
@@ -205,7 +205,7 @@
     },
     "jbob": {
         "source": "jbobratca chatlog",
-        "instance": 16
+        "instance": 17
     },
     "jbin": {
         "source": "jbini canlu",
@@ -284,7 +284,7 @@
         "author": "Antoine de Saint-Exupéry",
         "translator": "la .xorxes.",
         "link": "https://mw.lojban.org/papri/le_cmalu_noltru",
-        "instance": 36
+        "instance": 37
     },
     "lojb": {
         "source": "lo jbobau cu mo",
@@ -350,6 +350,13 @@
         "link": "https://meremim.bandcamp.com/album/na-fengu",
         "instance": 5
     },
+    "neur": {
+        "source": "Neuromancer",
+        "author": "William Gibson",
+        "translator": "AstroMacGuffin",
+        "link": "https://discord.com/channels/771781383361921024/898612135121272932/",
+        "instance": 2
+    },
     "nict": {
         "source": "la nicte cadzu",
         "author": "Robin Lee Powell",
@@ -404,7 +411,7 @@
     },
     "rolj": {
         "source": "roljbogu'e chatlog",
-        "instance": 80
+        "instance": 81
     },
     "rout": {
         "source": "Route Sphere",
