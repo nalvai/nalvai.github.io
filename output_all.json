@@ -18049,7 +18049,7 @@
     },
     {
         "word": "jitro",
-        "gloss": "control",
+        "gloss": "to control, to harness, to direct &mdash; to be controlled &mdash; controlled action/activity/property",
         "type": "gismu",
         "freq": "3440",
         "rank": "757",
@@ -18061,11 +18061,40 @@
             {
                 "meaning": [
                     {
-                        "exp": "$x_{1}$ has control over/harnesses/manages/directs/conducts $x_{2}$ in $x_{3}$ (activity/event/performance)."
+                        "exp": "x_1 has control over/harnesses/manages/directs/conducts x_2 in x_3 (activity/event/performance).",
+                        "example": [
+                            {
+                                "lojban": ".i ba'a mi ze'e {{se jitro do}} po'o",
+                                "english": "My [soul] will always {{be}} only {{yours}}",
+                                "source-id": "amap",
+                                "source": "Amapola",
+                                "author": "José María Lacalle García",
+                                "translator": "la .guskant.",
+                                "link": "https://vimeo.com/233808507"
+                            },
+                            {
+                                "lojban": ".i mu'i bo mi platu lo nu {{jitro}} cy. tai tu'a lo xirma gi'e gasnu lo nu cy. cu gunka",
+                                "english": "..., for I have a mind to {{harness}} him like a horse, and make him work.",
+                                "source-id": "wond",
+                                "source": "The Wonderful Wizard of Oz",
+                                "author": "L. Frank Baum",
+                                "translator": "la solpa'i",
+                                "link": "https://selpahi.de/oz_plain.html"
+                            },
+                            {
+                                "lojban": "cedra lo nu lo'e cnino joi lo'e citno cu nitcu lo ka {{ce'u kau jitro}} lo jbobau joi lo kulnu pe ri lo ka farvi je lo ka banro",
+                                "english": "It's an era in which newcomers and young people need to {{be the directors of}} Lojban and its culture, shaping how it evolves and grows.",
+                                "source-id": "jbob",
+                                "speaker": "la solpa'i",
+                                "note": "This sentence is in JACU. To convert it to CLL/BPFK Lojban, substitute {{je}} with {{.e}}.",
+                                "source": "jbobratca chatlog"
+                            }
+                        ]
                     }
                 ]
             }
-        ]
+        ],
+        "good": true
     },
     {
         "word": "ji'u",
