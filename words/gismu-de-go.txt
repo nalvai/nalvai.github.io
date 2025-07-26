@@ -153,10 +153,43 @@
                 -source-id rolj
                 -speaker la melmi
             -example:
+                -lojban ni'o sy. ca lo nu ba'o xruti cu te cmene vo'a zo prije gi'e co'a {{jai fanza}} lo drata smani fai lo nu retsku lu ki'u ma lo smani na favysra li'u
+                -english He was no sooner back than he dubbed himself doctor and began {{to trouble}} his neighbours with the question: Why are not apes progressive?
+                -source-id scie
+            -example:
                 -lojban .i .au mi do na {{fanza}} vau
                 -english I don't want to {{bother}} you.
                 -source-id dans
 
+
+-entry:
+    -word fasnu
+    -gloss event, to happen, to occur, to take place
+    -type gismu
+    -definition:
+        -meaning:
+            -exp x_1 (event) is an event that happens/occurs/takes place; x_1 is an incident/happening/occurrence.
+            -example:
+                -lojban .i .ue ma vi {{fasnu}}
+                -english What {{happened}} here?!
+                -source-id rolj
+                -speaker la ilmen
+            -example:
+                -lojban .i ba {{lo fasnu}} so'i da denpa ca'u lo vorme pe lo tarci saske prenu ca lo nu ca'o kanji
+                -english After {{the event}}, crowds waited at the doors of astronomers while the calculations were being prepared.
+                -source-id cloc
+            -example:
+                -lojban .i ku'i la'e di'u cu {{masno traji fasnu}}
+                -english But this would {{take a vast amount of time to happen}}.
+                -source-id layo
+            -example:
+                -lojban .i cyny. smadi lo nu ga nai na kanro zenba sutra va'u loi glare cidja gi {{ba tceraktu fasnu}}
+                -english Both of them felt that unless they fortified themselves with something warm to eat very soon, {{troubles might happen.}}
+                -source-id rest
+            -example:
+                -lojban .i ku'i lo cabdei ku {{jai ca fasnu}} fai lo nu ba zi retsku fa mi
+                -english But today {{is the day}} I going to ask.
+                -source-id koid
 
 -entry:
     -word fatci

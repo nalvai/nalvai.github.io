@@ -371,7 +371,7 @@
                         "example": [
                             {
                                 "lojban": "{{.a'ucu'i}} .i ka'u mi'o na ba se fatri lo do'anai bongu .oi",
-                                "english": "{{Whatever.}} Now he won't even share the bones with us anyway...",
+                                "english": "{{Whatever.}} Now we won't be served anything, not even bones...",
                                 "source-id": "rest",
                                 "source": "The Restaurant of Many Orders",
                                 "author": "Kenji Miyazawa",
@@ -11447,6 +11447,16 @@
                                 "source": "roljbogu'e chatlog"
                             },
                             {
+                                "lojban": "ni'o sy. ca lo nu ba'o xruti cu te cmene vo'a zo prije gi'e co'a {{jai fanza}} lo drata smani fai lo nu retsku lu ki'u ma lo smani na favysra li'u",
+                                "english": "He was no sooner back than he dubbed himself doctor and began {{to trouble}} his neighbours with the question: Why are not apes progressive?",
+                                "source-id": "scie",
+                                "source": "The Scientific Ape",
+                                "author": "Robert Louis Stevenson",
+                                "translator": "la .xorxes.",
+                                "link": "https://mw.lojban.org/papri/le_saske_smani",
+                                "originallink": "https://en.wikisource.org/wiki/The_Scientific_Ape"
+                            },
+                            {
                                 "lojban": ".i .au mi do na {{fanza}} vau",
                                 "english": "I don't want to {{bother}} you.",
                                 "source-id": "dans",
@@ -11564,7 +11574,7 @@
     },
     {
         "word": "fasnu",
-        "gloss": "event",
+        "gloss": "event, to happen, to occur, to take place",
         "type": "gismu",
         "freq": "16600",
         "rank": "265",
@@ -11576,11 +11586,56 @@
             {
                 "meaning": [
                     {
-                        "exp": "$x_{1}$ (event) is an event that happens/occurs/takes place; $x_{1}$ is an incident/happening/occurrence."
+                        "exp": "x_1 (event) is an event that happens/occurs/takes place; x_1 is an incident/happening/occurrence.",
+                        "example": [
+                            {
+                                "lojban": ".i .ue ma vi {{fasnu}}",
+                                "english": "What {{happened}} here?!",
+                                "source-id": "rolj",
+                                "speaker": "la ilmen",
+                                "source": "roljbogu'e chatlog"
+                            },
+                            {
+                                "lojban": ".i ba {{lo fasnu}} so'i da denpa ca'u lo vorme pe lo tarci saske prenu ca lo nu ca'o kanji",
+                                "english": "After {{the event}}, crowds waited at the doors of astronomers while the calculations were being prepared.",
+                                "source-id": "cloc",
+                                "source": "The Clockmaker",
+                                "author": "Robert Louis Stevenson",
+                                "translator": "la .xorxes.",
+                                "link": "https://mw.lojban.org/papri/le_junla_zbasu",
+                                "originallink": "https://en.wikisource.org/wiki/The_Clockmaker"
+                            },
+                            {
+                                "lojban": ".i ku'i la'e di'u cu {{masno traji fasnu}}",
+                                "english": "But this would {{take a vast amount of time to happen}}.",
+                                "source-id": "layo",
+                                "source": "The Lay of the Land",
+                                "author": "Worldbuilding Notes",
+                                "link": "https://www.youtube.com/watch?v=ViGGR231zvQ"
+                            },
+                            {
+                                "lojban": ".i cyny. smadi lo nu ga nai na kanro zenba sutra va'u loi glare cidja gi {{ba tceraktu fasnu}}",
+                                "english": "Both of them felt that unless they fortified themselves with something warm to eat very soon, {{troubles might happen.}}",
+                                "source-id": "rest",
+                                "source": "The Restaurant of Many Orders",
+                                "author": "Kenji Miyazawa",
+                                "translator": "la .tijlan.",
+                                "link": "https://docs.google.com/document/d/10Rnm80SieLrpFnk9kn_9bCuon96CNSPTA8hqVaWQYbQ/edit?tab=t.0"
+                            },
+                            {
+                                "lojban": ".i ku'i lo cabdei ku {{jai ca fasnu}} fai lo nu ba zi retsku fa mi",
+                                "english": "But today {{is the day}} I going to ask.",
+                                "source-id": "koid",
+                                "source": "koi do mi na",
+                                "author": "Mèremim",
+                                "link": "https://meremim.bandcamp.com/album/koi-do-mi-na"
+                            }
+                        ]
                     }
                 ]
             }
-        ]
+        ],
+        "good": true
     },
     {
         "word": "fasybau",
@@ -11822,6 +11877,15 @@
                                 "author": "L. Frank Baum",
                                 "translator": "la solpa'i",
                                 "link": "https://selpahi.de/oz_plain.html"
+                            },
+                            {
+                                "lojban": ".i lu ge'e cizra zdani .i .ua nai ki'u ma {{fe'e so'i roi}} vorme li'u",
+                                "english": "\"What a weird building. Why does it {{have so many}} doors?\"\"",
+                                "source-id": "rest",
+                                "source": "The Restaurant of Many Orders",
+                                "author": "Kenji Miyazawa",
+                                "translator": "la .tijlan.",
+                                "link": "https://docs.google.com/document/d/10Rnm80SieLrpFnk9kn_9bCuon96CNSPTA8hqVaWQYbQ/edit?tab=t.0"
                             }
                         ]
                     }

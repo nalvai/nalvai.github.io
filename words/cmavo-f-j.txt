@@ -12,6 +12,10 @@
                 -english [He was] clothed all in green, {{from}} his head {{to}} his feet.
                 -source-id wond
                 -note The {{co'a}} and {{co'u}} follow the BPFK interpretation.
+            -example:
+                -lojban .i lu ge'e cizra zdani .i .ua nai ki'u ma {{fe'e so'i roi}} vorme li'u
+                -english "What a weird building. Why does it {{have so many}} doors?""
+                -source-id rest
 
 
 -entry:

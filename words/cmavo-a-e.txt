@@ -143,7 +143,7 @@
             -exp Attitudinal: express disinterest / uninterest / unconcern / apathy / detachment / indifference. 
             -example:
                 -lojban {{.a'ucu'i}} .i ka'u mi'o na ba se fatri lo do'anai bongu .oi
-                -english {{Whatever.}} Now he won't even share the bones with us anyway...
+                -english {{Whatever.}} Now we won't be served anything, not even bones...
                 -source-id rest
         -meaning:
             -context ~ {{nai}}

@@ -103,7 +103,7 @@
         "translator": "la .xorxes.",
         "link": "https://mw.lojban.org/papri/le_junla_zbasu",
         "originallink": "https://en.wikisource.org/wiki/The_Clockmaker",
-        "instance": 6
+        "instance": 7
     },
     "cmal": {
         "source": "lo cmalu",
@@ -230,7 +230,7 @@
         "source": "koi do mi na",
         "author": "Mèremim",
         "link": "https://meremim.bandcamp.com/album/koi-do-mi-na",
-        "instance": 1
+        "instance": 2
     },
     "kuhi": {
         "source": "ku'i ba troci",
@@ -249,7 +249,7 @@
         "source": "The Lay of the Land",
         "author": "Worldbuilding Notes",
         "link": "https://www.youtube.com/watch?v=ViGGR231zvQ",
-        "instance": 3
+        "instance": 4
     },
     "lenr": {
         "source": "lenrygu'i",
@@ -407,11 +407,11 @@
         "author": "Kenji Miyazawa",
         "translator": "la .tijlan.",
         "link": "https://docs.google.com/document/d/10Rnm80SieLrpFnk9kn_9bCuon96CNSPTA8hqVaWQYbQ/edit?tab=t.0",
-        "instance": 5
+        "instance": 7
     },
     "rolj": {
         "source": "roljbogu'e chatlog",
-        "instance": 81
+        "instance": 82
     },
     "rout": {
         "source": "Route Sphere",
@@ -426,7 +426,7 @@
         "translator": "la .xorxes.",
         "link": "https://mw.lojban.org/papri/le_saske_smani",
         "originallink": "https://en.wikisource.org/wiki/The_Scientific_Ape",
-        "instance": 1
+        "instance": 2
     },
     "skab": {
         "source": "la skaborfe'a",
