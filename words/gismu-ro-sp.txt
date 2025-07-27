@@ -64,6 +64,33 @@
                 -source-id colo
 
 -entry:
+    -word simlu
+    -gloss to seem, to appear (to have a property) &mdash; semblance, (of a property) to seem to be present in ... &mdash; to percieve semblance &mdash; condition of semblance
+    -type gismu
+    -definition:
+        -meaning:
+            -exp x_1 seems/appears to have property(ies) x_2 to observer x_3 under conditions x_4.
+            -note {{x_1 simlu x_2}} doesn't imply whether x_1 <i>actually</i> satisfy x_2 or not.
+            -example:
+                -lojban .i lo tsani cu {{simlu}} lo ka blanu
+                -english The sky {{appears}} azure.
+                -source-id care
+            -example:
+                -lojban .i lo zbasu noi manku cusku fo lo drata se zbasu cu {{simlu}} lo ka bacru lo jetnu voksa se pi'o lo junla
+                -english The creator, who spoke obscurely in his other works, {{seemed}} to utter an authentic voice with the clock;
+                -source-id cloc
+            -example:
+                -lojban .i je la .dorotis. cu {{te simlu}} fi vy fe lo ka desku milxe
+                -english ..., and Dorothy {{thought (= percieved)}} it trembled a little.
+                -source-id wond
+            -example:
+                -lojban .i lo noltruni'u ca lo nu lo plise cu bredi cu skari cnegau lo flira gi'e binxo {{lo simlu be lo ka te cange ninmu kei}} gi'e tai klama fo lo ze cmana fe lo ze torcrida
+                -english When the apple was ready, the queen dyed her face and made herself {{like an Peasant Woman}} and so crossed the seven hills to the Dwarfs’ home.
+                -source-id snow
+
+
+
+-entry:
     -word simsa
     -gloss similar, to be similar to ... &mdash; what x<sub>1</sub> is similar to &mdash; similarity, commonality
     -type gismu

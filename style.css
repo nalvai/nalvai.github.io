@@ -112,6 +112,12 @@ table {
   font-style: italic;
 }
 
+.credit {
+  text-align: right;
+  font-size: smaller;
+  color: #888;
+}
+
 .wtype {
   border-radius: 1em;
   padding: 0.1em;

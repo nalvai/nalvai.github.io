@@ -124,6 +124,7 @@
                 -english It's a really nice rap. This is a nice language, I wanna live in it. BTW, is it xekce ({{I hope not}}, eww)?
                 -source-id rolj
                 -speaker la lunbe
+                -contributor la janbe
 
 
 -entry:

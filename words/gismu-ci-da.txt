@@ -248,6 +248,10 @@
                 -lojban .i my. {{cusku}} lo se du'u my. manci catlu po'o lo mi melbi lerfu
                 -english She (my mother) said she was just marvelling at my beautiful handwriting.
                 -source-id rolj
+            -example:
+                -lojban .i lo zbasu noi {{manku cusku fo lo drata se zbasu}} cu simlu lo ka bacru lo jetnu voksa se pi'o lo junla
+                -english The creator, who {{spoke obscurely in his other works}}, seemed to utter an authentic voice with the clock;
+                -source-id cloc
 
 -entry:
     -word dacti

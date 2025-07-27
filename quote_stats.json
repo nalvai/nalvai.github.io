@@ -77,7 +77,7 @@
         "author": "Zhuangzi",
         "translator": "geezmolycos",
         "link": "https://www.youtube.com/watch?v=FGY3awgABhU",
-        "instance": 3
+        "instance": 4
     },
     "cipr": {
         "source": "cipra lo skari lo vanju",
@@ -103,7 +103,7 @@
         "translator": "la .xorxes.",
         "link": "https://mw.lojban.org/papri/le_junla_zbasu",
         "originallink": "https://en.wikisource.org/wiki/The_Clockmaker",
-        "instance": 7
+        "instance": 8
     },
     "cmal": {
         "source": "lo cmalu",
@@ -439,7 +439,7 @@
         "author": "Brothers Grimm",
         "translator": "la solpa'i",
         "link": "https://selpahi.de/snimeblabi.html",
-        "instance": 6
+        "instance": 7
     },
     "srur": {
         "source": "sruri fa lo tarci",
@@ -503,7 +503,7 @@
         "author": "L. Frank Baum",
         "translator": "la solpa'i",
         "link": "https://selpahi.de/oz_plain.html",
-        "instance": 20
+        "instance": 21
     },
     "zaho": {
         "source": "za'o",

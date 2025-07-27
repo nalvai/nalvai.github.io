@@ -308,6 +308,7 @@
                                 "english": "It's a really nice rap. This is a nice language, I wanna live in it. BTW, is it xekce ({{I hope not}}, eww)?",
                                 "source-id": "rolj",
                                 "speaker": "la lunbe",
+                                "contributor": "la janbe",
                                 "source": "roljbogu'e chatlog"
                             }
                         ]
@@ -8024,6 +8025,16 @@
                                 "english": "She (my mother) said she was just marvelling at my beautiful handwriting.",
                                 "source-id": "rolj",
                                 "source": "roljbogu'e chatlog"
+                            },
+                            {
+                                "lojban": ".i lo zbasu noi {{manku cusku fo lo drata se zbasu}} cu simlu lo ka bacru lo jetnu voksa se pi'o lo junla",
+                                "english": "The creator, who {{spoke obscurely in his other works}}, seemed to utter an authentic voice with the clock;",
+                                "source-id": "cloc",
+                                "source": "The Clockmaker",
+                                "author": "Robert Louis Stevenson",
+                                "translator": "la .xorxes.",
+                                "link": "https://mw.lojban.org/papri/le_junla_zbasu",
+                                "originallink": "https://en.wikisource.org/wiki/The_Clockmaker"
                             }
                         ]
                     }
@@ -36256,7 +36267,7 @@
     },
     {
         "word": "simlu",
-        "gloss": "seem",
+        "gloss": "to seem, to appear (to have a property) &mdash; semblance, (of a property) to seem to be present in ... &mdash; to percieve semblance &mdash; condition of semblance",
         "type": "gismu",
         "freq": "13870",
         "rank": "318",
@@ -36268,11 +36279,52 @@
             {
                 "meaning": [
                     {
-                        "exp": "$x_{1}$ seems/appears to have property(ies) $x_{2}$ to observer $x_{3}$ under conditions $x_{4}$."
+                        "exp": "x_1 seems/appears to have property(ies) x_2 to observer x_3 under conditions x_4.",
+                        "note": "{{x_1 simlu x_2}} doesn't imply whether x_1 <i>actually</i> satisfy x_2 or not.",
+                        "example": [
+                            {
+                                "lojban": ".i lo tsani cu {{simlu}} lo ka blanu",
+                                "english": "The sky {{appears}} azure.",
+                                "source-id": "care",
+                                "source": "Carefree Wandering (逍遙遊)",
+                                "author": "Zhuangzi",
+                                "translator": "geezmolycos",
+                                "link": "https://www.youtube.com/watch?v=FGY3awgABhU"
+                            },
+                            {
+                                "lojban": ".i lo zbasu noi manku cusku fo lo drata se zbasu cu {{simlu}} lo ka bacru lo jetnu voksa se pi'o lo junla",
+                                "english": "The creator, who spoke obscurely in his other works, {{seemed}} to utter an authentic voice with the clock;",
+                                "source-id": "cloc",
+                                "source": "The Clockmaker",
+                                "author": "Robert Louis Stevenson",
+                                "translator": "la .xorxes.",
+                                "link": "https://mw.lojban.org/papri/le_junla_zbasu",
+                                "originallink": "https://en.wikisource.org/wiki/The_Clockmaker"
+                            },
+                            {
+                                "lojban": ".i je la .dorotis. cu {{te simlu}} fi vy fe lo ka desku milxe",
+                                "english": "..., and Dorothy {{thought (= percieved)}} it trembled a little.",
+                                "source-id": "wond",
+                                "source": "The Wonderful Wizard of Oz",
+                                "author": "L. Frank Baum",
+                                "translator": "la solpa'i",
+                                "link": "https://selpahi.de/oz_plain.html"
+                            },
+                            {
+                                "lojban": ".i lo noltruni'u ca lo nu lo plise cu bredi cu skari cnegau lo flira gi'e binxo {{lo simlu be lo ka te cange ninmu kei}} gi'e tai klama fo lo ze cmana fe lo ze torcrida",
+                                "english": "When the apple was ready, the queen dyed her face and made herself {{like an Peasant Woman}} and so crossed the seven hills to the Dwarfs’ home.",
+                                "source-id": "snow",
+                                "source": "Snow White",
+                                "author": "Brothers Grimm",
+                                "translator": "la solpa'i",
+                                "link": "https://selpahi.de/snimeblabi.html"
+                            }
+                        ]
                     }
                 ]
             }
-        ]
+        ],
+        "good": true
     },
     {
         "word": "simsa",
@@ -41017,6 +41069,7 @@
                                 "english": "I know, because I'm a member of the leader comitee associated with the science institute of Loglan {{([English] ~ The Loglan Institute ~)}}",
                                 "source-id": "rolj",
                                 "speaker": "la janbe",
+                                "contributor": "la ninlat.",
                                 "source": "roljbogu'e chatlog"
                             },
                             {
@@ -41025,6 +41078,7 @@
                                 "source-id": "rolj",
                                 "speaker": "la kanis",
                                 "note": "Note that the {{toi}} in this sentence is elidable, as the content in the parentheses cannot take the second selbri introduced by {{cu}}.",
+                                "contributor": "la ninlat.",
                                 "source": "roljbogu'e chatlog"
                             },
                             {

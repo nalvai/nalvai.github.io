@@ -86,6 +86,7 @@ def get_clean_quote(quote):
 
 quotes = set()
 chatlog_speakers = {}
+quote_contributors = {}
 def process_quotes(entry):
     global quotes
     global chatlog_speakers
@@ -109,6 +110,9 @@ def process_quotes(entry):
                         if get_clean_quote(quote["lojban"]) not in quotes:
                             quotes.add(get_clean_quote(quote["lojban"]))
                             source["instance"] = source.get("instance", 0) + 1
+                            if "contributor" in quote:
+                                contributor = quote["contributor"]
+                                quote_contributors[contributor] = quote_contributors.get(contributor, 0) + 1
                     else:
                         print(f"Warning: unsourced quote at {entry['word']}!")
                 result = True
@@ -212,17 +216,37 @@ replace_2 += "\n"
 replace_2 += "\n"
 replace_2 += "Huge thanks to the following individuals who contributed to this project:\n"
 replace_2 += "\n"
+
+def get_contributor_key(x):
+    if x in contributors:
+        return (len(contributors[x]), quote_contributors.get(x, 0))
+    else:
+        return (0, quote_contributors.get(x, 0))
+
 contributor_order = list(contributors)
-contributor_order.sort(key=lambda x: len(contributors[x]), reverse=True)
+for x in quote_contributors:
+    if x not in contributor_order:
+        contributor_order.append(x)
+
+contributor_order.sort(key=get_contributor_key, reverse=True)
 for c in contributor_order:
-    to_print = f"- {c} "
+    to_print = f"- {c}: "
+    '''
     if len(contributors[c]) == 1:
         to_print += "(1 word): "
     else:
         to_print += f"({len(contributors[c])} words): "
-    for w in contributors[c]:
+    '''
+    for w in contributors.get(c, []):
         to_print += f"**{w}**, "
-    replace_2 += to_print[:-2] + "."
+    if c not in quote_contributors:
+        to_print += to_print[:-2] + "."
+    elif quote_contributors[c] == 1:
+        to_print += "1 quote."
+    else:
+        to_print += f"{quote_contributors[c]} quotes."
+    to_print += "\n"
+    replace_2 += to_print
 
 readme = open("README-core.md", "r", encoding="utf-8").read()
 readme = readme.replace("<REPLACE-1>", replace_1)

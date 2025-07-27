@@ -76,6 +76,16 @@ function getHTMLLink(text, link){
   return `${pre}${text}${post}`;
 }
 
+function convertMath(text){
+  text = text.replaceAll(/\$?x_\{?([0-9])\}?\$?/g, "x<sub>$1</sub>");
+  return text
+}
+
+function convertMathNote(text){
+  text = text.replaceAll(/\$?x_([0-9])\$?/g, "x<sub>$1</sub>");
+  return text
+}
+
 function generateQuoteElement(quote){
   const result = document.createElement('div');
   result.setAttribute("class", "quotation");
@@ -94,7 +104,7 @@ function generateQuoteElement(quote){
   if (quote.note !== undefined) {
     const quoteNote = document.createElement('p');
     quoteNote.setAttribute("class", "note");
-    quoteNote.innerHTML = quote.note.replaceAll("{{", "<b>").replaceAll("}}", "</b>");
+    quoteNote.innerHTML = convertMathNote(quote.note).replaceAll("{{", "<b>").replaceAll("}}", "</b>");
     result.appendChild(quoteNote);
   }
 
@@ -107,14 +117,17 @@ function generateQuoteElement(quote){
   } else if (quote.author !== undefined) {
     citation.innerHTML += `<br>By ${quote.author}`;
   } 
+
+  if (quote.contributor !== undefined) {
+    const quoteContributor = document.createElement('p');
+    quoteContributor.setAttribute("class", "credit");
+    quoteContributor.innerHTML = `Quote provided by ${quote.contributor}`;
+    citation.appendChild(quoteContributor);
+  }
+
   result.appendChild(citation);
 
   return result;
-}
-
-function convertMath(text){
-  text = text.replaceAll(/\$?x_\{?([0-9])\}?\$?/g, "x<sub>$1</sub>");
-  return text
 }
 
 function generateMeaningElement(meaning){
@@ -132,7 +145,7 @@ function generateMeaningElement(meaning){
   if (meaning.note !== undefined){
     const note = document.createElement('p');
     note.setAttribute("class", "note");
-    to_render = meaning.note.replaceAll("{{", "<b>").replaceAll("}}", "</b>");
+    to_render = convertMathNote(meaning.note).replaceAll("{{", "<b>").replaceAll("}}", "</b>");
     note.innerHTML += `Note: ${to_render} `;
     result.appendChild(note);
   }
@@ -211,6 +224,14 @@ function generateLabelElement(item, matches) {
   return header;
 }
 
+
+function generateCreditElement(item) {
+  const result = document.createElement('p');
+  result.setAttribute("class", "credit");
+  result.innerHTML = `This entry is contributed by ${item.contributor}`;
+  return result;
+}
+
 function displayResults(results) {
   resultsDiv.innerHTML = '';
   if (results.length === 0) {
@@ -233,6 +254,9 @@ function displayResults(results) {
     entry.appendChild(generateMetaElement(item));
     for (const def of item.definition){
       entry.appendChild(generateDefinitionElement(def));
+    }
+    if (item.contributor !== undefined){
+      entry.appendChild(generateCreditElement(item));
     }
 
     resultsDiv.appendChild(entry);

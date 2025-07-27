@@ -14,12 +14,14 @@
                 -english I know, because I'm a member of the leader comitee associated with the science institute of Loglan {{([English] ~ The Loglan Institute ~)}}
                 -source-id rolj
                 -speaker la janbe
+                -contributor la ninlat.
             -example:
                 -lojban le mi bruna {{to se rirni le se rirni pe le mamta pe le mi mamta toi}} cu bilma
                 -english My brother, {{(my mother's mother's child's child)}} is ill.
                 -source-id rolj
                 -speaker la kanis
                 -note Note that the {{toi}} in this sentence is elidable, as the content in the parentheses cannot take the second selbri introduced by {{cu}}.
+                -contributor la ninlat.
             -example:
                 -lojban .i da'i {{to se va'u lo nu darlu toi}} lo jmive je pensi cu kakne lo nu zasti ze'o lo bitmu be lo botpi
                 -english ..., granting {{(for the sake of argument)}} that life and thought exist beyond the walls of the caraffe.
