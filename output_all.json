@@ -19707,7 +19707,7 @@
     },
     {
         "word": "kansa",
-        "gloss": "with",
+        "gloss": "together, companion, to accompany, to be with ... &mdash; to be accompanied &mdash; event/condition experienced together",
         "type": "gismu",
         "freq": "12110",
         "rank": "349",
@@ -19719,11 +19719,42 @@
             {
                 "meaning": [
                     {
-                        "exp": "$x_{1}$ is with/accompanies/is a companion of $x_{2}$, in state/condition/enterprise $x_{3}$ (event/state)."
+                        "exp": "x_1 is with/accompanies/is a companion of x_2, in state/condition/enterprise x_3 (event/state).",
+                        "note": "The x<sub>1</sub> and x<sub>2</sub> need not be animate.",
+                        "example": [
+                            {
+                                "lojban": ".i {{kansa}} lo selnei lo nu ve'u cadzu kei",
+                                "english": "{{Accompanying}} [people I] like, walking through a great distance",
+                                "source-id": "lett",
+                                "source": "letter song",
+                                "author": "doriko",
+                                "translator": "tetsusquared (la .tirprij.)",
+                                "link": "https://www.youtube.com/watch?v=5r-JIZNGAMA"
+                            },
+                            {
+                                "lojban": ".i lo re moi co'a {{kansa}} lo pa moi {{lo nu se mixre}}",
+                                "english": "..., the second {{mingling with}} the first, ...",
+                                "source-id": "cloc",
+                                "source": "The Clockmaker",
+                                "author": "Robert Louis Stevenson",
+                                "translator": "la .xorxes.",
+                                "link": "https://mw.lojban.org/papri/le_junla_zbasu",
+                                "originallink": "https://en.wikisource.org/wiki/The_Clockmaker"
+                            },
+                            {
+                                "lojban": ".i se ki'u bo {{ko za'u re'u kansa mi}} ca lo nu mi jai zu'e xabju lo vi daplu fai lo danlu",
+                                "english": "So {{join me next time}}, where I’ll populate this island with animals.",
+                                "source-id": "layo",
+                                "source": "The Lay of the Land",
+                                "author": "Worldbuilding Notes",
+                                "link": "https://www.youtube.com/watch?v=ViGGR231zvQ"
+                            }
+                        ]
                     }
                 ]
             }
-        ]
+        ],
+        "good": true
     },
     {
         "word": "kantu",

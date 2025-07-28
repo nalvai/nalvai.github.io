@@ -25,6 +25,30 @@
                 -english They reassure themselves {{as best they can}}.
                 -source-id litt
 
+-entry:
+    -word kansa
+    -gloss together, companion, to accompany, to be with ... &mdash; to be accompanied &mdash; event/condition experienced together
+    -type gismu
+    -definition:
+        -meaning:
+            -exp x_1 is with/accompanies/is a companion of x_2, in state/condition/enterprise x_3 (event/state).
+            -note The x<sub>1</sub> and x<sub>2</sub> need not be animate.
+            -example:
+                -lojban .i {{kansa}} lo selnei lo nu ve'u cadzu kei
+                -english {{Accompanying}} [people I] like, walking through a great distance
+                -source-id lett
+            -example:
+                -lojban .i lo re moi co'a {{kansa}} lo pa moi {{lo nu se mixre}}
+                -english ..., the second {{mingling with}} the first, ...
+                -source-id cloc
+            -example:
+                -lojban .i se ki'u bo {{ko za'u re'u kansa mi}} ca lo nu mi jai zu'e xabju lo vi daplu fai lo danlu
+                -english So {{join me next time}}, where I’ll populate this island with animals.
+                -source-id layo
+
+
+
+
                 
 -entry:
     -word kavbu
