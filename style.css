@@ -126,7 +126,8 @@ table {
 }
 
 
-.wlist, .wlist-wip {
+.wlist,
+.wlist-wip {
   border: solid;
   border-radius: 1em;
   color: #000;
@@ -170,3 +171,66 @@ table {
   background-color: #fff;
 }
 
+@media (prefers-color-scheme: dark) {
+  html {
+    background-color: #000;
+    color: #fff;
+  }
+
+  .github,
+  .quotation,
+  input {
+    background-color: #333;
+    color: #fff;
+  }
+
+  .discord {
+    background-color: #3430bb;
+  }
+
+  .entry {
+    border-bottom-color: #333;
+  }
+
+  .cmavo {
+    color: #fff;
+    background-color: #695300;
+    border-color: #695300;
+  }
+
+  .gismu {
+    background-color: #006b27;
+    border-color: #006b27;
+  }
+
+  .lujvo {
+    background-color: #005a99;
+    border-color: #005a99;
+  }
+
+  .fuhivla {
+    background-color: #74338e;
+    border-color: #74338e;
+  }
+
+  .wlist {
+    color: #fff;
+  }
+
+  .wlist-wip {
+    color: #fff;
+    background-color: #000;
+  }
+
+  a {
+    color: #6498ff;
+  }
+
+  a:not(.link):visited {
+    color: #dc6bd9;
+  }
+
+  .note {
+    color: #ccc;
+  }
+}
