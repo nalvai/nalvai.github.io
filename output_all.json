@@ -12995,7 +12995,7 @@
     },
     {
         "word": "frica",
-        "gloss": "differ",
+        "gloss": "to differ, to contrast, to be unlike ... &mdash; what x<sub>1</sub> is unlike &mdash; discrepancy, difference",
         "type": "gismu",
         "freq": "11040",
         "rank": "375",
@@ -13007,11 +13007,41 @@
             {
                 "meaning": [
                     {
-                        "exp": "$x_{1}$ differs/is distinct from/contrasts with/is unlike $x_{2}$ in property/dimension/quantity $x_{3}$."
+                        "exp": "x_1 differs/is distinct from/contrasts with/is unlike x_2 in property/dimension/quantity x_3.",
+                        "note": "Place structure parallels that of its antonym {{simsa}}.",
+                        "example": [
+                            {
+                                "lojban": ".i ku'i pe'i so'o le jugbau jufra cu {{smuni frica}} le vo'a glibau se fanva",
+                                "english": "But I think some Chinese sentences {{mean different from}} their English originals.",
+                                "source-id": "rolj",
+                                "speaker": "la nalvai",
+                                "source": "roljbogu'e chatlog"
+                            },
+                            {
+                                "lojban": "ni'o lo cmalu noltru cu {{mutce frica}} lo makcu prenu lo ka ma kau sidbo lo se junri ce'u",
+                                "english": "The little prince {{was very different from}} those of the grown-ups on which ideas were matters of consequence.",
+                                "source-id": "litt",
+                                "source": "The Little Prince",
+                                "author": "Antoine de Saint-Exupéry",
+                                "translator": "la .xorxes.",
+                                "link": "https://mw.lojban.org/papri/le_cmalu_noltru"
+                            },
+                            {
+                                "lojban": ".i ku'i {{lo te frica}} cu cmalu",
+                                "english": "But {{the discrepancy}} was small.",
+                                "source-id": "cloc",
+                                "source": "The Clockmaker",
+                                "author": "Robert Louis Stevenson",
+                                "translator": "la .xorxes.",
+                                "link": "https://mw.lojban.org/papri/le_junla_zbasu",
+                                "originallink": "https://en.wikisource.org/wiki/The_Clockmaker"
+                            }
+                        ]
                     }
                 ]
             }
-        ]
+        ],
+        "good": true
     },
     {
         "word": "friko",

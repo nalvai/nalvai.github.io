@@ -249,6 +249,33 @@
                 -speaker la lunbe
                 -note This usage showcases the shifted meaning of {{fonxa}}, which is not compatible with the original meaning. This sentence is in JACU. To convert it to CLL Lojban, substitute {{je cu}} with {{gi'e}}. {{skuna}} is a synonym of {{cusku}}. 
 
+
+
+-entry:
+    -word frica
+    -gloss to differ, to contrast, to be unlike ... &mdash; what x<sub>1</sub> is unlike &mdash; discrepancy, difference
+    -type gismu
+    -definition:
+        -meaning:
+            -exp x_1 differs/is distinct from/contrasts with/is unlike x_2 in property/dimension/quantity x_3.
+            -note Place structure parallels that of its antonym {{simsa}}.
+            -example:
+                -lojban .i ku'i pe'i so'o le jugbau jufra cu {{smuni frica}} le vo'a glibau se fanva
+                -english But I think some Chinese sentences {{mean different from}} their English originals.
+                -source-id rolj
+                -speaker la nalvai
+            -example:
+                -lojban ni'o lo cmalu noltru cu {{mutce frica}} lo makcu prenu lo ka ma kau sidbo lo se junri ce'u
+                -english The little prince {{was very different from}} those of the grown-ups on which ideas were matters of consequence.
+                -source-id litt
+            -example:
+                -lojban .i ku'i {{lo te frica}} cu cmalu
+                -english But {{the discrepancy}} was small.
+                -source-id cloc
+
+
+                
+
 -entry:
     -word gasnu
     -gloss to do, to bring about, (of a person, object) to cause &mdash; effect
