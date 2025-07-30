@@ -727,6 +727,68 @@
         "good": true
     },
     {
+        "word": "binxo",
+        "gloss": "to become, to change into ... &mdash; result of change &mdash; condition of change",
+        "type": "gismu",
+        "freq": "26480",
+        "rank": "187",
+        "tag": "core-1",
+        "rafsi-cvc": "bix",
+        "rafsi-ccv": null,
+        "rafsi-cvv": "bi'o",
+        "definition": [
+            {
+                "meaning": [
+                    {
+                        "exp": "x_1 becomes/changes/converts/transforms into x_2 under conditions x_3.",
+                        "example": [
+                            {
+                                "lojban": "ni'o lo jalge be lo nu ko'a lanli cu zi {{binxo}} lo te lijda be lo jdasi'a",
+                                "english": "The queries of the philosopher soon {{became}} doctrines of the church.",
+                                "source-id": "cloc",
+                                "source": "The Clockmaker",
+                                "author": "Robert Louis Stevenson",
+                                "translator": "la .xorxes.",
+                                "link": "https://mw.lojban.org/papri/le_junla_zbasu",
+                                "originallink": "https://en.wikisource.org/wiki/The_Clockmaker"
+                            },
+                            {
+                                "lojban": ".i va'o lo nu gy djica lo nu polje pa lo tuple zo'u ri pa moi {{lo binxo be lo sirji}}",
+                                "english": "If he wanted to bend one of his legs, then that was the first one {{to strech itself out}}.",
+                                "note": "\"strech itself out\" = \"become (something) straight\"",
+                                "source-id": "meta",
+                                "source": "The Metamorphosis",
+                                "author": "Franz Kafka",
+                                "translator": "la .xorxes.",
+                                "link": "https://mw.lojban.org/images/f/fc/lonubinxo.pdf"
+                            },
+                            {
+                                "lojban": ".i le karce zo'a flecu klama fo le dargu pe le bartu noi {{ca'o manku binxo}}",
+                                "english": "Cars slushed by on the street outside, where it {{was getting dark}}.",
+                                "source-id": "ings",
+                                "note": "An example of a very common tanru formation, where the seltau (modifying part of the tanru) describes the x_2 of the tertau (modified part of the tanru), which is \"result of change\" here. In this usage, {{manku binxo}} means similar to {{binxo lo manku}}.",
+                                "source": "Little Things",
+                                "author": "Raymond Carver",
+                                "translator": "Jordan DeLong",
+                                "link": "https://mw.lojban.org/papri/little_Things"
+                            },
+                            {
+                                "lojban": ".i xy. co'i {{makfa ke marji binxo}}",
+                                "english": "They have {{become transmuted}} [instead].",
+                                "source-id": "layo",
+                                "note": "A counter-example of the above tanru formation pattern. Here, {{marji binxo}} doesn't mean {{binxo lo marji}} \"become materialized\", but \"change in material\" instead.",
+                                "source": "The Lay of the Land",
+                                "author": "Worldbuilding Notes",
+                                "link": "https://www.youtube.com/watch?v=ViGGR231zvQ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "good": true
+    },
+    {
         "word": "bo",
         "gloss": "Grouping: short scope link, strong binding",
         "type": "cmavo",

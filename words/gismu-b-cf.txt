@@ -58,6 +58,37 @@
                 -english Was {{[she] that dumb, did [she] go in}} or not, we'll see when they carry them out.
                 -source-id terr
 
+
+-entry:
+    -word binxo
+    -gloss to become, to change into ... &mdash; result of change &mdash; condition of change
+    -type gismu
+    -definition:
+        -meaning:
+            -exp x_1 becomes/changes/converts/transforms into x_2 under conditions x_3. 
+            -example:
+                -lojban ni'o lo jalge be lo nu ko'a lanli cu zi {{binxo}} lo te lijda be lo jdasi'a
+                -english The queries of the philosopher soon {{became}} doctrines of the church.
+                -source-id cloc
+            -example:
+                -lojban .i va'o lo nu gy djica lo nu polje pa lo tuple zo'u ri pa moi {{lo binxo be lo sirji}}
+                -english If he wanted to bend one of his legs, then that was the first one {{to strech itself out}}.
+                -note "strech itself out" = "become (something) straight"
+                -source-id meta
+            -example:
+                -lojban .i le karce zo'a flecu klama fo le dargu pe le bartu noi {{ca'o manku binxo}}
+                -english Cars slushed by on the street outside, where it {{was getting dark}}.
+                -source-id ings
+                -note An example of a very common tanru formation, where the seltau (modifying part of the tanru) describes the x_2 of the tertau (modified part of the tanru), which is "result of change" here. In this usage, {{manku binxo}} means similar to {{binxo lo manku}}.
+            -example:
+                -lojban .i xy. co'i {{makfa ke marji binxo}}
+                -english They have {{become transmuted}} [instead].
+                -source-id layo
+                -note A counter-example of the above tanru formation pattern. Here, {{marji binxo}} doesn't mean {{binxo lo marji}} "become materialized", but "change in material" instead.
+
+
+
+
 -entry:
     -word cadga
     -gloss (of an event) should happen &mdash; condition in which x<sub>1</sub> should happen &mdash; to think x<sub>1</sub> should happen
