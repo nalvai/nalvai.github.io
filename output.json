@@ -1059,6 +1059,56 @@
         "good": true
     },
     {
+        "word": "catlu",
+        "gloss": "to look at, to watch, to gaze at &mdash; to be looked at, to be watched",
+        "type": "gismu",
+        "freq": "12190",
+        "rank": "347",
+        "tag": "core-2",
+        "rafsi-cvc": null,
+        "rafsi-ccv": "cta",
+        "rafsi-cvv": null,
+        "definition": [
+            {
+                "meaning": [
+                    {
+                        "exp": "x_1 looks at/examines/views/inspects/regards/watches/gazes at x_2.",
+                        "example": [
+                            {
+                                "lojban": ".i mutce jundi {{catlu}} ro da noi {{pu se catlu}}",
+                                "english": "They very carefully {{looked}} everywhere that {{was looked at before}}.",
+                                "source-id": "melb",
+                                "source": "la melbi e le ractu",
+                                "author": "la lalxu",
+                                "link": "https://lynn.github.io/la-melbi-e-le-ractu/"
+                            },
+                            {
+                                "lojban": ".i ku'i nau ku cyny. co'a terpa gi je simxu {{catlu}} lo vo'a flira noi ba'o mutce co se gacri lo kruji",
+                                "english": "But now, the two became freightened, and {{looked at}} each other's cream-covered face.",
+                                "source-id": "rest",
+                                "note": "This example uses a variant connective system. To convert it into CLL/BPFK Lojban, replace {{gi je}} with {{gi'e}}.",
+                                "source": "The Restaurant of Many Orders",
+                                "author": "Kenji Miyazawa",
+                                "translator": "la .tijlan.",
+                                "link": "https://docs.google.com/document/d/10Rnm80SieLrpFnk9kn_9bCuon96CNSPTA8hqVaWQYbQ/edit?tab=t.0"
+                            },
+                            {
+                                "lojban": ".i lo penmi be mi jo'u {{lo se catlu be mi}} cu ju'o cliva ba'i lo drata poi ba penmi ja catlu",
+                                "english": "The people I meet now, {{the things I'm seeing now}}, they'll surely leave and replaced by what's ahead of me.",
+                                "source-id": "lett",
+                                "source": "letter song",
+                                "author": "doriko",
+                                "translator": "tetsusquared (la .tirprij.)",
+                                "link": "https://www.youtube.com/watch?v=5r-JIZNGAMA"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "good": true
+    },
+    {
         "word": "catra",
         "gloss": "to kill, to murder &mdash; to be killed &mdash; method of killing",
         "type": "gismu",

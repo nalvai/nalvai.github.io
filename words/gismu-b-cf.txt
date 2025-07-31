@@ -114,6 +114,30 @@
 
 
 -entry:
+    -word catlu
+    -gloss to look at, to watch, to gaze at &mdash; to be looked at, to be watched
+    -type gismu
+    -definition:
+        -meaning:
+            -exp x_1 looks at/examines/views/inspects/regards/watches/gazes at x_2.
+            -example:
+                -lojban .i mutce jundi {{catlu}} ro da noi {{pu se catlu}}
+                -english They very carefully {{looked}} everywhere that {{was looked at before}}.
+                -source-id melb
+            -example:
+                -lojban .i ku'i nau ku cyny. co'a terpa gi je simxu {{catlu}} lo vo'a flira noi ba'o mutce co se gacri lo kruji
+                -english But now, the two became freightened, and {{looked at}} each other's cream-covered face.
+                -source-id rest
+                -note This example uses a variant connective system. To convert it into CLL/BPFK Lojban, replace {{gi je}} with {{gi'e}}.
+            -example:
+                -lojban .i lo penmi be mi jo'u {{lo se catlu be mi}} cu ju'o cliva ba'i lo drata poi ba penmi ja catlu
+                -english The people I meet now, {{the things I'm seeing now}}, they'll surely leave and replaced by what's ahead of me.
+                -source-id lett
+
+
+
+
+-entry:
     -word catra
     -gloss to kill, to murder &mdash; to be killed &mdash; method of killing
     -type gismu
