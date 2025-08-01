@@ -35127,7 +35127,7 @@
     },
     {
         "word": "sanji",
-        "gloss": "conscious, recognize",
+        "gloss": "to be aware of ..., to be conscious of ..., to recognize (an object, event) &mdash; (of an object, event) to be recognized",
         "type": "gismu",
         "freq": "6520",
         "rank": "543",
@@ -35139,11 +35139,43 @@
             {
                 "meaning": [
                     {
-                        "exp": "$x_{1}$ is conscious/aware of $x_{2}$ (object/abstract); $x_{1}$ discerns/recognizes $x_{2}$ (object/abstract)."
+                        "exp": "x_1 is conscious/aware of x_2 (object/abstract); x_1 discerns/recognizes x_2 (object/abstract).",
+                        "example": [
+                            {
+                                "lojban": ".i lo tinsa traji be fi lo zifre pensi cu {{sanji}} lo sivni nu senpi",
+                                "english": "The most solid of the free thinkers {{was conscious of}} a private doubt.",
+                                "source-id": "cloc",
+                                "source": "The Clockmaker",
+                                "author": "Robert Louis Stevenson",
+                                "translator": "la .xorxes.",
+                                "link": "https://mw.lojban.org/papri/le_junla_zbasu",
+                                "originallink": "https://en.wikisource.org/wiki/The_Clockmaker"
+                            },
+                            {
+                                "lojban": ".i ku'i lo drata se lanzu ri'a lo tordu nu casnu cu binxo lo {{sanji be lo nu ua la gregor cu za'o zvati lo zdani}}",
+                                "english": "But this short conversation made the other members of the family {{aware that Gregor, against their expectations was still at home}}.",
+                                "source-id": "meta",
+                                "source": "The Metamorphosis",
+                                "author": "Franz Kafka",
+                                "translator": "la .xorxes.",
+                                "link": "https://mw.lojban.org/images/f/fc/lonubinxo.pdf"
+                            },
+                            {
+                                "lojban": ".i {{lo pu co'a sanji be lo de'u morsi xadni}} cu me mi je'u",
+                                "english": "Certainly, it was I {{who found the body}}.",
+                                "source-id": "inag",
+                                "note": "\"found\" = \"became aware of\"",
+                                "source": "In a Grove",
+                                "author": "Ryūnosuke Akutagawa",
+                                "translator": "la .guskant.",
+                                "link": "https://guskant.github.io/yabu/html5/jbopoho.html"
+                            }
+                        ]
                     }
                 ]
             }
-        ]
+        ],
+        "good": true
     },
     {
         "word": "sanli",
@@ -36400,7 +36432,7 @@
     },
     {
         "word": "simlu",
-        "gloss": "to seem, to appear (to have a property) &mdash; semblance, (of a property) to seem to be present in ... &mdash; to percieve semblance &mdash; condition of semblance",
+        "gloss": "to seem, to appear (to have a property) &mdash; semblance, (of a property) to seem to be present in ... &mdash; to perceive semblance &mdash; condition of semblance",
         "type": "gismu",
         "freq": "13870",
         "rank": "318",

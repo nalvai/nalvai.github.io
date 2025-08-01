@@ -1,6 +1,6 @@
 # NALVAI: Nalvai's Assortment of Lojban Vocabulary Attestation Instances
 ## What is this?
-**NALVAI** is a Lojban dictionary that uses quotations from *real-world texts* as examples of usage. It currently contains **139 words** with [**409 quotations** from **76 Lojban texts**](https://github.com/nalvai/nalvai.github.io#sources). Please provide quotations and definitions to help the dictionary grow!
+**NALVAI** is a Lojban dictionary that uses quotations from *real-world texts* as examples of usage. It currently contains **140 words** with [**412 quotations** from **76 Lojban texts**](https://github.com/nalvai/nalvai.github.io#sources). Please provide quotations and definitions to help the dictionary grow!
 
 Here is how a word look like in this dictionary:
 ![The word a in this dictionary](https://raw.githubusercontent.com/nalvai/nalvai.github.io/refs/heads/master/example_a.png)
@@ -98,10 +98,10 @@ Lojban texts with at least one quotation in this dictionary.
 - (24 quotes) [Alice in Wonderland](https://mw.lojban.org/papri/lo_selfri_be_la_.alis._bei_bu%27u_la_selmacygu%27e) by Lewis Carroll, translation by la .xorxes.
 - (21 quotes) [The Wonderful Wizard of Oz](https://selpahi.de/oz_plain.html) by L. Frank Baum, translation by la solpa'i
 - (18 quotes) jbobratca chatlog
+- (13 quotes) [The Metamorphosis](https://mw.lojban.org/images/f/fc/lonubinxo.pdf) by Franz Kafka, translation by la .xorxes.
 - (12 quotes) [la melbi e le ractu](https://lynn.github.io/la-melbi-e-le-ractu/) by la lalxu
-- (12 quotes) [The Metamorphosis](https://mw.lojban.org/images/f/fc/lonubinxo.pdf) by Franz Kafka, translation by la .xorxes.
 - (12 quotes) [la nicte cadzu](https://mw.lojban.org/papri/Robin%27s_Palm_Writings:_la_nicte_cadzu) by Robin Lee Powell
-- (10 quotes) [The Clockmaker](https://mw.lojban.org/papri/le_junla_zbasu) by Robert Louis Stevenson, translation by la .xorxes. ([Original](https://en.wikisource.org/wiki/The_Clockmaker))
+- (11 quotes) [The Clockmaker](https://mw.lojban.org/papri/le_junla_zbasu) by Robert Louis Stevenson, translation by la .xorxes. ([Original](https://en.wikisource.org/wiki/The_Clockmaker))
 - (9 quotes) [The Egg](https://nalvai.neocities.org/translations/the-egg/) by Andy Weir, translation by la nalvai
 - (8 quotes) [The Restaurant of Many Orders](https://docs.google.com/document/d/10Rnm80SieLrpFnk9kn_9bCuon96CNSPTA8hqVaWQYbQ/edit?tab=t.0) by Kenji Miyazawa, translation by la .tijlan.
 - (7 quotes) ["Official Lojban"](https://docs.google.com/spreadsheets/d/1_vkiwqOIOIJPqZTiomzd4ApUSEQXhEY6CeyZD_6c-PA/edit?gid=1862526252#gid=1862526252) by la uakci
@@ -110,12 +110,12 @@ Lojban texts with at least one quotation in this dictionary.
 - (6 quotes) [The Lay of the Land](https://www.youtube.com/watch?v=ViGGR231zvQ) by Worldbuilding Notes
 - (6 quotes) [prami simbi'o](https://www.youtube.com/watch?v=g3BQ-pE7ypY) by Djemynai
 - (5 quotes) [Assessment of EGIDS Levels](https://nalvai.neocities.org/translations/egids-scale/) by M. Paul Lewis and Gary F. Simons, translation by la nalvai ([Original](https://www.lingv.ro/RRL%202%202010%20art01Lewis.pdf))
+- (5 quotes) [In a Grove](https://guskant.github.io/yabu/html5/jbopoho.html) by Ryūnosuke Akutagawa, translation by la .guskant.
 - (5 quotes) [The Library of Babel](https://mw.lojban.org/papri/la_ckuzda_pe_la_babel) by Jorge Luis Borges, translation by la .xorxes.
 - (5 quotes) [na fengu](https://meremim.bandcamp.com/album/na-fengu) by Mèremim
 - (5 quotes) [Still Alive](https://www.youtube.com/watch?v=hRrIioMA4w8) by Jonathan Coulton, translation by la solpa'i
 - (5 quotes) [Toki Pona Cheatsheet](https://blinry.org/toki-pona-cheat-sheet/toki-pona-cheat-sheet-jbo.pdf) by Blinry, translation by la .samflir. ([Original](https://blinry.org/toki-pona-cheat-sheet/toki-pona-cheat-sheet.pdf))
 - (4 quotes) [Carefree Wandering (逍遙遊)](https://www.youtube.com/watch?v=FGY3awgABhU) by Zhuangzi, translation by geezmolycos
-- (4 quotes) [In a Grove](https://guskant.github.io/yabu/html5/jbopoho.html) by Ryūnosuke Akutagawa, translation by la .guskant.
 - (4 quotes) [letter song](https://www.youtube.com/watch?v=5r-JIZNGAMA) by doriko, translation by tetsusquared (la .tirprij.)
 - (4 quotes) [Liang and the Magic Paintbrush](https://docs.google.com/spreadsheets/d/1_vkiwqOIOIJPqZTiomzd4ApUSEQXhEY6CeyZD_6c-PA/edit?gid=768225989#gid=768225989) by Demi, translation by la darsi
 - (4 quotes) [za'o](https://www.youtube.com/watch?v=TKbFwr-1ZQ4) by Djemynai
@@ -172,7 +172,7 @@ Lojban texts with at least one quotation in this dictionary.
 
 The quotes from chatlogs are from the following speakers: (in no particular order)
 
-la varik, la melmi, dram, la .zi., .kúblizel., Magnap, la nalvai, la piier, latkerlo, \_4Denthusiast, qimar, melody!, yeet kitty, la tirprij, la lalxu, misotanni, la samflir, niftg, la solpa'i, la katador, la uakci, Haze, la gleki, la srasu, la kanis, la fagri, la lunra, la kanba, la xrula, la ziren, Lucilla, la evis, Stephen Dedalus, AstroMacGuffin, bancip, la bakre'u, la nonselcme, la janbe, la ilmen, la lunbe, 
+la xrula, la katador, la ilmen, la evis, yeet kitty, .kúblizel., la gleki, la srasu, la piier, la fagri, la .zi., latkerlo, misotanni, la kanba, melody!, AstroMacGuffin, la janbe, Magnap, dram, Lucilla, la lalxu, la samflir, la nonselcme, la bakre'u, qimar, la varik, Haze, la tirprij, la kanis, bancip, la nalvai, la melmi, la uakci, Stephen Dedalus, la solpa'i, la lunbe, la ziren, \_4Denthusiast, la lunra, niftg, 
 
 Huge thanks to the following individuals who contributed to this project:
 

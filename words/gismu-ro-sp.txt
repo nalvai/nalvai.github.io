@@ -21,6 +21,30 @@
                 -note This examlpe is in JACU. To convert it to CLL/BPFK Lojban, substitute {{je cu}} with {{gi'e}}.
 
 -entry:
+    -word sanji
+    -gloss to be aware of ..., to be conscious of ..., to recognize (an object, event) &mdash; (of an object, event) to be recognized
+    -type gismu
+    -definition:
+        -meaning:
+            -exp x_1 is conscious/aware of x_2 (object/abstract); x_1 discerns/recognizes x_2 (object/abstract).
+            -example:
+                -lojban .i lo tinsa traji be fi lo zifre pensi cu {{sanji}} lo sivni nu senpi
+                -english The most solid of the free thinkers {{was conscious of}} a private doubt.
+                -source-id cloc
+            -example:
+                -lojban .i ku'i lo drata se lanzu ri'a lo tordu nu casnu cu binxo lo {{sanji be lo nu ua la gregor cu za'o zvati lo zdani}}
+                -english But this short conversation made the other members of the family {{aware that Gregor, against their expectations was still at home}}.
+                -source-id meta
+            -example:
+                -lojban .i {{lo pu co'a sanji be lo de'u morsi xadni}} cu me mi je'u
+                -english Certainly, it was I {{who found the body}}.
+                -source-id inag
+                -note "found" = "became aware of"
+
+
+
+
+-entry:
     -word skami
     -gloss computer &mdash; purpose of computer
     -type gismu
@@ -65,7 +89,7 @@
 
 -entry:
     -word simlu
-    -gloss to seem, to appear (to have a property) &mdash; semblance, (of a property) to seem to be present in ... &mdash; to percieve semblance &mdash; condition of semblance
+    -gloss to seem, to appear (to have a property) &mdash; semblance, (of a property) to seem to be present in ... &mdash; to perceive semblance &mdash; condition of semblance
     -type gismu
     -definition:
         -meaning:
