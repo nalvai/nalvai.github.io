@@ -1582,8 +1582,8 @@
                         "exp": "x_1 is a structure word of grammatical class x_2, with meaning/function x_3 in usage (language) x_4.",
                         "example": [
                             {
-                                "lojban": "{{ni'o zoi ty. e .ty cmavo fi}} lo du'u lo lifri cu sepli le drata pagbu be le jufra",
-                                "english": "{{The particle <i>e</i>}} separates a direct object from the rest of the sentence.",
+                                "lojban": "ni'o {{zoi ty. e .ty cmavo fi lo du'u lo lifri}} cu sepli le drata pagbu be le jufra",
+                                "english": "{{The particle <i>e</i>, which [introduces] a direct object}}, separates it from the rest of the sentence.",
                                 "source-id": "tokp",
                                 "note": "The grammatical term \"direct object\" is translated as {{lo lifri}}, lit. \"experiencer\".",
                                 "source": "Toki Pona Cheatsheet",
@@ -3340,6 +3340,57 @@
             }
         ],
         "origin": "lojbo prenu",
+        "good": true
+    },
+    {
+        "word": "jgira",
+        "gloss": "proud, to take pride in ... &mdash; pride (something x<sub>1</sub> is proud of)",
+        "type": "gismu",
+        "freq": "1240",
+        "rank": "1250",
+        "tag": "common",
+        "rafsi-cvc": null,
+        "rafsi-ccv": "jgi",
+        "rafsi-cvv": null,
+        "definition": [
+            {
+                "meaning": [
+                    {
+                        "exp": "x1 (person) feels/has pride in/about x2 (abstraction).",
+                        "example": [
+                            {
+                                "lojban": ".i to'e mu'i nai {{lo ka jgira}} cu ca to'e ju'o vlipa",
+                                "english": "In spite of {{[my] pride}}, [we're] truly powerless...",
+                                "source-id": "lost",
+                                "source": "The Lost One's Weeping",
+                                "author": "Neru",
+                                "translator": "tetsusquared (la .tirprij.)",
+                                "link": "https://www.youtube.com/watch?v=9TA1-lVHAUM"
+                            },
+                            {
+                                "lojban": ".i lo te pemci ba lo nu se pajni ca lo nu {{jgira lo rigni se cinmo}} cu se dapma gi'e gubni se daspo",
+                                "english": "The poet, after a trial, in which {{[he] gloried in his horrid sentiments}}, was condemned and publicly destroyed.",
+                                "source-id": "cloc",
+                                "source": "The Clockmaker",
+                                "author": "Robert Louis Stevenson",
+                                "translator": "la .xorxes.",
+                                "link": "https://mw.lojban.org/papri/le_junla_zbasu",
+                                "originallink": "https://en.wikisource.org/wiki/The_Clockmaker"
+                            },
+                            {
+                                "lojban": ".i ja'o la'e do'i du {{le se jgira be mi}}",
+                                "english": "And this is {{my pride}}.",
+                                "source-id": "emer",
+                                "source": "Emerald Tablet",
+                                "author": "an unknown Arabic writer",
+                                "translator": "la gleki",
+                                "link": "https://lojban.pw/en/texts/emerald-tablet/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
         "good": true
     },
     {

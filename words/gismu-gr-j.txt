@@ -1,4 +1,23 @@
 
+-entry:
+    -word jgira
+    -gloss proud, to take pride in ... &mdash; pride (something x<sub>1</sub> is proud of)
+    -type gismu
+    -definition:
+        -meaning:
+            -exp x1 (person) feels/has pride in/about x2 (abstraction).
+            -example:
+                -lojban .i to'e mu'i nai {{lo ka jgira}} cu ca to'e ju'o vlipa
+                -english In spite of {{[my] pride}}, [we're] truly powerless...
+                -source-id lost
+            -example:
+                -lojban .i lo te pemci ba lo nu se pajni ca lo nu {{jgira lo rigni se cinmo}} cu se dapma gi'e gubni se daspo
+                -english The poet, after a trial, in which {{[he] gloried in his horrid sentiments}}, was condemned and publicly destroyed.
+                -source-id cloc
+            -example:
+                -lojban .i ja'o la'e do'i du {{le se jgira be mi}}
+                -english And this is {{my pride}}.
+                -source-id emer
 
 -entry:
     -word jimpe

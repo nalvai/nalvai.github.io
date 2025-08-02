@@ -171,8 +171,8 @@
         -meaning:
             -exp x_1 is a structure word of grammatical class x_2, with meaning/function x_3 in usage (language) x_4.
             -example:
-                -lojban {{ni'o zoi ty. e .ty cmavo fi}} lo du'u lo lifri cu sepli le drata pagbu be le jufra
-                -english {{The particle <i>e</i>}} separates a direct object from the rest of the sentence.
+                -lojban ni'o {{zoi ty. e .ty cmavo fi lo du'u lo lifri}} cu sepli le drata pagbu be le jufra
+                -english {{The particle <i>e</i>, which [introduces] a direct object}}, separates it from the rest of the sentence.
                 -source-id tokp
                 -note The grammatical term "direct object" is translated as {{lo lifri}}, lit. "experiencer".
             -example:
