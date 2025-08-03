@@ -273,7 +273,25 @@
                 -english But {{the discrepancy}} was small.
                 -source-id cloc
 
-
+-entry:
+    -word gacri
+    -gloss lid, (of an object) to cover &mdash; to be covered
+    -type gismu
+    -definition:
+        -meaning:
+            -exp x_1 is a cover/[lid/top] for covering/concealing/sheltering x_2.
+            -example:
+                -lojban .i loi sorska cinta ko fi ko'a cu se punji .i je ba bo loi xekri tabno ko'a {{gacri}}
+                -english Paint it with colorful pigments, and soon enough black charcoal {{will cover}} it.
+                -source-id arma
+            -example:
+                -lojban .i pluka fa lo nu {{lo clika cu gacri}} lo loldi be lo ricfoi tai lo matci
+                -english It's [always] nice to {{have moss covering}} the forest floor like a carpet...
+                -source-id layo
+            -example:
+                -lojban .i ba za lo na'e clani la snime blabi cu kargau lo kanla gi'e lafti {{lo gacri be lo mrovau}} gi'e tsebi'o gi'e di'a jmive
+                -english In a short time Snow White opened her eyes, lifted {{the lid of the coffin}}, sat up and came back to life again. 
+                -source-id snow
                 
 
 -entry:

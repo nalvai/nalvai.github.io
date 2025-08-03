@@ -96,7 +96,7 @@
 
 -entry:
     -word xekce
-    -gloss to belittle ... by acting pedantic on their grammar, to criticize ...'s grammar without adding to the conversation &mdash; to be needlessly criticized for making a grammatical error as perceived by x<sub>1</sub> 
+    -gloss naysayer, to belittle ... by acting pedantic on their grammar, to criticize ...'s grammar without adding to the conversation &mdash; to be needlessly criticized for making a grammatical error as perceived by x<sub>1</sub> 
     -type gismu
     -rafsi-cvc xec
     -rafsi-cvv xe'e

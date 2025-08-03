@@ -13526,7 +13526,7 @@
     },
     {
         "word": "gacri",
-        "gloss": "cover",
+        "gloss": "lid, (of an object) to cover &mdash; to be covered",
         "type": "gismu",
         "freq": "1040",
         "rank": "1353",
@@ -13538,11 +13538,41 @@
             {
                 "meaning": [
                     {
-                        "exp": "$x_{1}$ is a cover/[lid/top] for covering/concealing/sheltering $x_{2}$."
+                        "exp": "x_1 is a cover/[lid/top] for covering/concealing/sheltering x_2.",
+                        "example": [
+                            {
+                                "lojban": ".i loi sorska cinta ko fi ko'a cu se punji .i je ba bo loi xekri tabno ko'a {{gacri}}",
+                                "english": "Paint it with colorful pigments, and soon enough black charcoal {{will cover}} it.",
+                                "source-id": "arma",
+                                "source": "Ĉarma Anomali’",
+                                "author": "Noise and Bells",
+                                "translator": "tetsusquared (la .tirprij.)",
+                                "link": "https://www.youtube.com/watch?v=H5Bbg8HGkV0",
+                                "originallink": "https://www.youtube.com/watch?v=q05lSh5qfgk"
+                            },
+                            {
+                                "lojban": ".i pluka fa lo nu {{lo clika cu gacri}} lo loldi be lo ricfoi tai lo matci",
+                                "english": "It's [always] nice to {{have moss covering}} the forest floor like a carpet...",
+                                "source-id": "layo",
+                                "source": "The Lay of the Land",
+                                "author": "Worldbuilding Notes",
+                                "link": "https://www.youtube.com/watch?v=ViGGR231zvQ"
+                            },
+                            {
+                                "lojban": ".i ba za lo na'e clani la snime blabi cu kargau lo kanla gi'e lafti {{lo gacri be lo mrovau}} gi'e tsebi'o gi'e di'a jmive",
+                                "english": "In a short time Snow White opened her eyes, lifted {{the lid of the coffin}}, sat up and came back to life again.",
+                                "source-id": "snow",
+                                "source": "Snow White",
+                                "author": "Brothers Grimm",
+                                "translator": "la solpa'i",
+                                "link": "https://selpahi.de/snimeblabi.html"
+                            }
+                        ]
                     }
                 ]
             }
-        ]
+        ],
+        "good": true
     },
     {
         "word": "gadri",
@@ -48320,7 +48350,7 @@
     },
     {
         "word": "xekce",
-        "gloss": "to belittle ... by acting pedantic on their grammar, to criticize ...'s grammar without adding to the conversation &mdash; to be needlessly criticized for making a grammatical error as perceived by x<sub>1</sub>",
+        "gloss": "naysayer, to belittle ... by acting pedantic on their grammar, to criticize ...'s grammar without adding to the conversation &mdash; to be needlessly criticized for making a grammatical error as perceived by x<sub>1</sub>",
         "type": "gismu",
         "rafsi-cvc": "xec",
         "rafsi-cvv": "xe'e",
