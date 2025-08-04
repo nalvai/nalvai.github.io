@@ -5746,6 +5746,58 @@
         "good": true
     },
     {
+        "word": "punji",
+        "gloss": "to put, to place &mdash; to be put, to be placed &mdash; location (where x<sub>2</sub> is placed)",
+        "type": "gismu",
+        "freq": "2530",
+        "rank": "888",
+        "tag": "common",
+        "rafsi-cvc": "puj",
+        "rafsi-ccv": null,
+        "rafsi-cvv": "pu'i",
+        "definition": [
+            {
+                "meaning": [
+                    {
+                        "exp": "x_1 (agent) puts/places/sets x_2 on/at surface/locus x_3.",
+                        "example": [
+                            {
+                                "lojban": ".i loi sorska cinta ko fi ko'a cu se {{punji}} .i je ba bo loi xekri tabno ko'a gacri",
+                                "english": "{{Paint}} it with colorful pigments, and soon enough black charcoal will cover it.",
+                                "source-id": "arma",
+                                "source": "Ĉarma Anomali’",
+                                "author": "Noise and Bells",
+                                "translator": "tetsusquared (la .tirprij.)",
+                                "link": "https://www.youtube.com/watch?v=H5Bbg8HGkV0",
+                                "originallink": "https://www.youtube.com/watch?v=q05lSh5qfgk"
+                            },
+                            {
+                                "lojban": ".i e'o ko lo ceclyxarci jo'u danti ti {{punji}}",
+                                "english": "Please {{leave}} your guns and cartridges here.",
+                                "source-id": "rest",
+                                "source": "The Restaurant of Many Orders",
+                                "author": "Kenji Miyazawa",
+                                "translator": "la .tijlan.",
+                                "link": "https://docs.google.com/document/d/10Rnm80SieLrpFnk9kn_9bCuon96CNSPTA8hqVaWQYbQ/edit?tab=t.0"
+                            },
+                            {
+                                "lojban": ".i lo drata cu {{punji}} lo narge lo moklu gi'e fengu le cifnu lo nu cy. na djica lo nu citka",
+                                "english": "Another {{stuffed}} nuts in its mouth, and was aggrieved at the baby because it would not eat them.",
+                                "source-id": "scie",
+                                "source": "The Scientific Ape",
+                                "author": "Robert Louis Stevenson",
+                                "translator": "la .xorxes.",
+                                "link": "https://mw.lojban.org/papri/le_saske_smani",
+                                "originallink": "https://en.wikisource.org/wiki/The_Scientific_Ape"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "good": true
+    },
+    {
         "word": "rinka",
         "gloss": "cause, (of an event) to cause, to effect &mdash; effect",
         "type": "gismu",

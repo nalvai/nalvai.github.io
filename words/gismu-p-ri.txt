@@ -178,6 +178,28 @@
                 -english The geographer {{asks}} the explorers {{questions}}, and he notes down what they recall.
                 -source-id litt
 
+
+-entry:
+    -word punji
+    -gloss to put, to place &mdash; to be put, to be placed &mdash; location (where x<sub>2</sub> is placed)
+    -type gismu
+    -definition:
+        -meaning:
+            -exp x_1 (agent) puts/places/sets x_2 on/at surface/locus x_3.
+            -example:
+                -lojban .i loi sorska cinta ko fi ko'a cu se {{punji}} .i je ba bo loi xekri tabno ko'a gacri
+                -english {{Paint}} it with colorful pigments, and soon enough black charcoal will cover it.
+                -source-id arma
+            -example:
+                -lojban .i e'o ko lo ceclyxarci jo'u danti ti {{punji}}
+                -english Please {{leave}} your guns and cartridges here.
+                -source-id rest
+            -example:
+                -lojban .i lo drata cu {{punji}} lo narge lo moklu gi'e fengu le cifnu lo nu cy. na djica lo nu citka
+                -english Another {{stuffed}} nuts in its mouth, and was aggrieved at the baby because it would not eat them.
+                -source-id scie
+
+
 -entry:
     -word rinka
     -gloss cause, (of an event) to cause, to effect &mdash; effect
