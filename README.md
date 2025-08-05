@@ -1,6 +1,6 @@
 # NALVAI: Nalvai's Assortment of Lojban Vocabulary Attestation Instances
 ## What is this?
-**NALVAI** is a Lojban dictionary that uses quotations from *real-world texts* as examples of usage. It currently contains **143 words** with [**419 quotations** from **76 Lojban texts**](https://github.com/nalvai/nalvai.github.io#sources). Please provide quotations and definitions to help the dictionary grow!
+**NALVAI** is a Lojban dictionary that uses quotations from *real-world texts* as examples of usage. It currently contains **144 words** with [**422 quotations** from **76 Lojban texts**](https://github.com/nalvai/nalvai.github.io#sources). Please provide quotations and definitions to help the dictionary grow!
 
 Here is how a word look like in this dictionary:
 ![The word a in this dictionary](https://raw.githubusercontent.com/nalvai/nalvai.github.io/refs/heads/master/example_a.png)
@@ -108,14 +108,14 @@ Lojban texts with at least one quotation in this dictionary.
 - (7 quotes) [The Lay of the Land](https://www.youtube.com/watch?v=ViGGR231zvQ) by Worldbuilding Notes
 - (7 quotes) ["Official Lojban"](https://docs.google.com/spreadsheets/d/1_vkiwqOIOIJPqZTiomzd4ApUSEQXhEY6CeyZD_6c-PA/edit?gid=1862526252#gid=1862526252) by la uakci
 - (6 quotes) [clani kerlo](https://docs.google.com/spreadsheets/d/1_vkiwqOIOIJPqZTiomzd4ApUSEQXhEY6CeyZD_6c-PA/edit?gid=1296186733#gid=1296186733) by la fagri
+- (6 quotes) [The Library of Babel](https://mw.lojban.org/papri/la_ckuzda_pe_la_babel) by Jorge Luis Borges, translation by la .xorxes.
 - (6 quotes) [prami simbi'o](https://www.youtube.com/watch?v=g3BQ-pE7ypY) by Djemynai
 - (5 quotes) [Assessment of EGIDS Levels](https://nalvai.neocities.org/translations/egids-scale/) by M. Paul Lewis and Gary F. Simons, translation by la nalvai ([Original](https://www.lingv.ro/RRL%202%202010%20art01Lewis.pdf))
+- (5 quotes) [Carefree Wandering (逍遙遊)](https://www.youtube.com/watch?v=FGY3awgABhU) by Zhuangzi, translation by geezmolycos
 - (5 quotes) [In a Grove](https://guskant.github.io/yabu/html5/jbopoho.html) by Ryūnosuke Akutagawa, translation by la .guskant.
-- (5 quotes) [The Library of Babel](https://mw.lojban.org/papri/la_ckuzda_pe_la_babel) by Jorge Luis Borges, translation by la .xorxes.
 - (5 quotes) [na fengu](https://meremim.bandcamp.com/album/na-fengu) by Mèremim
 - (5 quotes) [Still Alive](https://www.youtube.com/watch?v=hRrIioMA4w8) by Jonathan Coulton, translation by la solpa'i
 - (5 quotes) [Toki Pona Cheatsheet](https://blinry.org/toki-pona-cheat-sheet/toki-pona-cheat-sheet-jbo.pdf) by Blinry, translation by la .samflir. ([Original](https://blinry.org/toki-pona-cheat-sheet/toki-pona-cheat-sheet.pdf))
-- (4 quotes) [Carefree Wandering (逍遙遊)](https://www.youtube.com/watch?v=FGY3awgABhU) by Zhuangzi, translation by geezmolycos
 - (4 quotes) [letter song](https://www.youtube.com/watch?v=5r-JIZNGAMA) by doriko, translation by tetsusquared (la .tirprij.)
 - (4 quotes) [Liang and the Magic Paintbrush](https://docs.google.com/spreadsheets/d/1_vkiwqOIOIJPqZTiomzd4ApUSEQXhEY6CeyZD_6c-PA/edit?gid=768225989#gid=768225989) by Demi, translation by la darsi
 - (4 quotes) [za'o](https://www.youtube.com/watch?v=TKbFwr-1ZQ4) by Djemynai
@@ -132,6 +132,7 @@ Lojban texts with at least one quotation in this dictionary.
 - (3 quotes) [tensaia](https://djemynai.bandcamp.com/album/tensaia) by Djemynai
 - (2 quotes) [Always With Me](https://vimeo.com/113232481) by Youmi Kimura, translation by la .guskant.
 - (2 quotes) [Antarctica is getting greener](https://mw.lojban.org/papri/UserWiki:Ilmen/lo_ziptu%27a_ca%27o_zenba_lo_ka_crino) by Ryan Cross on <i>Science</i>, translation by la .ilmen. ([Original](https://www.science.org/content/article/antarctica-getting-greener))
+- (2 quotes) [Ĉarma Anomali’](https://www.youtube.com/watch?v=H5Bbg8HGkV0) by Noise and Bells, translation by tetsusquared (la .tirprij.) ([Original](https://www.youtube.com/watch?v=q05lSh5qfgk))
 - (2 quotes) [The Book](https://lojban.pw/en/texts/the-book/) by H. P. Lovecraft, translation by la gleki
 - (2 quotes) [claxu be do crisa](https://soundcloud.com/cogas-iuk/sunday-10-38-pm) by la .cogas.
 - (2 quotes) [Colorful](https://www.youtube.com/watch?v=GjG2vtMOI7c) by H△G, translation by tetsusquared (la .tirprij.)
@@ -147,7 +148,6 @@ Lojban texts with at least one quotation in this dictionary.
 - (2 quotes) [la nu farlu lo plini](https://liputenpo.org/toki/nanpa-kokosila/la-nu-farlu-lo-plini/) by la srasu
 - (2 quotes) [The Terrorist, He's Watching](https://docs.google.com/spreadsheets/d/1_vkiwqOIOIJPqZTiomzd4ApUSEQXhEY6CeyZD_6c-PA/edit?gid=1514901818#gid=1514901818) by Szymborska Wisława, translation by la uakci
 - (1 quote) [Aisle](https://www.youtube.com/watch?v=GGoqNJjiun0) by Ibuki Tsubasa, translation by tetsusquared (la .tirprij.) ([Original](https://www.youtube.com/watch?v=9CNkjJo_Sjg))
-- (1 quote) [Ĉarma Anomali’](https://www.youtube.com/watch?v=H5Bbg8HGkV0) by Noise and Bells, translation by tetsusquared (la .tirprij.) ([Original](https://www.youtube.com/watch?v=q05lSh5qfgk))
 - (1 quote) [bai do](https://www.youtube.com/watch?v=fR-Z3h1Jsms) by Noise and Bells (la janbe)
 - (1 quote) [Calc.](https://www.youtube.com/watch?v=n4NhUEUvwew) by JimmyThumbP, translation by tetsusquared (la .tirprij.)
 - (1 quote) [cipra lo skari lo vanju](https://guskant.github.io/lojbo/cipra.html) by la .guskant.
@@ -172,7 +172,7 @@ Lojban texts with at least one quotation in this dictionary.
 
 The quotes from chatlogs are from the following speakers: (in no particular order)
 
-la evis, la fagri, la lunra, Haze, AstroMacGuffin, la piier, la xrula, latkerlo, la tirprij, dram, la solpa'i, qimar, la kanba, la bakre'u, la uakci, la .zi., misotanni, niftg, la janbe, la lalxu, la samflir, la varik, melody!, Lucilla, la katador, \_4Denthusiast, .kúblizel., la srasu, yeet kitty, la lunbe, Stephen Dedalus, la nonselcme, bancip, Magnap, la nalvai, la kanis, la ilmen, la ziren, la gleki, la melmi, 
+la samflir, Lucilla, la varik, la uakci, \_4Denthusiast, .kúblizel., la katador, la nonselcme, qimar, la piier, la nalvai, la lunbe, la lunra, AstroMacGuffin, Stephen Dedalus, la .zi., yeet kitty, la fagri, bancip, misotanni, melody!, la ilmen, la melmi, la solpa'i, la tirprij, la kanba, la gleki, la bakre'u, latkerlo, la kanis, la xrula, Magnap, la srasu, la janbe, Haze, la evis, la ziren, dram, niftg, la lalxu, 
 
 Huge thanks to the following individuals who contributed to this project:
 

@@ -27118,7 +27118,7 @@
     },
     {
         "word": "mukti",
-        "gloss": "motive",
+        "gloss": "motive, incentive, (of an event) to motivate &mdash; (of an event) to be done because of motive ... &mdash; to be motivated to ...",
         "type": "gismu",
         "freq": "11110",
         "rank": "372",
@@ -27130,11 +27130,42 @@
             {
                 "meaning": [
                     {
-                        "exp": "$x_{1}$ (action/event/state) motivates/is a motive/incentive for action/event $x_{2}$, per volition of $x_{3}$."
+                        "exp": "x_1 (action/event/state) motivates/is a motive/incentive for action/event x_2, per volition of x_3.",
+                        "example": [
+                            {
+                                "lojban": ".i ku'i mi jimpe {{lo mukti be lo nu mi za'o troci}}",
+                                "english": "but I understand {{the reason why I'm still trying}},",
+                                "source-id": "arma",
+                                "source": "Ĉarma Anomali’",
+                                "author": "Noise and Bells",
+                                "translator": "tetsusquared (la .tirprij.)",
+                                "link": "https://www.youtube.com/watch?v=H5Bbg8HGkV0",
+                                "originallink": "https://www.youtube.com/watch?v=q05lSh5qfgk"
+                            },
+                            {
+                                "lojban": ".i mi {{te mukti}} lo nu vofli kei lo nu galtu klama",
+                                "english": "I {{set my mind on}} flying to reach high.",
+                                "source-id": "care",
+                                "source": "Carefree Wandering (逍遙遊)",
+                                "author": "Zhuangzi",
+                                "translator": "geezmolycos",
+                                "link": "https://www.youtube.com/watch?v=FGY3awgABhU"
+                            },
+                            {
+                                "lojban": ".i ri {{te mukti fi}} lo nu fekydji lo nu cpacu lo cukta pe la conxunre xavyselmla",
+                                "english": "They {{were spurred on by}} the zeal to reach the books of the Crimson Hexagon.",
+                                "source-id": "libr",
+                                "source": "The Library of Babel",
+                                "author": "Jorge Luis Borges",
+                                "translator": "la .xorxes.",
+                                "link": "https://mw.lojban.org/papri/la_ckuzda_pe_la_babel"
+                            }
+                        ]
                     }
                 ]
             }
-        ]
+        ],
+        "good": true
     },
     {
         "word": "mulno",

@@ -125,6 +125,29 @@
                 -source-id litt
 
 
+
+-entry:
+    -word mukti
+    -gloss motive, incentive, (of an event) to motivate &mdash; (of an event) to be done because of motive ... &mdash; to be motivated to ...
+    -type gismu
+    -definition:
+        -meaning: 
+            -exp x_1 (action/event/state) motivates/is a motive/incentive for action/event x_2, per volition of x_3.
+            -example:
+                -lojban .i ku'i mi jimpe {{lo mukti be lo nu mi za'o troci}}
+                -english but I understand {{the reason why I'm still trying}},
+                -source-id arma
+            -example:
+                -lojban .i mi {{te mukti}} lo nu vofli kei lo nu galtu klama
+                -english I {{set my mind on}} flying to reach high.
+                -source-id care
+            -example:
+                -lojban .i ri {{te mukti fi}} lo nu fekydji lo nu cpacu lo cukta pe la conxunre xavyselmla
+                -english They {{were spurred on by}} the zeal to reach the books of the Crimson Hexagon.
+                -source-id libr
+
+
+
 -entry:
     -word mutce
     -gloss extreme, much, very &mdash; an extreme property
