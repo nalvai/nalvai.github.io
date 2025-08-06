@@ -6065,6 +6065,57 @@
         "good": true
     },
     {
+        "word": "senva",
+        "gloss": "to dream &mdash; (a) dream",
+        "type": "gismu",
+        "freq": "12010",
+        "rank": "353",
+        "tag": "core-2",
+        "rafsi-cvc": "sev",
+        "rafsi-ccv": "sne",
+        "rafsi-cvv": null,
+        "definition": [
+            {
+                "meaning": [
+                    {
+                        "exp": "x_1 dreams about/that x_2 (fact/idea/event/state); x_2 is a dream/reverie of x_1.",
+                        "example": [
+                            {
+                                "lojban": ".i mi za'o zvati .i mi za'o kakne lo ka {{senva}}",
+                                "english": "I'm still [here], I can still {{dream}}.",
+                                "source-id": "zaho",
+                                "source": "za'o",
+                                "author": "Djemynai",
+                                "link": "https://www.youtube.com/watch?v=TKbFwr-1ZQ4"
+                            },
+                            {
+                                "lojban": ".i {{ta poi mi senva ke'a}} ge ze'i canci gi gau la cevni voi kusru cu se basti",
+                                "english": "{{That which I dreamed}} disappears in an instant, overwritten by the hand of a cruel God.",
+                                "source-id": "arma",
+                                "source": "Ĉarma Anomali’",
+                                "author": "Noise and Bells",
+                                "translator": "tetsusquared (la .tirprij.)",
+                                "link": "https://www.youtube.com/watch?v=H5Bbg8HGkV0",
+                                "originallink": "https://www.youtube.com/watch?v=q05lSh5qfgk"
+                            },
+                            {
+                                "lojban": ".i xu ti {{mabla se senva}}",
+                                "english": "Is this a {{nightmare}}?",
+                                "source-id": "scie",
+                                "source": "The Scientific Ape",
+                                "author": "Robert Louis Stevenson",
+                                "translator": "la .xorxes.",
+                                "link": "https://mw.lojban.org/papri/le_saske_smani",
+                                "originallink": "https://en.wikisource.org/wiki/The_Scientific_Ape"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "good": true
+    },
+    {
         "word": "simlu",
         "gloss": "to seem, to appear (to have a property) &mdash; semblance, (of a property) to seem to be present in ... &mdash; to perceive semblance &mdash; condition of semblance",
         "type": "gismu",

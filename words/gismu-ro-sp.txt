@@ -43,6 +43,26 @@
 
 
 
+-entry:
+    -word senva
+    -gloss to dream &mdash; (a) dream
+    -type gismu
+    -definition:
+        -meaning:
+            -exp x_1 dreams about/that x_2 (fact/idea/event/state); x_2 is a dream/reverie of x_1.
+            -example:
+                -lojban .i mi za'o zvati .i mi za'o kakne lo ka {{senva}}
+                -english I'm still [here], I can still {{dream}}.
+                -source-id zaho
+            -example:
+                -lojban .i {{ta poi mi senva ke'a}} ge ze'i canci gi gau la cevni voi kusru cu se basti
+                -english {{That which I dreamed}} disappears in an instant, overwritten by the hand of a cruel God.
+                -source-id arma
+            -example:
+                -lojban .i xu ti {{mabla se senva}}
+                -english Is this a {{nightmare}}?
+                -source-id scie
+
 
 -entry:
     -word skami

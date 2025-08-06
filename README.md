@@ -1,6 +1,6 @@
 # NALVAI: Nalvai's Assortment of Lojban Vocabulary Attestation Instances
 ## What is this?
-**NALVAI** is a Lojban dictionary that uses quotations from *real-world texts* as examples of usage. It currently contains **144 words** with [**422 quotations** from **76 Lojban texts**](https://github.com/nalvai/nalvai.github.io#sources). Please provide quotations and definitions to help the dictionary grow!
+**NALVAI** is a Lojban dictionary that uses quotations from *real-world texts* as examples of usage. It currently contains **145 words** with [**425 quotations** from **76 Lojban texts**](https://github.com/nalvai/nalvai.github.io#sources). Please provide quotations and definitions to help the dictionary grow!
 
 Here is how a word look like in this dictionary:
 ![The word a in this dictionary](https://raw.githubusercontent.com/nalvai/nalvai.github.io/refs/heads/master/example_a.png)
@@ -116,10 +116,12 @@ Lojban texts with at least one quotation in this dictionary.
 - (5 quotes) [na fengu](https://meremim.bandcamp.com/album/na-fengu) by Mèremim
 - (5 quotes) [Still Alive](https://www.youtube.com/watch?v=hRrIioMA4w8) by Jonathan Coulton, translation by la solpa'i
 - (5 quotes) [Toki Pona Cheatsheet](https://blinry.org/toki-pona-cheat-sheet/toki-pona-cheat-sheet-jbo.pdf) by Blinry, translation by la .samflir. ([Original](https://blinry.org/toki-pona-cheat-sheet/toki-pona-cheat-sheet.pdf))
+- (5 quotes) [za'o](https://www.youtube.com/watch?v=TKbFwr-1ZQ4) by Djemynai
 - (4 quotes) [letter song](https://www.youtube.com/watch?v=5r-JIZNGAMA) by doriko, translation by tetsusquared (la .tirprij.)
 - (4 quotes) [Liang and the Magic Paintbrush](https://docs.google.com/spreadsheets/d/1_vkiwqOIOIJPqZTiomzd4ApUSEQXhEY6CeyZD_6c-PA/edit?gid=768225989#gid=768225989) by Demi, translation by la darsi
-- (4 quotes) [za'o](https://www.youtube.com/watch?v=TKbFwr-1ZQ4) by Djemynai
+- (4 quotes) [The Scientific Ape](https://mw.lojban.org/papri/le_saske_smani) by Robert Louis Stevenson, translation by la .xorxes. ([Original](https://en.wikisource.org/wiki/The_Scientific_Ape))
 - (3 quotes) [Amapola](https://vimeo.com/233808507) by José María Lacalle García, translation by la .guskant.
+- (3 quotes) [Ĉarma Anomali’](https://www.youtube.com/watch?v=H5Bbg8HGkV0) by Noise and Bells, translation by tetsusquared (la .tirprij.) ([Original](https://www.youtube.com/watch?v=q05lSh5qfgk))
 - (3 quotes) [Emerald Tablet](https://lojban.pw/en/texts/emerald-tablet/) by an unknown Arabic writer, translation by la gleki
 - (3 quotes) [lo jbobau cu mo](https://www.youtube.com/watch?v=N-Y9eBBTrxU) by la solpa'i
 - (3 quotes) [The Lost One's Weeping](https://www.youtube.com/watch?v=9TA1-lVHAUM) by Neru, translation by tetsusquared (la .tirprij.)
@@ -127,12 +129,10 @@ Lojban texts with at least one quotation in this dictionary.
 - (3 quotes) [la mu'e cuxna lo bradi](https://mw.lojban.org/papri/la_mu%27e_cuxna_lo_bradi) by la blutolpinxe
 - (3 quotes) [Re-Education](https://www.youtube.com/watch?v=XD6HKp77PbY) by Neru, translation by tetsusquared (la .tirprij.)
 - (3 quotes) [Route Sphere](https://www.youtube.com/watch?v=4aDrH3wEUtQ) by Last Note., translation by tetsusquared (la .tirprij.)
-- (3 quotes) [The Scientific Ape](https://mw.lojban.org/papri/le_saske_smani) by Robert Louis Stevenson, translation by la .xorxes. ([Original](https://en.wikisource.org/wiki/The_Scientific_Ape))
 - (3 quotes) [sruri fa lo tarci](https://www.youtube.com/watch?v=xZlTA4hbY2o) by Noise and Bells (la janbe)
 - (3 quotes) [tensaia](https://djemynai.bandcamp.com/album/tensaia) by Djemynai
 - (2 quotes) [Always With Me](https://vimeo.com/113232481) by Youmi Kimura, translation by la .guskant.
 - (2 quotes) [Antarctica is getting greener](https://mw.lojban.org/papri/UserWiki:Ilmen/lo_ziptu%27a_ca%27o_zenba_lo_ka_crino) by Ryan Cross on <i>Science</i>, translation by la .ilmen. ([Original](https://www.science.org/content/article/antarctica-getting-greener))
-- (2 quotes) [Ĉarma Anomali’](https://www.youtube.com/watch?v=H5Bbg8HGkV0) by Noise and Bells, translation by tetsusquared (la .tirprij.) ([Original](https://www.youtube.com/watch?v=q05lSh5qfgk))
 - (2 quotes) [The Book](https://lojban.pw/en/texts/the-book/) by H. P. Lovecraft, translation by la gleki
 - (2 quotes) [claxu be do crisa](https://soundcloud.com/cogas-iuk/sunday-10-38-pm) by la .cogas.
 - (2 quotes) [Colorful](https://www.youtube.com/watch?v=GjG2vtMOI7c) by H△G, translation by tetsusquared (la .tirprij.)
@@ -172,7 +172,7 @@ Lojban texts with at least one quotation in this dictionary.
 
 The quotes from chatlogs are from the following speakers: (in no particular order)
 
-la samflir, Lucilla, la varik, la uakci, \_4Denthusiast, .kúblizel., la katador, la nonselcme, qimar, la piier, la nalvai, la lunbe, la lunra, AstroMacGuffin, Stephen Dedalus, la .zi., yeet kitty, la fagri, bancip, misotanni, melody!, la ilmen, la melmi, la solpa'i, la tirprij, la kanba, la gleki, la bakre'u, latkerlo, la kanis, la xrula, Magnap, la srasu, la janbe, Haze, la evis, la ziren, dram, niftg, la lalxu, 
+la varik, la janbe, la tirprij, qimar, la lalxu, la .zi., la srasu, la kanba, la melmi, bancip, la ilmen, la ziren, la piier, la lunra, AstroMacGuffin, la gleki, \_4Denthusiast, Magnap, misotanni, latkerlo, la uakci, la bakre'u, la nonselcme, la evis, .kúblizel., la kanis, dram, la solpa'i, la nalvai, melody!, Haze, la samflir, yeet kitty, la xrula, Stephen Dedalus, la katador, la lunbe, la fagri, niftg, Lucilla, 
 
 Huge thanks to the following individuals who contributed to this project:
 

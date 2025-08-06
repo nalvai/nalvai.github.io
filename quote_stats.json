@@ -42,7 +42,7 @@
         "translator": "tetsusquared (la .tirprij.)",
         "link": "https://www.youtube.com/watch?v=H5Bbg8HGkV0",
         "originallink": "https://www.youtube.com/watch?v=q05lSh5qfgk",
-        "instance": 2
+        "instance": 3
     },
     "asse": {
         "source": "Assessment of EGIDS Levels",
@@ -426,7 +426,7 @@
         "translator": "la .xorxes.",
         "link": "https://mw.lojban.org/papri/le_saske_smani",
         "originallink": "https://en.wikisource.org/wiki/The_Scientific_Ape",
-        "instance": 3
+        "instance": 4
     },
     "skab": {
         "source": "la skaborfe'a",
@@ -509,6 +509,6 @@
         "source": "za'o",
         "author": "Djemynai",
         "link": "https://www.youtube.com/watch?v=TKbFwr-1ZQ4",
-        "instance": 4
+        "instance": 5
     }
 }
