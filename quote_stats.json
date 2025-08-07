@@ -63,7 +63,7 @@
         "author": "H. P. Lovecraft",
         "translator": "la gleki",
         "link": "https://lojban.pw/en/texts/the-book/",
-        "instance": 2
+        "instance": 3
     },
     "calc": {
         "source": "Calc.",
@@ -103,7 +103,7 @@
         "translator": "la .xorxes.",
         "link": "https://mw.lojban.org/papri/le_junla_zbasu",
         "originallink": "https://en.wikisource.org/wiki/The_Clockmaker",
-        "instance": 12
+        "instance": 13
     },
     "cmal": {
         "source": "lo cmalu",
@@ -230,7 +230,7 @@
         "source": "koi do mi na",
         "author": "Mèremim",
         "link": "https://meremim.bandcamp.com/album/koi-do-mi-na",
-        "instance": 2
+        "instance": 3
     },
     "kuhi": {
         "source": "ku'i ba troci",
@@ -348,7 +348,7 @@
         "source": "na fengu",
         "author": "Mèremim",
         "link": "https://meremim.bandcamp.com/album/na-fengu",
-        "instance": 5
+        "instance": 6
     },
     "neur": {
         "source": "Neuromancer",
@@ -386,7 +386,7 @@
         "source": "prami simbi'o",
         "author": "Djemynai",
         "link": "https://www.youtube.com/watch?v=g3BQ-pE7ypY",
-        "instance": 6
+        "instance": 7
     },
     "prin": {
         "source": "The Princess and the Pea",
@@ -426,7 +426,7 @@
         "translator": "la .xorxes.",
         "link": "https://mw.lojban.org/papri/le_saske_smani",
         "originallink": "https://en.wikisource.org/wiki/The_Scientific_Ape",
-        "instance": 4
+        "instance": 5
     },
     "skab": {
         "source": "la skaborfe'a",
@@ -465,7 +465,7 @@
         "author": "Szymborska Wisława",
         "translator": "la uakci",
         "link": "https://docs.google.com/spreadsheets/d/1_vkiwqOIOIJPqZTiomzd4ApUSEQXhEY6CeyZD_6c-PA/edit?gid=1514901818#gid=1514901818",
-        "instance": 2
+        "instance": 3
     },
     "ther": {
         "source": "There Will Come Soft Rains",

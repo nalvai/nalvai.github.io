@@ -47754,7 +47754,7 @@
     },
     {
         "word": "zukte",
-        "gloss": "act",
+        "gloss": "to do, to act &mdash; action, deed &mdash; purpose, goal (of an action)",
         "type": "gismu",
         "freq": "14630",
         "rank": "300",
@@ -47766,11 +47766,66 @@
             {
                 "meaning": [
                     {
-                        "exp": "$x_{1}$ is a volitional entity employing means/taking action $x_{2}$ for purpose/goal $x_{3}$/to end $x_{3}$."
+                        "exp": "x_1 is a volitional entity employing means/taking action x_2 for purpose/goal x_3/to end x_3.",
+                        "example": [
+                            {
+                                "lojban": ".i mi na'o pensi ba'e pu lo nu mi {{zukte}}",
+                                "english": "I think before I {{act}}.",
+                                "source-id": "nafe",
+                                "source": "na fengu",
+                                "author": "Mèremim",
+                                "link": "https://meremim.bandcamp.com/album/na-fengu"
+                            },
+                            {
+                                "lojban": ".ije mi {{zukte lo ka zenba}} lo ka smaji gi'e jai gau rivbi",
+                                "english": "..., and I {{grew doubly}} silent and aloof.",
+                                "source-id": "book",
+                                "source": "The Book",
+                                "author": "H. P. Lovecraft",
+                                "translator": "la gleki",
+                                "link": "https://lojban.pw/en/texts/the-book/"
+                            },
+                            {
+                                "lojban": ".i ja'o .e'o sidju gi'e {{zukte fi lo xamgu be lo balvi jbopre}}",
+                                "english": "So please help and {{do somthing for the benefit of the future Lojbanists}}.",
+                                "source-id": "lojb",
+                                "source": "lo jbobau cu mo",
+                                "author": "la solpa'i",
+                                "link": "https://www.youtube.com/watch?v=N-Y9eBBTrxU"
+                            },
+                            {
+                                "lojban": ".i jy. midju lo ro sinxa be {{lo te zukte be lo nu munje zbasu}}",
+                                "english": "The evidences of {{purpose in the creation of the universe}} centred there;",
+                                "source-id": "cloc",
+                                "source": "The Clockmaker",
+                                "author": "Robert Louis Stevenson",
+                                "translator": "la .xorxes.",
+                                "link": "https://mw.lojban.org/papri/le_junla_zbasu",
+                                "originallink": "https://en.wikisource.org/wiki/The_Clockmaker"
+                            },
+                            {
+                                "lojban": ".i .ei mi pajni ji'u {{lo se zukte}} .e nai lo valsi",
+                                "english": "I ought to have judged by {{deeds}} and not by words.",
+                                "source-id": "litt",
+                                "source": "The Little Prince",
+                                "author": "Antoine de Saint-Exupéry",
+                                "translator": "la .xorxes.",
+                                "link": "https://mw.lojban.org/papri/le_cmalu_noltru"
+                            },
+                            {
+                                "lojban": "ni'o {{ro nu zukte}} je ro fasnu cu galfi lo balvi je cu galfi lo nu ma'a ma kau gasnu",
+                                "english": "{{Every action}} and everything that happens changes the future and changes what we will bring about.",
+                                "source-id": "pram",
+                                "source": "prami simbi'o",
+                                "author": "Djemynai",
+                                "link": "https://www.youtube.com/watch?v=g3BQ-pE7ypY"
+                            }
+                        ]
                     }
                 ]
             }
-        ]
+        ],
+        "good": true
     },
     {
         "word": "zumri",
@@ -48537,6 +48592,57 @@
                                 "speaker": "la ziren",
                                 "note": "This utterance is in tcekitau ({{du}} for CLL {{du'u}}) and ajbo, see the entry for {{.e}} for more explanation. The {{sy.}} refers to {{le do <u>s</u>muni}}.",
                                 "source": "roljbogu'e chatlog"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "tag": "attested",
+        "freq": 0,
+        "rafsi-ccv": null,
+        "rafsi-cvc": null,
+        "rafsi-cvv": null,
+        "good": true
+    },
+    {
+        "word": "zanfu'a",
+        "gloss": "serendipity, (of an event) fortunate, lucky &mdash; (of a person) fortunate, lucky",
+        "type": "lujvo",
+        "origin": "zabna funca",
+        "definition": [
+            {
+                "meaning": [
+                    {
+                        "exp": "x_1 happens by good luck of x_2; x_1 is a case of serendipity happening to x_2.",
+                        "note": "For its swapped form, {{zanselfu'a}} is more common than {{se zanfu'a}} colloquially.",
+                        "example": [
+                            {
+                                "lojban": ".i tu'a do {{zanfu'a mi}}",
+                                "english": "{{I was so lucky}} with you.",
+                                "source-id": "koid",
+                                "source": "koi do mi na",
+                                "author": "Mèremim",
+                                "link": "https://meremim.bandcamp.com/album/koi-do-mi-na"
+                            },
+                            {
+                                "lojban": ".i sy. {{se zanfu'a}} lo nu ba zi zifre barkla lo sy. selri'u noi se tcita li 701",
+                                "english": "He {{had the fortune}} to escape at an early period of his case, which was numbered 701.",
+                                "source-id": "scie",
+                                "source": "The Scientific Ape",
+                                "author": "Robert Louis Stevenson",
+                                "translator": "la .xorxes.",
+                                "link": "https://mw.lojban.org/papri/le_saske_smani",
+                                "originallink": "https://en.wikisource.org/wiki/The_Scientific_Ape"
+                            },
+                            {
+                                "lojban": ".i le jai mau cmalu cu {{se zanfu'a}} lo ka cpana le marce",
+                                "english": "The smaller one, he{{'s lucky}}, mounts his scooter, ...",
+                                "source-id": "terr",
+                                "source": "The Terrorist, He's Watching",
+                                "author": "Szymborska Wisława",
+                                "translator": "la uakci",
+                                "link": "https://docs.google.com/spreadsheets/d/1_vkiwqOIOIJPqZTiomzd4ApUSEQXhEY6CeyZD_6c-PA/edit?gid=1514901818#gid=1514901818"
                             }
                         ]
                     }

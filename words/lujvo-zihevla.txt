@@ -13,6 +13,32 @@
                 -english So, please help and do something for the betterment of {{upcoming Lojbanists}}.
                 -source-id lojb
 
+
+-entry:
+    -word zanfu'a
+    -gloss serendipity, (of an event) fortunate, lucky &mdash; (of a person) fortunate, lucky
+    -type lujvo
+    -origin zabna funca
+    -definition:
+        -meaning:
+            -exp x_1 happens by good luck of x_2; x_1 is a case of serendipity happening to x_2.
+            -note For its swapped form, {{zanselfu'a}} is more common than {{se zanfu'a}} colloquially.
+            -example:
+                -lojban .i tu'a do {{zanfu'a mi}}
+                -english {{I was so lucky}} with you.
+                -source-id koid
+            -example:
+                -lojban .i sy. {{se zanfu'a}} lo nu ba zi zifre barkla lo sy. selri'u noi se tcita li 701
+                -english He {{had the fortune}} to escape at an early period of his case, which was numbered 701.
+                -source-id scie
+            -example:
+                -lojban .i le jai mau cmalu cu {{se zanfu'a}} lo ka cpana le marce
+                -english The smaller one, he{{'s lucky}}, mounts his scooter, ...
+                -source-id terr
+
+
+
+
 -entry: 
     -word jbomi'i
     -type lujvo

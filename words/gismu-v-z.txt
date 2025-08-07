@@ -245,6 +245,39 @@
 
 
 -entry:
+    -word zukte
+    -gloss to do, to act &mdash; action, deed &mdash; purpose, goal (of an action)
+    -type gismu
+    -definition:
+        -meaning:
+            -exp x_1 is a volitional entity employing means/taking action x_2 for purpose/goal x_3/to end x_3.
+            -example:
+                -lojban .i mi na'o pensi ba'e pu lo nu mi {{zukte}}
+                -english I think before I {{act}}.
+                -source-id nafe
+            -example:
+                -lojban .ije mi {{zukte lo ka zenba}} lo ka smaji gi'e jai gau rivbi
+                -english ..., and I {{grew doubly}} silent and aloof.
+                -source-id book
+            -example:
+                -lojban .i ja'o .e'o sidju gi'e {{zukte fi lo xamgu be lo balvi jbopre}}
+                -english So please help and {{do somthing for the benefit of the future Lojbanists}}.
+                -source-id lojb
+            -example:
+                -lojban .i jy. midju lo ro sinxa be {{lo te zukte be lo nu munje zbasu}}
+                -english The evidences of {{purpose in the creation of the universe}} centred there;
+                -source-id cloc
+            -example:
+                -lojban .i .ei mi pajni ji'u {{lo se zukte}} .e nai lo valsi
+                -english I ought to have judged by {{deeds}} and not by words.
+                -source-id litt
+            -example:
+                -lojban ni'o {{ro nu zukte}} je ro fasnu cu galfi lo balvi je cu galfi lo nu ma'a ma kau gasnu
+                -english {{Every action}} and everything that happens changes the future and changes what we will bring about.
+                -source-id pram
+
+
+-entry:
     -word zvati
     -gloss to be (present) at &mdash; place, location
     -type gismu
