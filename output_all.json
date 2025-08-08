@@ -11637,7 +11637,7 @@
     },
     {
         "word": "farvi",
-        "gloss": "develop",
+        "gloss": "to evolve, to progress, to develop &mdash; result of evolution/development &mdash; state before evolution/development &mdash; phase, version",
         "type": "gismu",
         "freq": "1420",
         "rank": "1181",
@@ -11649,11 +11649,43 @@
             {
                 "meaning": [
                     {
-                        "exp": "$x_{1}$ develops/evolves towards/into $x_{2}$ from $x_{3}$ through stages $x_{4}$."
+                        "exp": "x_1 develops/evolves towards/into x_2 from x_3 through stages x_4.",
+                        "example": [
+                            {
+                                "lojban": ".i ja'e bo lo ralju jutsi be lo tcecmada'u cu binxo lo mutce tolci'o gi'e {{farvi lo mutce certu be lo saske}}",
+                                "english": "The leading race of animalculae had thus attained a great antiquity and {{were far advanced in scientific studies}}.",
+                                "source-id": "cloc",
+                                "source": "The Clockmaker",
+                                "author": "Robert Louis Stevenson",
+                                "translator": "la .xorxes.",
+                                "link": "https://mw.lojban.org/papri/le_junla_zbasu",
+                                "originallink": "https://en.wikisource.org/wiki/The_Clockmaker"
+                            },
+                            {
+                                "lojban": "lo remna cu {{se farvi fi lo smani sa'u}}",
+                                "english": "Man {{is only a promoted ape}}.",
+                                "source-id": "scie",
+                                "source": "The Scientific Ape",
+                                "author": "Robert Louis Stevenson",
+                                "translator": "la .xorxes.",
+                                "link": "https://mw.lojban.org/papri/le_saske_smani",
+                                "originallink": "https://en.wikisource.org/wiki/The_Scientific_Ape"
+                            },
+                            {
+                                "lojban": ".i mulno fa {{lo cipra ve farvi}} .i gubni na'e lerci",
+                                "english": "And we're out of {{beta}}, we're releasing on time",
+                                "source-id": "stil",
+                                "source": "Still Alive",
+                                "author": "Jonathan Coulton",
+                                "translator": "la solpa'i",
+                                "link": "https://www.youtube.com/watch?v=hRrIioMA4w8"
+                            }
+                        ]
                     }
                 ]
             }
-        ]
+        ],
+        "good": true
     },
     {
         "word": "fasnu",

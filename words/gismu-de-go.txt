@@ -163,6 +163,27 @@
 
 
 -entry:
+    -word farvi
+    -gloss to evolve, to progress, to develop &mdash; result of evolution/development &mdash; state before evolution/development &mdash; phase, version
+    -type gismu
+    -definition:
+        -meaning:
+            -exp x_1 develops/evolves towards/into x_2 from x_3 through stages x_4.
+            -example:
+                -lojban .i ja'e bo lo ralju jutsi be lo tcecmada'u cu binxo lo mutce tolci'o gi'e {{farvi lo mutce certu be lo saske}}
+                -english The leading race of animalculae had thus attained a great antiquity and {{were far advanced in scientific studies}}.
+                -source-id cloc
+            -example:
+                -lojban lo remna cu {{se farvi fi lo smani sa'u}}
+                -english Man {{is only a promoted ape}}.
+                -source-id scie
+            -example:
+                -lojban .i mulno fa {{lo cipra ve farvi}} .i gubni na'e lerci
+                -english And we're out of {{beta}}, we're releasing on time
+                -source-id stil
+
+
+-entry:
     -word fasnu
     -gloss event, to happen, to occur, to take place
     -type gismu
