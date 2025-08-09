@@ -58,6 +58,54 @@
                 -english Was {{[she] that dumb, did [she] go in}} or not, we'll see when they carry them out.
                 -source-id terr
 
+-entry:
+    -word bevri
+    -gloss to carry, to bring &mdash; to be carried &mdash; destination &mdash; origin, start &mdash; route
+    -type gismu
+    -definition:
+        -meaning:
+            -exp x_1 carries/hauls/bears/transports cargo x_2 to x_3 from x_4 over path x_5; x_1 is a carrier/[porter].
+            -note The x_2 ~ x_5 of {{bevri}} correspond to the x_1 ~ x_4 of {{klama}}.
+            -example:
+                -lojban .i ko'e carna gi'e troci co {{bevri le cifnu le kumfa kojna noi trixe le toknu}}
+                -english She turned and tried to {{hold the baby over in a corner behind the stove}}.
+                -source-id ings
+            -example:
+                -lojban .i lo me la niuton. tcecmada'u cu junla zbasu sarji gi'e darsi smadi lo du'u lo brabra poi {{bevri lo te gusni fu lo kumfa}} cu bilga lo nu muvdu ja'i lo junla nu muvdu
+                -english The animalcular Newton was a Clockmakerist; and he hazarded the bold guess that the colossus who {{carried a lamp around the room}} would be forced to regulate his movements by clocktime.
+                -source-id cloc
+            -example:
+                -lojban .i ku'i lo bi'unai xrula co'a te tsiju ca lo djedi fi da {{poi se bevri fo lo na te djuno}}
+                -english But one day, a new flower had come up from a seed {{carried from no one knew where}};
+                -source-id litt
+
+
+-entry:
+    -word bilga
+    -gloss to be obliged to ... &mdash; (a) must, obligation, duty &mdash; (of a standard, custom, etc.) to oblige one to ...
+    -type gismu
+    -definition:
+        -meaning:
+            -exp x_1 is bound/obliged to/has the duty to do/be x_2 in/by standard/agreement x_3; x_1 must do x_2.
+            -example: 
+                -lojban .i se ri'a bo sy na {{bilga}} lo nu crino
+                -english Thus, they don't {{need to}} be green.
+                -source-id layo
+            -example: 
+                -lojban .i mi gu se ju se nandu gi {{bilga lo ka sanli}}
+                -english I {{must stand}} whether or not it's difficult.
+                -source-id zaho
+                -note This sentence is in JACU. To convert it to CLL Lojban, substitute {{gu se ju}} with {{se gu'u}}.
+            -example: 
+                -lojban .i .abu {{bilga}} lo nu korcu kei lo nu marbi lo cnebo lo nu porpi
+                -english She {{had to}} stoop to save her neck from being broken.
+                -source-id alic
+            -example: 
+                -lojban mi'a roroi ckire jecu {{noroi jai te bilga}} jecu gleki lonu do kansa
+                -english (We are) always welcome, {{never obligated}}, glad to have you here.
+                -source-id rolj
+                -speaker la ziren
+                -note This sentence is in JACU. To convert it to CLL Lojban, substitute {{jecu}} with {{gi'e}}.
 
 -entry:
     -word binxo
@@ -112,6 +160,22 @@
                 -source-id rolj
                 -speaker la varik
 
+-entry:
+    -word canci
+    -gloss to vanish, to disappear &mdash; location of disappearance &mdash; to stop sensing/detecting x<sub>1</sub> at ... 
+    -type gismu
+    -definition:
+        -meaning:
+            -exp x_1 vanishes/disappears from location x_2; x_1 ceases to be observed at x_2 using senses/sensor x_3.
+            -note I didn't find usage of {{canci}}'s x_3.
+            -example:
+                -lojban .i mi pinfu le mi purci pu le nu ri {{canci mo'u ku}}
+                -english I am a captor of the past until it {{fades into the dark}}
+                -source-id vorm
+            -example:
+                -lojban ni'o je'u ka'u lo solri ca lo nu dormidju fi lo mergu'e cu {{canci lo fasygu'e}}
+                -english Everybody knows that when it is noon in the United States the sun {{is setting over France}}.
+                -source-id litt
 
 -entry:
     -word catlu

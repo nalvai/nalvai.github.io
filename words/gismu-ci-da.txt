@@ -228,6 +228,26 @@
                 -english I really should tell you that the world's dangers {{are nothing new}} to me.
                 -source-id jbin
 
+-entry:
+    -word cpana
+    -gloss upon, to be on ... &mdash; location on which x<sub>1</sub> lies, location of x<sub>1</sub> 
+    -type gismu
+    -definition:
+        -meaning:
+            -exp x_1 is upon/atop/resting on/lying on [the upper surface of] x_2 in frame of reference/gravity x_3.
+            -example:
+                -lojban ni'o lo botpi cu {{cpana}} lo jubme bu'u lo midju be lo kumfa
+                -english The caraffe {{stood on}} a table in the midst of the room.
+                -source-id cloc
+            -example:
+                -lojban .i ba ku ko'e zgana le pixra be le cifnu be'o {{poi cpana le ckana ku'o}} .i je lebna le se go'i
+                -english Then she noticed the baby's picture {{on the bed}} and picked it up.
+                -source-id ings
+            -example:
+                -lojban .i lo re moi cu cusku lu ma pu citka {{pi lo cpana be lo mi palta}} li'u
+                -english The second said, "Who has been eating {{off my plate}}?"
+                -note Literally "... eating <i>some of that is on my plate</i>?" 
+                -source-id snow
 
 -entry:
     -word cusku

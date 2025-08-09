@@ -95,7 +95,7 @@
 
 -entry:
     -word tavla
-    -gloss to tell, to talk to &mdash; to be talked to &mdash; subject of talk &mdash; language used  
+    -gloss to tell, to talk to &mdash; to be talked to &mdash; topic, subject of talk &mdash; language used  
     -type gismu
     -definition:
         -meaning:
@@ -109,6 +109,10 @@
                 -english Stefen started to sing and {{talked}} about the journey in English.
                 -source-id nict
                 -noshownote The original has {{je}} instead of {{gi'e}}
+            -example:
+                -lojban .i pa {{te tavla}} cu rarna binxo le vajrai
+                -english One {{topic}} naturally became the most important.
+                -source-id disa
 
 -entry:
     -word tcidu

@@ -38,6 +38,28 @@
 
 
 -entry:
+    -word ke'u
+    -gloss Attitudinal (discursive): again, repeating
+    -type cmavo
+    -definition:
+        -selmaho UI3
+        -meaning:
+            -exp Express that the content is the same as that of something previously expressed.
+            -example:
+                -lojban ca'o ku zo'i sai lo cmana co kasakasas tricypezli cu cadzu fa re citno nanmu [...] .i {{ke'u}} zo'i sai nenri lo cmana
+                -english Two young gentlemen were trekking through fallen leaves deep in the mountains. [...] They {{really}} were very deep in the mountains.
+                -source-id rest
+                -note This example uses CBM, where {{kasakasas}} functions as a brivla. The latter sentence (the one with {{ke'u}}) repeats the former sentence to reinforce the idea that "they were very deep in the mountains".
+        -meaning:
+            -context ~ {{nai}}
+            -exp Express that something is different from something expressed earlier. 
+            -example:
+                -lojban .i {{ke'u nai}} loi djacu cu na rotsu i na ja ri na'e vlipa lo nu sarji lo barda bloti
+                -english If water doesn't have sufficient depth, it will not have strength to support a large boat.
+                -source-id care
+                -note The text uses many different metaphors to allude to the same idea, with each metaphor being several sentences long. This example sentence is the start of a new metaphor, so it expresses something different from the preceding sentences.
+
+-entry:
     -word ki'a
     -gloss Attitudinal (discursive): metalinguistic confusion
     -type cmavo

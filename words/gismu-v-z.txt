@@ -142,6 +142,25 @@
                 -english The source of {{the red [light]}} was stopped being sensed when he stopped breathing and became completely silent.
                 -source-id nufa
 
+
+-entry:
+    -word zbasu
+    -gloss to make, to build, to assemble &mdash; to be made, assemblage &mdash; material, component (of x<sub>2</sub>)
+    -type gismu
+    -definition:
+        -meaning:
+            -exp x_1 makes/assembles/builds/manufactures/creates x_2 out of materials/parts/components x_3.
+            -example:
+                -lojban .i {{lo zbasu}} noi manku cusku fo {{lo drata se zbasu}} cu simlu lo ka bacru lo jetnu voksa se pi'o lo junla
+                -english {{The creator}}, who spoke obscurely in {{his other works}}, seemed to utter an authentic voice with the clock;
+                -source-id cloc
+            -example:
+                -lojban .e'u mi'o {{zbasu lo stizu lo mi'o xance}} gi'e bevri ta
+                -english Let us {{make a chair with our hands}} and carry her, ...
+                -source-id wond
+                -note The chair is made up of the speaker's arms, as indicated in the later text in the same paragraph (In English): "..., and then they made a chair with their hands for the seat and their arms for the arms and carried the sleeping girl between them through the flowers." 
+
+
 -entry:
     -word zdani
     -gloss home, house &mdash; to live in (a house), to have a home

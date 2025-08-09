@@ -727,6 +727,115 @@
         "good": true
     },
     {
+        "word": "bevri",
+        "gloss": "to carry, to bring &mdash; to be carried &mdash; destination &mdash; origin, start &mdash; route",
+        "type": "gismu",
+        "freq": "4930",
+        "rank": "629",
+        "tag": "core-3",
+        "rafsi-cvc": "bev",
+        "rafsi-ccv": null,
+        "rafsi-cvv": "bei",
+        "definition": [
+            {
+                "meaning": [
+                    {
+                        "exp": "x_1 carries/hauls/bears/transports cargo x_2 to x_3 from x_4 over path x_5; x_1 is a carrier/[porter].",
+                        "note": "The x_2 ~ x_5 of {{bevri}} correspond to the x_1 ~ x_4 of {{klama}}.",
+                        "example": [
+                            {
+                                "lojban": ".i ko'e carna gi'e troci co {{bevri le cifnu le kumfa kojna noi trixe le toknu}}",
+                                "english": "She turned and tried to {{hold the baby over in a corner behind the stove}}.",
+                                "source-id": "ings",
+                                "source": "Little Things",
+                                "author": "Raymond Carver",
+                                "translator": "Jordan DeLong",
+                                "link": "https://mw.lojban.org/papri/little_Things"
+                            },
+                            {
+                                "lojban": ".i lo me la niuton. tcecmada'u cu junla zbasu sarji gi'e darsi smadi lo du'u lo brabra poi {{bevri lo te gusni fu lo kumfa}} cu bilga lo nu muvdu ja'i lo junla nu muvdu",
+                                "english": "The animalcular Newton was a Clockmakerist; and he hazarded the bold guess that the colossus who {{carried a lamp around the room}} would be forced to regulate his movements by clocktime.",
+                                "source-id": "cloc",
+                                "source": "The Clockmaker",
+                                "author": "Robert Louis Stevenson",
+                                "translator": "la .xorxes.",
+                                "link": "https://mw.lojban.org/papri/le_junla_zbasu",
+                                "originallink": "https://en.wikisource.org/wiki/The_Clockmaker"
+                            },
+                            {
+                                "lojban": ".i ku'i lo bi'unai xrula co'a te tsiju ca lo djedi fi da {{poi se bevri fo lo na te djuno}}",
+                                "english": "But one day, a new flower had come up from a seed {{carried from no one knew where}};",
+                                "source-id": "litt",
+                                "source": "The Little Prince",
+                                "author": "Antoine de Saint-Exupéry",
+                                "translator": "la .xorxes.",
+                                "link": "https://mw.lojban.org/papri/le_cmalu_noltru"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "good": true
+    },
+    {
+        "word": "bilga",
+        "gloss": "to be obliged to ... &mdash; (a) must, obligation, duty &mdash; (of a standard, custom, etc.) to oblige one to ...",
+        "type": "gismu",
+        "freq": "20350",
+        "rank": "227",
+        "tag": "core-1",
+        "rafsi-cvc": "big",
+        "rafsi-ccv": null,
+        "rafsi-cvv": null,
+        "definition": [
+            {
+                "meaning": [
+                    {
+                        "exp": "x_1 is bound/obliged to/has the duty to do/be x_2 in/by standard/agreement x_3; x_1 must do x_2.",
+                        "example": [
+                            {
+                                "lojban": ".i se ri'a bo sy na {{bilga}} lo nu crino",
+                                "english": "Thus, they don't {{need to}} be green.",
+                                "source-id": "layo",
+                                "source": "The Lay of the Land",
+                                "author": "Worldbuilding Notes",
+                                "link": "https://www.youtube.com/watch?v=ViGGR231zvQ"
+                            },
+                            {
+                                "lojban": ".i mi gu se ju se nandu gi {{bilga lo ka sanli}}",
+                                "english": "I {{must stand}} whether or not it's difficult.",
+                                "source-id": "zaho",
+                                "note": "This sentence is in JACU. To convert it to CLL Lojban, substitute {{gu se ju}} with {{se gu'u}}.",
+                                "source": "za'o",
+                                "author": "Djemynai",
+                                "link": "https://www.youtube.com/watch?v=TKbFwr-1ZQ4"
+                            },
+                            {
+                                "lojban": ".i .abu {{bilga}} lo nu korcu kei lo nu marbi lo cnebo lo nu porpi",
+                                "english": "She {{had to}} stoop to save her neck from being broken.",
+                                "source-id": "alic",
+                                "source": "Alice in Wonderland",
+                                "author": "Lewis Carroll",
+                                "translator": "la .xorxes.",
+                                "link": "https://mw.lojban.org/papri/lo_selfri_be_la_.alis._bei_bu%27u_la_selmacygu%27e"
+                            },
+                            {
+                                "lojban": "mi'a roroi ckire jecu {{noroi jai te bilga}} jecu gleki lonu do kansa",
+                                "english": "(We are) always welcome, {{never obligated}}, glad to have you here.",
+                                "source-id": "rolj",
+                                "speaker": "la ziren",
+                                "note": "This sentence is in JACU. To convert it to CLL Lojban, substitute {{jecu}} with {{gi'e}}.",
+                                "source": "roljbogu'e chatlog"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "good": true
+    },
+    {
         "word": "binxo",
         "gloss": "to become, to change into ... &mdash; result of change &mdash; condition of change",
         "type": "gismu",
@@ -923,8 +1032,14 @@
                     },
                     {
                         "context": "After plain {{.i}}",
+                        "exp": "Forms a sentence link along with {{.i}}. The resulting sentence link is formally the same as {{.i}}, but is used to indicate the two sentences linked are closely related.",
+                        "note": "In this usage, like a semicolon in English. This usage is not described in CLL or BPFK, but is compatible with them. See also {{.e}} in ajbo."
+                    },
+                    {
+                        "context": "After plain {{.i}}",
                         "variation": "zantufa",
-                        "exp": "Forms a sentence link along with {{.i}}. The resulting sentence link separates bridi, but doesn't reset bridi level. Multiple bridi separated with {{.i bo}} shares the same prenex."
+                        "exp": "Forms a sentence link along with {{.i}}. The resulting sentence link separates bridi, but doesn't reset bridi level. Multiple bridi separated with {{.i bo}} shares the same prenex.",
+                        "note": "Not compatible with the previous usage."
                     }
                 ]
             }
@@ -982,6 +1097,90 @@
                                 "translator": "la .samflir.",
                                 "link": "https://blinry.org/toki-pona-cheat-sheet/toki-pona-cheat-sheet-jbo.pdf",
                                 "originallink": "https://blinry.org/toki-pona-cheat-sheet/toki-pona-cheat-sheet.pdf"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "good": true
+    },
+    {
+        "word": "cai",
+        "gloss": "Attitudial (intensity indicator): extremely intense attitude",
+        "type": "cmavo",
+        "freq": "20741",
+        "rank": "224",
+        "tag": "core-1",
+        "rafsi-cvc": null,
+        "rafsi-ccv": null,
+        "rafsi-cvv": null,
+        "definition": [
+            {
+                "selmaho": "CAI",
+                "meaning": [
+                    {
+                        "exp": "Intensity Indicator. Used to express an extremely intense attitude. When following an indicator or vocative, it expresses that this attitude is extremely intense.",
+                        "note": "Generally reserved for expressing an uncontrollably strong or the strongest attitude one could ever have, though some dispute this reservation. The following two examples are examples of extremely strong attitudes, where {{cai}} applies even under the reservation.",
+                        "example": [
+                            {
+                                "lojban": ".i ja'e bo mi pu'o lifri fe lo vajrai pe lo mi nunji'e .i fasnu fa {{.u'a cai}}",
+                                "english": "Thus, I was about to experience the most important thing of my life, What happened was... {{OMFG (literally: \"feeling of extreme gain\")}}",
+                                "source-id": "pram",
+                                "source": "prami simbi'o",
+                                "author": "Djemynai",
+                                "link": "https://www.youtube.com/watch?v=g3BQ-pE7ypY"
+                            },
+                            {
+                                "lojban": ".i lo'u zo gusta zo'u xu genai gusta da lo vitke gi gusta lo vitke da .i ja'o se smuni .y l l l lo nu m m mi'o ... le'u <br>.i co'a gatagatat desku ke bacru nandu <br>.i lo'u ... .y m m m mi'o ... {{.iicaiii}} le'u",
+                                "english": "\"And 'restaurant' doesn't mean a place for serving food, but a place cooking people and serving them. And that m-m-means that w-w-we ...\" <br>He began to shake and tremble, and tremble and shake, so that he couldn't go on.<br> \"They w-w-we ... {{Oh dear!}}\"",
+                                "source-id": "rest",
+                                "note": "This example uses CBM, where {{gatagatat}} functions as a brivla.",
+                                "source": "The Restaurant of Many Orders",
+                                "author": "Kenji Miyazawa",
+                                "translator": "la .tijlan.",
+                                "link": "https://docs.google.com/document/d/10Rnm80SieLrpFnk9kn_9bCuon96CNSPTA8hqVaWQYbQ/edit?tab=t.0"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "good": true
+    },
+    {
+        "word": "canci",
+        "gloss": "to vanish, to disappear &mdash; location of disappearance &mdash; to stop sensing/detecting x<sub>1</sub> at ...",
+        "type": "gismu",
+        "freq": "2680",
+        "rank": "863",
+        "tag": "common",
+        "rafsi-cvc": null,
+        "rafsi-ccv": null,
+        "rafsi-cvv": null,
+        "definition": [
+            {
+                "meaning": [
+                    {
+                        "exp": "x_1 vanishes/disappears from location x_2; x_1 ceases to be observed at x_2 using senses/sensor x_3.",
+                        "note": "I didn't find usage of {{canci}}'s x_3.",
+                        "example": [
+                            {
+                                "lojban": ".i mi pinfu le mi purci pu le nu ri {{canci mo'u ku}}",
+                                "english": "I am a captor of the past until it {{fades into the dark}}",
+                                "source-id": "vorm",
+                                "source": "lo vorme",
+                                "author": "la xrula",
+                                "link": "https://hellopoetry.com/poem/5098495/lo-vorme/"
+                            },
+                            {
+                                "lojban": "ni'o je'u ka'u lo solri ca lo nu dormidju fi lo mergu'e cu {{canci lo fasygu'e}}",
+                                "english": "Everybody knows that when it is noon in the United States the sun {{is setting over France}}.",
+                                "source-id": "litt",
+                                "source": "The Little Prince",
+                                "author": "Antoine de Saint-Exupéry",
+                                "translator": "la .xorxes.",
+                                "link": "https://mw.lojban.org/papri/le_cmalu_noltru"
                             }
                         ]
                     }
@@ -1824,6 +2023,58 @@
         "good": true
     },
     {
+        "word": "cpana",
+        "gloss": "upon, to be on ... &mdash; location on which x<sub>1</sub> lies, location of x<sub>1</sub>",
+        "type": "gismu",
+        "freq": "3210",
+        "rank": "785",
+        "tag": "core-3",
+        "rafsi-cvc": null,
+        "rafsi-ccv": null,
+        "rafsi-cvv": null,
+        "definition": [
+            {
+                "meaning": [
+                    {
+                        "exp": "x_1 is upon/atop/resting on/lying on [the upper surface of] x_2 in frame of reference/gravity x_3.",
+                        "example": [
+                            {
+                                "lojban": "ni'o lo botpi cu {{cpana}} lo jubme bu'u lo midju be lo kumfa",
+                                "english": "The caraffe {{stood on}} a table in the midst of the room.",
+                                "source-id": "cloc",
+                                "source": "The Clockmaker",
+                                "author": "Robert Louis Stevenson",
+                                "translator": "la .xorxes.",
+                                "link": "https://mw.lojban.org/papri/le_junla_zbasu",
+                                "originallink": "https://en.wikisource.org/wiki/The_Clockmaker"
+                            },
+                            {
+                                "lojban": ".i ba ku ko'e zgana le pixra be le cifnu be'o {{poi cpana le ckana ku'o}} .i je lebna le se go'i",
+                                "english": "Then she noticed the baby's picture {{on the bed}} and picked it up.",
+                                "source-id": "ings",
+                                "source": "Little Things",
+                                "author": "Raymond Carver",
+                                "translator": "Jordan DeLong",
+                                "link": "https://mw.lojban.org/papri/little_Things"
+                            },
+                            {
+                                "lojban": ".i lo re moi cu cusku lu ma pu citka {{pi lo cpana be lo mi palta}} li'u",
+                                "english": "The second said, \"Who has been eating {{off my plate}}?\"",
+                                "note": "Literally \"... eating <i>some of that is on my plate</i>?\"",
+                                "source-id": "snow",
+                                "source": "Snow White",
+                                "author": "Brothers Grimm",
+                                "translator": "la solpa'i",
+                                "link": "https://selpahi.de/snimeblabi.html"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "good": true
+    },
+    {
         "word": "cu",
         "gloss": "Seperator: seperates leading sumti from main selbri",
         "type": "cmavo",
@@ -2468,6 +2719,57 @@
                                 "speaker": "la srasu",
                                 "note": "This utterance is in a divergent variety that has many differences with the baseline grammar: <ul><li>{{po}} is used as in jboponei, where it converts a bridi directly to a sumti, and corresponds to {{lo su'u}} in baseline.</li><li>{{.e}} is used as in ajbo, where it continues the same concept with another sentence, and corresponds to {{.i ji'a}} in baseline.</li><li>{{le'i}} is used as in gadganzu, where it functions as a demonstrative article (think of it as pointing to the &lt;picture&gt;), and corresponds to {{ti noi ... (ku'o)}} in baseline.</li></ul> This utterance serves as an example of the modularity of Lojban variaties, as said three differences from the baseline are unrelated to each other and can be employed independently.",
                                 "source": "roljbogu'e chatlog"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "good": true
+    },
+    {
+        "word": "fai",
+        "gloss": "Place Structure: tag original x<sub>1</sub> swapped out by jai",
+        "type": "cmavo",
+        "freq": "9111",
+        "rank": "443",
+        "tag": "core-2",
+        "rafsi-cvc": null,
+        "rafsi-ccv": null,
+        "rafsi-cvv": null,
+        "definition": [
+            {
+                "selmaho": "FA",
+                "meaning": [
+                    {
+                        "exp": "Sumti place tag: tag a sumti moved out of numbered place structure by {{jai}}.",
+                        "note": "The meaning of {{fai}} without {{jai}} is undefined. BPFK claims {{fai}} has a rafsi form {{-fax-}}, but the rafsi is taken by {{fraxu}}.",
+                        "example": [
+                            {
+                                "lojban": ".i ba zi bo .abu {{jai suksa fai}} lo nu pejgau lo xance gi'e jgari lo vacri",
+                                "english": "..., and then she {{suddenly}} spread out her hand, and made a snatch in the air.",
+                                "source-id": "alic",
+                                "source": "Alice in Wonderland",
+                                "author": "Lewis Carroll",
+                                "translator": "la .xorxes.",
+                                "link": "https://mw.lojban.org/papri/lo_selfri_be_la_.alis._bei_bu%27u_la_selmacygu%27e"
+                            },
+                            {
+                                "lojban": ".i ku'i lo cabdei ku jai ca fasnu {{fai lo nu ba zi retsku fa mi}}",
+                                "english": "But today is the day {{I going to ask}}.",
+                                "source-id": "koid",
+                                "source": "koi do mi na",
+                                "author": "Mèremim",
+                                "link": "https://meremim.bandcamp.com/album/koi-do-mi-na"
+                            },
+                            {
+                                "lojban": ".i lo jai ja'e dzicatlu {{be fai py.}} lo jai ja'e galcatlu {{be fai py.}} cu simsa pe'i",
+                                "english": "The effect {{of the bird}} looking down would be just the same as to that (the effect) {{of [the bird]}} looking up.",
+                                "source-id": "care",
+                                "source": "Carefree Wandering (逍遙遊)",
+                                "author": "Zhuangzi",
+                                "translator": "geezmolycos",
+                                "link": "https://www.youtube.com/watch?v=FGY3awgABhU"
                             }
                         ]
                     }
@@ -3445,6 +3747,58 @@
         "good": true
     },
     {
+        "word": "jgari",
+        "gloss": "to hold, to grasp &mdash; to be held &mdash; (of a part of x<sub>1</sub>) to be used for holding ... &mdash; (of a part of x<sub>2</sub>) to be held at",
+        "type": "gismu",
+        "freq": "3430",
+        "rank": "760",
+        "tag": "core-3",
+        "rafsi-cvc": null,
+        "rafsi-ccv": null,
+        "rafsi-cvv": "jai",
+        "definition": [
+            {
+                "meaning": [
+                    {
+                        "exp": "x_1 grasps/holds/clutches/seizes/grips/[hugs] x_2 with x_3 (part of x_1) at locus x_4 (part of x_2).",
+                        "example": [
+                            {
+                                "lojban": ".i {{bevri jgari}} lo solri lo jgalu",
+                                "english": "[He] {{had}} the sun in one claw;",
+                                "source-id": "cloc",
+                                "source": "The Clockmaker",
+                                "author": "Robert Louis Stevenson",
+                                "translator": "la .xorxes.",
+                                "link": "https://mw.lojban.org/papri/le_junla_zbasu",
+                                "originallink": "https://en.wikisource.org/wiki/The_Clockmaker"
+                            },
+                            {
+                                "lojban": ".i le smani poi se kerlo pa da zi'e noi xendo cu {{jgari}} le cifnu lo birka",
+                                "english": "The ape with the one ear, who was a good natured fellow, {{held}} the baby in his arms;",
+                                "source-id": "scie",
+                                "source": "The Scientific Ape",
+                                "author": "Robert Louis Stevenson",
+                                "translator": "la .xorxes.",
+                                "link": "https://mw.lojban.org/papri/le_saske_smani",
+                                "originallink": "https://en.wikisource.org/wiki/The_Scientific_Ape"
+                            },
+                            {
+                                "lojban": ".i se ni'i bo ra pu'o canci sau lo nu {{tsali jgari fo le mi xance}}",
+                                "english": "So before it disappears, [you] need to {{grip my hand tight}}.",
+                                "source-id": "teoq",
+                                "source": "Teo",
+                                "author": "Omoi",
+                                "translator": "tetsusquared (la .tirprij.)",
+                                "link": "https://www.youtube.com/watch?v=9WoWrjIwbhc"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "good": true
+    },
+    {
         "word": "jgira",
         "gloss": "proud, to take pride in ... &mdash; pride (something x<sub>1</sub> is proud of)",
         "type": "gismu",
@@ -4057,6 +4411,56 @@
         "good": true
     },
     {
+        "word": "ke'u",
+        "gloss": "Attitudinal (discursive): again, repeating",
+        "type": "cmavo",
+        "freq": "10360",
+        "rank": "396",
+        "tag": "core-2",
+        "rafsi-cvc": null,
+        "rafsi-ccv": null,
+        "rafsi-cvv": null,
+        "definition": [
+            {
+                "selmaho": "UI3",
+                "meaning": [
+                    {
+                        "exp": "Express that the content is the same as that of something previously expressed.",
+                        "example": [
+                            {
+                                "lojban": "ca'o ku zo'i sai lo cmana co kasakasas tricypezli cu cadzu fa re citno nanmu [...] .i {{ke'u}} zo'i sai nenri lo cmana",
+                                "english": "Two young gentlemen were trekking through fallen leaves deep in the mountains. [...] They {{really}} were very deep in the mountains.",
+                                "source-id": "rest",
+                                "note": "This example uses CBM, where {{kasakasas}} functions as a brivla. The latter sentence (the one with {{ke'u}}) repeats the former sentence to reinforce the idea that \"they were very deep in the mountains\".",
+                                "source": "The Restaurant of Many Orders",
+                                "author": "Kenji Miyazawa",
+                                "translator": "la .tijlan.",
+                                "link": "https://docs.google.com/document/d/10Rnm80SieLrpFnk9kn_9bCuon96CNSPTA8hqVaWQYbQ/edit?tab=t.0"
+                            }
+                        ]
+                    },
+                    {
+                        "context": "~ {{nai}}",
+                        "exp": "Express that something is different from something expressed earlier.",
+                        "example": [
+                            {
+                                "lojban": ".i {{ke'u nai}} loi djacu cu na rotsu i na ja ri na'e vlipa lo nu sarji lo barda bloti",
+                                "english": "If water doesn't have sufficient depth, it will not have strength to support a large boat.",
+                                "source-id": "care",
+                                "note": "The text uses many different metaphors to allude to the same idea, with each metaphor being several sentences long. This example sentence is the start of a new metaphor, so it expresses something different from the preceding sentences.",
+                                "source": "Carefree Wandering (逍遙遊)",
+                                "author": "Zhuangzi",
+                                "translator": "geezmolycos",
+                                "link": "https://www.youtube.com/watch?v=FGY3awgABhU"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "good": true
+    },
+    {
         "word": "ki'a",
         "gloss": "Attitudinal (discursive): metalinguistic confusion",
         "type": "cmavo",
@@ -4306,6 +4710,56 @@
                                 "author": "Franz Kafka",
                                 "translator": "la .xorxes.",
                                 "link": "https://mw.lojban.org/images/f/fc/lonubinxo.pdf"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "good": true
+    },
+    {
+        "word": "kuspe",
+        "gloss": "to span, to extend over &mdash; range, scope, extent",
+        "type": "gismu",
+        "freq": "490",
+        "rank": "1818",
+        "tag": "favored",
+        "rafsi-cvc": "kup",
+        "rafsi-ccv": null,
+        "rafsi-cvv": "ku'e",
+        "definition": [
+            {
+                "meaning": [
+                    {
+                        "exp": "x_1 ranges/extends/spans/persists/reaches across/over interval/gap/area/scope/extent/range x_2.",
+                        "example": [
+                            {
+                                "lojban": ".i lo blanu cu se jetnu skari ra .i je'i ra darno gi'e {{kuspe ve'u fe'e za'o}}",
+                                "english": "Is its azure the proper colour? Or is it occasioned by its distance and {{illimitable extent}}?",
+                                "source-id": "care",
+                                "source": "Carefree Wandering (逍遙遊)",
+                                "author": "Zhuangzi",
+                                "translator": "geezmolycos",
+                                "link": "https://www.youtube.com/watch?v=FGY3awgABhU"
+                            },
+                            {
+                                "lojban": ".i ko'a {{birka kuspe}} le toknu gi'e jai rinka le nu lei ko'a xance cu tagji le cifnu",
+                                "english": "He {{reached across}} the stove and tightened his hands on the baby.",
+                                "source-id": "ings",
+                                "source": "Little Things",
+                                "author": "Raymond Carver",
+                                "translator": "Jordan DeLong",
+                                "link": "https://mw.lojban.org/papri/little_Things"
+                            },
+                            {
+                                "lojban": ".i mi mi punji {{lo se kuspe be py.}}",
+                                "english": "I would bring myself down to {{his level}}. (lit. I would put myself within {{his range}}.)",
+                                "source-id": "litt",
+                                "source": "The Little Prince",
+                                "author": "Antoine de Saint-Exupéry",
+                                "translator": "la .xorxes.",
+                                "link": "https://mw.lojban.org/papri/le_cmalu_noltru"
                             }
                         ]
                     }
@@ -4967,6 +5421,54 @@
         "good": true
     },
     {
+        "word": "morsi",
+        "gloss": "dead",
+        "type": "gismu",
+        "freq": "15830",
+        "rank": "279",
+        "tag": "core-2",
+        "rafsi-cvc": null,
+        "rafsi-ccv": "mro",
+        "rafsi-cvv": null,
+        "definition": [
+            {
+                "meaning": [
+                    {
+                        "exp": "x_1 is dead/has ceased to be alive.",
+                        "example": [
+                            {
+                                "lojban": ".i {{lo morsi}} na ka'e pensi",
+                                "english": "{{Dead ones}} cannot think.",
+                                "source-id": "muhe",
+                                "source": "la mu'e cuxna lo bradi",
+                                "author": "la blutolpinxe",
+                                "link": "https://mw.lojban.org/papri/la_mu%27e_cuxna_lo_bradi"
+                            },
+                            {
+                                "lojban": ".i se ki'u bo ba'e mo va'o lo nu lo remna cu rivbi cliva troci pu {{lo nu ry morsi}}",
+                                "english": "so what if humans tried to escape the egg before {{they all died}}?",
+                                "source-id": "layo",
+                                "source": "The Lay of the Land",
+                                "author": "Worldbuilding Notes",
+                                "link": "https://www.youtube.com/watch?v=ViGGR231zvQ"
+                            },
+                            {
+                                "lojban": ".i go'i se va'u ro ma'a {{poi ke'a na morsi ca}}",
+                                "english": "For the good of all of us, {{except the ones who are dead}}",
+                                "source-id": "stil",
+                                "source": "Still Alive",
+                                "author": "Jonathan Coulton",
+                                "translator": "la solpa'i",
+                                "link": "https://www.youtube.com/watch?v=hRrIioMA4w8"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "good": true
+    },
+    {
         "word": "mu'i",
         "gloss": "Preposition: because of motive ...",
         "type": "cmavo",
@@ -5507,6 +6009,57 @@
                                 "translator": "la nalvai",
                                 "link": "https://nalvai.neocities.org/translations/egids-scale/",
                                 "originallink": "https://www.lingv.ro/RRL%202%202010%20art01Lewis.pdf"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "good": true
+    },
+    {
+        "word": "pixra",
+        "gloss": "picture, drawing, illustration &mdash; to be depicted with a picture/drawing &mdash; to draw, to make picture(s) of ... &mdash; medium of drawing/picture, (of a medium) to bear a drawing/picture of ...",
+        "type": "gismu",
+        "freq": "9880",
+        "rank": "418",
+        "tag": "core-2",
+        "rafsi-cvc": "pir",
+        "rafsi-ccv": "xra",
+        "rafsi-cvv": null,
+        "definition": [
+            {
+                "meaning": [
+                    {
+                        "exp": "x_1 is a picture/illustration representing/showing x_2, made by artist x_3 in medium x_4.",
+                        "example": [
+                            {
+                                "lojban": ".i ku'i li'a {{lo mi pixra}} cu mutce mleca {{lo se pixra}} lo ka se manci",
+                                "english": "But of course {{my drawing}} is much less attractive than {{its model}}.",
+                                "source-id": "litt",
+                                "source": "The Little Prince",
+                                "author": "Antoine de Saint-Exupéry",
+                                "translator": "la .xorxes.",
+                                "link": "https://mw.lojban.org/papri/le_cmalu_noltru"
+                            },
+                            {
+                                "lojban": ".i tezu'e lo nu da'i lo cipni cu stodi lo ka na'e jmive kei kei ku {{lo pixra be fi ly.}} cu claxu lo tcila",
+                                "english": "To make sure the birds did not come to life, [he left] something out in {{his drawing}}.",
+                                "source-id": "lian",
+                                "source": "Liang and the Magic Paintbrush",
+                                "author": "Demi",
+                                "translator": "la darsi",
+                                "editor": "la gleki",
+                                "link": "https://docs.google.com/spreadsheets/d/1_vkiwqOIOIJPqZTiomzd4ApUSEQXhEY6CeyZD_6c-PA/edit?gid=768225989#gid=768225989"
+                            },
+                            {
+                                "lojban": ".i ti'a nai ku va za'u moi vorme .i re mei se ckikykevna co barda .i rijno {{ve pixra}} tu'a lo forca jo'u dakfu se cu'u lu [...] li'u",
+                                "english": "In the other direction was one more door. There were two giant keyholes and a giant silver fork and knife {{were cut into it}}. It said: [...]",
+                                "source-id": "rest",
+                                "source": "The Restaurant of Many Orders",
+                                "author": "Kenji Miyazawa",
+                                "translator": "la .tijlan.",
+                                "link": "https://docs.google.com/document/d/10Rnm80SieLrpFnk9kn_9bCuon96CNSPTA8hqVaWQYbQ/edit?tab=t.0"
                             }
                         ]
                     }
@@ -6695,7 +7248,7 @@
     },
     {
         "word": "tavla",
-        "gloss": "to tell, to talk to &mdash; to be talked to &mdash; subject of talk &mdash; language used",
+        "gloss": "to tell, to talk to &mdash; to be talked to &mdash; topic, subject of talk &mdash; language used",
         "type": "gismu",
         "freq": "93990",
         "rank": "54",
@@ -6725,6 +7278,16 @@
                                 "source": "la nicte cadzu",
                                 "author": "Robin Lee Powell",
                                 "link": "https://mw.lojban.org/papri/Robin%27s_Palm_Writings:_la_nicte_cadzu"
+                            },
+                            {
+                                "lojban": ".i pa {{te tavla}} cu rarna binxo le vajrai",
+                                "english": "One {{topic}} naturally became the most important.",
+                                "source-id": "disa",
+                                "source": "The Disappearance of Crispina Umberleigh",
+                                "author": "Saki",
+                                "translator": "la komfo,amonan",
+                                "link": "https://mw.lojban.org/papri/nuncanci_la_krispinas_ambylis",
+                                "originallink": "https://en.wikisource.org/wiki/The_Toys_of_Peace_and_Other_Papers/The_Disappearance_of_Crispina_Umberleigh"
                             }
                         ]
                     }
@@ -7299,6 +7862,49 @@
                                 "author": "Brothers Grimm",
                                 "translator": "la solpa'i",
                                 "link": "https://selpahi.de/snimeblabi.html"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "good": true
+    },
+    {
+        "word": "zbasu",
+        "gloss": "to make, to build, to assemble &mdash; to be made, assemblage &mdash; material, component (of x<sub>2</sub>)",
+        "type": "gismu",
+        "freq": "12480",
+        "rank": "342",
+        "tag": "core-2",
+        "rafsi-cvc": null,
+        "rafsi-ccv": "zba",
+        "rafsi-cvv": null,
+        "definition": [
+            {
+                "meaning": [
+                    {
+                        "exp": "x_1 makes/assembles/builds/manufactures/creates x_2 out of materials/parts/components x_3.",
+                        "example": [
+                            {
+                                "lojban": ".i {{lo zbasu}} noi manku cusku fo {{lo drata se zbasu}} cu simlu lo ka bacru lo jetnu voksa se pi'o lo junla",
+                                "english": "{{The creator}}, who spoke obscurely in {{his other works}}, seemed to utter an authentic voice with the clock;",
+                                "source-id": "cloc",
+                                "source": "The Clockmaker",
+                                "author": "Robert Louis Stevenson",
+                                "translator": "la .xorxes.",
+                                "link": "https://mw.lojban.org/papri/le_junla_zbasu",
+                                "originallink": "https://en.wikisource.org/wiki/The_Clockmaker"
+                            },
+                            {
+                                "lojban": ".e'u mi'o {{zbasu lo stizu lo mi'o xance}} gi'e bevri ta",
+                                "english": "Let us {{make a chair with our hands}} and carry her, ...",
+                                "source-id": "wond",
+                                "note": "The chair is made up of the speaker's arms, as indicated in the later text in the same paragraph (In English): \"..., and then they made a chair with their hands for the seat and their arms for the arms and carried the sleeping girl between them through the flowers.\"",
+                                "source": "The Wonderful Wizard of Oz",
+                                "author": "L. Frank Baum",
+                                "translator": "la solpa'i",
+                                "link": "https://selpahi.de/oz_plain.html"
                             }
                         ]
                     }

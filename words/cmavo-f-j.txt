@@ -1,5 +1,27 @@
 
 -entry:
+    -word fai
+    -gloss Place Structure: tag original x<sub>1</sub> swapped out by jai
+    -type cmavo
+    -definition:
+        -selmaho FA
+        -meaning:
+            -exp Sumti place tag: tag a sumti moved out of numbered place structure by {{jai}}.
+            -note The meaning of {{fai}} without {{jai}} is undefined. BPFK claims {{fai}} has a rafsi form {{-fax-}}, but the rafsi is taken by {{fraxu}}.
+            -example:
+                -lojban .i ba zi bo .abu {{jai suksa fai}} lo nu pejgau lo xance gi'e jgari lo vacri
+                -english ..., and then she {{suddenly}} spread out her hand, and made a snatch in the air.
+                -source-id alic
+            -example:
+                -lojban .i ku'i lo cabdei ku jai ca fasnu {{fai lo nu ba zi retsku fa mi}}
+                -english But today is the day {{I going to ask}}.
+                -source-id koid
+            -example:
+                -lojban .i lo jai ja'e dzicatlu {{be fai py.}} lo jai ja'e galcatlu {{be fai py.}} cu simsa pe'i
+                -english The effect {{of the bird}} looking down would be just the same as to that (the effect) {{of [the bird]}} looking up.
+                -source-id care
+
+-entry:
     -word fe'e
     -gloss Preposition (tense) modifier: mark spatial tense
     -type cmavo

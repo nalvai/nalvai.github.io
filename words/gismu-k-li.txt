@@ -153,6 +153,25 @@
                 -source-id meta
 
 
+-entry:
+    -word kuspe
+    -gloss to span, to extend over &mdash; range, scope, extent
+    -type gismu
+    -definition:
+        -meaning:
+            -exp x_1 ranges/extends/spans/persists/reaches across/over interval/gap/area/scope/extent/range x_2.
+            -example:
+                -lojban .i lo blanu cu se jetnu skari ra .i je'i ra darno gi'e {{kuspe ve'u fe'e za'o}}
+                -english Is its azure the proper colour? Or is it occasioned by its distance and {{illimitable extent}}?
+                -source-id care
+            -example:
+                -lojban .i ko'a {{birka kuspe}} le toknu gi'e jai rinka le nu lei ko'a xance cu tagji le cifnu
+                -english He {{reached across}} the stove and tightened his hands on the baby.
+                -source-id ings
+            -example:
+                -lojban .i mi mi punji {{lo se kuspe be py.}}
+                -english I would bring myself down to {{his level}}. (lit. I would put myself within {{his range}}.)
+                -source-id litt
 
 
 

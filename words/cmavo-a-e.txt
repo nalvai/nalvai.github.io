@@ -376,8 +376,13 @@
                 -source-id arma
         -meaning:
             -context After plain {{.i}}
+            -exp Forms a sentence link along with {{.i}}. The resulting sentence link is formally the same as {{.i}}, but is used to indicate the two sentences linked are closely related.
+            -note In this usage, like a semicolon in English. This usage is not described in CLL or BPFK, but is compatible with them. See also {{.e}} in ajbo.
+        -meaning:
+            -context After plain {{.i}}
             -variation zantufa
             -exp Forms a sentence link along with {{.i}}. The resulting sentence link separates bridi, but doesn't reset bridi level. Multiple bridi separated with {{.i bo}} shares the same prenex.
+            -note Not compatible with the previous usage.
 
 
 -entry:
@@ -408,6 +413,25 @@
                 -lojban ni'o la tokpono cu pilno so zunsna to jy. .e ky. .e ly. .e my. .e py. .e sy. .e ty. .e {{vy. bu}} toi .e mu karsna to .a bu .e .e bu .e .i bu .e .o bu .e .u bu toi
                 -english Toki Pona uses nine consonants (j k l m n p s t {{w}}) and five vowels (a e i o u).
                 -source-id tokp
+
+-entry:
+    -word cai
+    -gloss Attitudial (intensity indicator): extremely intense attitude
+    -type cmavo
+    -definition:
+        -selmaho CAI
+        -meaning:
+            -exp Intensity Indicator. Used to express an extremely intense attitude. When following an indicator or vocative, it expresses that this attitude is extremely intense.
+            -note Generally reserved for expressing an uncontrollably strong or the strongest attitude one could ever have, though some dispute this reservation. The following two examples are examples of extremely strong attitudes, where {{cai}} applies even under the reservation.
+            -example:
+                -lojban .i ja'e bo mi pu'o lifri fe lo vajrai pe lo mi nunji'e .i fasnu fa {{.u'a cai}}
+                -english Thus, I was about to experience the most important thing of my life, What happened was... {{OMFG (literally: "feeling of extreme gain")}}
+                -source-id pram
+            -example:
+                -lojban .i lo'u zo gusta zo'u xu genai gusta da lo vitke gi gusta lo vitke da .i ja'o se smuni .y l l l lo nu m m mi'o ... le'u <br>.i co'a gatagatat desku ke bacru nandu <br>.i lo'u ... .y m m m mi'o ... {{.iicaiii}} le'u
+                -english "And 'restaurant' doesn't mean a place for serving food, but a place cooking people and serving them. And that m-m-means that w-w-we ..." <br>He began to shake and tremble, and tremble and shake, so that he couldn't go on.<br> "They w-w-we ... {{Oh dear!}}"
+                -source-id rest
+                -note This example uses CBM, where {{gatagatat}} functions as a brivla.
 
 -entry:
     -word ca'o

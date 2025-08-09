@@ -1,4 +1,25 @@
 
+
+-entry:
+    -word jgari
+    -gloss to hold, to grasp &mdash; to be held &mdash; (of a part of x<sub>1</sub>) to be used for holding ... &mdash; (of a part of x<sub>2</sub>) to be held at
+    -type gismu
+    -definition:
+        -meaning:
+            -exp x_1 grasps/holds/clutches/seizes/grips/[hugs] x_2 with x_3 (part of x_1) at locus x_4 (part of x_2).
+            -example:
+                -lojban .i {{bevri jgari}} lo solri lo jgalu
+                -english [He] {{had}} the sun in one claw;
+                -source-id cloc
+            -example:
+                -lojban .i le smani poi se kerlo pa da zi'e noi xendo cu {{jgari}} le cifnu lo birka
+                -english The ape with the one ear, who was a good natured fellow, {{held}} the baby in his arms;
+                -source-id scie
+            -example:
+                -lojban .i se ni'i bo ra pu'o canci sau lo nu {{tsali jgari fo le mi xance}}
+                -english So before it disappears, [you] need to {{grip my hand tight}}.
+                -source-id teoq
+
 -entry:
     -word jgira
     -gloss proud, to take pride in ... &mdash; pride (something x<sub>1</sub> is proud of)

@@ -12,7 +12,7 @@
         "author": "Lewis Carroll",
         "translator": "la .xorxes.",
         "link": "https://mw.lojban.org/papri/lo_selfri_be_la_.alis._bei_bu%27u_la_selmacygu%27e",
-        "instance": 24
+        "instance": 26
     },
     "alwa": {
         "source": "Always With Me",
@@ -77,7 +77,7 @@
         "author": "Zhuangzi",
         "translator": "geezmolycos",
         "link": "https://www.youtube.com/watch?v=FGY3awgABhU",
-        "instance": 5
+        "instance": 7
     },
     "cipr": {
         "source": "cipra lo skari lo vanju",
@@ -103,7 +103,7 @@
         "translator": "la .xorxes.",
         "link": "https://mw.lojban.org/papri/le_junla_zbasu",
         "originallink": "https://en.wikisource.org/wiki/The_Clockmaker",
-        "instance": 14
+        "instance": 17
     },
     "cmal": {
         "source": "lo cmalu",
@@ -144,7 +144,7 @@
         "translator": "la komfo,amonan",
         "link": "https://mw.lojban.org/papri/nuncanci_la_krispinas_ambylis",
         "originallink": "https://en.wikisource.org/wiki/The_Toys_of_Peace_and_Other_Papers/The_Disappearance_of_Crispina_Umberleigh",
-        "instance": 1
+        "instance": 2
     },
     "emer": {
         "source": "Emerald Tablet",
@@ -201,7 +201,7 @@
         "author": "Raymond Carver",
         "translator": "Jordan DeLong",
         "link": "https://mw.lojban.org/papri/little_Things",
-        "instance": 2
+        "instance": 5
     },
     "jbob": {
         "source": "jbobratca chatlog",
@@ -249,7 +249,7 @@
         "source": "The Lay of the Land",
         "author": "Worldbuilding Notes",
         "link": "https://www.youtube.com/watch?v=ViGGR231zvQ",
-        "instance": 7
+        "instance": 9
     },
     "lenr": {
         "source": "lenrygu'i",
@@ -270,7 +270,7 @@
         "translator": "la darsi",
         "editor": "la gleki",
         "link": "https://docs.google.com/spreadsheets/d/1_vkiwqOIOIJPqZTiomzd4ApUSEQXhEY6CeyZD_6c-PA/edit?gid=768225989#gid=768225989",
-        "instance": 4
+        "instance": 5
     },
     "libr": {
         "source": "The Library of Babel",
@@ -284,7 +284,7 @@
         "author": "Antoine de Saint-Exupéry",
         "translator": "la .xorxes.",
         "link": "https://mw.lojban.org/papri/le_cmalu_noltru",
-        "instance": 38
+        "instance": 42
     },
     "lojb": {
         "source": "lo jbobau cu mo",
@@ -336,7 +336,7 @@
         "source": "la mu'e cuxna lo bradi",
         "author": "la blutolpinxe",
         "link": "https://mw.lojban.org/papri/la_mu%27e_cuxna_lo_bradi",
-        "instance": 3
+        "instance": 4
     },
     "nabm": {
         "source": "lo nabmi",
@@ -386,7 +386,7 @@
         "source": "prami simbi'o",
         "author": "Djemynai",
         "link": "https://www.youtube.com/watch?v=g3BQ-pE7ypY",
-        "instance": 7
+        "instance": 8
     },
     "prin": {
         "source": "The Princess and the Pea",
@@ -407,11 +407,11 @@
         "author": "Kenji Miyazawa",
         "translator": "la .tijlan.",
         "link": "https://docs.google.com/document/d/10Rnm80SieLrpFnk9kn_9bCuon96CNSPTA8hqVaWQYbQ/edit?tab=t.0",
-        "instance": 9
+        "instance": 12
     },
     "rolj": {
         "source": "roljbogu'e chatlog",
-        "instance": 83
+        "instance": 84
     },
     "rout": {
         "source": "Route Sphere",
@@ -426,7 +426,7 @@
         "translator": "la .xorxes.",
         "link": "https://mw.lojban.org/papri/le_saske_smani",
         "originallink": "https://en.wikisource.org/wiki/The_Scientific_Ape",
-        "instance": 6
+        "instance": 7
     },
     "skab": {
         "source": "la skaborfe'a",
@@ -439,7 +439,7 @@
         "author": "Brothers Grimm",
         "translator": "la solpa'i",
         "link": "https://selpahi.de/snimeblabi.html",
-        "instance": 8
+        "instance": 9
     },
     "srur": {
         "source": "sruri fa lo tarci",
@@ -452,13 +452,20 @@
         "author": "Jonathan Coulton",
         "translator": "la solpa'i",
         "link": "https://www.youtube.com/watch?v=hRrIioMA4w8",
-        "instance": 6
+        "instance": 7
     },
     "tens": {
         "source": "tensaia",
         "author": "Djemynai",
         "link": "https://djemynai.bandcamp.com/album/tensaia",
         "instance": 3
+    },
+    "teoq": {
+        "source": "Teo",
+        "author": "Omoi",
+        "translator": "tetsusquared (la .tirprij.)",
+        "link": "https://www.youtube.com/watch?v=9WoWrjIwbhc",
+        "instance": 1
     },
     "terr": {
         "source": "The Terrorist, He's Watching",
@@ -498,17 +505,23 @@
         "link": "https://www.youtube.com/watch?v=h_avoX_Xl4I",
         "instance": 1
     },
+    "vorm": {
+        "source": "lo vorme",
+        "author": "la xrula",
+        "link": "https://hellopoetry.com/poem/5098495/lo-vorme/",
+        "instance": 1
+    },
     "wond": {
         "source": "The Wonderful Wizard of Oz",
         "author": "L. Frank Baum",
         "translator": "la solpa'i",
         "link": "https://selpahi.de/oz_plain.html",
-        "instance": 21
+        "instance": 22
     },
     "zaho": {
         "source": "za'o",
         "author": "Djemynai",
         "link": "https://www.youtube.com/watch?v=TKbFwr-1ZQ4",
-        "instance": 5
+        "instance": 6
     }
 }

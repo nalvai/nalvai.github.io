@@ -125,6 +125,25 @@
                 -source-id litt
 
 
+-entry:
+    -word morsi
+    -gloss dead
+    -type gismu
+    -definition:
+        -meaning:
+            -exp x_1 is dead/has ceased to be alive.
+            -example:
+                -lojban .i {{lo morsi}} na ka'e pensi
+                -english {{Dead ones}} cannot think.
+                -source-id muhe
+            -example:
+                -lojban .i se ki'u bo ba'e mo va'o lo nu lo remna cu rivbi cliva troci pu {{lo nu ry morsi}}
+                -english so what if humans tried to escape the egg before {{they all died}}?
+                -source-id layo
+            -example:
+                -lojban .i go'i se va'u ro ma'a {{poi ke'a na morsi ca}}
+                -english For the good of all of us, {{except the ones who are dead}}
+                -source-id stil
 
 -entry:
     -word mukti
