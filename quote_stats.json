@@ -12,7 +12,7 @@
         "author": "Lewis Carroll",
         "translator": "la .xorxes.",
         "link": "https://mw.lojban.org/papri/lo_selfri_be_la_.alis._bei_bu%27u_la_selmacygu%27e",
-        "instance": 26
+        "instance": 27
     },
     "alwa": {
         "source": "Always With Me",
@@ -103,7 +103,7 @@
         "translator": "la .xorxes.",
         "link": "https://mw.lojban.org/papri/le_junla_zbasu",
         "originallink": "https://en.wikisource.org/wiki/The_Clockmaker",
-        "instance": 17
+        "instance": 18
     },
     "cmal": {
         "source": "lo cmalu",
@@ -411,7 +411,7 @@
     },
     "rolj": {
         "source": "roljbogu'e chatlog",
-        "instance": 84
+        "instance": 85
     },
     "rout": {
         "source": "Route Sphere",

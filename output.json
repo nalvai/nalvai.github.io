@@ -1258,6 +1258,56 @@
         "good": true
     },
     {
+        "word": "casnu",
+        "gloss": "(of a group) to discuss, to talk about ... &mdash; topic, subject of discussion",
+        "type": "gismu",
+        "freq": "26110",
+        "rank": "190",
+        "tag": "core-1",
+        "rafsi-cvc": null,
+        "rafsi-ccv": "snu",
+        "rafsi-cvv": null,
+        "definition": [
+            {
+                "meaning": [
+                    {
+                        "exp": "x_1(s) (mass normally, but 1 individual/jo'u possible) discuss(es)/talk(s) about topic/subject x_2.",
+                        "note": "x_1 need not be the complete group participating in the discussion. When x_1 is one individual, it can be taken as \"x_1 participates in discussion about x_2\".",
+                        "example": [
+                            {
+                                "lojban": ".i li'a sai ba'e mi na {{casnu}} lo simsa",
+                                "english": "Clearly <i>I</i> would not {{talk on}} such a subject!",
+                                "source-id": "alic",
+                                "source": "Alice in Wonderland",
+                                "author": "Lewis Carroll",
+                                "translator": "la .xorxes.",
+                                "link": "https://mw.lojban.org/papri/lo_selfri_be_la_.alis._bei_bu%27u_la_selmacygu%27e"
+                            },
+                            {
+                                "lojban": ".i ba zi ku lo junla mi'u sai noi suksa muvdu gi'e toldikni dikni cu binxo {{lo se casnu be lo xalbo}}",
+                                "english": "..., and soon the clock itself, with its falling movements and irregular regularity, became {{a theme for jesters}}.",
+                                "source-id": "cloc",
+                                "source": "The Clockmaker",
+                                "author": "Robert Louis Stevenson",
+                                "translator": "la .xorxes.",
+                                "link": "https://mw.lojban.org/papri/le_junla_zbasu",
+                                "originallink": "https://en.wikisource.org/wiki/The_Clockmaker"
+                            },
+                            {
+                                "lojban": ".i mabla tepi'o lonu {{casnu}} lo na lojbo bau la jbobau",
+                                "english": "It's bad for {{talking about}} something not Lojban-related in Lojban.",
+                                "source-id": "rolj",
+                                "speaker": "la srasu",
+                                "source": "roljbogu'e chatlog"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "good": true
+    },
+    {
         "word": "catlu",
         "gloss": "to look at, to watch, to gaze at &mdash; to be looked at, to be watched",
         "type": "gismu",

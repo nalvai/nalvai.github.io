@@ -1,6 +1,6 @@
 # NALVAI: Nalvai's Assortment of Lojban Vocabulary Attestation Instances
 ## What is this?
-**NALVAI** is a Lojban dictionary that uses quotations from *real-world texts* as examples of usage. It currently contains **160 words** with [**466 quotations** from **78 Lojban texts**](https://github.com/nalvai/nalvai.github.io#sources). Please provide quotations and definitions to help the dictionary grow!
+**NALVAI** is a Lojban dictionary that uses quotations from *real-world texts* as examples of usage. It currently contains **161 words** with [**469 quotations** from **78 Lojban texts**](https://github.com/nalvai/nalvai.github.io#sources). Please provide quotations and definitions to help the dictionary grow!
 
 Here is how a word look like in this dictionary:
 ![The word a in this dictionary](https://raw.githubusercontent.com/nalvai/nalvai.github.io/refs/heads/master/example_a.png)
@@ -93,12 +93,12 @@ A Lojban word has its meaning encompass over different parts of speech in Englis
 ### Quote Sources
 Lojban texts with at least one quotation in this dictionary.
 
-- (84 quotes) roljbogu'e chatlog
+- (85 quotes) roljbogu'e chatlog
 - (42 quotes) [The Little Prince](https://mw.lojban.org/papri/le_cmalu_noltru) by Antoine de Saint-Exupéry, translation by la .xorxes.
-- (26 quotes) [Alice in Wonderland](https://mw.lojban.org/papri/lo_selfri_be_la_.alis._bei_bu%27u_la_selmacygu%27e) by Lewis Carroll, translation by la .xorxes.
+- (27 quotes) [Alice in Wonderland](https://mw.lojban.org/papri/lo_selfri_be_la_.alis._bei_bu%27u_la_selmacygu%27e) by Lewis Carroll, translation by la .xorxes.
 - (22 quotes) [The Wonderful Wizard of Oz](https://selpahi.de/oz_plain.html) by L. Frank Baum, translation by la solpa'i
+- (18 quotes) [The Clockmaker](https://mw.lojban.org/papri/le_junla_zbasu) by Robert Louis Stevenson, translation by la .xorxes. ([Original](https://en.wikisource.org/wiki/The_Clockmaker))
 - (18 quotes) jbobratca chatlog
-- (17 quotes) [The Clockmaker](https://mw.lojban.org/papri/le_junla_zbasu) by Robert Louis Stevenson, translation by la .xorxes. ([Original](https://en.wikisource.org/wiki/The_Clockmaker))
 - (13 quotes) [The Metamorphosis](https://mw.lojban.org/images/f/fc/lonubinxo.pdf) by Franz Kafka, translation by la .xorxes.
 - (12 quotes) [la melbi e le ractu](https://lynn.github.io/la-melbi-e-le-ractu/) by la lalxu
 - (12 quotes) [la nicte cadzu](https://mw.lojban.org/papri/Robin%27s_Palm_Writings:_la_nicte_cadzu) by Robin Lee Powell
@@ -174,7 +174,7 @@ Lojban texts with at least one quotation in this dictionary.
 
 The quotes from chatlogs are from the following speakers: (in no particular order)
 
-la ilmen, la samflir, \_4Denthusiast, la kanba, la nonselcme, la nalvai, Lucilla, la lalxu, la varik, la lunbe, Haze, la tirprij, AstroMacGuffin, la uakci, Magnap, la katador, latkerlo, qimar, la fagri, melody!, la kanis, bancip, la bakre'u, la piier, yeet kitty, la janbe, la gleki, la solpa'i, la .zi., la xrula, la lunra, misotanni, dram, Stephen Dedalus, .kúblizel., niftg, la melmi, la srasu, la evis, la ziren, 
+la bakre'u, la lunra, Lucilla, dram, la katador, misotanni, la uakci, la varik, melody!, qimar, la nalvai, la srasu, \_4Denthusiast, Haze, .kúblizel., la gleki, la ziren, la kanba, niftg, la .zi., la piier, la kanis, la lalxu, Stephen Dedalus, la solpa'i, la samflir, la evis, la nonselcme, la ilmen, AstroMacGuffin, la janbe, la melmi, bancip, latkerlo, la xrula, la tirprij, yeet kitty, la fagri, la lunbe, Magnap, 
 
 Huge thanks to the following individuals who contributed to this project:
 
