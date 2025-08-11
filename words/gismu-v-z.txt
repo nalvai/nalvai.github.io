@@ -122,6 +122,35 @@
                 -source-id jbob
                 -speaker qimar
 
+
+-entry:
+    -word xrani
+    -gloss (of an event) to damage, to injure, to harm &mdash; to be damaged from ... &mdash; (of a property or part of x<sub>2</sub>) to be damaged from ... &mdash; damage, injury
+    -type gismu
+    -definition:
+        -meaning:
+            -exp x_1 (event) injures/harms/damages victim x_2 in property x_3 (ka) resulting in injury x_4 (state).
+            -example:
+                -lojban .i va'o ro nu do {{jai xrani}} da kei do {{jai xrani}} do
+                -english Every time you {{victimized}} someone, you {{were victimizing}} yourself.
+                -source-id eggq
+                -note This sentence is split in the middle ("Every time you victimized someone,<u>" I said, "</u>you were victimizing yourself... ") in the original text.
+            -example:
+                -lojban .i sy. xruti lo lanzu gi'e {{se xrani fi lo jamfu fo lo cmalu po'o}}
+                -english And he returned to his family {{with only a trifling lesion of one foot}}.
+                -source-id scie
+                -note The {{xruti}} in this sentence doesn't follow the gimste definition, but follows the popular usage instead.
+            -example:
+                -lojban .i .oi lonu darlu fi tau la gleki cu {{xrani fi loka menli}}
+                -english Ugh arguing against Gleki {{is mind-damaging}}.
+                -source-id rolj
+                -speaker la ziren
+                -note This example is in tcekitau. Substitute the {{tau}} with {{tu'a}} to convert it into CLL/BPFK Lojban.
+            -example:
+                -lojban .i za'a {{lo ve xrani}} cu ba'o mo'u kanro binxo .i ki'u bo gy. ganse no sai lo fanza
+                -english {{[His] injuries}} must already have completely healed as he found no difficulty [in moving.]
+                -source-id meta
+
 -entry:
     -word xunre
     -gloss (to be) red

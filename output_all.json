@@ -46193,7 +46193,7 @@
     },
     {
         "word": "xrani",
-        "gloss": "injure",
+        "gloss": "(of an event) to damage, to injure, to harm &mdash; to be damaged from ... &mdash; (of a property or part of x<sub>2</sub>) to be damaged from ... &mdash; damage, injury",
         "type": "gismu",
         "freq": "3450",
         "rank": "754",
@@ -46205,11 +46205,52 @@
             {
                 "meaning": [
                     {
-                        "exp": "$x_{1}$ (event) injures/harms/damages victim $x_{2}$ in property $x_{3}$ (ka) resulting in injury $x_{4}$ (state)."
+                        "exp": "x_1 (event) injures/harms/damages victim x_2 in property x_3 (ka) resulting in injury x_4 (state).",
+                        "example": [
+                            {
+                                "lojban": ".i va'o ro nu do {{jai xrani}} da kei do {{jai xrani}} do",
+                                "english": "Every time you {{victimized}} someone, you {{were victimizing}} yourself.",
+                                "source-id": "eggq",
+                                "note": "This sentence is split in the middle (\"Every time you victimized someone,<u>\" I said, \"</u>you were victimizing yourself... \") in the original text.",
+                                "source": "The Egg",
+                                "author": "Andy Weir",
+                                "translator": "la nalvai",
+                                "link": "https://nalvai.neocities.org/translations/the-egg/"
+                            },
+                            {
+                                "lojban": ".i sy. xruti lo lanzu gi'e {{se xrani fi lo jamfu fo lo cmalu po'o}}",
+                                "english": "And he returned to his family {{with only a trifling lesion of one foot}}.",
+                                "source-id": "scie",
+                                "note": "The {{xruti}} in this sentence doesn't follow the gimste definition, but follows the popular usage instead.",
+                                "source": "The Scientific Ape",
+                                "author": "Robert Louis Stevenson",
+                                "translator": "la .xorxes.",
+                                "link": "https://mw.lojban.org/papri/le_saske_smani",
+                                "originallink": "https://en.wikisource.org/wiki/The_Scientific_Ape"
+                            },
+                            {
+                                "lojban": ".i .oi lonu darlu fi tau la gleki cu {{xrani fi loka menli}}",
+                                "english": "Ugh arguing against Gleki {{is mind-damaging}}.",
+                                "source-id": "rolj",
+                                "speaker": "la ziren",
+                                "note": "This example is in tcekitau. Substitute the {{tau}} with {{tu'a}} to convert it into CLL/BPFK Lojban.",
+                                "source": "roljbogu'e chatlog"
+                            },
+                            {
+                                "lojban": ".i za'a {{lo ve xrani}} cu ba'o mo'u kanro binxo .i ki'u bo gy. ganse no sai lo fanza",
+                                "english": "{{[His] injuries}} must already have completely healed as he found no difficulty [in moving.]",
+                                "source-id": "meta",
+                                "source": "The Metamorphosis",
+                                "author": "Franz Kafka",
+                                "translator": "la .xorxes.",
+                                "link": "https://mw.lojban.org/images/f/fc/lonubinxo.pdf"
+                            }
+                        ]
                     }
                 ]
             }
-        ]
+        ],
+        "good": true
     },
     {
         "word": "xriso",
