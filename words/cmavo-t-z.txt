@@ -1,5 +1,40 @@
 
 -entry:
+    -word ta'i
+    -gloss Preposition: by method ...
+    -type cmavo
+    -definition:
+        -selmaho BAI
+        -meaning:
+            -exp By method ...; Introduces an unnumbered sumti that plays the role of {{tadji}}'s x_1 in the sentence.
+            -example:
+                -lojban .i lo se viska cu se finti {{ta'i lo nu cunso zbasu}}
+                -english Here are the results {{of random generation}}.
+                -source-id layo
+            -example:
+                -lojban .i ku'i {{ta'i ma}} mi ba skuna ti
+                -english But {{how}} am I supposed to say this?
+                -source-id koid
+            -example:
+                -lojban .i lo remna cu xaksu lo ctona'a be li so'i {{ta'i lo lijda jo'u lo marde jo'u lo pemci jo'u lo drata nalsa'u}}
+                -english Man lost centuries {{over religion, morals, poetry and other fudge}};
+                -source-id scie
+        -meaning:
+            -context {{se}} ~
+            -exp As a method for doing ...; Introduces an unnumbered sumti that plays the role of {{tadji}}'s x_2 in the sentence.
+            -example:
+                -lojban .i ma valsi lo jai gerna be {{seta'i lonu bixygau lo gismu ke karsna fanmo ku lo drata}}
+                -english What's the word for the grammar rule {{for changing the final vowel of a gismu to another [vowel]}}?
+                -source-id rolj
+                -speaker la melmi
+                -noshownote The original has {{karsnu}} instead of {{karsna}}, which I take as a typo.
+        -meaning:
+            -context {{te}} ~
+            -exp Methodically doing (something) under conditions ...; Introduces an unnumbered sumti that plays the role of {{tadji}}'s x_3 in the sentence.
+            -note Unattested.
+
+            
+-entry:
     -word to
     -gloss Text Structure: Open parenthesis
     -type cmavo

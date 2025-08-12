@@ -7249,6 +7249,75 @@
         "good": true
     },
     {
+        "word": "ta'i",
+        "gloss": "Preposition: by method ...",
+        "type": "cmavo",
+        "freq": "9602",
+        "rank": "424",
+        "tag": "core-2",
+        "rafsi-cvc": null,
+        "rafsi-ccv": null,
+        "rafsi-cvv": null,
+        "definition": [
+            {
+                "selmaho": "BAI",
+                "meaning": [
+                    {
+                        "exp": "By method ...; Introduces an unnumbered sumti that plays the role of {{tadji}}'s x_1 in the sentence.",
+                        "example": [
+                            {
+                                "lojban": ".i lo se viska cu se finti {{ta'i lo nu cunso zbasu}}",
+                                "english": "Here are the results {{of random generation}}.",
+                                "source-id": "layo",
+                                "source": "The Lay of the Land",
+                                "author": "Worldbuilding Notes",
+                                "link": "https://www.youtube.com/watch?v=ViGGR231zvQ"
+                            },
+                            {
+                                "lojban": ".i ku'i {{ta'i ma}} mi ba skuna ti",
+                                "english": "But {{how}} am I supposed to say this?",
+                                "source-id": "koid",
+                                "source": "koi do mi na",
+                                "author": "Mèremim",
+                                "link": "https://meremim.bandcamp.com/album/koi-do-mi-na"
+                            },
+                            {
+                                "lojban": ".i lo remna cu xaksu lo ctona'a be li so'i {{ta'i lo lijda jo'u lo marde jo'u lo pemci jo'u lo drata nalsa'u}}",
+                                "english": "Man lost centuries {{over religion, morals, poetry and other fudge}};",
+                                "source-id": "scie",
+                                "source": "The Scientific Ape",
+                                "author": "Robert Louis Stevenson",
+                                "translator": "la .xorxes.",
+                                "link": "https://mw.lojban.org/papri/le_saske_smani",
+                                "originallink": "https://en.wikisource.org/wiki/The_Scientific_Ape"
+                            }
+                        ]
+                    },
+                    {
+                        "context": "{{se}} ~",
+                        "exp": "As a method for doing ...; Introduces an unnumbered sumti that plays the role of {{tadji}}'s x_2 in the sentence.",
+                        "example": [
+                            {
+                                "lojban": ".i ma valsi lo jai gerna be {{seta'i lonu bixygau lo gismu ke karsna fanmo ku lo drata}}",
+                                "english": "What's the word for the grammar rule {{for changing the final vowel of a gismu to another [vowel]}}?",
+                                "source-id": "rolj",
+                                "speaker": "la melmi",
+                                "noshownote": "The original has {{karsnu}} instead of {{karsna}}, which I take as a typo.",
+                                "source": "roljbogu'e chatlog"
+                            }
+                        ]
+                    },
+                    {
+                        "context": "{{te}} ~",
+                        "exp": "Methodically doing (something) under conditions ...; Introduces an unnumbered sumti that plays the role of {{tadji}}'s x_3 in the sentence.",
+                        "note": "Unattested."
+                    }
+                ]
+            }
+        ],
+        "good": true
+    },
+    {
         "word": "tatpi",
         "gloss": "tired &mdash; (of an event, action) to tire, tiring, tiresome",
         "type": "gismu",
