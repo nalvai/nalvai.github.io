@@ -63,6 +63,44 @@
                 -source-id cloc
                 -note If the {{toi}} was elided in this sentence, the parentheses will automatically close just before the {{cu}}, for the same reason as in the previous example.
 
+
+-entry:
+    -word u'a
+    -gloss Attitudinal: gain &mdash; loss 
+    -type cmavo
+    -definition:
+        -selmaho UI1
+        -meaning:
+            -exp Attitudinal: express gain / triumph / success. 
+            -example:
+                -lojban .i ja'e bo mi pu'o lifri fe lo vajrai pe lo mi nunji'e .i fasnu fa {{.u'a cai}}
+                -english Thus, I was about to experience the most important thing of my life, What happened was... {{OMFG (literally: "feeling of extreme gain")}}
+                -source-id pram
+            -example:
+                -lojban {{.u'a dai}} .i do ca se cmene jbopre
+                -english {{Gain for you!}} You're now a named Lojbanist.
+                -source-id rolj
+                -speaker la ziren
+                -contributor la ninlat.
+        -meaning:
+            -context ~ {{cu'i}}
+            -exp Attitudinal: express ambuguity on the gain-loss scale. 
+            -example:
+                -lojban &mdash; .i mi za'o na jdice lodu'u makau se lisri fi mi tezu'e lenu jivna<br>&mdash; .i noda lisri benji ca'o {{.u'a cu'i}}
+                -english &mdash; I haven't decided what will my story for competetion be about<br>&mdash; Nobody's submitting stories {{😐}}
+                -source-id rolj
+                -speaker la srasu, la janbe
+                -note Nobody submitting stories means competitors (who ends up submitting their stories) will have a better chance at winning (gain), but there will be less Lojban content to be produced overall (loss). 
+        -meaning:
+            -context ~ {{nai}}
+            -exp Attitudinal: express loss / desolation / lamentation / mourning.
+            -example:
+                -lojban .i se ni'i bo lo lojbo jikca bo tadji co'a jai bu'u jitni vau {{.u'a nai}}
+                -english This proves that the scene of Lojbanic social media has {{unfortunately}} become a field for vain politics.
+                -source-id offi
+
+
+
 -entry:
     -word va'o
     -gloss Preposition: under conditions ... / in environment ...

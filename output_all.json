@@ -43003,7 +43003,7 @@
     },
     {
         "word": "u'a",
-        "gloss": "gain",
+        "gloss": "Attitudinal: gain &mdash; loss",
         "type": "cmavo",
         "freq": "4840",
         "rank": "634",
@@ -43016,11 +43016,58 @@
                 "selmaho": "UI1",
                 "meaning": [
                     {
-                        "exp": "attitudinal: gain - loss."
+                        "exp": "Attitudinal: express gain / triumph / success.",
+                        "example": [
+                            {
+                                "lojban": ".i ja'e bo mi pu'o lifri fe lo vajrai pe lo mi nunji'e .i fasnu fa {{.u'a cai}}",
+                                "english": "Thus, I was about to experience the most important thing of my life, What happened was... {{OMFG (literally: \"feeling of extreme gain\")}}",
+                                "source-id": "pram",
+                                "source": "prami simbi'o",
+                                "author": "Djemynai",
+                                "link": "https://www.youtube.com/watch?v=g3BQ-pE7ypY"
+                            },
+                            {
+                                "lojban": "{{.u'a dai}} .i do ca se cmene jbopre",
+                                "english": "{{Gain for you!}} You're now a named Lojbanist.",
+                                "source-id": "rolj",
+                                "speaker": "la ziren",
+                                "contributor": "la ninlat.",
+                                "source": "roljbogu'e chatlog"
+                            }
+                        ]
+                    },
+                    {
+                        "context": "~ {{cu'i}}",
+                        "exp": "Attitudinal: express ambuguity on the gain-loss scale.",
+                        "example": [
+                            {
+                                "lojban": "&mdash; .i mi za'o na jdice lodu'u makau se lisri fi mi tezu'e lenu jivna<br>&mdash; .i noda lisri benji ca'o {{.u'a cu'i}}",
+                                "english": "&mdash; I haven't decided what will my story for competetion be about<br>&mdash; Nobody's submitting stories {{😐}}",
+                                "source-id": "rolj",
+                                "speaker": "la srasu, la janbe",
+                                "note": "Nobody submitting stories means competitors (who ends up submitting their stories) will have a better chance at winning (gain), but there will be less Lojban content to be produced overall (loss).",
+                                "source": "roljbogu'e chatlog"
+                            }
+                        ]
+                    },
+                    {
+                        "context": "~ {{nai}}",
+                        "exp": "Attitudinal: express loss / desolation / lamentation / mourning.",
+                        "example": [
+                            {
+                                "lojban": ".i se ni'i bo lo lojbo jikca bo tadji co'a jai bu'u jitni vau {{.u'a nai}}",
+                                "english": "This proves that the scene of Lojbanic social media has {{unfortunately}} become a field for vain politics.",
+                                "source-id": "offi",
+                                "source": "\"Official Lojban\"",
+                                "author": "la uakci",
+                                "link": "https://docs.google.com/spreadsheets/d/1_vkiwqOIOIJPqZTiomzd4ApUSEQXhEY6CeyZD_6c-PA/edit?gid=1862526252#gid=1862526252"
+                            }
+                        ]
                     }
                 ]
             }
-        ]
+        ],
+        "good": true
     },
     {
         "word": "ua",

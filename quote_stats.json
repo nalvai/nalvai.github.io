@@ -380,7 +380,7 @@
         "source": "\"Official Lojban\"",
         "author": "la uakci",
         "link": "https://docs.google.com/spreadsheets/d/1_vkiwqOIOIJPqZTiomzd4ApUSEQXhEY6CeyZD_6c-PA/edit?gid=1862526252#gid=1862526252",
-        "instance": 7
+        "instance": 8
     },
     "pram": {
         "source": "prami simbi'o",
@@ -411,7 +411,7 @@
     },
     "rolj": {
         "source": "roljbogu'e chatlog",
-        "instance": 87
+        "instance": 89
     },
     "rout": {
         "source": "Route Sphere",
