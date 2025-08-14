@@ -134,6 +134,27 @@
                 -source-id lett
 
 -entry:
+    -word ja'o
+    -gloss Attitudinal (evidential): I conclude
+    -type cmavo
+    -definition:
+        -selmaho UI2
+        -meaning:
+            -exp Evidential: used to express ideas or statements that were not sourced, but rather deduced by the speaker from other sources or statements.
+            -example:
+                -lojban .i {{ja'o}} lo danlu poi xabju lo djacu cu ca'o xabju lo bartu be lo djacu .i ia nai
+                -english {{And it comes to this;}} a creature that lives in water living out of water!
+                -source-id cloc
+            -example:
+                -lojban .i {{ja'o}} mi stidi ru'a lo du'u pilno fi lo ka te cmene kei fe lu jicmu lojbo li'u
+                -english {{Thus,}} I propose that we consequently use the name «Base Lojban» or «Fundamental Lojban».
+                -source-id offi
+            -example:
+                -lojban .i lu {{ja'o}} ma'a ba kavbu lo cifnu li'u
+                -english "{{And therefore}} we shall take babies," [concluded the doctor.]
+                -source-id scie
+
+-entry:
     -word jai
     -gloss Place Structure: promote other sumti slot to x<sub>1</sub>
     -type cmavo

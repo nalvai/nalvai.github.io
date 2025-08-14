@@ -3764,6 +3764,58 @@
         "good": true
     },
     {
+        "word": "ja'o",
+        "gloss": "Attitudinal (evidential): I conclude",
+        "type": "cmavo",
+        "freq": "11010",
+        "rank": "376",
+        "tag": "core-2",
+        "rafsi-cvc": null,
+        "rafsi-ccv": null,
+        "rafsi-cvv": null,
+        "definition": [
+            {
+                "selmaho": "UI2",
+                "meaning": [
+                    {
+                        "exp": "Evidential: used to express ideas or statements that were not sourced, but rather deduced by the speaker from other sources or statements.",
+                        "example": [
+                            {
+                                "lojban": ".i {{ja'o}} lo danlu poi xabju lo djacu cu ca'o xabju lo bartu be lo djacu .i ia nai",
+                                "english": "{{And it comes to this;}} a creature that lives in water living out of water!",
+                                "source-id": "cloc",
+                                "source": "The Clockmaker",
+                                "author": "Robert Louis Stevenson",
+                                "translator": "la .xorxes.",
+                                "link": "https://mw.lojban.org/papri/le_junla_zbasu",
+                                "originallink": "https://en.wikisource.org/wiki/The_Clockmaker"
+                            },
+                            {
+                                "lojban": ".i {{ja'o}} mi stidi ru'a lo du'u pilno fi lo ka te cmene kei fe lu jicmu lojbo li'u",
+                                "english": "{{Thus,}} I propose that we consequently use the name «Base Lojban» or «Fundamental Lojban».",
+                                "source-id": "offi",
+                                "source": "\"Official Lojban\"",
+                                "author": "la uakci",
+                                "link": "https://docs.google.com/spreadsheets/d/1_vkiwqOIOIJPqZTiomzd4ApUSEQXhEY6CeyZD_6c-PA/edit?gid=1862526252#gid=1862526252"
+                            },
+                            {
+                                "lojban": ".i lu {{ja'o}} ma'a ba kavbu lo cifnu li'u",
+                                "english": "\"{{And therefore}} we shall take babies,\" [concluded the doctor.]",
+                                "source-id": "scie",
+                                "source": "The Scientific Ape",
+                                "author": "Robert Louis Stevenson",
+                                "translator": "la .xorxes.",
+                                "link": "https://mw.lojban.org/papri/le_saske_smani",
+                                "originallink": "https://en.wikisource.org/wiki/The_Scientific_Ape"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "good": true
+    },
+    {
         "word": "jbopre",
         "gloss": "Lojbanist, Lojban user",
         "type": "lujvo",
