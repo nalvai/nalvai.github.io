@@ -10745,7 +10745,7 @@
     },
     {
         "word": "du",
-        "gloss": "same identity as",
+        "gloss": "to have the same identity as ...",
         "type": "cmavo",
         "freq": "36951",
         "rank": "130",
@@ -10758,11 +10758,52 @@
                 "selmaho": "GOhA",
                 "meaning": [
                     {
-                        "exp": "identity selbri; = sign; $x_{1}$ identically equals $x_{2}$, $x_{3}$, etc.; attached sumti refer to same thing."
+                        "exp": "Equality/identity predicate. x_1 equals x_2, x_3, etc. It expresses that multiple different sumti actually refer to the same thing.",
+                        "example": [
+                            {
+                                "lojban": "ni'o lo catra be le nanmu goi ko'a cu {{du}} mi",
+                                "english": "The killer of the man (called \"ko'a\" from now on) {{is}} me.",
+                                "source-id": "inag",
+                                "source": "In a Grove",
+                                "author": "Ryūnosuke Akutagawa",
+                                "translator": "la .guskant.",
+                                "link": "https://guskant.github.io/yabu/html5/jbopoho.html"
+                            },
+                            {
+                                "lojban": ".i lo ranmi brabra cu {{gau du}} lo solri lo zbasu be lo junla",
+                                "english": "The colossus of the legend {{was identified with}} the sun, both with the maker of the clock.",
+                                "source-id": "cloc",
+                                "source": "The Clockmaker",
+                                "author": "Robert Louis Stevenson",
+                                "translator": "la .xorxes.",
+                                "link": "https://mw.lojban.org/papri/le_junla_zbasu",
+                                "originallink": "https://en.wikisource.org/wiki/The_Clockmaker"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "selmaho": "NU",
+                "meaning": [
+                    {
+                        "variation": "tcekitau",
+                        "exp": "Substitution for {{du'u}}.",
+                        "example": [
+                            {
+                                "lojban": ".i mi djuno {{lo du}} lo djedi ba banli",
+                                "english": "I know {{that}} the day will be great.",
+                                "source-id": "zaho",
+                                "source": "za'o",
+                                "author": "Djemynai",
+                                "link": "https://www.youtube.com/watch?v=TKbFwr-1ZQ4"
+                            }
+                        ]
                     }
                 ]
             }
-        ]
+        ],
+        "good": true
     },
     {
         "word": "du'a",

@@ -638,6 +638,35 @@
                 -source-id alic
                 -note An example of {{doi}} followed by a cmevla. A cmevla inside a vocative phrase can take a relative clause/phrase, and is taken as the same as {{doi <em>la</em> CMEVLA &lt;relative phrase/clause&gt;}}.
 
+
+-entry:
+    -word du
+    -gloss to have the same identity as ...
+    -type cmavo
+    -definition:
+        -selmaho GOhA
+        -meaning:
+            -exp Equality/identity predicate. x_1 equals x_2, x_3, etc. It expresses that multiple different sumti actually refer to the same thing.
+            -example:
+                -lojban ni'o lo catra be le nanmu goi ko'a cu {{du}} mi
+                -english The killer of the man (called "ko'a" from now on) {{is}} me.
+                -source-id inag
+            -example:
+                -lojban .i lo ranmi brabra cu {{gau du}} lo solri lo zbasu be lo junla
+                -english The colossus of the legend {{was identified with}} the sun, both with the maker of the clock.
+                -source-id cloc
+    -definition:
+        -selmaho NU
+        -meaning:
+            -variation tcekitau
+            -exp Substitution for {{du'u}}.
+            -example:
+                -lojban .i mi djuno {{lo du}} lo djedi ba banli
+                -english I know {{that}} the day will be great.
+                -source-id zaho
+
+
+
 -entry:
     -word e
     -gloss Connective: sumti afterthought and
