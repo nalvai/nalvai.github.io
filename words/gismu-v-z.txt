@@ -96,7 +96,7 @@
 
 -entry:
     -word xekce
-    -gloss naysayer, to belittle ... by acting pedantic on their grammar, to criticize ...'s grammar without adding to the conversation &mdash; to be needlessly criticized for making a grammatical error as perceived by x<sub>1</sub> 
+    -gloss (pedantic) naysayer, to belittle ... by acting pedantic on their grammar, to criticize ...'s grammar without adding to the conversation &mdash; to be needlessly criticized for making a grammatical error as perceived by x<sub>1</sub> 
     -type gismu
     -rafsi-cvc xec
     -rafsi-cvv xe'e
@@ -121,6 +121,10 @@
                 -english Yeah, I agree with Zearen. BTW, mlatu44: Don't care about {{the xekce}} here! (You) making errors is more important.
                 -source-id jbob
                 -speaker qimar
+        -meaning:
+            -context See note
+            -exp x_1 corrects x_2's Lojban text.
+            -note Only used in expression {{.e'o/.e'a xekce (mi)}}, where the speaker is not confident with their own Lojban skill and wants more experienced Lojbanists to check the correctness of their Lojban content.
 
 
 -entry:

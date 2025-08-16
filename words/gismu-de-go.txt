@@ -1,4 +1,27 @@
 
+
+
+-entry:
+    -word desku
+    -gloss to shake (intransitive), to tremble &mdash; to shake (something)
+    -type gismu
+    -definition:
+        -meaning:
+            -exp x_1 shakes/quakes/trembles/quivers/shudders/wobbles/vibrates from force x_2.
+            -example:
+                -lojban .i lo marce cu {{desku}} lo ka lo brife cu catke ce'u
+                -english The vehicle {{trembled}} as the wind pushed against it.
+                -source-id nufa
+            -example:
+                -lojban .i ca'o la'e di'u lo botpi cu {{desku}} lo lindi sance jo'u ckicau jenca
+                -english The caraffe {{was shaken}} the while by thunderclaps and unaccountable convulsions.
+                -source-id cloc
+            -example:
+                -lojban mi pa roi nai ganse {{lo desku noi tsali}}
+                -english I feel {{it trembling strongly}} multiple times.
+                -source-id rolj
+                -speaker bancip
+
 -entry:
     -word djica
     -gloss to want, to desire &mdash; (a) desire &mdash; purpose of desire

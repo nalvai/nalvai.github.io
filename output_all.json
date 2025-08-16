@@ -9600,7 +9600,7 @@
     },
     {
         "word": "desku",
-        "gloss": "shake",
+        "gloss": "to shake (intransitive), to tremble &mdash; to shake (something)",
         "type": "gismu",
         "freq": "1750",
         "rank": "1056",
@@ -9612,11 +9612,39 @@
             {
                 "meaning": [
                     {
-                        "exp": "$x_{1}$ shakes/quakes/trembles/quivers/shudders/wobbles/vibrates from force $x_{2}$."
+                        "exp": "x_1 shakes/quakes/trembles/quivers/shudders/wobbles/vibrates from force x_2.",
+                        "example": [
+                            {
+                                "lojban": ".i lo marce cu {{desku}} lo ka lo brife cu catke ce'u",
+                                "english": "The vehicle {{trembled}} as the wind pushed against it.",
+                                "source-id": "nufa",
+                                "source": "la nu farlu lo plini",
+                                "author": "la srasu",
+                                "link": "https://liputenpo.org/toki/nanpa-kokosila/la-nu-farlu-lo-plini/"
+                            },
+                            {
+                                "lojban": ".i ca'o la'e di'u lo botpi cu {{desku}} lo lindi sance jo'u ckicau jenca",
+                                "english": "The caraffe {{was shaken}} the while by thunderclaps and unaccountable convulsions.",
+                                "source-id": "cloc",
+                                "source": "The Clockmaker",
+                                "author": "Robert Louis Stevenson",
+                                "translator": "la .xorxes.",
+                                "link": "https://mw.lojban.org/papri/le_junla_zbasu",
+                                "originallink": "https://en.wikisource.org/wiki/The_Clockmaker"
+                            },
+                            {
+                                "lojban": "mi pa roi nai ganse {{lo desku noi tsali}}",
+                                "english": "I feel {{it trembling strongly}} multiple times.",
+                                "source-id": "rolj",
+                                "speaker": "bancip",
+                                "source": "roljbogu'e chatlog"
+                            }
+                        ]
                     }
                 ]
             }
-        ]
+        ],
+        "good": true
     },
     {
         "word": "detri",
@@ -49132,7 +49160,7 @@
     },
     {
         "word": "xekce",
-        "gloss": "naysayer, to belittle ... by acting pedantic on their grammar, to criticize ...'s grammar without adding to the conversation &mdash; to be needlessly criticized for making a grammatical error as perceived by x<sub>1</sub>",
+        "gloss": "(pedantic) naysayer, to belittle ... by acting pedantic on their grammar, to criticize ...'s grammar without adding to the conversation &mdash; to be needlessly criticized for making a grammatical error as perceived by x<sub>1</sub>",
         "type": "gismu",
         "rafsi-cvc": "xec",
         "rafsi-cvv": "xe'e",
@@ -49167,6 +49195,11 @@
                                 "source": "jbobratca chatlog"
                             }
                         ]
+                    },
+                    {
+                        "context": "See note",
+                        "exp": "x_1 corrects x_2's Lojban text.",
+                        "note": "Only used in expression {{.e'o/.e'a xekce (mi)}}, where the speaker is not confident with their own Lojban skill and wants more experienced Lojbanists to check the correctness of their Lojban content."
                     }
                 ]
             }

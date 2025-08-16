@@ -103,7 +103,7 @@
         "translator": "la .xorxes.",
         "link": "https://mw.lojban.org/papri/le_junla_zbasu",
         "originallink": "https://en.wikisource.org/wiki/The_Clockmaker",
-        "instance": 20
+        "instance": 21
     },
     "cmal": {
         "source": "lo cmalu",
@@ -367,7 +367,7 @@
         "source": "la nu farlu lo plini",
         "author": "la srasu",
         "link": "https://liputenpo.org/toki/nanpa-kokosila/la-nu-farlu-lo-plini/",
-        "instance": 2
+        "instance": 3
     },
     "odds": {
         "source": "ODDS&ENDS",
@@ -411,7 +411,7 @@
     },
     "rolj": {
         "source": "roljbogu'e chatlog",
-        "instance": 89
+        "instance": 90
     },
     "rout": {
         "source": "Route Sphere",
