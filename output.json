@@ -1509,6 +1509,64 @@
         "good": true
     },
     {
+        "word": "cinmo",
+        "gloss": "to feel (an emotion) &mdash; emotion &mdash; to provoke an emotion of ...",
+        "type": "gismu",
+        "freq": "12760",
+        "rank": "338",
+        "tag": "core-2",
+        "rafsi-cvc": null,
+        "rafsi-ccv": "cni",
+        "rafsi-cvv": null,
+        "definition": [
+            {
+                "meaning": [
+                    {
+                        "exp": "x_1 feels emotion x_2 (ka) about x_3.",
+                        "example": [
+                            {
+                                "lojban": ".i bi'u sei kufygau la'a cu'i le do speni cu {{cinmo}} lo ka zekri mutce kei lo nu {{zifre cinmo}}",
+                                "english": "If it's any consolation, your wife {{will feel}} very guilty for {{feeling relieved}}.",
+                                "source-id": "eggq",
+                                "source": "The Egg",
+                                "author": "Andy Weir",
+                                "translator": "la nalvai",
+                                "link": "https://nalvai.neocities.org/translations/the-egg/"
+                            },
+                            {
+                                "lojban": ".i lo te pemci ba lo nu se pajni ca lo nu jgira lo rigni {{se cinmo}} cu se dapma gi'e gubni se daspo",
+                                "english": "The poet, after a trial, in which he gloried in his horrid {{sentiments}}, was condemned and publicly destroyed.",
+                                "source-id": "cloc",
+                                "source": "The Clockmaker",
+                                "author": "Robert Louis Stevenson",
+                                "translator": "la .xorxes.",
+                                "link": "https://mw.lojban.org/papri/le_junla_zbasu",
+                                "originallink": "https://en.wikisource.org/wiki/The_Clockmaker"
+                            },
+                            {
+                                "lojban": ".i platu co djica lonu ry. {{te cinmo}} loka se pendo .a loka zifre",
+                                "english": "It's planned with a desire of {{making [people] feel}} friendly and/or freedom.",
+                                "source-id": "rolj",
+                                "speaker": "la ziren",
+                                "source": "roljbogu'e chatlog"
+                            },
+                            {
+                                "lojban": ".i koi do na jungau ra po do ca {{cinmo}} ma kau ra",
+                                "english": "Do not tell her how you {{feel}} about her",
+                                "source-id": "koid",
+                                "note": "This example is in tcekitau and jboponei. Substitute {{koi}} with {{ko'oi}} and {{po}} with {{lo su'u}} to make it CLL/BPFK-compatible.",
+                                "source": "koi do mi na",
+                                "author": "Mèremim",
+                                "link": "https://meremim.bandcamp.com/album/koi-do-mi-na"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "good": true
+    },
+    {
         "word": "cinri",
         "gloss": "interesting event &mdash; to find interesting, to be interested in",
         "type": "gismu",
