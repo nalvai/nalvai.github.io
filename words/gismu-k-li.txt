@@ -25,6 +25,30 @@
                 -english They reassure themselves {{as best they can}}.
                 -source-id litt
 
+
+
+-entry:
+    -word kanji
+    -gloss to calculate &mdash; (result of) calculation &mdash; (of data) to be processed, to be calculated &mdash; (process of) calculation 
+    -type gismu
+    -definition:
+        -meaning:
+            -exp x_1 calculates/reckons/computes x_2 [value (ni)/state] from data x_3 by process x_4. 
+            -example:
+                -lojban .i ko'a {{kanji}} lo te sepli pe lo botpi jo'u lo jubme jo'u lo bitmu jo'u lo fagri stuzi kajna jadni jo'u lo djedi be li bi zmiku junla fi'o se satci lo mikri ki'u lo nu lo ko'a tutci jo'u tadji cu carmi ralci
+                -english ..., and its author had calculated the relative position of the caraffe, the table, the walls, the chimney piece ornaments and the eight-day clock, to the millionth place of decimals, for his instruments and methods were exquisitely fine.
+                -source-id cloc
+            -example:
+                -lojban .i ku'i {{ro le danfu co se kanji be mi}} cu kansa lo nu mi za'u re'u cirko
+                -english But {{all the answers I calculated}} came with losing something again, ...
+                -source-id calc
+                -noshownote Added a {{be}} for grammatical correctness.
+            -example:
+                -lojban ni'o do fi le vi mekso cu xu {{pu'i kanji}}
+                -english Are you {{able to calculate}} the value of this expression?
+                -source-id lost
+
+
 -entry:
     -word kansa
     -gloss together, companion, to accompany, to be with ... &mdash; to be accompanied &mdash; event/condition experienced together

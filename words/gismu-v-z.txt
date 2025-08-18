@@ -127,6 +127,28 @@
             -note Only used in expression {{.e'o/.e'a xekce (mi)}}, where the speaker is not confident with their own Lojban skill and wants more experienced Lojbanists to check the correctness of their Lojban content.
 
 
+
+-entry:
+    -word xlali
+    -gloss bad, harmful &mdash; to suffer from ... &mdash; standard of badness
+    -type gismu
+    -definition:
+        -meaning:
+            -exp x_1 is bad for x_2 by standard x_3; x_1 is poor/unacceptable to x_2.         
+            -example:
+                -lojban su'a lo'e vi va cmana cu {{xlali}} .oi
+                -english I must say, the mountain around here {{is really awful}}.
+                -source-id rest  
+            -example:
+                -lojban ni'o ca lo jbini lo lojbo ku {{se xlali}} lo frili se zgana poi pagbu lo vanbi be lo bangu
+                -english Recently, Lojbanists {{are suffering from}} the noticeable fuss focused on dialects present in our language's environment.
+                -source-id offi
+            -example:
+                -lojban .i mi bebna gi'e {{xlali fi lo ka se jbobau}}
+                -english I'm dumb and {{bad at being a Lojbanist}}.
+                -source-id rolj
+                -speaker la bisri'e
+
 -entry:
     -word xrani
     -gloss (of an event) to damage, to injure, to harm &mdash; to be damaged from ... &mdash; (of a property or part of x<sub>2</sub>) to be damaged from ... &mdash; damage, injury

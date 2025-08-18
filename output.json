@@ -4541,6 +4541,58 @@
         "good": true
     },
     {
+        "word": "kanji",
+        "gloss": "to calculate &mdash; (result of) calculation &mdash; (of data) to be processed, to be calculated &mdash; (process of) calculation",
+        "type": "gismu",
+        "freq": "900",
+        "rank": "1441",
+        "tag": "favored",
+        "rafsi-cvc": "kaj",
+        "rafsi-ccv": null,
+        "rafsi-cvv": null,
+        "definition": [
+            {
+                "meaning": [
+                    {
+                        "exp": "x_1 calculates/reckons/computes x_2 [value (ni)/state] from data x_3 by process x_4.",
+                        "example": [
+                            {
+                                "lojban": ".i ko'a {{kanji}} lo te sepli pe lo botpi jo'u lo jubme jo'u lo bitmu jo'u lo fagri stuzi kajna jadni jo'u lo djedi be li bi zmiku junla fi'o se satci lo mikri ki'u lo nu lo ko'a tutci jo'u tadji cu carmi ralci",
+                                "english": "..., and its author had calculated the relative position of the caraffe, the table, the walls, the chimney piece ornaments and the eight-day clock, to the millionth place of decimals, for his instruments and methods were exquisitely fine.",
+                                "source-id": "cloc",
+                                "source": "The Clockmaker",
+                                "author": "Robert Louis Stevenson",
+                                "translator": "la .xorxes.",
+                                "link": "https://mw.lojban.org/papri/le_junla_zbasu",
+                                "originallink": "https://en.wikisource.org/wiki/The_Clockmaker"
+                            },
+                            {
+                                "lojban": ".i ku'i {{ro le danfu co se kanji be mi}} cu kansa lo nu mi za'u re'u cirko",
+                                "english": "But {{all the answers I calculated}} came with losing something again, ...",
+                                "source-id": "calc",
+                                "noshownote": "Added a {{be}} for grammatical correctness.",
+                                "source": "Calc.",
+                                "author": "JimmyThumbP",
+                                "translator": "tetsusquared (la .tirprij.)",
+                                "link": "https://www.youtube.com/watch?v=n4NhUEUvwew"
+                            },
+                            {
+                                "lojban": "ni'o do fi le vi mekso cu xu {{pu'i kanji}}",
+                                "english": "Are you {{able to calculate}} the value of this expression?",
+                                "source-id": "lost",
+                                "source": "The Lost One's Weeping",
+                                "author": "Neru",
+                                "translator": "tetsusquared (la .tirprij.)",
+                                "link": "https://www.youtube.com/watch?v=9TA1-lVHAUM"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "good": true
+    },
+    {
         "word": "kansa",
         "gloss": "together, companion, to accompany, to be with ... &mdash; to be accompanied &mdash; event/condition experienced together",
         "type": "gismu",
@@ -8172,6 +8224,53 @@
                                 "translator": "la .ilmen.",
                                 "link": "https://mw.lojban.org/papri/UserWiki:Ilmen/lo_ziptu%27a_ca%27o_zenba_lo_ka_crino",
                                 "originallink": "https://www.science.org/content/article/antarctica-getting-greener"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "good": true
+    },
+    {
+        "word": "xlali",
+        "gloss": "bad, harmful &mdash; to suffer from ... &mdash; standard of badness",
+        "type": "gismu",
+        "freq": "11380",
+        "rank": "365",
+        "tag": "core-2",
+        "rafsi-cvc": null,
+        "rafsi-ccv": "xla",
+        "rafsi-cvv": null,
+        "definition": [
+            {
+                "meaning": [
+                    {
+                        "exp": "x_1 is bad for x_2 by standard x_3; x_1 is poor/unacceptable to x_2.",
+                        "example": [
+                            {
+                                "lojban": "su'a lo'e vi va cmana cu {{xlali}} .oi",
+                                "english": "I must say, the mountain around here {{is really awful}}.",
+                                "source-id": "rest",
+                                "source": "The Restaurant of Many Orders",
+                                "author": "Kenji Miyazawa",
+                                "translator": "la .tijlan.",
+                                "link": "https://docs.google.com/document/d/10Rnm80SieLrpFnk9kn_9bCuon96CNSPTA8hqVaWQYbQ/edit?tab=t.0"
+                            },
+                            {
+                                "lojban": "ni'o ca lo jbini lo lojbo ku {{se xlali}} lo frili se zgana poi pagbu lo vanbi be lo bangu",
+                                "english": "Recently, Lojbanists {{are suffering from}} the noticeable fuss focused on dialects present in our language's environment.",
+                                "source-id": "offi",
+                                "source": "\"Official Lojban\"",
+                                "author": "la uakci",
+                                "link": "https://docs.google.com/spreadsheets/d/1_vkiwqOIOIJPqZTiomzd4ApUSEQXhEY6CeyZD_6c-PA/edit?gid=1862526252#gid=1862526252"
+                            },
+                            {
+                                "lojban": ".i mi bebna gi'e {{xlali fi lo ka se jbobau}}",
+                                "english": "I'm dumb and {{bad at being a Lojbanist}}.",
+                                "source-id": "rolj",
+                                "speaker": "la bisri'e",
+                                "source": "roljbogu'e chatlog"
                             }
                         ]
                     }

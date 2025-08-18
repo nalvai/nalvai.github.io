@@ -70,7 +70,7 @@
         "author": "JimmyThumbP",
         "translator": "tetsusquared (la .tirprij.)",
         "link": "https://www.youtube.com/watch?v=n4NhUEUvwew",
-        "instance": 1
+        "instance": 2
     },
     "care": {
         "source": "Carefree Wandering (逍遙遊)",
@@ -103,7 +103,7 @@
         "translator": "la .xorxes.",
         "link": "https://mw.lojban.org/papri/le_junla_zbasu",
         "originallink": "https://en.wikisource.org/wiki/The_Clockmaker",
-        "instance": 21
+        "instance": 22
     },
     "cmal": {
         "source": "lo cmalu",
@@ -297,7 +297,7 @@
         "author": "Neru",
         "translator": "tetsusquared (la .tirprij.)",
         "link": "https://www.youtube.com/watch?v=9TA1-lVHAUM",
-        "instance": 3
+        "instance": 4
     },
     "made": {
         "source": "They're Made Out of Meat",
@@ -380,7 +380,7 @@
         "source": "\"Official Lojban\"",
         "author": "la uakci",
         "link": "https://docs.google.com/spreadsheets/d/1_vkiwqOIOIJPqZTiomzd4ApUSEQXhEY6CeyZD_6c-PA/edit?gid=1862526252#gid=1862526252",
-        "instance": 9
+        "instance": 10
     },
     "pram": {
         "source": "prami simbi'o",
@@ -407,11 +407,11 @@
         "author": "Kenji Miyazawa",
         "translator": "la .tijlan.",
         "link": "https://docs.google.com/document/d/10Rnm80SieLrpFnk9kn_9bCuon96CNSPTA8hqVaWQYbQ/edit?tab=t.0",
-        "instance": 12
+        "instance": 13
     },
     "rolj": {
         "source": "roljbogu'e chatlog",
-        "instance": 91
+        "instance": 92
     },
     "rout": {
         "source": "Route Sphere",
