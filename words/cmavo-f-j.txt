@@ -36,8 +36,13 @@
                 -note The {{co'a}} and {{co'u}} follow the BPFK interpretation.
             -example:
                 -lojban .i lu ge'e cizra zdani .i .ua nai ki'u ma {{fe'e so'i roi}} vorme li'u
-                -english "What a weird building. Why does it {{have so many}} doors?""
+                -english "What a weird building. Why does it {{have so many}} doors?"
                 -source-id rest
+            -example:
+                -lojban .i mi vofli {{fe'eru'inai}} ve'a lo mulno munje
+                -english I have flown {{a little}} over all parts of the world.
+                -source-id litt
+                -contributor la lalxu
 
 
 -entry:

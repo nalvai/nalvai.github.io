@@ -3307,12 +3307,22 @@
                             },
                             {
                                 "lojban": ".i lu ge'e cizra zdani .i .ua nai ki'u ma {{fe'e so'i roi}} vorme li'u",
-                                "english": "\"What a weird building. Why does it {{have so many}} doors?\"\"",
+                                "english": "\"What a weird building. Why does it {{have so many}} doors?\"",
                                 "source-id": "rest",
                                 "source": "The Restaurant of Many Orders",
                                 "author": "Kenji Miyazawa",
                                 "translator": "la .tijlan.",
                                 "link": "https://docs.google.com/document/d/10Rnm80SieLrpFnk9kn_9bCuon96CNSPTA8hqVaWQYbQ/edit?tab=t.0"
+                            },
+                            {
+                                "lojban": ".i mi vofli {{fe'eru'inai}} ve'a lo mulno munje",
+                                "english": "I have flown {{a little}} over all parts of the world.",
+                                "source-id": "litt",
+                                "contributor": "la lalxu",
+                                "source": "The Little Prince",
+                                "author": "Antoine de Saint-Exupéry",
+                                "translator": "la .xorxes.",
+                                "link": "https://mw.lojban.org/papri/le_cmalu_noltru"
                             }
                         ]
                     }
@@ -6180,6 +6190,57 @@
                                 "source-id": "rolj",
                                 "speaker": "la ziren",
                                 "source": "roljbogu'e chatlog"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "good": true
+    },
+    {
+        "word": "pagbu",
+        "gloss": "part, component &mdash; whole, to have ... as its part",
+        "type": "gismu",
+        "freq": "9400",
+        "rank": "431",
+        "tag": "core-2",
+        "rafsi-cvc": "pag",
+        "rafsi-ccv": null,
+        "rafsi-cvv": "pau",
+        "definition": [
+            {
+                "meaning": [
+                    {
+                        "exp": "x_1 is a part/component/piece/portion/segment of x_2 [where x_2 is a whole/mass]; x_2 is partly x_1.",
+                        "example": [
+                            {
+                                "lojban": ".i do mi {{pagbu}} tai lo nu lo pelji cu {{pagbu}} lo cukta",
+                                "english": "You {{are a part of}} me, like paper {{is part of}} a book.",
+                                "source-id": "pram",
+                                "source": "prami simbi'o",
+                                "author": "Djemynai",
+                                "link": "https://www.youtube.com/watch?v=g3BQ-pE7ypY"
+                            },
+                            {
+                                "lojban": "ni'o zoi ty. e .ty cmavo fi lo du'u lo lifri cu sepli {{le drata pagbu be le jufra}}",
+                                "english": "The particle <i>e</i>, which [introduces] a direct object, separates it from {{the rest of the sentence}}.",
+                                "source-id": "tokp",
+                                "note": "The grammatical term \"direct object\" is translated as {{lo lifri}}, lit. \"experiencer\".",
+                                "source": "Toki Pona Cheatsheet",
+                                "author": "Blinry",
+                                "translator": "la .samflir.",
+                                "link": "https://blinry.org/toki-pona-cheat-sheet/toki-pona-cheat-sheet-jbo.pdf",
+                                "originallink": "https://blinry.org/toki-pona-cheat-sheet/toki-pona-cheat-sheet.pdf"
+                            },
+                            {
+                                "lojban": ".i do {{se pagbu}} ro da poi do djuno ja lifri ke'a ca lo do pu nunji'e",
+                                "english": "You {{have within you}} all the knowledge and experiences of all your past lives.",
+                                "source-id": "eggq",
+                                "source": "The Egg",
+                                "author": "Andy Weir",
+                                "translator": "la nalvai",
+                                "link": "https://nalvai.neocities.org/translations/the-egg/"
                             }
                         ]
                     }

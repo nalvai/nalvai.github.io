@@ -1,6 +1,6 @@
 # NALVAI: Nalvai's Assortment of Lojban Vocabulary Attestation Instances
 ## What is this?
-**NALVAI** is a Lojban dictionary that uses quotations from *real-world texts* as examples of usage. It currently contains **170 words** with [**497 quotations** from **78 Lojban texts**](https://github.com/nalvai/nalvai.github.io#sources). Please provide quotations and definitions to help the dictionary grow!
+**NALVAI** is a Lojban dictionary that uses quotations from *real-world texts* as examples of usage. It currently contains **171 words** with [**500 quotations** from **78 Lojban texts**](https://github.com/nalvai/nalvai.github.io#sources). Please provide quotations and definitions to help the dictionary grow!
 
 Here is how a word look like in this dictionary:
 ![The word a in this dictionary](https://raw.githubusercontent.com/nalvai/nalvai.github.io/refs/heads/master/example_a.png)
@@ -94,21 +94,21 @@ A Lojban word has its meaning encompass over different parts of speech in Englis
 Lojban texts with at least one quotation in this dictionary.
 
 - (92 quotes) roljbogu'e chatlog
-- (42 quotes) [The Little Prince](https://mw.lojban.org/papri/le_cmalu_noltru) by Antoine de Saint-Exupéry, translation by la .xorxes.
+- (43 quotes) [The Little Prince](https://mw.lojban.org/papri/le_cmalu_noltru) by Antoine de Saint-Exupéry, translation by la .xorxes.
 - (27 quotes) [Alice in Wonderland](https://mw.lojban.org/papri/lo_selfri_be_la_.alis._bei_bu%27u_la_selmacygu%27e) by Lewis Carroll, translation by la .xorxes.
 - (22 quotes) [The Clockmaker](https://mw.lojban.org/papri/le_junla_zbasu) by Robert Louis Stevenson, translation by la .xorxes. ([Original](https://en.wikisource.org/wiki/The_Clockmaker))
 - (22 quotes) [The Wonderful Wizard of Oz](https://selpahi.de/oz_plain.html) by L. Frank Baum, translation by la solpa'i
 - (18 quotes) jbobratca chatlog
 - (14 quotes) [The Metamorphosis](https://mw.lojban.org/images/f/fc/lonubinxo.pdf) by Franz Kafka, translation by la .xorxes.
 - (13 quotes) [The Restaurant of Many Orders](https://docs.google.com/document/d/10Rnm80SieLrpFnk9kn_9bCuon96CNSPTA8hqVaWQYbQ/edit?tab=t.0) by Kenji Miyazawa, translation by la .tijlan.
+- (12 quotes) [The Egg](https://nalvai.neocities.org/translations/the-egg/) by Andy Weir, translation by la nalvai
 - (12 quotes) [la melbi e le ractu](https://lynn.github.io/la-melbi-e-le-ractu/) by la lalxu
 - (12 quotes) [la nicte cadzu](https://mw.lojban.org/papri/Robin%27s_Palm_Writings:_la_nicte_cadzu) by Robin Lee Powell
-- (11 quotes) [The Egg](https://nalvai.neocities.org/translations/the-egg/) by Andy Weir, translation by la nalvai
 - (10 quotes) [The Lay of the Land](https://www.youtube.com/watch?v=ViGGR231zvQ) by Worldbuilding Notes
 - (10 quotes) ["Official Lojban"](https://docs.google.com/spreadsheets/d/1_vkiwqOIOIJPqZTiomzd4ApUSEQXhEY6CeyZD_6c-PA/edit?gid=1862526252#gid=1862526252) by la uakci
 - (10 quotes) [The Scientific Ape](https://mw.lojban.org/papri/le_saske_smani) by Robert Louis Stevenson, translation by la .xorxes. ([Original](https://en.wikisource.org/wiki/The_Scientific_Ape))
+- (9 quotes) [prami simbi'o](https://www.youtube.com/watch?v=g3BQ-pE7ypY) by Djemynai
 - (9 quotes) [Snow White](https://selpahi.de/snimeblabi.html) by Brothers Grimm, translation by la solpa'i
-- (8 quotes) [prami simbi'o](https://www.youtube.com/watch?v=g3BQ-pE7ypY) by Djemynai
 - (7 quotes) [Carefree Wandering (逍遙遊)](https://www.youtube.com/watch?v=FGY3awgABhU) by Zhuangzi, translation by geezmolycos
 - (7 quotes) [Still Alive](https://www.youtube.com/watch?v=hRrIioMA4w8) by Jonathan Coulton, translation by la solpa'i
 - (7 quotes) [za'o](https://www.youtube.com/watch?v=TKbFwr-1ZQ4) by Djemynai
@@ -174,12 +174,13 @@ Lojban texts with at least one quotation in this dictionary.
 
 The quotes from chatlogs are from the following speakers: (in no particular order)
 
-la lunra, qimar, la melmi, la xrula, la janbe, la bakre'u, la gleki, .kúblizel., la ilmen, Haze, yeet kitty, \_4Denthusiast, bancip, la tirprij, la lalxu, la nonselcme, la kanba, Lucilla, la solpa'i, la ziren, la srasu, latkerlo, la lunbe, la uakci, la fagri, la evis, la bisri'e, la samflir, la varik, la katador, la nalvai, la .zi., dram, Stephen Dedalus, misotanni, la piier, la kanis, AstroMacGuffin, niftg, melody!, Magnap, 
+la samflir, niftg, la srasu, la xrula, la lunbe, la piier, .kúblizel., AstroMacGuffin, la evis, la lalxu, latkerlo, Magnap, Stephen Dedalus, la kanis, la bisri'e, qimar, melody!, la melmi, la solpa'i, dram, Lucilla, la ziren, la janbe, la .zi., Haze, bancip, la ilmen, la katador, la gleki, misotanni, la fagri, la bakre'u, la varik, la uakci, la tirprij, la nonselcme, la lunra, \_4Denthusiast, yeet kitty, la kanba, la nalvai, 
 
 Huge thanks to the following individuals who contributed to this project:
 
 - la ninlat.: **to**, 3 quotes.
 - la janbe: 1 quote.
+- la lalxu: 1 quote.
 
 - la .evis. for adding a dark mode
     

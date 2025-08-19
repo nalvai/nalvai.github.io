@@ -1,5 +1,31 @@
 
 -entry:
+    -word pagbu
+    -gloss part, component &mdash; whole, to have ... as its part 
+    -type gismu
+    -definition:
+        -meaning:
+            -exp x_1 is a part/component/piece/portion/segment of x_2 [where x_2 is a whole/mass]; x_2 is partly x_1.
+            -example:
+                -lojban .i do mi {{pagbu}} tai lo nu lo pelji cu {{pagbu}} lo cukta
+                -english You {{are a part of}} me, like paper {{is part of}} a book.
+                -source-id pram
+            -example:
+                -lojban ni'o zoi ty. e .ty cmavo fi lo du'u lo lifri cu sepli {{le drata pagbu be le jufra}}
+                -english The particle <i>e</i>, which [introduces] a direct object, separates it from {{the rest of the sentence}}.
+                -source-id tokp
+                -note The grammatical term "direct object" is translated as {{lo lifri}}, lit. "experiencer".
+            -example:
+                -lojban .i do {{se pagbu}} ro da poi do djuno ja lifri ke'a ca lo do pu nunji'e
+                -english You {{have within you}} all the knowledge and experiences of all your past lives.
+                -source-id eggq
+
+
+
+
+
+
+-entry:
     -word pendo
     -gloss friend, to befrind, friendly &mdash; to have friends
     -type gismu
