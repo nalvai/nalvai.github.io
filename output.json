@@ -1622,6 +1622,64 @@
         "good": true
     },
     {
+        "word": "cirko",
+        "gloss": "to lose (an object or a property) &mdash; to be lost &mdash; condition/situation of losing",
+        "type": "gismu",
+        "freq": "2190",
+        "rank": "953",
+        "tag": "common",
+        "rafsi-cvc": null,
+        "rafsi-ccv": "cri",
+        "rafsi-cvv": null,
+        "definition": [
+            {
+                "meaning": [
+                    {
+                        "exp": "x_1 loses person/thing x_2 at/near x_3; x_1 loses property/feature x_2 in conditions/situation x_3.",
+                        "example": [
+                            {
+                                "lojban": ".i da'i mi ka'e {{cirko}} pa po'o selcni na gi'a cuxna co {{cirko}} lo ka ka'e prami",
+                                "english": "If I could {{give up}} just one feeling, I'd choose to {{give up}} my ability to love.",
+                                "source-id": "calc",
+                                "source": "Calc.",
+                                "author": "JimmyThumbP",
+                                "translator": "tetsusquared (la .tirprij.)",
+                                "link": "https://www.youtube.com/watch?v=n4NhUEUvwew"
+                            },
+                            {
+                                "lojban": ".i lo nu ra fengu je jusycurve lumci cu rinka lo nalracli {{nu cirko lo megdo be lo cukta}}",
+                                "english": "It is their rage-fueled and fundamentalist cleansing that caused the senseless {{loss of millions of volumes}}.",
+                                "source-id": "libr",
+                                "source": "The Library of Babel",
+                                "author": "Jorge Luis Borges",
+                                "translator": "la .xorxes.",
+                                "link": "https://mw.lojban.org/papri/la_ckuzda_pe_la_babel"
+                            },
+                            {
+                                "lojban": "ni'o la lian cu djuno lo du'u da'i lo burcu cu {{cirko}} lo ka makfa kei lo nu lo balnoltru ku ralte",
+                                "english": "Liang knew the brush would {{lose}} its magic in the emperor's hands.",
+                                "source-id": "lian",
+                                "source": "Liang and the Magic Paintbrush",
+                                "author": "Demi",
+                                "translator": "la darsi",
+                                "editor": "la gleki",
+                                "link": "https://docs.google.com/spreadsheets/d/1_vkiwqOIOIJPqZTiomzd4ApUSEQXhEY6CeyZD_6c-PA/edit?gid=768225989#gid=768225989"
+                            },
+                            {
+                                "lojban": ".i lu la'e di'u cu zabna li'u cu ka'e {{cirko tu'a zo cu}}",
+                                "english": "The \"la'e di'u cu zabna\" can {{go without the \"cu\"}}.",
+                                "source-id": "rolj",
+                                "speaker": "la lalxu",
+                                "source": "roljbogu'e chatlog"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "good": true
+    },
+    {
         "word": "ciska",
         "gloss": "to write &mdash; to be written, text &mdash; writing surface/medium &mdash; writing implement/instrument",
         "type": "gismu",
