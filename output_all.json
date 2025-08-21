@@ -43938,7 +43938,7 @@
     },
     {
         "word": "va'u",
-        "gloss": "benefiting from",
+        "gloss": "Preposition: benefitting from ...",
         "type": "cmavo",
         "freq": "2302",
         "rank": "931",
@@ -43951,11 +43951,54 @@
                 "selmaho": "BAI",
                 "meaning": [
                     {
-                        "exp": "xamgu modal, 1st place beneficiary case tag complement  benefiting from ..."
+                        "exp": "Benefitting from ...; Introduces an unnumbered sumti that plays the role of {{xamgu}}'s x_1 in the sentence.",
+                        "note": "The event/statement described by the bridi benefits from the referent of the tagged sumti.",
+                        "example": [
+                            {
+                                "lojban": ".i cyny. smadi lo nu ga nai na kanro zenba sutra {{va'u loi glare cidja}} gi ba tceraktu fasnu",
+                                "english": "Both of them felt that unless they fortified themselves {{with something warm to eat}} very soon, troubles might happen.",
+                                "source-id": "rest",
+                                "source": "The Restaurant of Many Orders",
+                                "author": "Kenji Miyazawa",
+                                "translator": "la .tijlan.",
+                                "link": "https://docs.google.com/document/d/10Rnm80SieLrpFnk9kn_9bCuon96CNSPTA8hqVaWQYbQ/edit?tab=t.0"
+                            }
+                        ]
+                    },
+                    {
+                        "context": "{{se}} ~",
+                        "exp": "With beneficiary ...; Introduces an unnumbered sumti that plays the role of {{xamgu}}'s x_2 in the sentence.",
+                        "note": "Much more common than {{va'u}} by itself. The event/statement described by the bridi is good for the referent of the tagged sumti.",
+                        "example": [
+                            {
+                                "lojban": ".i va'o ro nu do zukte lo te xendo kei do zukte {{se va'u do}}",
+                                "english": "Every act of kindness you've done, you've done {{to yourself}}.",
+                                "source-id": "eggq",
+                                "source": "The Egg",
+                                "author": "Andy Weir",
+                                "translator": "la nalvai",
+                                "link": "https://nalvai.neocities.org/translations/the-egg/"
+                            },
+                            {
+                                "lojban": ".i ko pensi ro lo se cilre {{be se va'u lo prenu poi jmive za'o}}",
+                                "english": "Think of all the things we learned {{for the people who are still alive}}",
+                                "source-id": "stil",
+                                "source": "Still Alive",
+                                "author": "Jonathan Coulton",
+                                "translator": "la solpa'i",
+                                "link": "https://www.youtube.com/watch?v=hRrIioMA4w8"
+                            }
+                        ]
+                    },
+                    {
+                        "context": "{{te}} ~",
+                        "exp": "With goodness standard ...; Introduces an unnumbered sumti that plays the role of {{xamgu}}'s x_3 in the sentence.",
+                        "note": "Unattested."
                     }
                 ]
             }
-        ]
+        ],
+        "good": true
     },
     {
         "word": "vau",
