@@ -6662,6 +6662,65 @@
         "good": true
     },
     {
+        "word": "prali",
+        "gloss": "gain, profit, benefit &mdash; to profit, to gain &mdash; profitable, (of an activity) to result in profit",
+        "type": "gismu",
+        "freq": "2260",
+        "rank": "940",
+        "tag": "common",
+        "rafsi-cvc": "pal",
+        "rafsi-ccv": null,
+        "rafsi-cvv": null,
+        "definition": [
+            {
+                "meaning": [
+                    {
+                        "exp": "x_1 is a profit/gain/benefit/advantage to x_2 accruing/resulting from activity/process x_3.",
+                        "example": [
+                            {
+                                "lojban": ".i ku'i {{no da prali}} fi lo nu badri ro selsre",
+                                "english": "But {{there's no sense}} crying over every mistake",
+                                "source-id": "stil",
+                                "source": "Still Alive",
+                                "author": "Jonathan Coulton",
+                                "translator": "la solpa'i",
+                                "link": "https://www.youtube.com/watch?v=hRrIioMA4w8"
+                            },
+                            {
+                                "lojban": ".i xu da do {{prali}} lo nu sanga le do zgike va'o lo nu le tertigni na se vajni co tinju'i do",
+                                "english": "Would it {{do}} you any {{good}} to sing your heart out if the audience didn't care to listen to you?",
+                                "source-id": "nabm",
+                                "source": "lo nabmi",
+                                "author": "Noise and Bells (la janbe)",
+                                "link": "https://www.youtube.com/watch?v=gv0QIbGc8i8"
+                            },
+                            {
+                                "lojban": ".i la mapypre po'o cu {{se prali da}} lo nuncenba",
+                                "english": "The Hatter was the only one who {{got any advantage}} from the change.",
+                                "source-id": "alic",
+                                "source": "Alice in Wonderland",
+                                "author": "Lewis Carroll",
+                                "translator": "la .xorxes.",
+                                "link": "https://mw.lojban.org/papri/lo_selfri_be_la_.alis._bei_bu%27u_la_selmacygu%27e"
+                            },
+                            {
+                                "lojban": ".i ji'a li'a ma'a ba facki {{su'o prali be lo remna}}",
+                                "english": "And we shall doubtless make discoveries {{useful to the humans}}.",
+                                "source-id": "scie",
+                                "source": "The Scientific Ape",
+                                "author": "Robert Louis Stevenson",
+                                "translator": "la .xorxes.",
+                                "link": "https://mw.lojban.org/papri/le_saske_smani",
+                                "originallink": "https://en.wikisource.org/wiki/The_Scientific_Ape"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "good": true
+    },
+    {
         "word": "prami",
         "gloss": "to love, lover &mdash; to be loved, beloved",
         "type": "gismu",
