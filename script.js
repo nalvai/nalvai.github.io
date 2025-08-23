@@ -6,6 +6,7 @@ const typeFilterEls = document.querySelectorAll('#typeFilter input');
 const tagFilterEls = document.querySelectorAll('#tagFilter input');
 const sortOrderEl = document.getElementById('sortOrder');
 const resultsDiv = document.getElementById('results');
+let linked_word = window.location.hash.substring(1);
 
 // from https://www.geeksforgeeks.org/edit-distance-dp-5/
 function editDistance(s1, s2) {
@@ -249,6 +250,7 @@ function displayResults(results) {
 
     const entry = document.createElement('details');
     entry.className = 'entry';
+    entry.setAttribute("id", item.word);
 
     entry.appendChild(generateLabelElement(item, matches));
     entry.appendChild(generateMetaElement(item));
@@ -359,6 +361,11 @@ fetch('output.json')
       includeMatches: true
     });
     filterAndDisplay(); // Initial load
+    if (document.getElementById(linked_word) !== undefined) {
+      let linked_entry = document.getElementById(linked_word);
+      linked_entry.open = true;
+      linked_entry.scrollIntoView();
+    }
   });
 
 // Event listeners
@@ -379,4 +386,13 @@ toggleButton.addEventListener('click', () => {
 
   toggleButton.textContent = expand ? 'Close all' : 'Expand all';
 });
+
+window.addEventListener('hashchange', (e) => {
+  if (document.getElementById(linked_word) !== undefined) {
+    linked_word = window.location.hash.substring(1);
+    linked_entry = document.getElementById(linked_word);
+    linked_entry.open = true;
+    linked_entry.scrollIntoView();
+  }
+})
 
