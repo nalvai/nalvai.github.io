@@ -528,7 +528,7 @@
     },
     {
         "word": "bacru",
-        "gloss": "utter",
+        "gloss": "to speak, to utter &mdash; (words) spoken",
         "type": "gismu",
         "freq": "11560",
         "rank": "359",
@@ -540,11 +540,51 @@
             {
                 "meaning": [
                     {
-                        "exp": "$x_{1}$ utters verbally/says/phonates/speaks [vocally makes sound] $x_{2}$."
+                        "exp": "x_1 utters verbally/says/phonates/speaks [vocally makes sound] x_2.",
+                        "note": "Does not necessarily imply communication or audience. cf. {{cusku}}, which implies audience.",
+                        "example": [
+                            {
+                                "lojban": ".i le ractu ku {{bacru}} zo coi",
+                                "english": "The rabbit {{said}}: “Hey.”",
+                                "source-id": "melb",
+                                "source": "la melbi e le ractu",
+                                "author": "la lalxu",
+                                "link": "https://lynn.github.io/la-melbi-e-le-ractu/"
+                            },
+                            {
+                                "lojban": ".i ku'i ko'a na {{bacru}} lo cradybo'a .i lo minji cu {{bacru}}",
+                                "english": "But the signals don't {{come from (= spoken by)}} them. [The signals] {{come from}} machines.",
+                                "source-id": "made",
+                                "note": "Note that the English sentences and the Lojban sentences have their arguments in opposite order. {{x_1 bacru x_2}} translates to \"x_2 (signals) come from x_1\".",
+                                "source": "They're Made Out of Meat",
+                                "author": "Terry Bisson",
+                                "translator": "Pierre Abbot",
+                                "link": "https://mw.lojban.org/papri/ko%27a_marji_lo_rectu"
+                            },
+                            {
+                                "lojban": ".i lo zbasu noi manku cusku fo lo drata se zbasu cu simlu lo ka {{bacru lo jetnu voksa}} se pi'o lo junla",
+                                "english": "The creator, who spoke obscurely in his other works, seemed in the clock to {{utter an authentic voice}}.",
+                                "source-id": "cloc",
+                                "source": "The Clockmaker",
+                                "author": "Robert Louis Stevenson",
+                                "translator": "la .xorxes.",
+                                "link": "https://mw.lojban.org/papri/le_junla_zbasu",
+                                "originallink": "https://en.wikisource.org/wiki/The_Clockmaker"
+                            },
+                            {
+                                "lojban": ".i mutce smaji .i sy tirna {{lo vasxu se bacru be lo gerku be'o}} .e nai lo drata",
+                                "english": "It's very quiet. She heard {{dogs' whisperings}} and nothing else.",
+                                "source-id": "nict",
+                                "source": "la nicte cadzu",
+                                "author": "Robin Lee Powell",
+                                "link": "https://mw.lojban.org/papri/Robin%27s_Palm_Writings:_la_nicte_cadzu"
+                            }
+                        ]
                     }
                 ]
             }
-        ]
+        ],
+        "good": true
     },
     {
         "word": "badna",

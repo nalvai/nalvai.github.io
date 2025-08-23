@@ -304,7 +304,7 @@
         "author": "Terry Bisson",
         "translator": "Pierre Abbot",
         "link": "https://mw.lojban.org/papri/ko%27a_marji_lo_rectu",
-        "instance": 3
+        "instance": 4
     },
     "maze": {
         "source": "ma zerfu'e",
@@ -317,7 +317,7 @@
         "source": "la melbi e le ractu",
         "author": "la lalxu",
         "link": "https://lynn.github.io/la-melbi-e-le-ractu/",
-        "instance": 12
+        "instance": 13
     },
     "meta": {
         "source": "The Metamorphosis",
@@ -361,7 +361,7 @@
         "source": "la nicte cadzu",
         "author": "Robin Lee Powell",
         "link": "https://mw.lojban.org/papri/Robin%27s_Palm_Writings:_la_nicte_cadzu",
-        "instance": 12
+        "instance": 13
     },
     "nufa": {
         "source": "la nu farlu lo plini",

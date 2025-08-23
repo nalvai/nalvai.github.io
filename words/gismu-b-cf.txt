@@ -1,5 +1,31 @@
 
 -entry:
+    -word bacru
+    -gloss to speak, to utter &mdash; (words) spoken
+    -type gismu
+    -definition:
+        -meaning:
+            -exp x_1 utters verbally/says/phonates/speaks [vocally makes sound] x_2.
+            -note Does not necessarily imply communication or audience. cf. {{cusku}}, which implies audience.
+            -example:
+                -lojban .i le ractu ku {{bacru}} zo coi
+                -english The rabbit {{said}}: “Hey.”
+                -source-id melb
+            -example:
+                -lojban .i ku'i ko'a na {{bacru}} lo cradybo'a .i lo minji cu {{bacru}}
+                -english But the signals don't {{come from (= spoken by)}} them. [The signals] {{come from}} machines.
+                -source-id made
+                -note Note that the English sentences and the Lojban sentences have their arguments in opposite order. {{x_1 bacru x_2}} translates to "x_2 (signals) come from x_1".
+            -example:
+                -lojban .i lo zbasu noi manku cusku fo lo drata se zbasu cu simlu lo ka {{bacru lo jetnu voksa}} se pi'o lo junla
+                -english The creator, who spoke obscurely in his other works, seemed in the clock to {{utter an authentic voice}}.
+                -source-id cloc
+            -example:
+                -lojban .i mutce smaji .i sy tirna {{lo vasxu se bacru be lo gerku be'o}} .e nai lo drata
+                -english It's very quiet. She heard {{dogs' whisperings}} and nothing else.
+                -source-id nict
+
+-entry:
     -word bangu
     -gloss language &mdash; to use (a language) &mdash; to be expressed with a language
     -type gismu
