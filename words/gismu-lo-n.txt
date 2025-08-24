@@ -89,7 +89,7 @@
             -exp x_1 is a cat/[puss/pussy/kitten] [feline animal] of species/breed x_2; (adjective:) x_1 is feline.
             -note Usage of x<sub>2</sub> is not attested, though the place is mentioned quite often when discussing type-semantics of Lojban.
             -example:
-                -lojban ju'o la .dinas. ca lo cabnicte ba mutce lo ka claxu mi to sa'a la .dinas. {{cu mlatu}} toi
+                -lojban ju'o la .dinas. ca lo cabnicte ba mutce lo ka claxu mi to sa'a la .dinas. cu {{mlatu}} toi
                 -english Dinah will miss me very much tonight, I should think! (Dinah {{was the cat}}.)
                 -source-id alic
             -example:

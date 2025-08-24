@@ -36,7 +36,7 @@
             -exp x_1 calculates/reckons/computes x_2 [value (ni)/state] from data x_3 by process x_4. 
             -example:
                 -lojban .i ko'a {{kanji}} lo te sepli pe lo botpi jo'u lo jubme jo'u lo bitmu jo'u lo fagri stuzi kajna jadni jo'u lo djedi be li bi zmiku junla fi'o se satci lo mikri ki'u lo nu lo ko'a tutci jo'u tadji cu carmi ralci
-                -english ..., and its author had calculated the relative position of the caraffe, the table, the walls, the chimney piece ornaments and the eight-day clock, to the millionth place of decimals, for his instruments and methods were exquisitely fine.
+                -english ..., and its author had {{calculated}} the relative position of the caraffe, the table, the walls, the chimney piece ornaments and the eight-day clock, to the millionth place of decimals, for his instruments and methods were exquisitely fine.
                 -source-id cloc
             -example:
                 -lojban .i ku'i {{ro le danfu co se kanji be mi}} cu kansa lo nu mi za'u re'u cirko
@@ -197,5 +197,25 @@
                 -english I would bring myself down to {{his level}}. (lit. I would put myself within {{his range}}.)
                 -source-id litt
 
+
+-entry:
+    -word lijda
+    -gloss religion &mdash; believer (of a religion), to believe in (a religion) &mdash; doctrine, belief, practice (of a religion) 
+    -type gismu
+    -definition:
+        -meaning:
+            -exp x_1 is a religion of believers including x_2 sharing common beliefs/practices/tenets including x_3.
+            -example:
+                -lojban .i {{ro da poi lijda}} cu drani lo da se steci
+                -english {{All religions}} are right in their own way.
+                -source-id eggq
+            -example:
+                -lojban .i {{lo ru'a catni lojbo se lijda ku}} krici lo du'u ke po'o lo bangu klesi pe ri ku jai jetnu
+                -english {{Official Lojban believers}} think that only their dialect is the true one, ...
+                -source-id offi
+            -example:
+                -lojban ni'o lo jalge be lo nu ko'a lanli cu zi binxo {{lo te lijda be lo jdasi'a}}
+                -english The queries of [the philosopher] soon became {{doctrines of the church}}.
+                -source-id cloc
 
 

@@ -35,14 +35,14 @@
                 -source-id wond
                 -note The {{co'a}} and {{co'u}} follow the BPFK interpretation.
             -example:
-                -lojban .i lu ge'e cizra zdani .i .ua nai ki'u ma {{fe'e so'i roi}} vorme li'u
-                -english "What a weird building. Why does it {{have so many}} doors?"
-                -source-id rest
-            -example:
                 -lojban .i mi vofli {{fe'eru'inai}} ve'a lo mulno munje
                 -english I have flown {{a little}} over all parts of the world.
                 -source-id litt
                 -contributor la lalxu
+            -example:
+                -lojban .i lu ge'e cizra zdani .i .ua nai ki'u ma {{fe'e so'i roi}} vorme li'u
+                -english "What a weird building. Why does it {{have so many}} doors?"
+                -source-id rest
 
 
 -entry:
@@ -187,8 +187,8 @@
             -exp Replaces the selbri's original x_1 with the sumti introduced by the following preposition. The original x_1 is moved to the {{fai}} place.  
             -note Note that {{jai}} acts on tanru unit (instead of selbri as a whole), so {{jai PREPOSITION broda brode}} will have the exact same place strcutre as {{brode}}.
             -example:
-                -lojban .i {{jai gau sepli fa ko}} {{fai le terdi}} fe le fagri
-                -english {{Separate}} {{the earth}} from the fire. 
+                -lojban .i {{jai gau sepli fa ko}} fai le terdi fe le fagri
+                -english {{Separate}} the earth from the fire. 
                 -source-id emer
             -example:
                 -lojban .i {{lo jai ca cliva}} cu jibni

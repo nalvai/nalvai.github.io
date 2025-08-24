@@ -33,8 +33,8 @@
                 -source-id firs
         -meaning:
             -context When followed by a sumti
-            -exp <i>This usage is undefined and not attested.</i>
-            -note Mentioned once in roljbogu'e, where {{ka'e SUMTI}} is said to mean "possibility/capability under conditions of SUMTI".
+            -exp is possible under condition ...
+            -note Defined in the Lojban definition of {{ka'e}} on jbovlaste, but isn't attested.
 
 
 -entry:
@@ -132,7 +132,7 @@
             -example:
                 -lojban coi {{la na'e vajni ku}} noi je'a vajni
                 -english Hello {{Not Important}}, who is indeed important!
-                -note "Not Important" is the name of the person greeted. Note the {{ku}} in this expression: it closes the selbri name. if the {{ku}} wasn't there the name selbri becomes {{na'e vajni noi je'a vajni}}, in which the relative clause becomes part of the name.
+                -note "Not Important" is the name of the person greeted. Note the {{ku}} in this expression: it closes the name. if the {{ku}} wasn't there the name becomes {{na'e vajni noi je'a vajni}}, in which the relative clause becomes part of the name.
                 -source-id rolj
                 -speaker Lucilla
             -example:
@@ -156,7 +156,7 @@
                 -english I authored {{Seven Ways to Say "I Love You"}} so that those interested can try to get its meaning.
                 -source-id jbob
                 -speaker la solpa'i
-                -note "Seven Ways to Say 'I Love You'" probably refers to <a href="https://pastebin.com/raw/qmE06Tm0">a set of seven sentences in Toaq</a>. The quote is from June 2017, so the Toaq is supposedly not too distant from that. 
+                -note "Seven Ways to Say 'I Love You'" refers to <a href="https://pastebin.com/raw/qmE06Tm0">a set of seven sentences in Toaq</a>. The quote is from June 2017, so the Toaq is supposedly not too distant from that. 
 
 -entry:
     -word la'o

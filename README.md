@@ -1,6 +1,6 @@
 # NALVAI: Nalvai's Assortment of Lojban Vocabulary Attestation Instances
 ## What is this?
-**NALVAI** is a Lojban dictionary that uses quotations from *real-world texts* as examples of usage. It currently contains **175 words** with [**511 quotations** from **78 Lojban texts**](https://github.com/nalvai/nalvai.github.io#sources). Please provide quotations and definitions to help the dictionary grow!
+**NALVAI** is a Lojban dictionary that uses quotations from *real-world texts* as examples of usage. It currently contains **176 words** with [**512 quotations** from **78 Lojban texts**](https://github.com/nalvai/nalvai.github.io#sources). Please provide quotations and definitions to help the dictionary grow!
 
 Here is how a word look like in this dictionary:
 ![The word a in this dictionary](https://raw.githubusercontent.com/nalvai/nalvai.github.io/refs/heads/master/example_a.png)
@@ -104,9 +104,9 @@ Lojban texts with at least one quotation in this dictionary.
 - (13 quotes) [la melbi e le ractu](https://lynn.github.io/la-melbi-e-le-ractu/) by la lalxu
 - (13 quotes) [la nicte cadzu](https://mw.lojban.org/papri/Robin%27s_Palm_Writings:_la_nicte_cadzu) by Robin Lee Powell
 - (13 quotes) [The Restaurant of Many Orders](https://docs.google.com/document/d/10Rnm80SieLrpFnk9kn_9bCuon96CNSPTA8hqVaWQYbQ/edit?tab=t.0) by Kenji Miyazawa, translation by la .tijlan.
+- (11 quotes) ["Official Lojban"](https://docs.google.com/spreadsheets/d/1_vkiwqOIOIJPqZTiomzd4ApUSEQXhEY6CeyZD_6c-PA/edit?gid=1862526252#gid=1862526252) by la uakci
 - (11 quotes) [The Scientific Ape](https://mw.lojban.org/papri/le_saske_smani) by Robert Louis Stevenson, translation by la .xorxes. ([Original](https://en.wikisource.org/wiki/The_Scientific_Ape))
 - (10 quotes) [The Lay of the Land](https://www.youtube.com/watch?v=ViGGR231zvQ) by Worldbuilding Notes
-- (10 quotes) ["Official Lojban"](https://docs.google.com/spreadsheets/d/1_vkiwqOIOIJPqZTiomzd4ApUSEQXhEY6CeyZD_6c-PA/edit?gid=1862526252#gid=1862526252) by la uakci
 - (9 quotes) [prami simbi'o](https://www.youtube.com/watch?v=g3BQ-pE7ypY) by Djemynai
 - (9 quotes) [Snow White](https://selpahi.de/snimeblabi.html) by Brothers Grimm, translation by la solpa'i
 - (9 quotes) [Still Alive](https://www.youtube.com/watch?v=hRrIioMA4w8) by Jonathan Coulton, translation by la solpa'i
@@ -174,7 +174,7 @@ Lojban texts with at least one quotation in this dictionary.
 
 The quotes from chatlogs are from the following speakers: (in no particular order)
 
-la uakci, yeet kitty, Magnap, la tirprij, misotanni, .kúblizel., Haze, bancip, la evis, la lalxu, la .zi., la xrula, qimar, AstroMacGuffin, la katador, Stephen Dedalus, la nalvai, la solpa'i, la piier, la kanba, la varik, la gleki, la ilmen, la melmi, niftg, Lucilla, la kanis, la samflir, la fagri, la ziren, latkerlo, la lunbe, melody!, la srasu, dram, la lunra, la janbe, la bisri'e, \_4Denthusiast, la bakre'u, la nonselcme, 
+Lucilla, la nalvai, Magnap, la varik, la kanba, misotanni, .kúblizel., la tirprij, la .zi., la nonselcme, la lalxu, la piier, la melmi, la gleki, la solpa'i, latkerlo, la janbe, Stephen Dedalus, la bakre'u, Haze, AstroMacGuffin, la xrula, qimar, melody!, la bisri'e, la kanis, la evis, bancip, la lunra, la ziren, yeet kitty, la lunbe, niftg, dram, la ilmen, la srasu, la fagri, la katador, \_4Denthusiast, la samflir, la uakci, 
 
 Huge thanks to the following individuals who contributed to this project:
 

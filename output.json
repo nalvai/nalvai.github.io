@@ -3424,15 +3424,6 @@
                                 "link": "https://selpahi.de/oz_plain.html"
                             },
                             {
-                                "lojban": ".i lu ge'e cizra zdani .i .ua nai ki'u ma {{fe'e so'i roi}} vorme li'u",
-                                "english": "\"What a weird building. Why does it {{have so many}} doors?\"",
-                                "source-id": "rest",
-                                "source": "The Restaurant of Many Orders",
-                                "author": "Kenji Miyazawa",
-                                "translator": "la .tijlan.",
-                                "link": "https://docs.google.com/document/d/10Rnm80SieLrpFnk9kn_9bCuon96CNSPTA8hqVaWQYbQ/edit?tab=t.0"
-                            },
-                            {
                                 "lojban": ".i mi vofli {{fe'eru'inai}} ve'a lo mulno munje",
                                 "english": "I have flown {{a little}} over all parts of the world.",
                                 "source-id": "litt",
@@ -3441,6 +3432,15 @@
                                 "author": "Antoine de Saint-Exupéry",
                                 "translator": "la .xorxes.",
                                 "link": "https://mw.lojban.org/papri/le_cmalu_noltru"
+                            },
+                            {
+                                "lojban": ".i lu ge'e cizra zdani .i .ua nai ki'u ma {{fe'e so'i roi}} vorme li'u",
+                                "english": "\"What a weird building. Why does it {{have so many}} doors?\"",
+                                "source-id": "rest",
+                                "source": "The Restaurant of Many Orders",
+                                "author": "Kenji Miyazawa",
+                                "translator": "la .tijlan.",
+                                "link": "https://docs.google.com/document/d/10Rnm80SieLrpFnk9kn_9bCuon96CNSPTA8hqVaWQYbQ/edit?tab=t.0"
                             }
                         ]
                     }
@@ -4026,8 +4026,8 @@
                         "note": "Note that {{jai}} acts on tanru unit (instead of selbri as a whole), so {{jai PREPOSITION broda brode}} will have the exact same place strcutre as {{brode}}.",
                         "example": [
                             {
-                                "lojban": ".i {{jai gau sepli fa ko}} {{fai le terdi}} fe le fagri",
-                                "english": "{{Separate}} {{the earth}} from the fire.",
+                                "lojban": ".i {{jai gau sepli fa ko}} fai le terdi fe le fagri",
+                                "english": "{{Separate}} the earth from the fire.",
                                 "source-id": "emer",
                                 "source": "Emerald Tablet",
                                 "author": "an unknown Arabic writer",
@@ -4602,8 +4602,8 @@
                     },
                     {
                         "context": "When followed by a sumti",
-                        "exp": "<i>This usage is undefined and not attested.</i>",
-                        "note": "Mentioned once in roljbogu'e, where {{ka'e SUMTI}} is said to mean \"possibility/capability under conditions of SUMTI\"."
+                        "exp": "is possible under condition ...",
+                        "note": "Defined in the Lojban definition of {{ka'e}} on jbovlaste, but isn't attested."
                     }
                 ]
             }
@@ -4686,7 +4686,7 @@
                         "example": [
                             {
                                 "lojban": ".i ko'a {{kanji}} lo te sepli pe lo botpi jo'u lo jubme jo'u lo bitmu jo'u lo fagri stuzi kajna jadni jo'u lo djedi be li bi zmiku junla fi'o se satci lo mikri ki'u lo nu lo ko'a tutci jo'u tadji cu carmi ralci",
-                                "english": "..., and its author had calculated the relative position of the caraffe, the table, the walls, the chimney piece ornaments and the eight-day clock, to the millionth place of decimals, for his instruments and methods were exquisitely fine.",
+                                "english": "..., and its author had {{calculated}} the relative position of the caraffe, the table, the walls, the chimney piece ornaments and the eight-day clock, to the millionth place of decimals, for his instruments and methods were exquisitely fine.",
                                 "source-id": "cloc",
                                 "source": "The Clockmaker",
                                 "author": "Robert Louis Stevenson",
@@ -5239,7 +5239,7 @@
                             {
                                 "lojban": "coi {{la na'e vajni ku}} noi je'a vajni",
                                 "english": "Hello {{Not Important}}, who is indeed important!",
-                                "note": "\"Not Important\" is the name of the person greeted. Note the {{ku}} in this expression: it closes the selbri name. if the {{ku}} wasn't there the name selbri becomes {{na'e vajni noi je'a vajni}}, in which the relative clause becomes part of the name.",
+                                "note": "\"Not Important\" is the name of the person greeted. Note the {{ku}} in this expression: it closes the name. if the {{ku}} wasn't there the name becomes {{na'e vajni noi je'a vajni}}, in which the relative clause becomes part of the name.",
                                 "source-id": "rolj",
                                 "speaker": "Lucilla",
                                 "source": "roljbogu'e chatlog"
@@ -5271,7 +5271,7 @@
                                 "english": "I authored {{Seven Ways to Say \"I Love You\"}} so that those interested can try to get its meaning.",
                                 "source-id": "jbob",
                                 "speaker": "la solpa'i",
-                                "note": "\"Seven Ways to Say 'I Love You'\" probably refers to <a href=\"https://pastebin.com/raw/qmE06Tm0\">a set of seven sentences in Toaq</a>. The quote is from June 2017, so the Toaq is supposedly not too distant from that.",
+                                "note": "\"Seven Ways to Say 'I Love You'\" refers to <a href=\"https://pastebin.com/raw/qmE06Tm0\">a set of seven sentences in Toaq</a>. The quote is from June 2017, so the Toaq is supposedly not too distant from that.",
                                 "source": "jbobratca chatlog"
                             }
                         ]
@@ -5475,6 +5475,56 @@
                                 "source-id": "jbob",
                                 "speaker": "la lunbe",
                                 "source": "jbobratca chatlog"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "good": true
+    },
+    {
+        "word": "lijda",
+        "gloss": "religion &mdash; believer (of a religion), to believe in (a religion) &mdash; doctrine, belief, practice (of a religion)",
+        "type": "gismu",
+        "freq": "2000",
+        "rank": "988",
+        "tag": "common",
+        "rafsi-cvc": null,
+        "rafsi-ccv": "jda",
+        "rafsi-cvv": null,
+        "definition": [
+            {
+                "meaning": [
+                    {
+                        "exp": "x_1 is a religion of believers including x_2 sharing common beliefs/practices/tenets including x_3.",
+                        "example": [
+                            {
+                                "lojban": ".i {{ro da poi lijda}} cu drani lo da se steci",
+                                "english": "{{All religions}} are right in their own way.",
+                                "source-id": "eggq",
+                                "source": "The Egg",
+                                "author": "Andy Weir",
+                                "translator": "la nalvai",
+                                "link": "https://nalvai.neocities.org/translations/the-egg/"
+                            },
+                            {
+                                "lojban": ".i {{lo ru'a catni lojbo se lijda ku}} krici lo du'u ke po'o lo bangu klesi pe ri ku jai jetnu",
+                                "english": "{{Official Lojban believers}} think that only their dialect is the true one, ...",
+                                "source-id": "offi",
+                                "source": "\"Official Lojban\"",
+                                "author": "la uakci",
+                                "link": "https://docs.google.com/spreadsheets/d/1_vkiwqOIOIJPqZTiomzd4ApUSEQXhEY6CeyZD_6c-PA/edit?gid=1862526252#gid=1862526252"
+                            },
+                            {
+                                "lojban": "ni'o lo jalge be lo nu ko'a lanli cu zi binxo {{lo te lijda be lo jdasi'a}}",
+                                "english": "The queries of [the philosopher] soon became {{doctrines of the church}}.",
+                                "source-id": "cloc",
+                                "source": "The Clockmaker",
+                                "author": "Robert Louis Stevenson",
+                                "translator": "la .xorxes.",
+                                "link": "https://mw.lojban.org/papri/le_junla_zbasu",
+                                "originallink": "https://en.wikisource.org/wiki/The_Clockmaker"
                             }
                         ]
                     }
@@ -5715,7 +5765,7 @@
                         "note": "Usage of x<sub>2</sub> is not attested, though the place is mentioned quite often when discussing type-semantics of Lojban.",
                         "example": [
                             {
-                                "lojban": "ju'o la .dinas. ca lo cabnicte ba mutce lo ka claxu mi to sa'a la .dinas. {{cu mlatu}} toi",
+                                "lojban": "ju'o la .dinas. ca lo cabnicte ba mutce lo ka claxu mi to sa'a la .dinas. cu {{mlatu}} toi",
                                 "english": "Dinah will miss me very much tonight, I should think! (Dinah {{was the cat}}.)",
                                 "source-id": "alic",
                                 "source": "Alice in Wonderland",
