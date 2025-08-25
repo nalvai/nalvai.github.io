@@ -1,6 +1,26 @@
 
 
 -entry:
+    -word janli
+    -gloss to collide with ..., to bump into ... &mdash; to be collided into
+    -type gismu
+    -definition:
+        -meaning:
+            -exp x_1 collides with/crashes/bumps/runs into x_2.
+            -example:
+                -lojban .i su'o roi na mo'u klama gi'e sa'u {{janli}} lo tumla
+                -english Sometimes [we] didn't reach it, but just {{drop to (= collide with)}} the ground [instead].
+                -source-id care
+            -example:
+                -lojban ni'o do mi {{na ru'e janli}} fau lo nu mi muvycau sanli
+                -english You {{almost bumped into}} me as I was standing there motionless.
+                -source-id pram
+            -example:
+                -lojban .i lo xamsi boxna cu {{preja je janli}} lo drudi be lo bloti
+                -english Waves were {{splashing and crashing}} over the deck.
+                -source-id lian
+
+-entry:
     -word jgari
     -gloss to hold, to grasp &mdash; to be held &mdash; (of a part of x<sub>1</sub>) to be used for holding ... &mdash; (of a part of x<sub>2</sub>) to be held at
     -type gismu

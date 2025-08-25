@@ -16657,7 +16657,7 @@
     },
     {
         "word": "janli",
-        "gloss": "collide",
+        "gloss": "to collide with ..., to bump into ... &mdash; to be collided into",
         "type": "gismu",
         "freq": "620",
         "rank": "1669",
@@ -16669,11 +16669,41 @@
             {
                 "meaning": [
                     {
-                        "exp": "$x_{1}$ collides with/crashes/bumps/runs into $x_{2}$."
+                        "exp": "x_1 collides with/crashes/bumps/runs into x_2.",
+                        "example": [
+                            {
+                                "lojban": ".i su'o roi na mo'u klama gi'e sa'u {{janli}} lo tumla",
+                                "english": "Sometimes [we] didn't reach it, but just {{drop to (= collide with)}} the ground [instead].",
+                                "source-id": "care",
+                                "source": "Carefree Wandering (逍遙遊)",
+                                "author": "Zhuangzi",
+                                "translator": "geezmolycos",
+                                "link": "https://www.youtube.com/watch?v=FGY3awgABhU"
+                            },
+                            {
+                                "lojban": "ni'o do mi {{na ru'e janli}} fau lo nu mi muvycau sanli",
+                                "english": "You {{almost bumped into}} me as I was standing there motionless.",
+                                "source-id": "pram",
+                                "source": "prami simbi'o",
+                                "author": "Djemynai",
+                                "link": "https://www.youtube.com/watch?v=g3BQ-pE7ypY"
+                            },
+                            {
+                                "lojban": ".i lo xamsi boxna cu {{preja je janli}} lo drudi be lo bloti",
+                                "english": "Waves were {{splashing and crashing}} over the deck.",
+                                "source-id": "lian",
+                                "source": "Liang and the Magic Paintbrush",
+                                "author": "Demi",
+                                "translator": "la darsi",
+                                "editor": "la gleki",
+                                "link": "https://docs.google.com/spreadsheets/d/1_vkiwqOIOIJPqZTiomzd4ApUSEQXhEY6CeyZD_6c-PA/edit?gid=768225989#gid=768225989"
+                            }
+                        ]
                     }
                 ]
             }
-        ]
+        ],
+        "good": true
     },
     {
         "word": "jansu",
