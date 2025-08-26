@@ -2485,6 +2485,56 @@
         "good": true
     },
     {
+        "word": "darlu",
+        "gloss": "to argue &mdash; argument/stand/case being argued for, supported stand/case &mdash; opposing argument/stand/case",
+        "type": "gismu",
+        "freq": "2580",
+        "rank": "880",
+        "tag": "common",
+        "rafsi-cvc": null,
+        "rafsi-ccv": null,
+        "rafsi-cvv": "dau",
+        "definition": [
+            {
+                "meaning": [
+                    {
+                        "exp": "x_1 argues for stand x_2 against stand x_3; [an opponent is not necessary].",
+                        "example": [
+                            {
+                                "lojban": "bu'u la jbogu'e ro le prenu {{ro roi darlu su'o da}}",
+                                "english": "Down in Lojbanistan everyone {{always has something to argue about}}.",
+                                "source-id": "nabm",
+                                "source": "lo nabmi",
+                                "author": "Noise and Bells (la janbe)",
+                                "link": "https://www.youtube.com/watch?v=gv0QIbGc8i8"
+                            },
+                            {
+                                "lojban": ".i .oi lonu {{darlu fi tau la gleki}} cu xrani fi loka menli",
+                                "english": "Ugh {{arguing against Gleki}} is mind-damaging.",
+                                "source-id": "rolj",
+                                "speaker": "la ziren",
+                                "note": "This example is in tcekitau. Substitute the {{tau}} with {{tu'a}} to convert it into CLL/BPFK Lojban.",
+                                "source": "roljbogu'e chatlog"
+                            },
+                            {
+                                "lojban": ".i ku'i va'o lo nu ra renvi lo ka se lanli zo'u {{lo se darlu be ri'oi bende}} na ka'e jai se nafsku",
+                                "english": "But if they hold up under scrutiny, {{the team's case}} is undeniable.",
+                                "source-id": "firs",
+                                "note": "{{ri'oi}} is an article (selma'o {{LE}}) proposed by la .ilmen. (the translator of this text) meaning \"The latest aforementioned ...\".",
+                                "source": "First dinosaurs may have been omnivores in the north hemisphere",
+                                "author": "Chelsea Whyte on NewScientist",
+                                "translator": "la .ilmen.",
+                                "link": "https://mw.lojban.org/papri/UserWiki:Ilmen/ka%27e_ku_lo_prurai_dinsauru_cu_cti%27omni_bu%27u_lo_berti_bolxadba",
+                                "originallink": "https://www.newscientist.com/article/2125580-first-dinosaurs-may-have-been-omnivores-in-the-north-hemisphere/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "good": true
+    },
+    {
         "word": "de'a",
         "gloss": "Preposition (tense): pausative; event temporarily suspended",
         "type": "cmavo",
