@@ -1,6 +1,6 @@
 # NALVAI: Nalvai's Assortment of Lojban Vocabulary Attestation Instances
 ## What is this?
-**NALVAI** is a Lojban dictionary that uses quotations from *real-world texts* as examples of usage. It currently contains **178 words** with [**517 quotations** from **78 Lojban texts**](https://github.com/nalvai/nalvai.github.io#sources). Please provide quotations and definitions to help the dictionary grow!
+**NALVAI** is a Lojban dictionary that uses quotations from *real-world texts* as examples of usage. It currently contains **179 words** with [**519 quotations** from **78 Lojban texts**](https://github.com/nalvai/nalvai.github.io#sources). Please provide quotations and definitions to help the dictionary grow!
 
 Here is how a word look like in this dictionary:
 ![The word a in this dictionary](https://raw.githubusercontent.com/nalvai/nalvai.github.io/refs/heads/master/example_a.png)
@@ -111,7 +111,7 @@ Lojban texts with at least one quotation in this dictionary.
 - (9 quotes) [Snow White](https://selpahi.de/snimeblabi.html) by Brothers Grimm, translation by la solpa'i
 - (9 quotes) [Still Alive](https://www.youtube.com/watch?v=hRrIioMA4w8) by Jonathan Coulton, translation by la solpa'i
 - (8 quotes) [Carefree Wandering (逍遙遊)](https://www.youtube.com/watch?v=FGY3awgABhU) by Zhuangzi, translation by geezmolycos
-- (7 quotes) [Liang and the Magic Paintbrush](https://docs.google.com/spreadsheets/d/1_vkiwqOIOIJPqZTiomzd4ApUSEQXhEY6CeyZD_6c-PA/edit?gid=768225989#gid=768225989) by Demi, translation by la darsi
+- (8 quotes) [Liang and the Magic Paintbrush](https://docs.google.com/spreadsheets/d/1_vkiwqOIOIJPqZTiomzd4ApUSEQXhEY6CeyZD_6c-PA/edit?gid=768225989#gid=768225989) by Demi, translation by la darsi
 - (7 quotes) [za'o](https://www.youtube.com/watch?v=TKbFwr-1ZQ4) by Djemynai
 - (6 quotes) [clani kerlo](https://docs.google.com/spreadsheets/d/1_vkiwqOIOIJPqZTiomzd4ApUSEQXhEY6CeyZD_6c-PA/edit?gid=1296186733#gid=1296186733) by la fagri
 - (6 quotes) [The Library of Babel](https://mw.lojban.org/papri/la_ckuzda_pe_la_babel) by Jorge Luis Borges, translation by la .xorxes.
@@ -121,6 +121,7 @@ Lojban texts with at least one quotation in this dictionary.
 - (5 quotes) [Little Things](https://mw.lojban.org/papri/little_Things) by Raymond Carver, translation by Jordan DeLong
 - (5 quotes) [koi do mi na](https://meremim.bandcamp.com/album/koi-do-mi-na) by Mèremim
 - (5 quotes) [Toki Pona Cheatsheet](https://blinry.org/toki-pona-cheat-sheet/toki-pona-cheat-sheet-jbo.pdf) by Blinry, translation by la .samflir. ([Original](https://blinry.org/toki-pona-cheat-sheet/toki-pona-cheat-sheet.pdf))
+- (4 quotes) [Calc.](https://www.youtube.com/watch?v=n4NhUEUvwew) by JimmyThumbP, translation by tetsusquared (la .tirprij.)
 - (4 quotes) [letter song](https://www.youtube.com/watch?v=5r-JIZNGAMA) by doriko, translation by tetsusquared (la .tirprij.)
 - (4 quotes) [The Lost One's Weeping](https://www.youtube.com/watch?v=9TA1-lVHAUM) by Neru, translation by tetsusquared (la .tirprij.)
 - (4 quotes) [They're Made Out of Meat](https://mw.lojban.org/papri/ko%27a_marji_lo_rectu) by Terry Bisson, translation by Pierre Abbot
@@ -128,7 +129,6 @@ Lojban texts with at least one quotation in this dictionary.
 - (3 quotes) [Amapola](https://vimeo.com/233808507) by José María Lacalle García, translation by la .guskant.
 - (3 quotes) [Ĉarma Anomali’](https://www.youtube.com/watch?v=H5Bbg8HGkV0) by Noise and Bells, translation by tetsusquared (la .tirprij.) ([Original](https://www.youtube.com/watch?v=q05lSh5qfgk))
 - (3 quotes) [The Book](https://lojban.pw/en/texts/the-book/) by H. P. Lovecraft, translation by la gleki
-- (3 quotes) [Calc.](https://www.youtube.com/watch?v=n4NhUEUvwew) by JimmyThumbP, translation by tetsusquared (la .tirprij.)
 - (3 quotes) [Emerald Tablet](https://lojban.pw/en/texts/emerald-tablet/) by an unknown Arabic writer, translation by la gleki
 - (3 quotes) [First dinosaurs may have been omnivores in the north hemisphere](https://mw.lojban.org/papri/UserWiki:Ilmen/ka%27e_ku_lo_prurai_dinsauru_cu_cti%27omni_bu%27u_lo_berti_bolxadba) by Chelsea Whyte on NewScientist, translation by la .ilmen. ([Original](https://www.newscientist.com/article/2125580-first-dinosaurs-may-have-been-omnivores-in-the-north-hemisphere/))
 - (3 quotes) [lo jbobau cu mo](https://www.youtube.com/watch?v=N-Y9eBBTrxU) by la solpa'i
@@ -174,7 +174,7 @@ Lojban texts with at least one quotation in this dictionary.
 
 The quotes from chatlogs are from the following speakers: (in no particular order)
 
-la samflir, la varik, la lunbe, dram, melody!, .kúblizel., la bakre'u, misotanni, Magnap, la bisri'e, la nalvai, bancip, \_4Denthusiast, yeet kitty, la uakci, la nonselcme, la ziren, la janbe, la solpa'i, la melmi, AstroMacGuffin, Haze, la xrula, niftg, la tirprij, Lucilla, latkerlo, la fagri, la kanba, la evis, Stephen Dedalus, la lalxu, la .zi., la katador, la piier, la kanis, la srasu, qimar, la gleki, la ilmen, la lunra, 
+misotanni, la fagri, la kanis, la nalvai, la janbe, la ziren, la tirprij, la bakre'u, niftg, la piier, AstroMacGuffin, la varik, la katador, la samflir, la bisri'e, \_4Denthusiast, la solpa'i, la lalxu, bancip, la nonselcme, yeet kitty, la kanba, Lucilla, dram, la melmi, .kúblizel., Haze, la srasu, la uakci, melody!, Stephen Dedalus, qimar, la lunbe, la lunra, la gleki, Magnap, la xrula, la evis, latkerlo, la ilmen, la .zi., 
 
 Huge thanks to the following individuals who contributed to this project:
 

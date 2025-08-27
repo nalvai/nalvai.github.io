@@ -2381,6 +2381,48 @@
         "good": true
     },
     {
+        "word": "culno",
+        "gloss": "full &mdash; (of a substance) to fill up, to occupy ... fully",
+        "type": "gismu",
+        "freq": "1320",
+        "rank": "1214",
+        "tag": "common",
+        "rafsi-cvc": null,
+        "rafsi-ccv": "clu",
+        "rafsi-cvv": null,
+        "definition": [
+            {
+                "meaning": [
+                    {
+                        "exp": "x_1 is full/completely filled with x_2.",
+                        "example": [
+                            {
+                                "lojban": "ni'o pu zu selsa'a te cu'u do .i le go'i {{ca'o culno}} lo ka prami je badri",
+                                "english": "That song intended for you, {{is now filled with}} love and sorrow.",
+                                "source-id": "calc",
+                                "source": "Calc.",
+                                "author": "JimmyThumbP",
+                                "translator": "tetsusquared (la .tirprij.)",
+                                "link": "https://www.youtube.com/watch?v=n4NhUEUvwew"
+                            },
+                            {
+                                "lojban": ".i le xamsi zi cu {{culno}} lo finpe noi limna",
+                                "english": "Soon the sea {{was full of}} fish swimming about.",
+                                "source-id": "lian",
+                                "source": "Liang and the Magic Paintbrush",
+                                "author": "Demi",
+                                "translator": "la darsi",
+                                "editor": "la gleki",
+                                "link": "https://docs.google.com/spreadsheets/d/1_vkiwqOIOIJPqZTiomzd4ApUSEQXhEY6CeyZD_6c-PA/edit?gid=768225989#gid=768225989"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "good": true
+    },
+    {
         "word": "cusku",
         "gloss": "to express, to say &mdash; expression &mdash; audience &mdash; communication format",
         "type": "gismu",
