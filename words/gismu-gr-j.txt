@@ -21,6 +21,28 @@
                 -source-id lian
 
 -entry:
+    -word jarco
+    -gloss to show, to display &mdash; (of a property) to be shown, to be displayed &mdash; audience, to see ... being displayed
+    -type gismu
+    -definition:
+        -meaning:
+            -exp x_1 (agent) shows/exhibits/displays/[reveals]/demonstrates x_2 (property) to audience x_3.
+            -note Although the definition says x_2 should be a property, concretes (like objects) in the x_2 place are atteseted (see examples below). See also {{.arco}}, which means the same as {{jarco}} but has its x_2 defined as a concrete.
+            -example:
+                -lojban .i ki'u ma lo junla zbasu na {{jarco}} vo'a
+                -english Why does not the Clockmaker {{declare}} himself?
+                -source-id cloc
+            -example: 
+                -lojban .i lo junla jo'u lo solri {{na jarco lo ka satci mapti simxu}}
+                -english The clock and the sun were {{in no precise accordance}}.
+                -source-id cloc
+            -example: 
+                -lojban .i pau xamgu fa lo nu ma te {{jarco le mi rarna}}
+                -english So who should [I] {{show my true self}} to?
+                -source-id guit
+
+
+-entry:
     -word jgari
     -gloss to hold, to grasp &mdash; to be held &mdash; (of a part of x<sub>1</sub>) to be used for holding ... &mdash; (of a part of x<sub>2</sub>) to be held at
     -type gismu

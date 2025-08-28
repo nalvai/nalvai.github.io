@@ -16871,7 +16871,7 @@
     },
     {
         "word": "jarco",
-        "gloss": "show",
+        "gloss": "to show, to display &mdash; (of a property) to be shown, to be displayed &mdash; audience, to see ... being displayed",
         "type": "gismu",
         "freq": "6090",
         "rank": "567",
@@ -16883,11 +16883,44 @@
             {
                 "meaning": [
                     {
-                        "exp": "$x_{1}$ (agent) shows/exhibits/displays/[reveals]/demonstrates $x_{2}$ (property) to audience $x_{3}$."
+                        "exp": "x_1 (agent) shows/exhibits/displays/[reveals]/demonstrates x_2 (property) to audience x_3.",
+                        "note": "Although the definition says x_2 should be a property, concretes (like objects) in the x_2 place are atteseted (see examples below). See also {{.arco}}, which means the same as {{jarco}} but has its x_2 defined as a concrete.",
+                        "example": [
+                            {
+                                "lojban": ".i ki'u ma lo junla zbasu na {{jarco}} vo'a",
+                                "english": "Why does not the Clockmaker {{declare}} himself?",
+                                "source-id": "cloc",
+                                "source": "The Clockmaker",
+                                "author": "Robert Louis Stevenson",
+                                "translator": "la .xorxes.",
+                                "link": "https://mw.lojban.org/papri/le_junla_zbasu",
+                                "originallink": "https://en.wikisource.org/wiki/The_Clockmaker"
+                            },
+                            {
+                                "lojban": ".i lo junla jo'u lo solri {{na jarco lo ka satci mapti simxu}}",
+                                "english": "The clock and the sun were {{in no precise accordance}}.",
+                                "source-id": "cloc",
+                                "source": "The Clockmaker",
+                                "author": "Robert Louis Stevenson",
+                                "translator": "la .xorxes.",
+                                "link": "https://mw.lojban.org/papri/le_junla_zbasu",
+                                "originallink": "https://en.wikisource.org/wiki/The_Clockmaker"
+                            },
+                            {
+                                "lojban": ".i pau xamgu fa lo nu ma te {{jarco le mi rarna}}",
+                                "english": "So who should [I] {{show my true self}} to?",
+                                "source-id": "guit",
+                                "source": "Guitar, Loneliness and Blue Planet",
+                                "author": "Kessoku Band",
+                                "translator": "tetsusquared (la .tirprij.)",
+                                "link": "https://www.youtube.com/watch?v=Kul_crM2RKg"
+                            }
+                        ]
                     }
                 ]
             }
-        ]
+        ],
+        "good": true
     },
     {
         "word": "jarki",
