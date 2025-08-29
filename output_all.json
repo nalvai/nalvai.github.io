@@ -46460,7 +46460,7 @@
     },
     {
         "word": "xendo",
-        "gloss": "kind",
+        "gloss": "(of a person) kind &mdash; to receive kindness &mdash; (of an action) kind",
         "type": "gismu",
         "freq": "2910",
         "rank": "832",
@@ -46472,11 +46472,32 @@
             {
                 "meaning": [
                     {
-                        "exp": "$x_{1}$ (person) is kind to $x_{2}$ in actions/behavior $x_{3}$."
+                        "exp": "x_1 (person) is kind to x_2 in actions/behavior x_3.",
+                        "example": [
+                            {
+                                "lojban": ".i da'i do mi {{xendo}} lo nu pensi mi",
+                                "english": "If you would {{have the kindness}} (to me) to think of my [needs] &ndash;",
+                                "source-id": "litt",
+                                "source": "The Little Prince",
+                                "author": "Antoine de Saint-Exupéry",
+                                "translator": "la .xorxes.",
+                                "link": "https://mw.lojban.org/papri/le_cmalu_noltru"
+                            },
+                            {
+                                "lojban": ".i va'o ro nu do zukte {{lo te xendo}} kei do zukte se va'u do",
+                                "english": "Every {{act of kindness}} you've done, you've done to yourself.",
+                                "source-id": "eggq",
+                                "source": "The Egg",
+                                "author": "Andy Weir",
+                                "translator": "la nalvai",
+                                "link": "https://nalvai.neocities.org/translations/the-egg/"
+                            }
+                        ]
                     }
                 ]
             }
-        ]
+        ],
+        "good": true
     },
     {
         "word": "xenru",

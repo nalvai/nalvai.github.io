@@ -126,6 +126,21 @@
             -exp x_1 corrects x_2's Lojban text.
             -note Only used in expression {{.e'o/.e'a xekce (mi)}}, where the speaker is not confident with their own Lojban skill and wants more experienced Lojbanists to check the correctness of their Lojban content.
 
+-entry:
+    -word xendo
+    -gloss (of a person) kind &mdash; to receive kindness &mdash; (of an action) kind
+    -type gismu
+    -definition:
+        -meaning:
+            -exp x_1 (person) is kind to x_2 in actions/behavior x_3.            
+            -example:
+                -lojban .i da'i do mi {{xendo}} lo nu pensi mi 
+                -english If you would {{have the kindness}} (to me) to think of my [needs] &ndash;
+                -source-id litt
+            -example:
+                -lojban .i va'o ro nu do zukte {{lo te xendo}} kei do zukte se va'u do
+                -english Every {{act of kindness}} you've done, you've done to yourself.
+                -source-id eggq
 
 
 -entry:
