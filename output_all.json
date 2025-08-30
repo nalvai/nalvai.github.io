@@ -42751,7 +42751,7 @@
     },
     {
         "word": "traji",
-        "gloss": "best, least, superlative",
+        "gloss": "most, superlative &mdash; superlative property &mdash; direction of superlativity &mdash; range of superlativity",
         "type": "gismu",
         "freq": "15830",
         "rank": "279",
@@ -42763,11 +42763,59 @@
             {
                 "meaning": [
                     {
-                        "exp": "$x_{1}$ is superlative in property $x_{2}$ (ka), the $x_{3}$ extreme (ka; default ka zmadu) among set/range $x_{4}$."
+                        "exp": "x_1 is superlative in property x_2 (ka), the x_3 extreme (ka; default {{lo ka zmadu}}) among set/range x_4.",
+                        "note": "Place structure parallels that of {{mutce}}, with an additional x_4 place for the range x_1 is superlative in.",
+                        "example": [
+                            {
+                                "lojban": ".i ki'u bo fi tu'a ra {{traji fo le'i gusni}}",
+                                "english": "For with it {{is the light of lights}}.",
+                                "source-id": "emer",
+                                "source": "Emerald Tablet",
+                                "author": "an unknown Arabic writer",
+                                "translator": "la gleki",
+                                "link": "https://lojban.pw/en/texts/emerald-tablet/"
+                            },
+                            {
+                                "lojban": ".i jimpe fe lo du'u do cu {{traji lo ka xendo kei fo lo'i prenu .ia}}",
+                                "english": "I understand that you {{are kinder than all those people}}.",
+                                "source-id": "odds",
+                                "source": "ODDS&ENDS",
+                                "author": "ryo",
+                                "translator": "tetsusquared (la .tirprij.)",
+                                "link": "https://www.youtube.com/watch?v=L65SWX6vbkw"
+                            }
+                        ]
+                    },
+                    {
+                        "exp": "x_1 is superlative in property x_2 (ka) among set/range x_3.",
+                        "note": "Lacks the direction of extremeness compared to the above sense. Note that using non-gimste definition and using reform grammar usually come together, so the x_3 under this usage usually isn't a set per CLL Lojban (formed with {{lo'i}}/{{le'i}}), but a plural term (as used by most reformists, formed implicitly with {{lo}} under plural-logic Lojban). See the below two examples, where the x_3 of {{traji}} is filled with {{lo}}-description.",
+                        "example": [
+                            {
+                                "lojban": "ni'o lo ziptu'a cu {{traji lo ka lenku ku lo ro stuzi pe lo munje}}",
+                                "english": "Antarctica may {{be the world's frostiest place}}, ...",
+                                "source-id": "anta",
+                                "source": "Antarctica is getting greener",
+                                "author": "Ryan Cross on <i>Science</i>",
+                                "translator": "la .ilmen.",
+                                "link": "https://mw.lojban.org/papri/UserWiki:Ilmen/lo_ziptu%27a_ca%27o_zenba_lo_ka_crino",
+                                "originallink": "https://www.science.org/content/article/antarctica-getting-greener"
+                            },
+                            {
+                                "lojban": ".i {{lo tinsa traji be fi lo zifre pensi}} cu sanji lo sivni nu senpi",
+                                "english": "..., and {{the most solid of the free thinkers}} was conscious of a private doubt.",
+                                "source-id": "cloc",
+                                "source": "The Clockmaker",
+                                "author": "Robert Louis Stevenson",
+                                "translator": "la .xorxes.",
+                                "link": "https://mw.lojban.org/papri/le_junla_zbasu",
+                                "originallink": "https://en.wikisource.org/wiki/The_Clockmaker"
+                            }
+                        ]
                     }
                 ]
             }
-        ]
+        ],
+        "good": true
     },
     {
         "word": "trano",

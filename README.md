@@ -1,6 +1,6 @@
 # NALVAI: Nalvai's Assortment of Lojban Vocabulary Attestation Instances
 ## What is this?
-**NALVAI** is a Lojban dictionary that uses quotations from *real-world texts* as examples of usage. It currently contains **181 words** with [**523 quotations** from **78 Lojban texts**](https://github.com/nalvai/nalvai.github.io#sources). Please provide quotations and definitions to help the dictionary grow!
+**NALVAI** is a Lojban dictionary that uses quotations from *real-world texts* as examples of usage. It currently contains **182 words** with [**526 quotations** from **78 Lojban texts**](https://github.com/nalvai/nalvai.github.io#sources). Please provide quotations and definitions to help the dictionary grow!
 
 Here is how a word look like in this dictionary:
 ![The word a in this dictionary](https://raw.githubusercontent.com/nalvai/nalvai.github.io/refs/heads/master/example_a.png)
@@ -122,14 +122,15 @@ Lojban texts with at least one quotation in this dictionary.
 - (5 quotes) [koi do mi na](https://meremim.bandcamp.com/album/koi-do-mi-na) by Mèremim
 - (5 quotes) [Toki Pona Cheatsheet](https://blinry.org/toki-pona-cheat-sheet/toki-pona-cheat-sheet-jbo.pdf) by Blinry, translation by la .samflir. ([Original](https://blinry.org/toki-pona-cheat-sheet/toki-pona-cheat-sheet.pdf))
 - (4 quotes) [Calc.](https://www.youtube.com/watch?v=n4NhUEUvwew) by JimmyThumbP, translation by tetsusquared (la .tirprij.)
+- (4 quotes) [Emerald Tablet](https://lojban.pw/en/texts/emerald-tablet/) by an unknown Arabic writer, translation by la gleki
 - (4 quotes) [letter song](https://www.youtube.com/watch?v=5r-JIZNGAMA) by doriko, translation by tetsusquared (la .tirprij.)
 - (4 quotes) [The Lost One's Weeping](https://www.youtube.com/watch?v=9TA1-lVHAUM) by Neru, translation by tetsusquared (la .tirprij.)
 - (4 quotes) [They're Made Out of Meat](https://mw.lojban.org/papri/ko%27a_marji_lo_rectu) by Terry Bisson, translation by Pierre Abbot
 - (4 quotes) [la mu'e cuxna lo bradi](https://mw.lojban.org/papri/la_mu%27e_cuxna_lo_bradi) by la blutolpinxe
 - (3 quotes) [Amapola](https://vimeo.com/233808507) by José María Lacalle García, translation by la .guskant.
+- (3 quotes) [Antarctica is getting greener](https://mw.lojban.org/papri/UserWiki:Ilmen/lo_ziptu%27a_ca%27o_zenba_lo_ka_crino) by Ryan Cross on <i>Science</i>, translation by la .ilmen. ([Original](https://www.science.org/content/article/antarctica-getting-greener))
 - (3 quotes) [Ĉarma Anomali’](https://www.youtube.com/watch?v=H5Bbg8HGkV0) by Noise and Bells, translation by tetsusquared (la .tirprij.) ([Original](https://www.youtube.com/watch?v=q05lSh5qfgk))
 - (3 quotes) [The Book](https://lojban.pw/en/texts/the-book/) by H. P. Lovecraft, translation by la gleki
-- (3 quotes) [Emerald Tablet](https://lojban.pw/en/texts/emerald-tablet/) by an unknown Arabic writer, translation by la gleki
 - (3 quotes) [First dinosaurs may have been omnivores in the north hemisphere](https://mw.lojban.org/papri/UserWiki:Ilmen/ka%27e_ku_lo_prurai_dinsauru_cu_cti%27omni_bu%27u_lo_berti_bolxadba) by Chelsea Whyte on NewScientist, translation by la .ilmen. ([Original](https://www.newscientist.com/article/2125580-first-dinosaurs-may-have-been-omnivores-in-the-north-hemisphere/))
 - (3 quotes) [lo jbobau cu mo](https://www.youtube.com/watch?v=N-Y9eBBTrxU) by la solpa'i
 - (3 quotes) [lo nabmi](https://www.youtube.com/watch?v=gv0QIbGc8i8) by Noise and Bells (la janbe)
@@ -140,7 +141,6 @@ Lojban texts with at least one quotation in this dictionary.
 - (3 quotes) [tensaia](https://djemynai.bandcamp.com/album/tensaia) by Djemynai
 - (3 quotes) [The Terrorist, He's Watching](https://docs.google.com/spreadsheets/d/1_vkiwqOIOIJPqZTiomzd4ApUSEQXhEY6CeyZD_6c-PA/edit?gid=1514901818#gid=1514901818) by Szymborska Wisława, translation by la uakci
 - (2 quotes) [Always With Me](https://vimeo.com/113232481) by Youmi Kimura, translation by la .guskant.
-- (2 quotes) [Antarctica is getting greener](https://mw.lojban.org/papri/UserWiki:Ilmen/lo_ziptu%27a_ca%27o_zenba_lo_ka_crino) by Ryan Cross on <i>Science</i>, translation by la .ilmen. ([Original](https://www.science.org/content/article/antarctica-getting-greener))
 - (2 quotes) [claxu be do crisa](https://soundcloud.com/cogas-iuk/sunday-10-38-pm) by la .cogas.
 - (2 quotes) [Colorful](https://www.youtube.com/watch?v=GjG2vtMOI7c) by H△G, translation by tetsusquared (la .tirprij.)
 - (2 quotes) [dansu co toldi](https://www.youtube.com/watch?v=B156ExvRjzM) by Noise and Bells (la janbe)
@@ -150,6 +150,7 @@ Lojban texts with at least one quotation in this dictionary.
 - (2 quotes) [Lagtrain (short ver.)](https://www.youtube.com/watch?v=f_NJsM8dces) by inabakumori, translation by tetsusquared (la .tirprij.)
 - (2 quotes) [lo mi jufra](https://www.youtube.com/watch?v=sLrmjRIMgAk) by la solpa'i
 - (2 quotes) [Neuromancer](https://discord.com/channels/771781383361921024/898612135121272932/) by William Gibson, translation by AstroMacGuffin
+- (2 quotes) [ODDS&ENDS](https://www.youtube.com/watch?v=L65SWX6vbkw) by ryo, translation by tetsusquared (la .tirprij.)
 - (1 quote) [Aisle](https://www.youtube.com/watch?v=GGoqNJjiun0) by Ibuki Tsubasa, translation by tetsusquared (la .tirprij.) ([Original](https://www.youtube.com/watch?v=9CNkjJo_Sjg))
 - (1 quote) [bai do](https://www.youtube.com/watch?v=fR-Z3h1Jsms) by Noise and Bells (la janbe)
 - (1 quote) [cipra lo skari lo vanju](https://guskant.github.io/lojbo/cipra.html) by la .guskant.
@@ -163,7 +164,6 @@ Lojban texts with at least one quotation in this dictionary.
 - (1 quote) [ko gleki gau la cevni](https://www.youtube.com/watch?v=6swu1ESUw0E) by Noise and Bells (la janbe)
 - (1 quote) [lenrygu'i](https://www.youtube.com/watch?v=-q0gzt4w-o8) by la fagri
 - (1 quote) [ma zerfu'e](https://selpahi.de/mazerfuhe.html) by Unknown, translation by la solpa'i
-- (1 quote) [ODDS&ENDS](https://www.youtube.com/watch?v=L65SWX6vbkw) by ryo, translation by tetsusquared (la .tirprij.)
 - (1 quote) [The Princess and the Pea](https://selpahi.de/dembi.html) by Hans Christian Andersen, translation by la solpa'i
 - (1 quote) [la skaborfe'a](https://fotono.tumblr.com/post/143537131514/coi-lo-se-jbobau-joau-zantufa-xi-papipare-i-la) by la .guskant.
 - (1 quote) [Teo](https://www.youtube.com/watch?v=9WoWrjIwbhc) by Omoi, translation by tetsusquared (la .tirprij.)
@@ -174,7 +174,7 @@ Lojban texts with at least one quotation in this dictionary.
 
 The quotes from chatlogs are from the following speakers: (in no particular order)
 
-la gleki, AstroMacGuffin, la melmi, la kanba, la ziren, latkerlo, la srasu, Lucilla, la lalxu, la janbe, la uakci, la piier, la samflir, \_4Denthusiast, dram, la lunbe, yeet kitty, la xrula, la nalvai, la nonselcme, la evis, qimar, la .zi., bancip, la tirprij, Magnap, la katador, la fagri, la lunra, la bakre'u, la solpa'i, niftg, la varik, misotanni, .kúblizel., Haze, la bisri'e, melody!, la kanis, la ilmen, Stephen Dedalus, 
+yeet kitty, la lalxu, la xrula, melody!, Magnap, .kúblizel., la katador, la kanba, la nonselcme, la ziren, la tirprij, la lunbe, la janbe, \_4Denthusiast, dram, la nalvai, la bakre'u, la piier, latkerlo, la samflir, Lucilla, la ilmen, Stephen Dedalus, la lunra, la srasu, niftg, la bisri'e, la varik, misotanni, la evis, la melmi, la solpa'i, bancip, Haze, la .zi., la fagri, la kanis, la gleki, qimar, la uakci, AstroMacGuffin, 
 
 Huge thanks to the following individuals who contributed to this project:
 
