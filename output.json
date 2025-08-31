@@ -9395,6 +9395,52 @@
         "good": true
     },
     {
+        "word": "zi'e",
+        "gloss": "Relative expression connector",
+        "type": "cmavo",
+        "freq": "5000",
+        "rank": "625",
+        "tag": "core-3",
+        "rafsi-cvc": null,
+        "rafsi-ccv": null,
+        "rafsi-cvv": null,
+        "definition": [
+            {
+                "selmaho": "ZIhE",
+                "meaning": [
+                    {
+                        "exp": "Relative expression connector. Joins relative expressions (can be either relative clauses or relative phrases), so that the relative expressions apply to the same sumti.",
+                        "note": "Supplanted with {{je}} in JACU. JACU also enables other types of connection between relative expressions (for example, using {{ja}} for expressing \"or\" between relative expressions), which isn't possible under CLL/BPFK Lojban.",
+                        "example": [
+                            {
+                                "lojban": ".i le smani {{poi se kerlo pa da}} {{zi'e}} {{noi xendo}} cu jgari le cifnu lo birka",
+                                "english": "The ape {{with the one ear}}, {{who was a good natured fellow}}, nursed the baby in his arms.",
+                                "source-id": "scie",
+                                "note": "In this example {{zi'e}} joins two relative clauses (one starting with {{poi}} and one starting with {{noi}}).",
+                                "source": "The Scientific Ape",
+                                "author": "Robert Louis Stevenson",
+                                "translator": "la .xorxes.",
+                                "link": "https://mw.lojban.org/papri/le_saske_smani",
+                                "originallink": "https://en.wikisource.org/wiki/The_Scientific_Ape"
+                            },
+                            {
+                                "lojban": "lu doi ga'i nai noltruni'u do vi mlerai<br>.i ku'i la snime blabi ku {{ne ti'a lo cmana}}<br>{{zi'e}} {{ne bu'u lo ze torcrida}}<br>cu mlemau fo lo pilji be li ki'o li'u",
+                                "english": "\"Queen, thou art fairest here, I hold,<br>But Snow White {{over the fells,}}<br>{{Who with the seven Dwarfs dwells,}}<br>Is fairer still a thousandfold.\"",
+                                "source-id": "snow",
+                                "note": "In this example {{zi'e}} joins two relative phrases (both starting with {{ne}}), making them both apply to the {{la snime blabi ku}}. Note that the {{ku}} here prevents the relative phrases from becoming part of the name.",
+                                "source": "Snow White",
+                                "author": "Brothers Grimm",
+                                "translator": "la solpa'i",
+                                "link": "https://selpahi.de/snimeblabi.html"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "good": true
+    },
+    {
         "word": "zoi",
         "gloss": "Quotation: start non-Lojban quotation",
         "type": "cmavo",

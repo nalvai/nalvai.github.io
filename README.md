@@ -1,6 +1,6 @@
 # NALVAI: Nalvai's Assortment of Lojban Vocabulary Attestation Instances
 ## What is this?
-**NALVAI** is a Lojban dictionary that uses quotations from *real-world texts* as examples of usage. It currently contains **182 words** with [**526 quotations** from **78 Lojban texts**](https://github.com/nalvai/nalvai.github.io#sources). Please provide quotations and definitions to help the dictionary grow!
+**NALVAI** is a Lojban dictionary that uses quotations from *real-world texts* as examples of usage. It currently contains **183 words** with [**527 quotations** from **78 Lojban texts**](https://github.com/nalvai/nalvai.github.io#sources). Please provide quotations and definitions to help the dictionary grow!
 
 Here is how a word look like in this dictionary:
 ![The word a in this dictionary](https://raw.githubusercontent.com/nalvai/nalvai.github.io/refs/heads/master/example_a.png)
@@ -108,7 +108,7 @@ Lojban texts with at least one quotation in this dictionary.
 - (11 quotes) [The Scientific Ape](https://mw.lojban.org/papri/le_saske_smani) by Robert Louis Stevenson, translation by la .xorxes. ([Original](https://en.wikisource.org/wiki/The_Scientific_Ape))
 - (10 quotes) [The Lay of the Land](https://www.youtube.com/watch?v=ViGGR231zvQ) by Worldbuilding Notes
 - (10 quotes) [prami simbi'o](https://www.youtube.com/watch?v=g3BQ-pE7ypY) by Djemynai
-- (9 quotes) [Snow White](https://selpahi.de/snimeblabi.html) by Brothers Grimm, translation by la solpa'i
+- (10 quotes) [Snow White](https://selpahi.de/snimeblabi.html) by Brothers Grimm, translation by la solpa'i
 - (9 quotes) [Still Alive](https://www.youtube.com/watch?v=hRrIioMA4w8) by Jonathan Coulton, translation by la solpa'i
 - (8 quotes) [Carefree Wandering (逍遙遊)](https://www.youtube.com/watch?v=FGY3awgABhU) by Zhuangzi, translation by geezmolycos
 - (8 quotes) [Liang and the Magic Paintbrush](https://docs.google.com/spreadsheets/d/1_vkiwqOIOIJPqZTiomzd4ApUSEQXhEY6CeyZD_6c-PA/edit?gid=768225989#gid=768225989) by Demi, translation by la darsi
@@ -174,7 +174,7 @@ Lojban texts with at least one quotation in this dictionary.
 
 The quotes from chatlogs are from the following speakers: (in no particular order)
 
-yeet kitty, la lalxu, la xrula, melody!, Magnap, .kúblizel., la katador, la kanba, la nonselcme, la ziren, la tirprij, la lunbe, la janbe, \_4Denthusiast, dram, la nalvai, la bakre'u, la piier, latkerlo, la samflir, Lucilla, la ilmen, Stephen Dedalus, la lunra, la srasu, niftg, la bisri'e, la varik, misotanni, la evis, la melmi, la solpa'i, bancip, Haze, la .zi., la fagri, la kanis, la gleki, qimar, la uakci, AstroMacGuffin, 
+\_4Denthusiast, la gleki, la evis, la .zi., la srasu, dram, la lalxu, la kanba, Haze, Lucilla, la solpa'i, melody!, la piier, la janbe, la nonselcme, la katador, la kanis, la melmi, la bakre'u, la lunra, .kúblizel., la ziren, la bisri'e, la samflir, Magnap, niftg, la tirprij, la xrula, la fagri, bancip, la lunbe, la nalvai, Stephen Dedalus, latkerlo, misotanni, la ilmen, la varik, AstroMacGuffin, yeet kitty, qimar, la uakci, 
 
 Huge thanks to the following individuals who contributed to this project:
 
