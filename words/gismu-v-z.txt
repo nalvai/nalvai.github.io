@@ -36,6 +36,29 @@
                 -english But what the hell does "adult" {{mean}} to begin with?
                 -source-id lost
 
+
+-entry:
+    -word vasru
+    -gloss vessel, to contain &mdash; content, to be contained in ...
+    -type gismu
+    -definition:
+        -meaning:
+            -exp x_1 contains/holds/encloses/includes contents x_2 within; x_1 is a vessel containing x_2.
+            -example:  
+                -lojban .i {{lo tcecmada'u munje cu vasru}} lo traji rirci no'u lo junla noi se pagbu lo dandu jo'u lo crane jo'u lo cmaxance
+                -english {{In the animalcular Kosmos there was}} one feature of superlative abnormality: the clock, with its pendulum, its dial, and its hands.
+                -source-id cloc
+            -example:       
+                -lojban ni'o fi lo du'u ro lo re cnino jimca cu {{vasru}} ge su'o re'ucti gi su'o spacti kei fa lo bende pe la baron cu lojycpa lo du'u lo bavrai je voi lo ka se dzena ke'a cu kampu lo ro dinsauru ka'e je'u cti'omni
+                -english Because both new branches {{include}} carnivores and herbivores, Baron’s team concludes that the common ancestor of all dinosaurs may have been omnivorous.
+                -source-id firs
+                -note In this example, {{voi}} is used as a substitute for {{poi'i}}.
+            -example:       
+                -lojban .i mi cinmo po simsa {{lo smacu pinfu se vasru}} ca
+                -english I feel something like {{a mouse locked away in a cage}}
+                -source-id tabg
+                -note This example is in jboponei. To convert it into CLL/BPFK Lojban, substitute {{po}} with {{lo su'u}}.
+
 -entry:
     -word viska
     -gloss to see, to sight, seer &mdash; to be seen, visible &mdash; condition/environment for seeing

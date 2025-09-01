@@ -103,7 +103,7 @@
         "translator": "la .xorxes.",
         "link": "https://mw.lojban.org/papri/le_junla_zbasu",
         "originallink": "https://en.wikisource.org/wiki/The_Clockmaker",
-        "instance": 24
+        "instance": 25
     },
     "cmal": {
         "source": "lo cmalu",
@@ -166,7 +166,7 @@
         "translator": "la .ilmen.",
         "link": "https://mw.lojban.org/papri/UserWiki:Ilmen/ka%27e_ku_lo_prurai_dinsauru_cu_cti%27omni_bu%27u_lo_berti_bolxadba",
         "originallink": "https://www.newscientist.com/article/2125580-first-dinosaurs-may-have-been-omnivores-in-the-north-hemisphere/",
-        "instance": 3
+        "instance": 4
     },
     "guit": {
         "source": "Guitar, Loneliness and Blue Planet",
@@ -453,6 +453,12 @@
         "translator": "la solpa'i",
         "link": "https://www.youtube.com/watch?v=hRrIioMA4w8",
         "instance": 9
+    },
+    "tabg": {
+        "source": "tabgapci",
+        "author": "Noise and Bells (la janbe)",
+        "link": "https://www.youtube.com/watch?v=ra4ID_TUJjo",
+        "instance": 1
     },
     "tens": {
         "source": "tensaia",
