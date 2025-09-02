@@ -1,6 +1,6 @@
 # NALVAI: Nalvai's Assortment of Lojban Vocabulary Attestation Instances
 ## What is this?
-**NALVAI** is a Lojban dictionary that uses quotations from *real-world texts* as examples of usage. It currently contains **184 words** with [**530 quotations** from **79 Lojban texts**](https://github.com/nalvai/nalvai.github.io#sources). Please provide quotations and definitions to help the dictionary grow!
+**NALVAI** is a Lojban dictionary that uses quotations from *real-world texts* as examples of usage. It currently contains **185 words** with [**533 quotations** from **79 Lojban texts**](https://github.com/nalvai/nalvai.github.io#sources). Please provide quotations and definitions to help the dictionary grow!
 
 Here is how a word look like in this dictionary:
 ![The word a in this dictionary](https://raw.githubusercontent.com/nalvai/nalvai.github.io/refs/heads/master/example_a.png)
@@ -96,7 +96,7 @@ Lojban texts with at least one quotation in this dictionary.
 - (93 quotes) roljbogu'e chatlog
 - (44 quotes) [The Little Prince](https://mw.lojban.org/papri/le_cmalu_noltru) by Antoine de Saint-Exupéry, translation by la .xorxes.
 - (28 quotes) [Alice in Wonderland](https://mw.lojban.org/papri/lo_selfri_be_la_.alis._bei_bu%27u_la_selmacygu%27e) by Lewis Carroll, translation by la .xorxes.
-- (25 quotes) [The Clockmaker](https://mw.lojban.org/papri/le_junla_zbasu) by Robert Louis Stevenson, translation by la .xorxes. ([Original](https://en.wikisource.org/wiki/The_Clockmaker))
+- (26 quotes) [The Clockmaker](https://mw.lojban.org/papri/le_junla_zbasu) by Robert Louis Stevenson, translation by la .xorxes. ([Original](https://en.wikisource.org/wiki/The_Clockmaker))
 - (22 quotes) [The Wonderful Wizard of Oz](https://selpahi.de/oz_plain.html) by L. Frank Baum, translation by la solpa'i
 - (18 quotes) jbobratca chatlog
 - (14 quotes) [The Metamorphosis](https://mw.lojban.org/images/f/fc/lonubinxo.pdf) by Franz Kafka, translation by la .xorxes.
@@ -146,6 +146,8 @@ Lojban texts with at least one quotation in this dictionary.
 - (2 quotes) [dansu co toldi](https://www.youtube.com/watch?v=B156ExvRjzM) by Noise and Bells (la janbe)
 - (2 quotes) [The Disappearance of Crispina Umberleigh](https://mw.lojban.org/papri/nuncanci_la_krispinas_ambylis) by Saki, translation by la komfo,amonan ([Original](https://en.wikisource.org/wiki/The_Toys_of_Peace_and_Other_Papers/The_Disappearance_of_Crispina_Umberleigh))
 - (2 quotes) [Guitar, Loneliness and Blue Planet](https://www.youtube.com/watch?v=Kul_crM2RKg) by Kessoku Band, translation by tetsusquared (la .tirprij.)
+- (2 quotes) [Headphone Actor](https://www.youtube.com/watch?v=X7jXrgWeltw) by Jin, translation by tetsusquared (la .tirprij.)
+- (2 quotes) [jbini canlu](https://www.youtube.com/watch?v=3aNGqujy-6s) by Noise and Bells (la janbe)
 - (2 quotes) [ku'i ba troci](https://www.youtube.com/watch?v=Y3apKaaBK5c) by Fyren
 - (2 quotes) [Lagtrain (short ver.)](https://www.youtube.com/watch?v=f_NJsM8dces) by inabakumori, translation by tetsusquared (la .tirprij.)
 - (2 quotes) [lo mi jufra](https://www.youtube.com/watch?v=sLrmjRIMgAk) by la solpa'i
@@ -157,9 +159,7 @@ Lojban texts with at least one quotation in this dictionary.
 - (1 quote) [lo cmalu](https://selpahi.de/cmalu.html) by la solpa'i
 - (1 quote) [.](https://www.youtube.com/watch?v=O4yrd-E_xpc) by 全てあなたの所為です, translation by tetsusquared (la .tirprij.)
 - (1 quote) [Diamond City Lights](https://www.youtube.com/watch?v=VEen_TdvuC0) by LazuLight, translation by tetsusquared (la .tirprij.)
-- (1 quote) [Headphone Actor](https://www.youtube.com/watch?v=X7jXrgWeltw) by Jin, translation by tetsusquared (la .tirprij.)
 - (1 quote) [How the enemy came to Thlunrana](https://lojban.pw/en/texts/how-the-enemy-came-to-thlunrana/) by Lord Dunsany, translation by la gleki
-- (1 quote) [jbini canlu](https://www.youtube.com/watch?v=3aNGqujy-6s) by Noise and Bells (la janbe)
 - (1 quote) [Jitter Doll](https://www.youtube.com/watch?v=kkCQibMbN2s) by niki, translation by tetsusquared (la .tirprij.)
 - (1 quote) [ko gleki gau la cevni](https://www.youtube.com/watch?v=6swu1ESUw0E) by Noise and Bells (la janbe)
 - (1 quote) [lenrygu'i](https://www.youtube.com/watch?v=-q0gzt4w-o8) by la fagri
@@ -175,7 +175,7 @@ Lojban texts with at least one quotation in this dictionary.
 
 The quotes from chatlogs are from the following speakers: (in no particular order)
 
-la solpa'i, misotanni, dram, la evis, la bisri'e, la fagri, \_4Denthusiast, melody!, la uakci, la kanis, la gleki, .kúblizel., Stephen Dedalus, Lucilla, qimar, la katador, la piier, la lunbe, la kanba, la samflir, la ilmen, la tirprij, la melmi, la varik, la lunra, AstroMacGuffin, la lalxu, la nalvai, yeet kitty, la ziren, la nonselcme, bancip, niftg, la bakre'u, latkerlo, la xrula, la srasu, la .zi., Magnap, Haze, la janbe, 
+la srasu, Magnap, la kanba, la kanis, la solpa'i, la evis, la varik, la janbe, la ziren, dram, la nonselcme, la ilmen, niftg, la .zi., la gleki, AstroMacGuffin, la fagri, bancip, latkerlo, la tirprij, .kúblizel., la bisri'e, la nalvai, la lunbe, Stephen Dedalus, Haze, misotanni, qimar, yeet kitty, Lucilla, la melmi, \_4Denthusiast, la bakre'u, melody!, la katador, la xrula, la uakci, la piier, la samflir, la lunra, la lalxu, 
 
 Huge thanks to the following individuals who contributed to this project:
 

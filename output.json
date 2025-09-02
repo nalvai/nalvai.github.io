@@ -6613,6 +6613,57 @@
         "good": true
     },
     {
+        "word": "pa'o",
+        "gloss": "Preposition (spatial tense): passing through ...",
+        "type": "cmavo",
+        "freq": "671",
+        "rank": "1633",
+        "tag": "favored",
+        "rafsi-cvc": null,
+        "rafsi-ccv": null,
+        "rafsi-cvv": null,
+        "definition": [
+            {
+                "selmaho": "FAhA3",
+                "meaning": [
+                    {
+                        "exp": "Passing through ...; Indicates that the event passes through a certain point or area. When tagging a sumti, the sumti indicates what the event passes through.",
+                        "example": [
+                            {
+                                "lojban": "ni'o bajra {{pa'o}} le vi xalni tcadu",
+                                "english": "I ran {{through}} the panicking city.",
+                                "source-id": "head",
+                                "source": "Headphone Actor",
+                                "author": "Jin",
+                                "translator": "tetsusquared (la .tirprij.)",
+                                "link": "https://www.youtube.com/watch?v=X7jXrgWeltw"
+                            },
+                            {
+                                "lojban": ".i {{pa'o}} le savru xu do ganse le mi risna",
+                                "english": "{{Through}} all the noise, do you feel my heartbeat?",
+                                "source-id": "jbin",
+                                "source": "jbini canlu",
+                                "author": "Noise and Bells (la janbe)",
+                                "link": "https://www.youtube.com/watch?v=3aNGqujy-6s"
+                            },
+                            {
+                                "lojban": "ca lo purci je cilce djedi lo tcecmada'u poi krinalka'e barda cu nerkla {{pa'o}} lo bitmu",
+                                "english": "In the old cannibal days, an animalculae of unheard-of bigness came {{through}} the wall.",
+                                "source-id": "cloc",
+                                "source": "The Clockmaker",
+                                "author": "Robert Louis Stevenson",
+                                "translator": "la .xorxes.",
+                                "link": "https://mw.lojban.org/papri/le_junla_zbasu",
+                                "originallink": "https://en.wikisource.org/wiki/The_Clockmaker"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "good": true
+    },
+    {
         "word": "pendo",
         "gloss": "friend, to befrind, friendly &mdash; to have friends",
         "type": "gismu",

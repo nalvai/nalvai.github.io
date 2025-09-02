@@ -34,6 +34,27 @@
                 -speaker la ziren
 
 
+-entry:
+    -word pa'o
+    -gloss Preposition (spatial tense): passing through ...
+    -type cmavo
+    -definition:
+        -selmaho FAhA3
+        -meaning:
+            -exp Passing through ...; Indicates that the event passes through a certain point or area. When tagging a sumti, the sumti indicates what the event passes through. 
+            -example:
+                -lojban ni'o bajra {{pa'o}} le vi xalni tcadu
+                -english I ran {{through}} the panicking city.
+                -source-id head
+            -example:
+                -lojban .i {{pa'o}} le savru xu do ganse le mi risna
+                -english {{Through}} all the noise, do you feel my heartbeat?
+                -source-id jbin
+            -example:
+                -lojban ca lo purci je cilce djedi lo tcecmada'u poi krinalka'e barda cu nerkla {{pa'o}} lo bitmu
+                -english In the old cannibal days, an animalculae of unheard-of bigness came {{through}} the wall.
+                -source-id cloc
+
 
 -entry:
     -word po
