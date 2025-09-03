@@ -4340,6 +4340,55 @@
         "good": true
     },
     {
+        "word": "je'i",
+        "gloss": "Connective: selbri/tanru-unit afterthought connective question",
+        "type": "cmavo",
+        "freq": "5330",
+        "rank": "611",
+        "tag": "core-3",
+        "rafsi-cvc": null,
+        "rafsi-ccv": null,
+        "rafsi-cvv": null,
+        "definition": [
+            {
+                "selmaho": "JA",
+                "meaning": [
+                    {
+                        "exp": "Logical connective: tanru-internal afterthought connective question. Connects two tanru units (or other grammatical structures) and asks the listener to supply an afterthought connective that makes the containing bridi true.",
+                        "note": "See {{je}} for a list of what grammatical structures a member of {{JA}} can connect. Supplanted with {{ji}} in JACU.",
+                        "example": [
+                            {
+                                "lojban": ".i lo blanu cu se jetnu skari ra {{.i je'i}} ra darno gi'e kuspe ve'u fe'e za'o",
+                                "english": "Is its azure the proper colour{{? Or}} is it occasioned by its distance and illimitable extent{{?}}",
+                                "source-id": "care",
+                                "source": "Carefree Wandering (逍遙遊)",
+                                "author": "Zhuangzi",
+                                "translator": "geezmolycos",
+                                "link": "https://www.youtube.com/watch?v=FGY3awgABhU"
+                            },
+                            {
+                                "lojban": "&mdash; ma xe'ei jbonunjmaji ti'u lo cabna'a<br>&mdash; vonma'i {{je'i}} duvma'i jbonunjmaji",
+                                "english": "&mdash; Where is this year's Lojban-gathering?<br>&mdash; April {{or}} October Lojban-gathering{{?}}",
+                                "source-id": "rolj",
+                                "speaker": "portal 2056, la nalvai",
+                                "note": "{{xe'ei}} is an abstractor (selma'o {{NU}}) meaning \"x_1 is the place where [bridi] takes place\".",
+                                "source": "roljbogu'e chatlog"
+                            },
+                            {
+                                "lojban": ".i xu lo fagri cu daspo lo do zdani .i .a'o na go'i .i ca'o {{je'i}} ba'o fagri",
+                                "english": "Did the fire destroy your home? I hope it didn't. Is the fire still going, {{or}} has it already ended{{?}}",
+                                "source-id": "rolj",
+                                "speaker": "la .ilmen.",
+                                "source": "roljbogu'e chatlog"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "good": true
+    },
+    {
         "word": "jgari",
         "gloss": "to hold, to grasp &mdash; to be held &mdash; (of a part of x<sub>1</sub>) to be used for holding ... &mdash; (of a part of x<sub>2</sub>) to be held at",
         "type": "gismu",
