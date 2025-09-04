@@ -1166,6 +1166,46 @@
         "good": true
     },
     {
+        "word": "cadzu",
+        "gloss": "to walk &mdash; to be walked on &mdash; walking limb, to be used for walking",
+        "type": "gismu",
+        "freq": "7980",
+        "rank": "485",
+        "tag": "core-2",
+        "rafsi-cvc": null,
+        "rafsi-ccv": "dzu",
+        "rafsi-cvv": null,
+        "definition": [
+            {
+                "meaning": [
+                    {
+                        "exp": "x_1 walks/strides/paces on surface x_2 using limbs x_3.",
+                        "example": [
+                            {
+                                "lojban": ".i lo'e toldi cu {{cadzu lo foldi}} pu lo nu vofli kei ku xu pau nai",
+                                "english": "Don't you know the caterpillar {{walks on the earth}} before it learns to fly?",
+                                "source-id": "dans",
+                                "source": "dansu co toldi",
+                                "author": "Noise and Bells (la janbe)",
+                                "link": "https://www.youtube.com/watch?v=B156ExvRjzM"
+                            },
+                            {
+                                "lojban": ".i lo zunle mlana be gy cu simsa lo pa mei je clani ke kanro ve xrani noi to'e pluka lacpu gy gi'e rinka lo nu gy bilga lo nu {{na'e lanxe cadzu fi lo re linji be lo tuple be gy.}}",
+                                "english": "The whole of his left side seemed like one, painfully stretched scar, and it made him have to {{limp badly on his two rows of legs}}.",
+                                "source-id": "meta",
+                                "source": "The Metamorphosis",
+                                "author": "Franz Kafka",
+                                "translator": "la .xorxes.",
+                                "link": "https://mw.lojban.org/images/f/fc/lonubinxo.pdf"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "good": true
+    },
+    {
         "word": "cai",
         "gloss": "Attitudial (intensity indicator): extremely intense attitude",
         "type": "cmavo",
