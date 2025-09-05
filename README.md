@@ -1,6 +1,6 @@
 # NALVAI: Nalvai's Assortment of Lojban Vocabulary Attestation Instances
 ## What is this?
-**NALVAI** is a Lojban dictionary that uses quotations from *real-world texts* as examples of usage. It currently contains **187 words** with [**537 quotations** from **79 Lojban texts**](https://github.com/nalvai/nalvai.github.io#sources). Please provide quotations and definitions to help the dictionary grow!
+**NALVAI** is a Lojban dictionary that uses quotations from *real-world texts* as examples of usage. It currently contains **188 words** with [**539 quotations** from **79 Lojban texts**](https://github.com/nalvai/nalvai.github.io#sources). Please provide quotations and definitions to help the dictionary grow!
 
 Here is how a word look like in this dictionary:
 ![The word a in this dictionary](https://raw.githubusercontent.com/nalvai/nalvai.github.io/refs/heads/master/example_a.png)
@@ -93,7 +93,7 @@ A Lojban word has its meaning encompass over different parts of speech in Englis
 ### Quote Sources
 Lojban texts with at least one quotation in this dictionary.
 
-- (95 quotes) roljbogu'e chatlog
+- (96 quotes) roljbogu'e chatlog
 - (44 quotes) [The Little Prince](https://mw.lojban.org/papri/le_cmalu_noltru) by Antoine de Saint-Exupéry, translation by la .xorxes.
 - (28 quotes) [Alice in Wonderland](https://mw.lojban.org/papri/lo_selfri_be_la_.alis._bei_bu%27u_la_selmacygu%27e) by Lewis Carroll, translation by la .xorxes.
 - (26 quotes) [The Clockmaker](https://mw.lojban.org/papri/le_junla_zbasu) by Robert Louis Stevenson, translation by la .xorxes. ([Original](https://en.wikisource.org/wiki/The_Clockmaker))
@@ -112,9 +112,9 @@ Lojban texts with at least one quotation in this dictionary.
 - (9 quotes) [Still Alive](https://www.youtube.com/watch?v=hRrIioMA4w8) by Jonathan Coulton, translation by la solpa'i
 - (8 quotes) [Carefree Wandering (逍遙遊)](https://www.youtube.com/watch?v=FGY3awgABhU) by Zhuangzi, translation by geezmolycos
 - (8 quotes) [Liang and the Magic Paintbrush](https://docs.google.com/spreadsheets/d/1_vkiwqOIOIJPqZTiomzd4ApUSEQXhEY6CeyZD_6c-PA/edit?gid=768225989#gid=768225989) by Demi, translation by la darsi
+- (7 quotes) [The Library of Babel](https://mw.lojban.org/papri/la_ckuzda_pe_la_babel) by Jorge Luis Borges, translation by la .xorxes.
 - (7 quotes) [za'o](https://www.youtube.com/watch?v=TKbFwr-1ZQ4) by Djemynai
 - (6 quotes) [clani kerlo](https://docs.google.com/spreadsheets/d/1_vkiwqOIOIJPqZTiomzd4ApUSEQXhEY6CeyZD_6c-PA/edit?gid=1296186733#gid=1296186733) by la fagri
-- (6 quotes) [The Library of Babel](https://mw.lojban.org/papri/la_ckuzda_pe_la_babel) by Jorge Luis Borges, translation by la .xorxes.
 - (6 quotes) [na fengu](https://meremim.bandcamp.com/album/na-fengu) by Mèremim
 - (5 quotes) [Assessment of EGIDS Levels](https://nalvai.neocities.org/translations/egids-scale/) by M. Paul Lewis and Gary F. Simons, translation by la nalvai ([Original](https://www.lingv.ro/RRL%202%202010%20art01Lewis.pdf))
 - (5 quotes) [In a Grove](https://guskant.github.io/yabu/html5/jbopoho.html) by Ryūnosuke Akutagawa, translation by la .guskant.
@@ -175,7 +175,7 @@ Lojban texts with at least one quotation in this dictionary.
 
 The quotes from chatlogs are from the following speakers: (in no particular order)
 
-Haze, la uakci, la varik, la melmi, yeet kitty, la kanba, bancip, la fagri, la .zi., la gleki, la tirprij, portal 2056, la lunra, la evis, \_4Denthusiast, la janbe, la lalxu, la nalvai, la kanis, qimar, Lucilla, la bisri'e, la nonselcme, latkerlo, la samflir, la bakre'u, la srasu, .kúblizel., niftg, la lunbe, la .ilmen., misotanni, la xrula, la ziren, la katador, la piier, AstroMacGuffin, Magnap, Stephen Dedalus, dram, la ilmen, la solpa'i, melody!, 
+Haze, dram, la melmi, Stephen Dedalus, la katador, latkerlo, la kanba, la kanis, la samflir, la ilmen, la uakci, la lunra, bancip, .kúblizel., la gleki, la varik, \_4Denthusiast, la bakre'u, misotanni, la piier, niftg, AstroMacGuffin, la nalvai, melody!, Magnap, la bisri'e, la solpa'i, la fagri, qimar, yeet kitty, la janbe, la nonselcme, la lunbe, Lucilla, portal 2056, la xrula, la .ilmen., la tirprij, la ziren, la srasu, la lalxu, la .zi., la evis, 
 
 Huge thanks to the following individuals who contributed to this project:
 

@@ -277,7 +277,7 @@
         "author": "Jorge Luis Borges",
         "translator": "la .xorxes.",
         "link": "https://mw.lojban.org/papri/la_ckuzda_pe_la_babel",
-        "instance": 6
+        "instance": 7
     },
     "litt": {
         "source": "The Little Prince",
@@ -411,7 +411,7 @@
     },
     "rolj": {
         "source": "roljbogu'e chatlog",
-        "instance": 95
+        "instance": 96
     },
     "rout": {
         "source": "Route Sphere",

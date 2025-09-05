@@ -48937,7 +48937,7 @@
     },
     {
         "word": "zo'oi",
-        "gloss": "1-word non-Lojban quote",
+        "gloss": "Quotation: one-word non-Lojban quotation",
         "type": "cmavo",
         "freq": "25280",
         "rank": "195",
@@ -48950,11 +48950,31 @@
                 "selmaho": "ZOhOI",
                 "meaning": [
                     {
-                        "exp": "quote next non-Lojban word only; quotes a single non-Lojban word delimited by pauses (in speech) or whitespace (in writing)"
+                        "exp": "One-word non-Lojban quotation. The next utterance, up until its first pause (in speech) or whitespace (in writing), loses all its grammatical function and becomes the quoted content. The entire construct is a sumti meaning \"the text &lt;quoted text&gt;\", and is considered a single word for grammatical purposes.",
+                        "note": "Because full stops mean mandatory pauses in Lojban orthography, some consider it unacceptable to quote texts containing full stop(s) (for example, URLs) with {{zo'oi}}.",
+                        "example": [
+                            {
+                                "lojban": ".i mi na kakne lo nu xregau fi lo so'o lerfu no'u mu'a {{zo'oi dhcmrlchtdj}} zi'e poi la cevra'a ckuzda cu na pu kanpe zi'e poi bau su'o lo ri mipri bangu cu na se nenri lo betri smuni",
+                                "english": "There is no combination of characters one can make &mdash; {{<i>dhcmrlchtdj</i>}}, for example &mdash; that the divine Library has not foreseen and that in one or more of its secret tongues does not hide a terrible significance.",
+                                "source-id": "libr",
+                                "source": "The Library of Babel",
+                                "author": "Jorge Luis Borges",
+                                "translator": "la .xorxes.",
+                                "link": "https://mw.lojban.org/papri/la_ckuzda_pe_la_babel"
+                            },
+                            {
+                                "lojban": ".i la gliban zo'u ji'a pagbu fa lo'e uinma'o .i {{zo'oi lol}} mupli iau u'i",
+                                "english": "Attitudinals are also part of English, like {{\"lol\"}} lol",
+                                "source-id": "rolj",
+                                "speaker": "la srasu",
+                                "source": "roljbogu'e chatlog"
+                            }
+                        ]
                     }
                 ]
             }
-        ]
+        ],
+        "good": true
     },
     {
         "word": "zo'u",
