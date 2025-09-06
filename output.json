@@ -9588,6 +9588,86 @@
         "good": true
     },
     {
+        "word": "zi",
+        "gloss": "Preposition (tense): short time distance",
+        "type": "cmavo",
+        "freq": "72050",
+        "rank": "79",
+        "tag": "core-1",
+        "rafsi-cvc": null,
+        "rafsi-ccv": null,
+        "rafsi-cvv": null,
+        "definition": [
+            {
+                "selmaho": "ZI",
+                "meaning": [
+                    {
+                        "exp": "Signifies the event happens / the proposition holds at some time near the reference point.",
+                        "note": "{{zi}} by itself doesn't indicate the direction of the time distance. A {{pu}} or {{ba}} is commonly placed before {{zi}} to indicate the time direction. Also, {{ca zi}} is taken to mean \"right at ...\", as the {{zi}} is taken to shorten the interval to which {{ca}} extends to the past and/or future.",
+                        "example": [
+                            {
+                                "lojban": "ko {{zi}} cliva lo zdani be mi",
+                                "english": "Leave my home. {{Now!}}",
+                                "source-id": "meta",
+                                "source": "The Metamorphosis",
+                                "author": "Franz Kafka",
+                                "translator": "la .xorxes.",
+                                "link": "https://mw.lojban.org/images/f/fc/lonubinxo.pdf"
+                            },
+                            {
+                                "lojban": "― coi jbope'o mi'e {{zi}} sipna <br> ― {{puzi}} ji {{bazi}} <br> ― naje li'abu'o u'i",
+                                "english": "― Hello Lojban friends, I'm sleeping {{(from a short distance in time from now)}} <br> ― {{To the past}} or {{to the future}}? <br> ― The latter, should be obvious now, haha.",
+                                "source-id": "rolj",
+                                "speaker": "la srasu, la evis",
+                                "note": "The middle sentence is in JACU. Substitute {{ji}} with {{je'i}} to convert it to CLL/BPFK Lojban.",
+                                "source": "roljbogu'e chatlog"
+                            }
+                        ]
+                    },
+                    {
+                        "context": "When followed by a sumti",
+                        "variation": "CLL",
+                        "exp": "Specifies the temporal reference point to be the attached sumti.",
+                        "example": [
+                            {
+                                "lojban": "ni'o {{ba zi lo puvlamdei dormidju}} mi penmi le spesi'u",
+                                "english": "{{A little past yesterday noon}} I met that couple.",
+                                "source-id": "inag",
+                                "source": "In a Grove",
+                                "author": "Ryūnosuke Akutagawa",
+                                "translator": "la .guskant.",
+                                "link": "https://guskant.github.io/yabu/html5/jbopoho.html"
+                            }
+                        ]
+                    },
+                    {
+                        "context": "When followed by a sumti",
+                        "variation": "BPFK",
+                        "exp": "Specifies the (short) time distance to the temporal reference point to be the attached sumti.",
+                        "example": [
+                            {
+                                "lojban": ".i lo prenu co'a bajra fa'a ro da gi'e jalsi'u .i ku'i bredi {{zi lo mentu be li ji'i re}} .i lo nu kelci cu cfari",
+                                "english": "People began running about in all directions, tumbling up against each other; however, they got settled down {{in a minute or two}}, and the game began.",
+                                "source-id": "alic",
+                                "source": "Alice in Wonderland",
+                                "author": "Lewis Carroll",
+                                "translator": "la .xorxes.",
+                                "link": "https://mw.lojban.org/papri/lo_selfri_be_la_.alis._bei_bu%27u_la_selmacygu%27e"
+                            }
+                        ]
+                    },
+                    {
+                        "context": "{{se}} ~",
+                        "variation": "selba",
+                        "exp": "Specifies the standard of subjective size to be the attached sumti.",
+                        "note": "Under selba, a sumti after plain {{zi}} means the same as the CLL definiton. {{se zi}} is defined in selba but is never used."
+                    }
+                ]
+            }
+        ],
+        "good": true
+    },
+    {
         "word": "zi'e",
         "gloss": "Relative expression connector",
         "type": "cmavo",
