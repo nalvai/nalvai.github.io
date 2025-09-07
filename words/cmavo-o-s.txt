@@ -33,6 +33,36 @@
                 -source-id rolj
                 -speaker la ziren
 
+-entry:
+    -word o'a
+    -gloss Attitudinal: pride &mdash; modesty/humility &mdash; shame 
+    -type cmavo
+    -definition:
+        -selmaho UI1
+        -meaning:
+            -exp Attitudinal: express pride / dignity / self-confidence / smugness / bravado / grandiloquence / pomposity / cockiness / conceit / arrogance.
+            -example:
+                -lojban .i {{.o'a}} lo nu mi se fanza no roi dukse ja'e lo nu mi skuna su da poi mi na skudji
+                -english {{I'm proud to say that}} I'm never so annoyed that I say things I don't want to say.
+                -source-id nafe
+                -note This sentence is in tcekitau. Substitute the {{su}} with {{su'o}} to convert it into CLL/BPFK Lojban.
+        -meaning:
+            -context ~ {{cu'i}}
+            -exp Attitudinal: express modesty / humility / humbleness / discreetness / meekness / unpretentiousness / reserve.
+            -example:
+                -lojban .i mi sutra lo nu pilno lo rafsi liste kei po'o {{.o'acu'i}} 🤫 .i rafsi morji seju smadi
+                -english I'm just fast at using rafsi tables 🤫 [I] guess rafsi whether I remember them
+                -source-id rolj
+                -note Said in response to a compliment about the speaker's ability to recall rafsi quickly.
+                -speaker niftg
+        -meaning:
+            -context ~ {{nai}}
+            -exp Attitudinal: express shame / abashment / embarrassment / humiliation / mortification.
+            -example:
+                -lojban .i .oi se'i {{.o'anai}} mi cirko pe'a zo ke .i ga'inai ko xekce mi
+                -english Oops, {{shame on me}}, I dropped the "ke". Xekce me please?
+                -source-id rolj
+                -speaker la janbe
 
 -entry:
     -word pa'o
