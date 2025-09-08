@@ -22,6 +22,29 @@
 
 
 
+-entry:
+    -word pencu
+    -gloss to touch &mdash; to be touched &mdash; to be used for touching ... &mdash; (of a part of x<sub>2</sub>) to be touched at 
+    -type gismu
+    -definition:
+        -meaning:
+            -exp x_1 (agent) touches x_2 with x_3 [a locus on x_1 or an instrument] at x_4 [a locus on x_2].
+            -note Place structure parallels that of {{darxi}} and {{jgari}}.
+            -example:
+                -lojban .i ga nai do {{pencu}} lo va cifnu gi mi gy pilno lo nu popygau lo stedu be do
+                -english ..., and if you {{lay one claw upon}} that baby, I will break your head with it.
+                -source-id scie
+            -example:
+                -lojban lo mlatu cu puzi plipe lo mi stizu jecu {{pencu lo mi stedu lo my stedu}} iau iu
+                -english The cat just jumped onto my chair and {{touched my head with its head}} <3
+                -source-id rolj
+                -speaker la srasu
+                -note This examlpe is in JACU. To convert it to CLL/BPFK Lojban, substitute {{jecu}} with {{gi'e}}.
+            -example:
+                -lojban .i la cíluuax. cy muvdu gi'e {{pencu fo le birka}} gi'e mlatse gi'ebabo pamjai
+                -english Sheelua moved to her, {{touched her arm}}, sit by her side, and then hugged her.
+                -source-id clan
+
 
 
 
