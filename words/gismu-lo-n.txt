@@ -79,6 +79,37 @@
                 -english And even [his] skin {{was of a greenish tint}}.
                 -source-id wond
 
+-entry:
+    -word minde
+    -gloss to order, to command &mdash; to be ordered (to do ...) &mdash; (an) order, command
+    -type gismu
+    -definition:
+        -meaning:
+            -exp x_1 issues commands/orders to x_2 for result x_3 (event/state) to happen; x_3 is commanded to occur.
+            -example:
+                -lojban ni'o bu'u lo nolzda ku lo balnoltru cu {{minde}} ly. lo nu terxra lo ranmi banli since
+                -english There the emperor {{ordered}} him to paint a dragon.
+                -source-id lian
+            -example:
+                -lojban .i lu {{lu minde mutce li'u}} zo'u {{minde}} fa ra fe mi'o vau ua li'u
+                -english "{{'Lots of orders'}} means they're {{giving}} us {{orders}}."
+                -source-id rest
+            -example:
+                -lojban .i {{se minde fi}} lo nu ciska loi drani ku cy. se si'u lo nu mi se cecmu
+                -english [I'd] {{been ordered to}} draw the "correct" things on it to help me be part of society
+                -source-id rout
+
+-entry:
+    -word mikri
+    -gloss millionth &mdash; unit (of millionth)
+    -type gismu
+    -definition:
+        -meaning:
+            -exp x_1 is a millionth [10<sup>−6</sup>] of x_2 in dimension/aspect x_3 (default is units). 
+            -example:
+                -lojban i ko'a kanji lo te sepli pe lo botpi jo'u lo jubme jo'u lo bitmu jo'u lo fagri stuzi kajna jadni jo'u lo djedi be li bi zmiku junla {{fi'o se satci lo mikri}} ki'u lo nu lo ko'a tutci jo'u tadji cu carmi ralci
+                -english and its author had calculated the relative position of the caraffe, the table, the walls, the chimney piece ornaments and the eight-day clock, {{to the millionth place of decimals}}, for his instruments and methods were exquisitely fine.
+                -source-id cloc
 
 -entry:
     -word mlatu

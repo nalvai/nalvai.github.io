@@ -5984,6 +5984,39 @@
         "good": true
     },
     {
+        "word": "mikri",
+        "gloss": "millionth &mdash; unit (of millionth)",
+        "type": "gismu",
+        "freq": "250",
+        "rank": "2330",
+        "tag": "favored",
+        "rafsi-cvc": "mik",
+        "rafsi-ccv": null,
+        "rafsi-cvv": null,
+        "definition": [
+            {
+                "meaning": [
+                    {
+                        "exp": "x_1 is a millionth [10<sup>−6</sup>] of x_2 in dimension/aspect x_3 (default is units).",
+                        "example": [
+                            {
+                                "lojban": "i ko'a kanji lo te sepli pe lo botpi jo'u lo jubme jo'u lo bitmu jo'u lo fagri stuzi kajna jadni jo'u lo djedi be li bi zmiku junla {{fi'o se satci lo mikri}} ki'u lo nu lo ko'a tutci jo'u tadji cu carmi ralci",
+                                "english": "and its author had calculated the relative position of the caraffe, the table, the walls, the chimney piece ornaments and the eight-day clock, {{to the millionth place of decimals}}, for his instruments and methods were exquisitely fine.",
+                                "source-id": "cloc",
+                                "source": "The Clockmaker",
+                                "author": "Robert Louis Stevenson",
+                                "translator": "la .xorxes.",
+                                "link": "https://mw.lojban.org/papri/le_junla_zbasu",
+                                "originallink": "https://en.wikisource.org/wiki/The_Clockmaker"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "good": true
+    },
+    {
         "word": "milxe",
         "gloss": "mild, somewhat, a little ..., a bit ... &mdash; a mild property",
         "type": "gismu",
@@ -6023,6 +6056,57 @@
                                 "author": "L. Frank Baum",
                                 "translator": "la solpa'i",
                                 "link": "https://selpahi.de/oz_plain.html"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "good": true
+    },
+    {
+        "word": "minde",
+        "gloss": "to order, to command &mdash; to be ordered (to do ...) &mdash; (an) order, command",
+        "type": "gismu",
+        "freq": "4440",
+        "rank": "665",
+        "tag": "core-3",
+        "rafsi-cvc": "mid",
+        "rafsi-ccv": null,
+        "rafsi-cvv": "mi'e",
+        "definition": [
+            {
+                "meaning": [
+                    {
+                        "exp": "x_1 issues commands/orders to x_2 for result x_3 (event/state) to happen; x_3 is commanded to occur.",
+                        "example": [
+                            {
+                                "lojban": "ni'o bu'u lo nolzda ku lo balnoltru cu {{minde}} ly. lo nu terxra lo ranmi banli since",
+                                "english": "There the emperor {{ordered}} him to paint a dragon.",
+                                "source-id": "lian",
+                                "source": "Liang and the Magic Paintbrush",
+                                "author": "Demi",
+                                "translator": "la darsi",
+                                "editor": "la gleki",
+                                "link": "https://docs.google.com/spreadsheets/d/1_vkiwqOIOIJPqZTiomzd4ApUSEQXhEY6CeyZD_6c-PA/edit?gid=768225989#gid=768225989"
+                            },
+                            {
+                                "lojban": ".i lu {{lu minde mutce li'u}} zo'u {{minde}} fa ra fe mi'o vau ua li'u",
+                                "english": "\"{{'Lots of orders'}} means they're {{giving}} us {{orders}}.\"",
+                                "source-id": "rest",
+                                "source": "The Restaurant of Many Orders",
+                                "author": "Kenji Miyazawa",
+                                "translator": "la .tijlan.",
+                                "link": "https://docs.google.com/document/d/10Rnm80SieLrpFnk9kn_9bCuon96CNSPTA8hqVaWQYbQ/edit?tab=t.0"
+                            },
+                            {
+                                "lojban": ".i {{se minde fi}} lo nu ciska loi drani ku cy. se si'u lo nu mi se cecmu",
+                                "english": "[I'd] {{been ordered to}} draw the \"correct\" things on it to help me be part of society",
+                                "source-id": "rout",
+                                "source": "Route Sphere",
+                                "author": "Last Note.",
+                                "translator": "tetsusquared (la .tirprij.)",
+                                "link": "https://www.youtube.com/watch?v=4aDrH3wEUtQ"
                             }
                         ]
                     }
@@ -6813,6 +6897,56 @@
         "good": true
     },
     {
+        "word": "pemci",
+        "gloss": "poem, verse &mdash; content, theme (of a poem) &mdash; poet, to make poems &mdash; audience of poem",
+        "type": "gismu",
+        "freq": "2990",
+        "rank": "822",
+        "tag": "core-3",
+        "rafsi-cvc": "pem",
+        "rafsi-ccv": null,
+        "rafsi-cvv": null,
+        "definition": [
+            {
+                "meaning": [
+                    {
+                        "exp": "x_1 is a poem/verse about plot/theme/subject/pattern x_2 by author x_3 for intended audience x_4.",
+                        "example": [
+                            {
+                                "lojban": "ni'o xu zvati fa lo selci'a pe {{lo pemci be lo ti selzgi}} .a'u",
+                                "english": "Is there a text of {{the verse about this music video}}?",
+                                "source-id": "rolj",
+                                "speaker": "Avaxar",
+                                "source": "roljbogu'e chatlog"
+                            },
+                            {
+                                "lojban": "ni'o lo di'u se jinvi rai lo ka vlile cu se cusku {{lo cabna te pemci}}",
+                                "english": "Such opinions found a more violent expression in the mouths of {{contemporary poets}}:",
+                                "source-id": "cloc",
+                                "source": "The Clockmaker",
+                                "author": "Robert Louis Stevenson",
+                                "translator": "la .xorxes.",
+                                "link": "https://mw.lojban.org/papri/le_junla_zbasu",
+                                "originallink": "https://en.wikisource.org/wiki/The_Clockmaker"
+                            },
+                            {
+                                "lojban": ".i {{lo malmisno pemci be fo lo junla zbasu be'o}} noi jenca lo cecmu cu se krasi di'e",
+                                "english": "{{The infamous Ode to a Clockmaker}}, which shook society, began somewhat thus:",
+                                "source-id": "cloc",
+                                "source": "The Clockmaker",
+                                "author": "Robert Louis Stevenson",
+                                "translator": "la .xorxes.",
+                                "link": "https://mw.lojban.org/papri/le_junla_zbasu",
+                                "originallink": "https://en.wikisource.org/wiki/The_Clockmaker"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "good": true
+    },
+    {
         "word": "pencu",
         "gloss": "to touch &mdash; to be touched &mdash; to be used for touching ... &mdash; (of a part of x<sub>2</sub>) to be touched at",
         "type": "gismu",
@@ -7500,6 +7634,56 @@
                                 "translator": "la .xorxes.",
                                 "link": "https://mw.lojban.org/papri/le_saske_smani",
                                 "originallink": "https://en.wikisource.org/wiki/The_Scientific_Ape"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "good": true
+    },
+    {
+        "word": "ranji",
+        "gloss": "(of an event) to continue, to persist &mdash; interval of persistance",
+        "type": "gismu",
+        "freq": "2560",
+        "rank": "884",
+        "tag": "common",
+        "rafsi-cvc": null,
+        "rafsi-ccv": null,
+        "rafsi-cvv": "ra'i",
+        "definition": [
+            {
+                "meaning": [
+                    {
+                        "exp": "x_1 (event/state) continues/persists over interval x_2; x_1 (property - ka) is continuous over x_2.",
+                        "example": [
+                            {
+                                "lojban": ".i gau ko cu {{ranji}} fa lo nu do mi kansa je jgari pe'u",
+                                "english": "Make this moment {{last}}, where you and I come together holding each other, I beg...",
+                                "source-id": "haru",
+                                "source": "Haruhikage",
+                                "author": "CRYCHIC",
+                                "translator": "tetsusquared (la .tirprij.)",
+                                "link": "https://www.youtube.com/watch?v=Ta72j7PZ0R4"
+                            },
+                            {
+                                "lojban": ".i {{do zo'u}} pa speni .e re panzi cu {{jai ranji}}",
+                                "english": "{{You left behind}} a wife and two children.",
+                                "source-id": "eggq",
+                                "source": "The Egg",
+                                "author": "Andy Weir",
+                                "translator": "la nalvai",
+                                "link": "https://nalvai.neocities.org/translations/the-egg/"
+                            },
+                            {
+                                "lojban": ".i lo donri ba {{ranji}} lo do se djica",
+                                "english": "..., and the day will {{last}} as long as you like.",
+                                "source-id": "litt",
+                                "source": "The Little Prince",
+                                "author": "Antoine de Saint-Exupéry",
+                                "translator": "la .xorxes.",
+                                "link": "https://mw.lojban.org/papri/le_cmalu_noltru"
                             }
                         ]
                     }

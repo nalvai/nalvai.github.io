@@ -103,7 +103,7 @@
         "translator": "la .xorxes.",
         "link": "https://mw.lojban.org/papri/le_junla_zbasu",
         "originallink": "https://en.wikisource.org/wiki/The_Clockmaker",
-        "instance": 26
+        "instance": 28
     },
     "cmal": {
         "source": "lo cmalu",
@@ -158,7 +158,7 @@
         "author": "Andy Weir",
         "translator": "la nalvai",
         "link": "https://nalvai.neocities.org/translations/the-egg/",
-        "instance": 13
+        "instance": 14
     },
     "firs": {
         "source": "First dinosaurs may have been omnivores in the north hemisphere",
@@ -174,6 +174,13 @@
         "translator": "tetsusquared (la .tirprij.)",
         "link": "https://www.youtube.com/watch?v=Kul_crM2RKg",
         "instance": 2
+    },
+    "haru": {
+        "source": "Haruhikage",
+        "author": "CRYCHIC",
+        "translator": "tetsusquared (la .tirprij.)",
+        "link": "https://www.youtube.com/watch?v=Ta72j7PZ0R4",
+        "instance": 1
     },
     "head": {
         "source": "Headphone Actor",
@@ -270,7 +277,7 @@
         "translator": "la darsi",
         "editor": "la gleki",
         "link": "https://docs.google.com/spreadsheets/d/1_vkiwqOIOIJPqZTiomzd4ApUSEQXhEY6CeyZD_6c-PA/edit?gid=768225989#gid=768225989",
-        "instance": 8
+        "instance": 9
     },
     "libr": {
         "source": "The Library of Babel",
@@ -284,7 +291,7 @@
         "author": "Antoine de Saint-Exupéry",
         "translator": "la .xorxes.",
         "link": "https://mw.lojban.org/papri/le_cmalu_noltru",
-        "instance": 44
+        "instance": 45
     },
     "lojb": {
         "source": "lo jbobau cu mo",
@@ -407,18 +414,18 @@
         "author": "Kenji Miyazawa",
         "translator": "la .tijlan.",
         "link": "https://docs.google.com/document/d/10Rnm80SieLrpFnk9kn_9bCuon96CNSPTA8hqVaWQYbQ/edit?tab=t.0",
-        "instance": 13
+        "instance": 14
     },
     "rolj": {
         "source": "roljbogu'e chatlog",
-        "instance": 99
+        "instance": 100
     },
     "rout": {
         "source": "Route Sphere",
         "author": "Last Note.",
         "translator": "tetsusquared (la .tirprij.)",
         "link": "https://www.youtube.com/watch?v=4aDrH3wEUtQ",
-        "instance": 3
+        "instance": 4
     },
     "scie": {
         "source": "The Scientific Ape",

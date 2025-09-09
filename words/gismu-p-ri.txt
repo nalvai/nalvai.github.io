@@ -20,6 +20,26 @@
                 -english You {{have within you}} all the knowledge and experiences of all your past lives.
                 -source-id eggq
 
+-entry:
+    -word pemci
+    -gloss poem, verse &mdash; content, theme (of a poem) &mdash; poet, to make poems &mdash; audience of poem
+    -type gismu
+    -definition:
+        -meaning:
+            -exp x_1 is a poem/verse about plot/theme/subject/pattern x_2 by author x_3 for intended audience x_4.
+            -example:
+                -lojban ni'o xu zvati fa lo selci'a pe {{lo pemci be lo ti selzgi}} .a'u
+                -english Is there a text of {{the verse about this music video}}?
+                -source-id rolj
+                -speaker Avaxar
+            -example:
+                -lojban ni'o lo di'u se jinvi rai lo ka vlile cu se cusku {{lo cabna te pemci}}
+                -english Such opinions found a more violent expression in the mouths of {{contemporary poets}}:
+                -source-id cloc
+            -example:
+                -lojban .i {{lo malmisno pemci be fo lo junla zbasu be'o}} noi jenca lo cecmu cu se krasi di'e
+                -english {{The infamous Ode to a Clockmaker}}, which shook society, began somewhat thus:
+                -source-id cloc
 
 
 -entry:
@@ -297,6 +317,25 @@
                 -english Another {{stuffed}} nuts in its mouth, and was aggrieved at the baby because it would not eat them.
                 -source-id scie
 
+-entry:
+    -word ranji
+    -gloss (of an event) to continue, to persist &mdash; interval of persistance
+    -type gismu
+    -definition:
+        -meaning:
+            -exp x_1 (event/state) continues/persists over interval x_2; x_1 (property - ka) is continuous over x_2.
+            -example:
+                -lojban .i gau ko cu {{ranji}} fa lo nu do mi kansa je jgari pe'u
+                -english Make this moment {{last}}, where you and I come together holding each other, I beg...
+                -source-id haru
+            -example:
+                -lojban .i {{do zo'u}} pa speni .e re panzi cu {{jai ranji}}
+                -english {{You left behind}} a wife and two children.
+                -source-id eggq
+            -example:
+                -lojban .i lo donri ba {{ranji}} lo do se djica
+                -english ..., and the day will {{last}} as long as you like.
+                -source-id litt
 
 -entry:
     -word rinka
