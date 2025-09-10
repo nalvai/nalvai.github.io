@@ -24,7 +24,25 @@
                 -lojban .i mutce smaji .i sy tirna {{lo vasxu se bacru be lo gerku be'o}} .e nai lo drata
                 -english It's very quiet. She heard {{dogs' whisperings}} and nothing else.
                 -source-id nict
-
+-entry:
+    -word badri
+    -gloss sad &mdash; source of sadness
+    -type gismu
+    -definition:
+        -meaning:
+            -exp x_1 is sad/depressed/dejected/[unhappy/feels sorrow/grief] about x_2 (abstraction).
+            -example:
+                -lojban .i je'i ca le cerni mi za'u re'u {{badri}}
+                -english Or will I once again {{fall into sorrow}} when the morning comes?
+                -source-id arma
+            -example:
+                -lojban .i ku'i no da prali fi lo nu {{badri ro selsre}}
+                -english But there's no sense {{crying over every mistake}}
+                -source-id stil
+            -example:
+                -lojban .i ro lo se gleki ja {{se badri}} poi se lifri lo prenu ca da cu pu ja ba se lifri do
+                -english Every happy and {{sad moment}} ever experienced by any human was, or will be, experienced by you.
+                -source-id eggq
 -entry:
     -word bangu
     -gloss language &mdash; to use (a language) &mdash; to be expressed with a language
@@ -83,7 +101,21 @@
                 -lojban .i le du'u xu kau {{bebna lo ka nerkla}} cu ba se facki ca le nu bevri fi le bartu
                 -english Was {{[she] that dumb, did [she] go in}} or not, we'll see when they carry them out.
                 -source-id terr
-
+-entry:
+    -word besna
+    -gloss brain &mdash; to have brain(s)
+    -type gismu
+    -definition:
+        -meaning:
+            -exp x1 is a/the brain [body-part] of x2; [metaphor: intelligence, mental control].
+            -example:
+                -lojban &mdash; .i xu no da .ue {{besna}} <br>&mdash; .i da ja'a {{besna}} .i ku'i {{lo besna}} cu marji lo rectu
+                -english &mdash; No {{brain}}? <br>&mdash; Oh, there'{{s a brain}} all right. It's just that {{the brain}} is made out of meat! 
+                -source-id made
+            -example:
+                -lojban .i zanfu'a la .kanzas. fa lo nu do {{se besna}}
+                -english It is fortunate for Kansas that you {{have brains}}.
+                -source-id wond
 -entry:
     -word bevri
     -gloss to carry, to bring &mdash; to be carried &mdash; destination &mdash; origin, start &mdash; route

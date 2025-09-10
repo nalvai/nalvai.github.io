@@ -302,6 +302,25 @@
                 -note Literally "... eating <i>some of that is on my plate</i>?" 
                 -source-id snow
 
+-entry:
+    -word crino
+    -gloss (to be) green
+    -type gismu
+    -definition:
+        -meaning:
+            -exp x_1 is green/verdant [color adjective].
+            -example:
+                -lojban .i lo ji'a sai tsani be la tcadu cu {{milxe lo ka crino}} .i je lo solri gusli'i cu {{crino}}
+                -english Even the sky above the City {{had a green tint}}, and the rays of the sun {{were green}}.
+                -source-id wond
+            -example:
+                -lojban .i se ri'a bo sy. na bilga {{lo nu crino}}
+                -english Thus, they don’t need to {{be green}}.
+                -source-id layo
+            -example:
+                -lojban ni'o lo ziptu'a ca'o {{zenba lo ka crino}}
+                -english Antarctica is {{getting greener}}
+                -source-id anta
 
 
 -entry:
@@ -392,4 +411,20 @@
                 -note {{ri'oi}} is an article (selma'o {{LE}}) proposed by la .ilmen. (the translator of this text) meaning "The latest aforementioned ...".
 
 
+-entry:
+    -word darxi
+    -gloss to strike, to beat, to hit &mdash; to be struck, to be beaten &mdash; to be used for striking ... &mdash; (of a part of x<sub>2</sub>) to be struck at
+    -type gismu
+    -definition:
+        -meaning:
+            -exp x_1 hits/strikes/[beats] x_2 with instrument [or body-part] x_3 at locus x_4.
+            -example:
+                -lojban mi {{noi zanru darxi do lo xance lo bekpi ku'o}} lu .ua dai bu'o .i'e li'u
+                -english "Now you're getting it," I said, {{with a congratulatory slap on your back}}.
+                -source-id eggq
+                -note This example is a part of a long sentence with {{.alcu}} as its main selbri, so the main selbri isn't visible here.
+            -example:
+                -lojban .i ru'i {{darxi}} lo calku be lo sovda fi lo vlipa jbama ja'e lo nu sy cu porpi
+                -english {{Blast}} the shell of the egg with powerful bombs until it cracked?
+                -source-id layo
                 

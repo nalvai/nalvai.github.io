@@ -184,6 +184,25 @@
                 -english I don't want to {{bother}} you.
                 -source-id dans
 
+-entry:
+    -word farlu
+    -gloss to fall, to descend &mdash; destination of fall &mdash; origin of fall &mdash; force of falling
+    -type gismu
+    -definition:
+        -meaning:
+            -exp x_1 falls/drops to x_2 from x_3 in gravity well/frame of reference x_4.
+            -example:
+                -lojban .i lo balnoltru e lo nobli lanzu cu {{farlu}} lo loldi be lo xamsi
+                -english The emperor and the royal family {{sank to}} the bottom of the sea.
+                -source-id lian      
+            -example:
+                -lojban .i fau lo kajde e lo nu prije kei ca'o tolfarlu fi le terdi fe le tsani gi'e ca'o {{farlu}} fe le terdi fi le tsani
+                -english With gentleness and wisdom, it ascends from the earth to the sky and {{descends}} to the earth from the sky.
+                -source-id emer      
+            -example:
+                -lojban .i mi sanli lo drudi ku gi'e fapro {{lo terdi ve farlu}}
+                -english I stand on the roof and oppose {{the Earth's gravity pulling me down}}
+                -source-id reed
 
 -entry:
     -word farvi

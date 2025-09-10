@@ -441,6 +441,57 @@
         "good": true
     },
     {
+        "word": "badri",
+        "gloss": "sad &mdash; source of sadness",
+        "type": "gismu",
+        "freq": "11010",
+        "rank": "376",
+        "tag": "core-2",
+        "rafsi-cvc": null,
+        "rafsi-ccv": "dri",
+        "rafsi-cvv": null,
+        "definition": [
+            {
+                "meaning": [
+                    {
+                        "exp": "x_1 is sad/depressed/dejected/[unhappy/feels sorrow/grief] about x_2 (abstraction).",
+                        "example": [
+                            {
+                                "lojban": ".i je'i ca le cerni mi za'u re'u {{badri}}",
+                                "english": "Or will I once again {{fall into sorrow}} when the morning comes?",
+                                "source-id": "arma",
+                                "source": "Ĉarma Anomali’",
+                                "author": "Noise and Bells",
+                                "translator": "tetsusquared (la .tirprij.)",
+                                "link": "https://www.youtube.com/watch?v=H5Bbg8HGkV0",
+                                "originallink": "https://www.youtube.com/watch?v=q05lSh5qfgk"
+                            },
+                            {
+                                "lojban": ".i ku'i no da prali fi lo nu {{badri ro selsre}}",
+                                "english": "But there's no sense {{crying over every mistake}}",
+                                "source-id": "stil",
+                                "source": "Still Alive",
+                                "author": "Jonathan Coulton",
+                                "translator": "la solpa'i",
+                                "link": "https://www.youtube.com/watch?v=hRrIioMA4w8"
+                            },
+                            {
+                                "lojban": ".i ro lo se gleki ja {{se badri}} poi se lifri lo prenu ca da cu pu ja ba se lifri do",
+                                "english": "Every happy and {{sad moment}} ever experienced by any human was, or will be, experienced by you.",
+                                "source-id": "eggq",
+                                "source": "The Egg",
+                                "author": "Andy Weir",
+                                "translator": "la nalvai",
+                                "link": "https://nalvai.neocities.org/translations/the-egg/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "good": true
+    },
+    {
         "word": "ba'e",
         "gloss": "Emphasize next word",
         "type": "cmavo",
@@ -778,6 +829,47 @@
                                 "author": "Szymborska Wisława",
                                 "translator": "la uakci",
                                 "link": "https://docs.google.com/spreadsheets/d/1_vkiwqOIOIJPqZTiomzd4ApUSEQXhEY6CeyZD_6c-PA/edit?gid=1514901818#gid=1514901818"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "good": true
+    },
+    {
+        "word": "besna",
+        "gloss": "brain &mdash; to have brain(s)",
+        "type": "gismu",
+        "freq": "4070",
+        "rank": "705",
+        "tag": "core-3",
+        "rafsi-cvc": "ben",
+        "rafsi-ccv": null,
+        "rafsi-cvv": null,
+        "definition": [
+            {
+                "meaning": [
+                    {
+                        "exp": "x1 is a/the brain [body-part] of x2; [metaphor: intelligence, mental control].",
+                        "example": [
+                            {
+                                "lojban": "&mdash; .i xu no da .ue {{besna}} <br>&mdash; .i da ja'a {{besna}} .i ku'i {{lo besna}} cu marji lo rectu",
+                                "english": "&mdash; No {{brain}}? <br>&mdash; Oh, there'{{s a brain}} all right. It's just that {{the brain}} is made out of meat!",
+                                "source-id": "made",
+                                "source": "They're Made Out of Meat",
+                                "author": "Terry Bisson",
+                                "translator": "Pierre Abbot",
+                                "link": "https://mw.lojban.org/papri/ko%27a_marji_lo_rectu"
+                            },
+                            {
+                                "lojban": ".i zanfu'a la .kanzas. fa lo nu do {{se besna}}",
+                                "english": "It is fortunate for Kansas that you {{have brains}}.",
+                                "source-id": "wond",
+                                "source": "The Wonderful Wizard of Oz",
+                                "author": "L. Frank Baum",
+                                "translator": "la solpa'i",
+                                "link": "https://selpahi.de/oz_plain.html"
                             }
                         ]
                     }
@@ -2341,6 +2433,56 @@
         "good": true
     },
     {
+        "word": "crino",
+        "gloss": "(to be) green",
+        "type": "gismu",
+        "freq": "3800",
+        "rank": "723",
+        "tag": "core-3",
+        "rafsi-cvc": null,
+        "rafsi-ccv": null,
+        "rafsi-cvv": "ri'o",
+        "definition": [
+            {
+                "meaning": [
+                    {
+                        "exp": "x_1 is green/verdant [color adjective].",
+                        "example": [
+                            {
+                                "lojban": ".i lo ji'a sai tsani be la tcadu cu {{milxe lo ka crino}} .i je lo solri gusli'i cu {{crino}}",
+                                "english": "Even the sky above the City {{had a green tint}}, and the rays of the sun {{were green}}.",
+                                "source-id": "wond",
+                                "source": "The Wonderful Wizard of Oz",
+                                "author": "L. Frank Baum",
+                                "translator": "la solpa'i",
+                                "link": "https://selpahi.de/oz_plain.html"
+                            },
+                            {
+                                "lojban": ".i se ri'a bo sy. na bilga {{lo nu crino}}",
+                                "english": "Thus, they don’t need to {{be green}}.",
+                                "source-id": "layo",
+                                "source": "The Lay of the Land",
+                                "author": "Worldbuilding Notes",
+                                "link": "https://www.youtube.com/watch?v=ViGGR231zvQ"
+                            },
+                            {
+                                "lojban": "ni'o lo ziptu'a ca'o {{zenba lo ka crino}}",
+                                "english": "Antarctica is {{getting greener}}",
+                                "source-id": "anta",
+                                "source": "Antarctica is getting greener",
+                                "author": "Ryan Cross on <i>Science</i>",
+                                "translator": "la .ilmen.",
+                                "link": "https://mw.lojban.org/papri/UserWiki:Ilmen/lo_ziptu%27a_ca%27o_zenba_lo_ka_crino",
+                                "originallink": "https://www.science.org/content/article/antarctica-getting-greener"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "good": true
+    },
+    {
         "word": "cu",
         "gloss": "Seperator: seperates leading sumti from main selbri",
         "type": "cmavo",
@@ -2608,6 +2750,47 @@
                                 "translator": "la .ilmen.",
                                 "link": "https://mw.lojban.org/papri/UserWiki:Ilmen/ka%27e_ku_lo_prurai_dinsauru_cu_cti%27omni_bu%27u_lo_berti_bolxadba",
                                 "originallink": "https://www.newscientist.com/article/2125580-first-dinosaurs-may-have-been-omnivores-in-the-north-hemisphere/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "good": true
+    },
+    {
+        "word": "darxi",
+        "gloss": "to strike, to beat, to hit &mdash; to be struck, to be beaten &mdash; to be used for striking ... &mdash; (of a part of x<sub>2</sub>) to be struck at",
+        "type": "gismu",
+        "freq": "7070",
+        "rank": "523",
+        "tag": "core-3",
+        "rafsi-cvc": "dax",
+        "rafsi-ccv": null,
+        "rafsi-cvv": "da'i",
+        "definition": [
+            {
+                "meaning": [
+                    {
+                        "exp": "x_1 hits/strikes/[beats] x_2 with instrument [or body-part] x_3 at locus x_4.",
+                        "example": [
+                            {
+                                "lojban": "mi {{noi zanru darxi do lo xance lo bekpi ku'o}} lu .ua dai bu'o .i'e li'u",
+                                "english": "\"Now you're getting it,\" I said, {{with a congratulatory slap on your back}}.",
+                                "source-id": "eggq",
+                                "note": "This example is a part of a long sentence with {{.alcu}} as its main selbri, so the main selbri isn't visible here.",
+                                "source": "The Egg",
+                                "author": "Andy Weir",
+                                "translator": "la nalvai",
+                                "link": "https://nalvai.neocities.org/translations/the-egg/"
+                            },
+                            {
+                                "lojban": ".i ru'i {{darxi}} lo calku be lo sovda fi lo vlipa jbama ja'e lo nu sy cu porpi",
+                                "english": "{{Blast}} the shell of the egg with powerful bombs until it cracked?",
+                                "source-id": "layo",
+                                "source": "The Lay of the Land",
+                                "author": "Worldbuilding Notes",
+                                "link": "https://www.youtube.com/watch?v=ViGGR231zvQ"
                             }
                         ]
                     }
@@ -3353,6 +3536,57 @@
                                 "source": "dansu co toldi",
                                 "author": "Noise and Bells (la janbe)",
                                 "link": "https://www.youtube.com/watch?v=B156ExvRjzM"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "good": true
+    },
+    {
+        "word": "farlu",
+        "gloss": "to fall, to descend &mdash; destination of fall &mdash; origin of fall &mdash; force of falling",
+        "type": "gismu",
+        "freq": "5110",
+        "rank": "620",
+        "tag": "core-3",
+        "rafsi-cvc": "fal",
+        "rafsi-ccv": null,
+        "rafsi-cvv": "fa'u",
+        "definition": [
+            {
+                "meaning": [
+                    {
+                        "exp": "x_1 falls/drops to x_2 from x_3 in gravity well/frame of reference x_4.",
+                        "example": [
+                            {
+                                "lojban": ".i lo balnoltru e lo nobli lanzu cu {{farlu}} lo loldi be lo xamsi",
+                                "english": "The emperor and the royal family {{sank to}} the bottom of the sea.",
+                                "source-id": "lian",
+                                "source": "Liang and the Magic Paintbrush",
+                                "author": "Demi",
+                                "translator": "la darsi",
+                                "editor": "la gleki",
+                                "link": "https://docs.google.com/spreadsheets/d/1_vkiwqOIOIJPqZTiomzd4ApUSEQXhEY6CeyZD_6c-PA/edit?gid=768225989#gid=768225989"
+                            },
+                            {
+                                "lojban": ".i fau lo kajde e lo nu prije kei ca'o tolfarlu fi le terdi fe le tsani gi'e ca'o {{farlu}} fe le terdi fi le tsani",
+                                "english": "With gentleness and wisdom, it ascends from the earth to the sky and {{descends}} to the earth from the sky.",
+                                "source-id": "emer",
+                                "source": "Emerald Tablet",
+                                "author": "an unknown Arabic writer",
+                                "translator": "la gleki",
+                                "link": "https://lojban.pw/en/texts/emerald-tablet/"
+                            },
+                            {
+                                "lojban": ".i mi sanli lo drudi ku gi'e fapro {{lo terdi ve farlu}}",
+                                "english": "I stand on the roof and oppose {{the Earth's gravity pulling me down}}",
+                                "source-id": "reed",
+                                "source": "Re-Education",
+                                "author": "Neru",
+                                "translator": "tetsusquared (la .tirprij.)",
+                                "link": "https://www.youtube.com/watch?v=XD6HKp77PbY"
                             }
                         ]
                     }
@@ -4608,6 +4842,47 @@
                                 "source": "ku'i ba troci",
                                 "author": "Fyren",
                                 "link": "https://www.youtube.com/watch?v=Y3apKaaBK5c"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "good": true
+    },
+    {
+        "word": "jimca",
+        "gloss": "branch, limb &mdash; to branch, to have branch(es), to fork into branches",
+        "type": "gismu",
+        "freq": "340",
+        "rank": "2080",
+        "tag": "favored",
+        "rafsi-cvc": "jic",
+        "rafsi-ccv": null,
+        "rafsi-cvv": null,
+        "definition": [
+            {
+                "meaning": [
+                    {
+                        "exp": "x_1 is a branch/bough/limb of x_2; x_2 forks into branches x_1; [preferred over metaphorical birka].",
+                        "example": [
+                            {
+                                "lojban": ".i ca clika co se jadni {{lo jimca poi se jimca}}",
+                                "english": "Now, a moss that has {{branches that branch}}.",
+                                "source-id": "layo",
+                                "source": "The Lay of the Land",
+                                "author": "Worldbuilding Notes",
+                                "link": "https://www.youtube.com/watch?v=ViGGR231zvQ"
+                            },
+                            {
+                                "lojban": ".i ca la 1888 moi la xaris.govir.sileis cu fendi pe'a lo dinsauru lanzu ricycartu {{lo re jimca}} poi fricysi'u tu'a lo ka tarmi lo tupyjanbo'u",
+                                "english": "In 1888, H.G. Seeley split the dinosaur family tree into {{two branches}} based on pelvic bones,",
+                                "source-id": "firs",
+                                "source": "First dinosaurs may have been omnivores in the north hemisphere",
+                                "author": "Chelsea Whyte on NewScientist",
+                                "translator": "la .ilmen.",
+                                "link": "https://mw.lojban.org/papri/UserWiki:Ilmen/ka%27e_ku_lo_prurai_dinsauru_cu_cti%27omni_bu%27u_lo_berti_bolxadba",
+                                "originallink": "https://www.newscientist.com/article/2125580-first-dinosaurs-may-have-been-omnivores-in-the-north-hemisphere/"
                             }
                         ]
                     }

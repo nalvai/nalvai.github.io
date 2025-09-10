@@ -83,6 +83,21 @@
                 -source-id emer
 
 -entry:
+    -word jimca
+    -gloss branch, limb &mdash; to branch, to have branch(es), to fork into branches
+    -type gismu
+    -definition:
+        -meaning:
+            -exp x_1 is a branch/bough/limb of x_2; x_2 forks into branches x_1; [preferred over metaphorical birka].
+            -example:
+                -lojban .i ca clika co se jadni {{lo jimca poi se jimca}}
+                -english Now, a moss that has {{branches that branch}}.
+                -source-id layo
+            -example:
+                -lojban .i ca la 1888 moi la xaris.govir.sileis cu fendi pe'a lo dinsauru lanzu ricycartu {{lo re jimca}} poi fricysi'u tu'a lo ka tarmi lo tupyjanbo'u
+                -english In 1888, H.G. Seeley split the dinosaur family tree into {{two branches}} based on pelvic bones,
+                -source-id firs
+-entry:
     -word jimpe
     -gloss to understand, to comprehend (a fact) &mdash; fact understood &mdash; subject of understanding
     -type gismu
