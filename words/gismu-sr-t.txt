@@ -132,6 +132,25 @@
                 -source-id rout
 
 -entry:
+    -word tirna
+    -gloss to hear &mdash; (of a sound) to be heard &mdash; (background) noise
+    -type gismu
+    -definition:
+        -meaning:
+            -exp x_1 hears x_2 against background/noise x_3; x_2 is audible; (adjective:) x_1 is aural.
+            -example:
+                -lojban .i xu {{tirna}} ti noi zansaxyzgi ra'i le risna be do ce si
+                -english Do [you] {{hear}} this paradaisical song that radiates from the heart shared by ou and-
+                -source-id jbin
+            -example:
+                -lojban .i le smani cu mutce terpa lo se viska be sy gi'e carmi se cinri {{ro lo se tirna be sy.}}
+                -english There he was much terrified by what he saw, deeply interested in {{all he heard}};
+                -source-id scie
+            -example:
+                -lojban .i mi pu jundi lei bi'u nai sance tai da'i lenu mi terpa lonu mi {{tirna fi lei bu}} fe lo ji'a gunta tonga poi cnino 
+                -english I seemed to keep track of those chimes with a peculiar intentness, as if I feared to {{hear}} some very remote, intruding note {{among them}}. 
+                -source-id book
+-entry:
     -word traji
     -gloss most, superlative &mdash; superlative property &mdash; direction of superlativity &mdash; range of superlativity
     -type gismu

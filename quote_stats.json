@@ -63,7 +63,7 @@
         "author": "H. P. Lovecraft",
         "translator": "la gleki",
         "link": "https://lojban.pw/en/texts/the-book/",
-        "instance": 3
+        "instance": 4
     },
     "calc": {
         "source": "Calc.",
@@ -103,7 +103,7 @@
         "translator": "la .xorxes.",
         "link": "https://mw.lojban.org/papri/le_junla_zbasu",
         "originallink": "https://en.wikisource.org/wiki/The_Clockmaker",
-        "instance": 28
+        "instance": 30
     },
     "cmal": {
         "source": "lo cmalu",
@@ -166,7 +166,7 @@
         "translator": "la .ilmen.",
         "link": "https://mw.lojban.org/papri/UserWiki:Ilmen/ka%27e_ku_lo_prurai_dinsauru_cu_cti%27omni_bu%27u_lo_berti_bolxadba",
         "originallink": "https://www.newscientist.com/article/2125580-first-dinosaurs-may-have-been-omnivores-in-the-north-hemisphere/",
-        "instance": 5
+        "instance": 6
     },
     "guit": {
         "source": "Guitar, Loneliness and Blue Planet",
@@ -187,7 +187,7 @@
         "author": "Jin",
         "translator": "tetsusquared (la .tirprij.)",
         "link": "https://www.youtube.com/watch?v=X7jXrgWeltw",
-        "instance": 2
+        "instance": 4
     },
     "howt": {
         "source": "How the enemy came to Thlunrana",
@@ -218,7 +218,7 @@
         "source": "jbini canlu",
         "author": "Noise and Bells (la janbe)",
         "link": "https://www.youtube.com/watch?v=3aNGqujy-6s",
-        "instance": 2
+        "instance": 3
     },
     "jitt": {
         "source": "Jitter Doll",
@@ -277,7 +277,7 @@
         "translator": "la darsi",
         "editor": "la gleki",
         "link": "https://docs.google.com/spreadsheets/d/1_vkiwqOIOIJPqZTiomzd4ApUSEQXhEY6CeyZD_6c-PA/edit?gid=768225989#gid=768225989",
-        "instance": 10
+        "instance": 11
     },
     "libr": {
         "source": "The Library of Babel",
@@ -349,7 +349,7 @@
         "source": "lo nabmi",
         "author": "Noise and Bells (la janbe)",
         "link": "https://www.youtube.com/watch?v=gv0QIbGc8i8",
-        "instance": 3
+        "instance": 4
     },
     "nafe": {
         "source": "na fengu",
@@ -414,7 +414,7 @@
         "author": "Kenji Miyazawa",
         "translator": "la .tijlan.",
         "link": "https://docs.google.com/document/d/10Rnm80SieLrpFnk9kn_9bCuon96CNSPTA8hqVaWQYbQ/edit?tab=t.0",
-        "instance": 14
+        "instance": 15
     },
     "rolj": {
         "source": "roljbogu'e chatlog",
@@ -433,7 +433,7 @@
         "translator": "la .xorxes.",
         "link": "https://mw.lojban.org/papri/le_saske_smani",
         "originallink": "https://en.wikisource.org/wiki/The_Scientific_Ape",
-        "instance": 12
+        "instance": 14
     },
     "skab": {
         "source": "la skaborfe'a",
@@ -478,7 +478,7 @@
         "author": "Omoi",
         "translator": "tetsusquared (la .tirprij.)",
         "link": "https://www.youtube.com/watch?v=9WoWrjIwbhc",
-        "instance": 1
+        "instance": 2
     },
     "terr": {
         "source": "The Terrorist, He's Watching",

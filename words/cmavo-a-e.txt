@@ -559,6 +559,64 @@
                 -note An example of JACU. In this sentence, {{je}} connects two bridi-tails, {{dansu}} and {{cu kansa ...}}. Replace {{je cu}} with {{gi'e}} to convert it to CLL/BPFK Lojban.
 
 -entry:
+    -word cu'u
+    -gloss Preposition: as said by ..., spoken by ...
+    -type cmavo
+    -definition:
+        -selmaho BAI
+        -meaning:
+            -exp As said by ...; Introduces an unnumbered sumti that plays the role of {{cusku}}'s x<sub>1</sub> in the sentence.
+            -note The event/statement described by the bridi is spoken, written or otherwise expressed by the referent of the tagged sumti. 
+            -example:
+                -lojban .i {{cu'u lo mleca se ctuca}} lo lisri cu frica
+                -english {{In the mouths of the untutored}}, the story ran otherwise.
+                -source-id cloc
+            -example:
+                -lojban .i ca le nu lo lobypli cu damba vi le barda tcadu kei {{cu'u lo prije}} lo mi jufra cu .ai banli zmadu .ei
+                -english While the "lobypli" are all fighting in the big city, {{as someone wise once said}}, I must let my words be greater
+                -source-id nabm
+        -meaning:
+            -context {{se}} ~
+            -exp Expressing/saying ...; Introduces an unnumbered sumti that plays the role of {{cusku}}'s x<sub>2</sub> in the sentence.
+            -note The event described by the bridi is associated with the writing, speaking, or other expression of the referent of the tagged sumti. 
+            -example:
+                -lojban .i je ca bo se tirna co voksa vi lo kerlo {{se cu'u}} lu .au pei jmive ranji li'u
+                -english I heard a voice in my ears, {{saying}} "Do you want to survive?"
+                -source-id head
+            -example:
+                -lojban .i cyny. ki'u gleki mutce {{se cu'u lu u'e xamgu selzbasu munje [...] li'u}}
+                -english The two because of [the sign] perked up, {{"Would you look at that; it's a wonderful world [...]"}}
+                -source-id rest
+        -meaning:
+            -context {{te}} ~
+            -exp Expressing to ...; Introduces an unnumbered sumti that plays the role of {{cusku}}'s x<sub>3</sub> in the sentence.
+            -note The event described by the bridi is associated with the writing, speaking, or other forms of expression in which the intended audience is the referent of the tagged sumti. 
+            -example:
+                -lojban ni'o pu zu selsa'a {{te cu'u do}} .i le go'i ca'o culno lo ka prami je badri
+                -english That song {{intended for you}}, is now filled with love and sorrow.
+                -source-id calc
+        -meaning:
+            -context {{ve}} ~
+            -exp Expressing in medium ...; Introduces an unnumbered sumti that plays the role of {{cusku}}'s x<sub>4</sub> in the sentence.
+            -note The event described by the bridi is associated with the writing, speaking, or other forms of expression in the form of the referent of the tagged sumti.  
+            -example:
+                -lojban .i xu curmi lo nu mi ge pacna {{ve cu'u le ca zgike}} gi ca lo mu'e di'a gusni kei xu ka'e fe ra cu zanvi'e
+                -english Am I allowed to hope {{in the form of a song}}? And will I be able to welcome the light home when it returns?
+                -source-id teoq
+
+-entry:
+    -word cy
+    -gloss Letteral: c
+    -type cmavo
+    -definition:
+        -selmaho BY2
+        -meaning:
+            -exp Letteral for c. When used alone, refers to the most recent sumti starting with {{c}}.
+            -example:
+                -lojban .i mi pu tcidu di'u {{lo cukta}} .i ku'i mi na morji lo du'u {{cy.}} mo kau
+                -english I've read that in {{some book}}, but I don't remember where (= what {{book}}).
+                -source-id alic
+-entry:
     -word de'a
     -gloss Preposition (tense): pausative; event temporarily suspended
     -type cmavo

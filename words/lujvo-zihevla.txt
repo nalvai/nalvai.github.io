@@ -12,7 +12,23 @@
                 -lojban .i ja'o e'o sidju gi'e zukte fi lo xamgu be {{lo balvi jbopre}}
                 -english So, please help and do something for the betterment of {{upcoming Lojbanists}}.
                 -source-id lojb
-
+                
+-entry:
+    -word tinju'i
+    -gloss to listen to &mdash; to be listened to
+    -type lujvo
+    -origin tirna jundi
+    -definition:
+        -meaning:
+            -exp x_1 listens to/pays attention to sound x_2 against background/noise x_3.
+            -example:
+                -lojban .i mi {{tinju'i}} le zgike be me'e joi fi'e loi na'e se djuno
+                -english [While] (I) {{listening to}} a song with a name and by an artist [I] didn't know, ...
+                -source-id head
+            -example:
+                -lojban .i xu da do prali lo nu sanga le do zgike va'o lo nu le tertigni na se vajni co {{tinju'i}} do
+                -english Would it do you any good to sing your heart out if the audience didnt care to {{listen to}} you?
+                -source-id nabm
 
 -entry:
     -word zanfu'a

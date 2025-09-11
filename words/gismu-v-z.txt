@@ -235,6 +235,22 @@
                 -english The source of {{the red [light]}} was stopped being sensed when he stopped breathing and became completely silent.
                 -source-id nufa
 
+         
+-entry:
+    -word xusra
+    -gloss to assert, to declare, to claim ... to be true &mdash; (of a statement) to be claimed to be true
+    -type gismu
+    -definition:
+        -meaning:
+            -exp x_1 (agent) asserts/claims/declares x_2 (du'u) is true [can be used for epistemology of authority].
+            -example:
+                -lojban .i ja'e bo ma'a ka'e {{xusra}} lo du'u .inda lo ka se ckasu
+                -english ..., so we can {{say}} that’s ridiculous.
+                -source-id firs     
+            -example:
+                -lojban lu pa mai sei le prije cu cusku lo remna cu {{xusra}} lo du'u ma'a na cortu gi'e zmidai [...]
+                -english "Well, to begin with," said the doctor, "the humans {{say}} that we don't suffer and are what they call automata; [...]
+                -source-id scie
 
 -entry:
     -word zbasu

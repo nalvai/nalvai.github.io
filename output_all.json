@@ -8577,7 +8577,7 @@
     },
     {
         "word": "cu'u",
-        "gloss": "as said by",
+        "gloss": "Preposition: as said by ..., spoken by ...",
         "type": "cmavo",
         "freq": "5081",
         "rank": "622",
@@ -8590,11 +8590,90 @@
                 "selmaho": "BAI",
                 "meaning": [
                     {
-                        "exp": "cusku modal, 1st place (attribution/quotation)    as said by source ...; used for quotation."
+                        "exp": "As said by ...; Introduces an unnumbered sumti that plays the role of {{cusku}}'s x<sub>1</sub> in the sentence.",
+                        "note": "The event/statement described by the bridi is spoken, written or otherwise expressed by the referent of the tagged sumti.",
+                        "example": [
+                            {
+                                "lojban": ".i {{cu'u lo mleca se ctuca}} lo lisri cu frica",
+                                "english": "{{In the mouths of the untutored}}, the story ran otherwise.",
+                                "source-id": "cloc",
+                                "source": "The Clockmaker",
+                                "author": "Robert Louis Stevenson",
+                                "translator": "la .xorxes.",
+                                "link": "https://mw.lojban.org/papri/le_junla_zbasu",
+                                "originallink": "https://en.wikisource.org/wiki/The_Clockmaker"
+                            },
+                            {
+                                "lojban": ".i ca le nu lo lobypli cu damba vi le barda tcadu kei {{cu'u lo prije}} lo mi jufra cu .ai banli zmadu .ei",
+                                "english": "While the \"lobypli\" are all fighting in the big city, {{as someone wise once said}}, I must let my words be greater",
+                                "source-id": "nabm",
+                                "source": "lo nabmi",
+                                "author": "Noise and Bells (la janbe)",
+                                "link": "https://www.youtube.com/watch?v=gv0QIbGc8i8"
+                            }
+                        ]
+                    },
+                    {
+                        "context": "{{se}} ~",
+                        "exp": "Expressing/saying ...; Introduces an unnumbered sumti that plays the role of {{cusku}}'s x<sub>2</sub> in the sentence.",
+                        "note": "The event described by the bridi is associated with the writing, speaking, or other expression of the referent of the tagged sumti.",
+                        "example": [
+                            {
+                                "lojban": ".i je ca bo se tirna co voksa vi lo kerlo {{se cu'u}} lu .au pei jmive ranji li'u",
+                                "english": "I heard a voice in my ears, {{saying}} \"Do you want to survive?\"",
+                                "source-id": "head",
+                                "source": "Headphone Actor",
+                                "author": "Jin",
+                                "translator": "tetsusquared (la .tirprij.)",
+                                "link": "https://www.youtube.com/watch?v=X7jXrgWeltw"
+                            },
+                            {
+                                "lojban": ".i cyny. ki'u gleki mutce {{se cu'u lu u'e xamgu selzbasu munje [...] li'u}}",
+                                "english": "The two because of [the sign] perked up, {{\"Would you look at that; it's a wonderful world [...]\"}}",
+                                "source-id": "rest",
+                                "source": "The Restaurant of Many Orders",
+                                "author": "Kenji Miyazawa",
+                                "translator": "la .tijlan.",
+                                "link": "https://docs.google.com/document/d/10Rnm80SieLrpFnk9kn_9bCuon96CNSPTA8hqVaWQYbQ/edit?tab=t.0"
+                            }
+                        ]
+                    },
+                    {
+                        "context": "{{te}} ~",
+                        "exp": "Expressing to ...; Introduces an unnumbered sumti that plays the role of {{cusku}}'s x<sub>3</sub> in the sentence.",
+                        "note": "The event described by the bridi is associated with the writing, speaking, or other forms of expression in which the intended audience is the referent of the tagged sumti.",
+                        "example": [
+                            {
+                                "lojban": "ni'o pu zu selsa'a {{te cu'u do}} .i le go'i ca'o culno lo ka prami je badri",
+                                "english": "That song {{intended for you}}, is now filled with love and sorrow.",
+                                "source-id": "calc",
+                                "source": "Calc.",
+                                "author": "JimmyThumbP",
+                                "translator": "tetsusquared (la .tirprij.)",
+                                "link": "https://www.youtube.com/watch?v=n4NhUEUvwew"
+                            }
+                        ]
+                    },
+                    {
+                        "context": "{{ve}} ~",
+                        "exp": "Expressing in medium ...; Introduces an unnumbered sumti that plays the role of {{cusku}}'s x<sub>4</sub> in the sentence.",
+                        "note": "The event described by the bridi is associated with the writing, speaking, or other forms of expression in the form of the referent of the tagged sumti.",
+                        "example": [
+                            {
+                                "lojban": ".i xu curmi lo nu mi ge pacna {{ve cu'u le ca zgike}} gi ca lo mu'e di'a gusni kei xu ka'e fe ra cu zanvi'e",
+                                "english": "Am I allowed to hope {{in the form of a song}}? And will I be able to welcome the light home when it returns?",
+                                "source-id": "teoq",
+                                "source": "Teo",
+                                "author": "Omoi",
+                                "translator": "tetsusquared (la .tirprij.)",
+                                "link": "https://www.youtube.com/watch?v=9WoWrjIwbhc"
+                            }
+                        ]
                     }
                 ]
             }
-        ]
+        ],
+        "good": true
     },
     {
         "word": "cuxna",
@@ -8618,7 +8697,7 @@
     },
     {
         "word": "cy",
-        "gloss": "c",
+        "gloss": "Letteral: c",
         "type": "cmavo",
         "freq": "20520",
         "rank": "226",
@@ -8631,11 +8710,23 @@
                 "selmaho": "BY2",
                 "meaning": [
                     {
-                        "exp": "letteral for c."
+                        "exp": "Letteral for c. When used alone, refers to the most recent sumti starting with {{c}}.",
+                        "example": [
+                            {
+                                "lojban": ".i mi pu tcidu di'u {{lo cukta}} .i ku'i mi na morji lo du'u {{cy.}} mo kau",
+                                "english": "I've read that in {{some book}}, but I don't remember where (= what {{book}}).",
+                                "source-id": "alic",
+                                "source": "Alice in Wonderland",
+                                "author": "Lewis Carroll",
+                                "translator": "la .xorxes.",
+                                "link": "https://mw.lojban.org/papri/lo_selfri_be_la_.alis._bei_bu%27u_la_selmacygu%27e"
+                            }
+                        ]
                     }
                 ]
             }
-        ]
+        ],
+        "good": true
     },
     {
         "word": "da",
@@ -42456,7 +42547,7 @@
     },
     {
         "word": "tinju'i",
-        "gloss": "listen",
+        "gloss": "to listen to &mdash; to be listened to",
         "type": "lujvo",
         "freq": "3950",
         "rank": "713",
@@ -42468,11 +42559,32 @@
             {
                 "meaning": [
                     {
-                        "exp": "$t_1=j_1$ listens to/pays attention to sound $t_2=j_2$ with ambient background $t_3$."
+                        "exp": "x_1 listens to/pays attention to sound x_2 against background/noise x_3.",
+                        "example": [
+                            {
+                                "lojban": ".i mi {{tinju'i}} le zgike be me'e joi fi'e loi na'e se djuno",
+                                "english": "[While] (I) {{listening to}} a song with a name and by an artist [I] didn't know, ...",
+                                "source-id": "head",
+                                "source": "Headphone Actor",
+                                "author": "Jin",
+                                "translator": "tetsusquared (la .tirprij.)",
+                                "link": "https://www.youtube.com/watch?v=X7jXrgWeltw"
+                            },
+                            {
+                                "lojban": ".i xu da do prali lo nu sanga le do zgike va'o lo nu le tertigni na se vajni co {{tinju'i}} do",
+                                "english": "Would it do you any good to sing your heart out if the audience didnt care to {{listen to}} you?",
+                                "source-id": "nabm",
+                                "source": "lo nabmi",
+                                "author": "Noise and Bells (la janbe)",
+                                "link": "https://www.youtube.com/watch?v=gv0QIbGc8i8"
+                            }
+                        ]
                     }
                 ]
             }
-        ]
+        ],
+        "origin": "tirna jundi",
+        "good": true
     },
     {
         "word": "tinsa",
@@ -42517,7 +42629,7 @@
     },
     {
         "word": "tirna",
-        "gloss": "hear",
+        "gloss": "to hear &mdash; (of a sound) to be heard &mdash; (background) noise",
         "type": "gismu",
         "freq": "23060",
         "rank": "211",
@@ -42529,11 +42641,41 @@
             {
                 "meaning": [
                     {
-                        "exp": "$x_{1}$ hears $x_{2}$ against background/noise $x_{3}$; $x_{2}$ is audible; (adjective:) $x_{1}$ is aural."
+                        "exp": "x_1 hears x_2 against background/noise x_3; x_2 is audible; (adjective:) x_1 is aural.",
+                        "example": [
+                            {
+                                "lojban": ".i xu {{tirna}} ti noi zansaxyzgi ra'i le risna be do ce si",
+                                "english": "Do [you] {{hear}} this paradaisical song that radiates from the heart shared by ou and-",
+                                "source-id": "jbin",
+                                "source": "jbini canlu",
+                                "author": "Noise and Bells (la janbe)",
+                                "link": "https://www.youtube.com/watch?v=3aNGqujy-6s"
+                            },
+                            {
+                                "lojban": ".i le smani cu mutce terpa lo se viska be sy gi'e carmi se cinri {{ro lo se tirna be sy.}}",
+                                "english": "There he was much terrified by what he saw, deeply interested in {{all he heard}};",
+                                "source-id": "scie",
+                                "source": "The Scientific Ape",
+                                "author": "Robert Louis Stevenson",
+                                "translator": "la .xorxes.",
+                                "link": "https://mw.lojban.org/papri/le_saske_smani",
+                                "originallink": "https://en.wikisource.org/wiki/The_Scientific_Ape"
+                            },
+                            {
+                                "lojban": ".i mi pu jundi lei bi'u nai sance tai da'i lenu mi terpa lonu mi {{tirna fi lei bu}} fe lo ji'a gunta tonga poi cnino",
+                                "english": "I seemed to keep track of those chimes with a peculiar intentness, as if I feared to {{hear}} some very remote, intruding note {{among them}}.",
+                                "source-id": "book",
+                                "source": "The Book",
+                                "author": "H. P. Lovecraft",
+                                "translator": "la gleki",
+                                "link": "https://lojban.pw/en/texts/the-book/"
+                            }
+                        ]
                     }
                 ]
             }
-        ]
+        ],
+        "good": true
     },
     {
         "word": "tirse",
@@ -47669,7 +47811,7 @@
     },
     {
         "word": "xusra",
-        "gloss": "assert, claim, declare",
+        "gloss": "to assert, to declare, to claim ... to be true &mdash; (of a statement) to be claimed to be true",
         "type": "gismu",
         "freq": "7900",
         "rank": "489",
@@ -47681,11 +47823,34 @@
             {
                 "meaning": [
                     {
-                        "exp": "$x_{1}$ (agent) asserts/claims/declares $x_{2}$ (du'u) is true [can be used for epistemology of authority]."
+                        "exp": "x_1 (agent) asserts/claims/declares x_2 (du'u) is true [can be used for epistemology of authority].",
+                        "example": [
+                            {
+                                "lojban": ".i ja'e bo ma'a ka'e {{xusra}} lo du'u .inda lo ka se ckasu",
+                                "english": "..., so we can {{say}} that’s ridiculous.",
+                                "source-id": "firs",
+                                "source": "First dinosaurs may have been omnivores in the north hemisphere",
+                                "author": "Chelsea Whyte on NewScientist",
+                                "translator": "la .ilmen.",
+                                "link": "https://mw.lojban.org/papri/UserWiki:Ilmen/ka%27e_ku_lo_prurai_dinsauru_cu_cti%27omni_bu%27u_lo_berti_bolxadba",
+                                "originallink": "https://www.newscientist.com/article/2125580-first-dinosaurs-may-have-been-omnivores-in-the-north-hemisphere/"
+                            },
+                            {
+                                "lojban": "lu pa mai sei le prije cu cusku lo remna cu {{xusra}} lo du'u ma'a na cortu gi'e zmidai [...]",
+                                "english": "\"Well, to begin with,\" said the doctor, \"the humans {{say}} that we don't suffer and are what they call automata; [...]",
+                                "source-id": "scie",
+                                "source": "The Scientific Ape",
+                                "author": "Robert Louis Stevenson",
+                                "translator": "la .xorxes.",
+                                "link": "https://mw.lojban.org/papri/le_saske_smani",
+                                "originallink": "https://en.wikisource.org/wiki/The_Scientific_Ape"
+                            }
+                        ]
                     }
                 ]
             }
-        ]
+        ],
+        "good": true
     },
     {
         "word": "xutla",
@@ -49164,7 +49329,7 @@
     },
     {
         "word": "zo'a",
-        "gloss": "tangential to",
+        "gloss": "Preposition (spatial tense): passing by ...; alongside ...",
         "type": "cmavo",
         "freq": "211",
         "rank": "2494",
@@ -49177,11 +49342,34 @@
                 "selmaho": "FAhA4",
                 "meaning": [
                     {
-                        "exp": "location tense relation/direction; tangential to/passing by ..."
+                        "exp": "Tangential to ...; passing by ...; indicates that the event is located by a certain point. When tagging a sumti, the sumti specifies the point the event is alongside of.",
+                        "example": [
+                            {
+                                "lojban": ".i lo nu {{cadzu zo'a}} lo canko fa'u lo drata canko cu ve ciksi lo re solri nanca",
+                                "english": "And [his] {{passage before}} first one window and then another explained the solar years.",
+                                "source-id": "cloc",
+                                "source": "The Clockmaker",
+                                "author": "Robert Louis Stevenson",
+                                "translator": "la .xorxes.",
+                                "link": "https://mw.lojban.org/papri/le_junla_zbasu",
+                                "originallink": "https://en.wikisource.org/wiki/The_Clockmaker"
+                            },
+                            {
+                                "lojban": "ni'o ca pa donri ly. {{cadzu zo'a}} lo larcu ckule i je ly klama lo nenri",
+                                "english": "One day he {{passed}} an art school and went in.",
+                                "source-id": "lian",
+                                "source": "Liang and the Magic Paintbrush",
+                                "author": "Demi",
+                                "translator": "la darsi",
+                                "editor": "la gleki",
+                                "link": "https://docs.google.com/spreadsheets/d/1_vkiwqOIOIJPqZTiomzd4ApUSEQXhEY6CeyZD_6c-PA/edit?gid=768225989#gid=768225989"
+                            }
+                        ]
                     }
                 ]
             }
-        ]
+        ],
+        "good": true
     },
     {
         "word": "zo'e",

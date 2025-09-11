@@ -344,6 +344,22 @@
                 -note The quote delimiter is chosen to be {{gy.}} because the quoted text, "lingua franca", is in English ({{<u>g</u>libau}}). The {{la'e}} is there to turn the sumti's meaning from "the phrase 'lingua franca'" to "the meaning of the phrase 'lingua franca'", making the sumti fit the x<sub>1</sub> of {{smuni}}.
 
 -entry:
+    -word zo'a
+    -gloss Preposition (spatial tense): passing by ...; alongside ...
+    -type cmavo
+    -definition:
+        -selmaho FAhA4
+        -meaning:
+            -exp Tangential to ...; passing by ...; indicates that the event is located by a certain point. When tagging a sumti, the sumti specifies the point the event is alongside of. 
+            -example:
+                -lojban .i lo nu {{cadzu zo'a}} lo canko fa'u lo drata canko cu ve ciksi lo re solri nanca
+                -english And [his] {{passage before}} first one window and then another explained the solar years.
+                -source-id cloc
+            -example:
+                -lojban ni'o ca pa donri ly. {{cadzu zo'a}} lo larcu ckule i je ly klama lo nenri
+                -english One day he {{passed}} an art school and went in.
+                -source-id lian
+-entry:
     -word zo'oi
     -gloss Quotation: one-word non-Lojban quotation
     -type cmavo
