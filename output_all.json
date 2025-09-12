@@ -5333,7 +5333,7 @@
     },
     {
         "word": "ciksi",
-        "gloss": "explain",
+        "gloss": "(of a person) to explain &mdash; (of a phenomenon) to be explained &mdash; to receive an explanation, to be explained to &mdash; explanation, (of an explanation) to explain",
         "type": "gismu",
         "freq": "10350",
         "rank": "398",
@@ -5345,11 +5345,43 @@
             {
                 "meaning": [
                     {
-                        "exp": "$x_{1}$ (person) explains $x_{2}$ (event/state/property) to $x_{3}$ with explanation $x_{4}$ (du'u)."
+                        "exp": "x_1 (person) explains x_2 (event/state/property) to x_3 with explanation x_4 (du'u).",
+                        "example": [
+                            {
+                                "lojban": ".i le prije cu {{tcila ciksi}} lo se viska be bu'u lo skeku'a",
+                                "english": "The doctor {{explained at great length}} what [he] had seen in the laboratory.",
+                                "source-id": "scie",
+                                "source": "The Scientific Ape",
+                                "author": "Robert Louis Stevenson",
+                                "translator": "la .xorxes.",
+                                "link": "https://mw.lojban.org/papri/le_saske_smani",
+                                "originallink": "https://en.wikisource.org/wiki/The_Scientific_Ape"
+                            },
+                            {
+                                "lojban": "ni'o ca lo pa moi djedi lo patfu cu {{ciksi fi ge lo mamta gi ji'a lo mensi}} fe lo jdini tcini jo'u lo se kanpe",
+                                "english": "In the first day, the father {{had explained the mother and sister}} what their finances and prospects were.",
+                                "source-id": "meta",
+                                "source": "The Metamorphosis",
+                                "author": "Franz Kafka",
+                                "translator": "la .xorxes.",
+                                "link": "https://mw.lojban.org/images/f/fc/lonubinxo.pdf"
+                            },
+                            {
+                                "lojban": ".i lo nu cadzu zo'a lo canko fa'u lo drata canko cu {{ve ciksi}} lo re solri nanca",
+                                "english": "and his passage before first one window and then another {{explained}} the solar years.",
+                                "source-id": "cloc",
+                                "source": "The Clockmaker",
+                                "author": "Robert Louis Stevenson",
+                                "translator": "la .xorxes.",
+                                "link": "https://mw.lojban.org/papri/le_junla_zbasu",
+                                "originallink": "https://en.wikisource.org/wiki/The_Clockmaker"
+                            }
+                        ]
                     }
                 ]
             }
-        ]
+        ],
+        "good": true
     },
     {
         "word": "cikybi'o",
@@ -9003,7 +9035,7 @@
     },
     {
         "word": "dandu",
-        "gloss": "hang",
+        "gloss": "to hang (intransitive), to dangle &mdash; to be hanged (a thing) &mdash; joint, attach point (for hanging)",
         "type": "gismu",
         "freq": "880",
         "rank": "1455",
@@ -9015,11 +9047,24 @@
             {
                 "meaning": [
                     {
-                        "exp": "$x_{1}$ hangs/dangles/is suspended from $x_{2}$ by/at/with joint $x_{3}$."
+                        "exp": "x_1 hangs/dangles/is suspended from x_2 by/at/with joint x_3.",
+                        "example": [
+                            {
+                                "lojban": ".i lu lo remna cu se farvi fi lo smani sa'u li'u se cusku {{ca lo nu dandu lo galtu jimca lo rebla}}",
+                                "english": "\"Man is only a promoted ape,\" said he, {{hanging his tail from a high branch}}.",
+                                "source-id": "scie",
+                                "source": "The Scientific Ape",
+                                "author": "Robert Louis Stevenson",
+                                "translator": "la .xorxes.",
+                                "link": "https://mw.lojban.org/papri/le_saske_smani",
+                                "originallink": "https://en.wikisource.org/wiki/The_Scientific_Ape"
+                            }
+                        ]
                     }
                 ]
             }
-        ]
+        ],
+        "good": true
     },
     {
         "word": "danfu",
@@ -12795,7 +12840,7 @@
     },
     {
         "word": "fengu",
-        "gloss": "angry",
+        "gloss": "angry, mad &mdash; to receive anger &mdash; (of an event) angering, to anger",
         "type": "gismu",
         "freq": "6290",
         "rank": "559",
@@ -12807,11 +12852,24 @@
             {
                 "meaning": [
                     {
-                        "exp": "$x_{1}$ is angry/mad at $x_{2}$ for $x_{3}$ (action/state/property)."
+                        "exp": "x_1 is angry/mad at x_2 for x_3 (action/state/property).",
+                        "example": [
+                            {
+                                "lojban": ".i lo drata cu punji lo narge lo moklu gi'e {{fengu le cifnu lo nu cy na djica lo nu citka}}",
+                                "english": "Another stuffed nuts in [its] mouth, and {{was aggrieved at the baby because it would not eat them}}.",
+                                "source-id": "scie",
+                                "source": "The Scientific Ape",
+                                "author": "Robert Louis Stevenson",
+                                "translator": "la .xorxes.",
+                                "link": "https://mw.lojban.org/papri/le_saske_smani",
+                                "originallink": "https://en.wikisource.org/wiki/The_Scientific_Ape"
+                            }
+                        ]
                     }
                 ]
             }
-        ]
+        ],
+        "good": true
     },
     {
         "word": "fenki",
@@ -23382,7 +23440,7 @@
     },
     {
         "word": "lacri",
-        "gloss": "depend, dependent, rely",
+        "gloss": "to rely on, to trust &mdash; dependency, to be trusted &mdash; (of an event, state) to rely on",
         "type": "gismu",
         "freq": "1160",
         "rank": "1303",
@@ -23394,11 +23452,42 @@
             {
                 "meaning": [
                     {
-                        "exp": "$x_{1}$ relies/depends/counts on/trusts $x_{2}$ to bring about/ensure/maintain $x_{3}$ (event/state)."
+                        "exp": "x_1 relies/depends/counts on/trusts x_2 to bring about/ensure/maintain x_3 (event/state).",
+                        "example": [
+                            {
+                                "lojban": ".i sa'u da mivyka'a gi'e {{lacri lo cunso}}",
+                                "english": "You just vivisect along, {{upon the chance;}}",
+                                "source-id": "scie",
+                                "source": "The Scientific Ape",
+                                "author": "Robert Louis Stevenson",
+                                "translator": "la .xorxes.",
+                                "link": "https://mw.lojban.org/papri/le_saske_smani",
+                                "originallink": "https://en.wikisource.org/wiki/The_Scientific_Ape"
+                            },
+                            {
+                                "lojban": ".i se mu'i bo ko ko {{lacri}} lo nu cadzu mo'i ca'u",
+                                "english": "So {{trust}} in yourself to walk forth!",
+                                "source-id": "rout",
+                                "source": "Route Sphere",
+                                "author": "Last Note.",
+                                "translator": "tetsusquared (la .tirprij.)",
+                                "link": "https://www.youtube.com/watch?v=4aDrH3wEUtQ"
+                            },
+                            {
+                                "lojban": ".i .e'e sai mi ji'a farvi .ai .i jo mi {{lacri}} fi tau le vacri",
+                                "english": "And I can change like the butterfly, if I {{trust}} in this wind",
+                                "source-id": "dans",
+                                "note": "This example is in tcekitau. Substitute the {{tau}} with {{tu'a}} to convert it into CLL/BPFK Lojban.",
+                                "source": "dansu co toldi",
+                                "author": "Noise and Bells (la janbe)",
+                                "link": "https://www.youtube.com/watch?v=B156ExvRjzM"
+                            }
+                        ]
                     }
                 ]
             }
-        ]
+        ],
+        "good": true
     },
     {
         "word": "ladru",
@@ -42017,7 +42106,7 @@
     },
     {
         "word": "tcima",
-        "gloss": "weather",
+        "gloss": "weather, climate &mdash; (of a place) to have weather of ...",
         "type": "gismu",
         "freq": "3770",
         "rank": "724",
@@ -42029,11 +42118,31 @@
             {
                 "meaning": [
                     {
-                        "exp": "$x_{1}$ is weather at place/region $x_{2}$; (adjective:) $x_{1}$ is meteorological."
+                        "exp": "x_1 is weather at place/region x_2; (adjective:) x_1 is meteorological.",
+                        "example": [
+                            {
+                                "lojban": ".i clira ca le djedi fa le nu ge {{le tcima}} cu cenba gi lei snime cu runme gi'e toljinsa djacu binxo",
+                                "english": "Early that day {{the weather}} turned and the snow was melting into dirty water.",
+                                "source-id": "ings",
+                                "source": "Little Things",
+                                "author": "Raymond Carver",
+                                "translator": "Jordan DeLong",
+                                "link": "https://mw.lojban.org/papri/little_Things"
+                            },
+                            {
+                                "lojban": ".i mi mu'i gi no roi finti lo cmalu ke xanri daplu poi {{se tcima lo lenku}} gi ca co'a finti ri",
+                                "english": "And because, so far, I've never created a small island {{with a cold climate}}, I'll go for that!",
+                                "source-id": "layo",
+                                "source": "The Lay of the Land",
+                                "author": "Worldbuilding Notes",
+                                "link": "https://www.youtube.com/watch?v=ViGGR231zvQ"
+                            }
+                        ]
                     }
                 ]
             }
-        ]
+        ],
+        "good": true
     },
     {
         "word": "tcini",

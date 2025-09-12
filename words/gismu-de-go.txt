@@ -275,6 +275,17 @@
                 -source-id howt
 
 
+-entry:
+    -word fengu
+    -gloss angry, mad &mdash; to receive anger &mdash; (of an event) angering, to anger
+    -type gismu
+    -definition:
+        -meaning:
+            -exp x_1 is angry/mad at x_2 for x_3 (action/state/property).
+            -example:
+                -lojban .i lo drata cu punji lo narge lo moklu gi'e {{fengu le cifnu lo nu cy na djica lo nu citka}}
+                -english Another stuffed nuts in [its] mouth, and {{was aggrieved at the baby because it would not eat them}}. 
+                -source-id scie
 
 -entry:
     -word finti

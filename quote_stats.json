@@ -122,7 +122,7 @@
         "source": "dansu co toldi",
         "author": "Noise and Bells (la janbe)",
         "link": "https://www.youtube.com/watch?v=B156ExvRjzM",
-        "instance": 3
+        "instance": 4
     },
     "denp": {
         "source": ".",
@@ -208,7 +208,7 @@
         "author": "Raymond Carver",
         "translator": "Jordan DeLong",
         "link": "https://mw.lojban.org/papri/little_Things",
-        "instance": 5
+        "instance": 6
     },
     "jbob": {
         "source": "jbobratca chatlog",
@@ -256,7 +256,7 @@
         "source": "The Lay of the Land",
         "author": "Worldbuilding Notes",
         "link": "https://www.youtube.com/watch?v=ViGGR231zvQ",
-        "instance": 12
+        "instance": 13
     },
     "lenr": {
         "source": "lenrygu'i",
@@ -331,7 +331,7 @@
         "author": "Franz Kafka",
         "translator": "la .xorxes.",
         "link": "https://mw.lojban.org/images/f/fc/lonubinxo.pdf",
-        "instance": 16
+        "instance": 17
     },
     "miju": {
         "source": "lo mi jufra",
@@ -425,7 +425,7 @@
         "author": "Last Note.",
         "translator": "tetsusquared (la .tirprij.)",
         "link": "https://www.youtube.com/watch?v=4aDrH3wEUtQ",
-        "instance": 4
+        "instance": 5
     },
     "scie": {
         "source": "The Scientific Ape",
@@ -433,7 +433,7 @@
         "translator": "la .xorxes.",
         "link": "https://mw.lojban.org/papri/le_saske_smani",
         "originallink": "https://en.wikisource.org/wiki/The_Scientific_Ape",
-        "instance": 14
+        "instance": 16
     },
     "skab": {
         "source": "la skaborfe'a",

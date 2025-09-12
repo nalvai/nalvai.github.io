@@ -1,5 +1,24 @@
 
 -entry:
+    -word ciksi
+    -gloss (of a person) to explain &mdash; (of a phenomenon) to be explained &mdash; to receive an explanation, to be explained to &mdash; explanation, (of an explanation) to explain
+    -type gismu
+    -definition:
+        -meaning:
+            -exp x_1 (person) explains x_2 (event/state/property) to x_3 with explanation x_4 (du'u).
+            -example:
+                -lojban .i le prije cu {{tcila ciksi}} lo se viska be bu'u lo skeku'a
+                -english The doctor {{explained at great length}} what [he] had seen in the laboratory.
+                -source-id scie
+            -example:                
+                -lojban ni'o ca lo pa moi djedi lo patfu cu {{ciksi fi ge lo mamta gi ji'a lo mensi}} fe lo jdini tcini jo'u lo se kanpe
+                -english In the first day, the father {{had explained the mother and sister}} what their finances and prospects were.
+                -source-id meta
+            -example:                
+                -lojban .i lo nu cadzu zo'a lo canko fa'u lo drata canko cu {{ve ciksi}} lo re solri nanca
+                -english and his passage before first one window and then another {{explained}} the solar years.
+                -source-id cloc
+-entry:
     -word cilre
     -gloss to learn, learner &mdash; to be learned, facts learned &mdash; subject of learning &mdash; source of learning &mdash; learning method
     -type gismu
@@ -385,6 +404,17 @@
                 -english I will cease to {{be an object}}, where stars are all around
                 -source-id srur
 
+-entry:
+    -word dandu
+    -gloss to hang (intransitive), to dangle &mdash; to be hanged (a thing) &mdash; joint, attach point (for hanging)
+    -type gismu
+    -definition:
+        -meaning:
+            -exp x_1 hangs/dangles/is suspended from x_2 by/at/with joint x_3.
+            -example:
+                -lojban .i lu lo remna cu se farvi fi lo smani sa'u li'u se cusku {{ca lo nu dandu lo galtu jimca lo rebla}}
+                -english "Man is only a promoted ape," said he, {{hanging his tail from a high branch}}.
+                -source-id scie
 
 
 -entry:

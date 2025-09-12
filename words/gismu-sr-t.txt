@@ -132,6 +132,21 @@
                 -source-id rout
 
 -entry:
+    -word tcima
+    -gloss weather, climate &mdash; (of a place) to have weather of ...
+    -type gismu
+    -definition:
+        -meaning:
+            -exp x_1 is weather at place/region x_2; (adjective:) x_1 is meteorological.
+            -example:
+                -lojban .i clira ca le djedi fa le nu ge {{le tcima}} cu cenba gi lei snime cu runme gi'e toljinsa djacu binxo
+                -english Early that day {{the weather}} turned and the snow was melting into dirty water.
+                -source-id ings
+            -example:
+                -lojban .i mi mu'i gi no roi finti lo cmalu ke xanri daplu poi {{se tcima lo lenku}} gi ca co'a finti ri
+                -english And because, so far, I've never created a small island {{with a cold climate}}, I'll go for that!
+                -source-id layo
+-entry:
     -word tirna
     -gloss to hear &mdash; (of a sound) to be heard &mdash; (background) noise
     -type gismu

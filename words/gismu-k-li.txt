@@ -197,6 +197,26 @@
                 -english I would bring myself down to {{his level}}. (lit. I would put myself within {{his range}}.)
                 -source-id litt
 
+-entry:
+    -word lacri
+    -gloss to rely on, to trust &mdash; dependency, to be trusted &mdash; (of an event, state) to rely on
+    -type gismu
+    -definition:
+        -meaning:
+            -exp x_1 relies/depends/counts on/trusts x_2 to bring about/ensure/maintain x_3 (event/state).
+            -example:
+                -lojban .i sa'u da mivyka'a gi'e {{lacri lo cunso}}
+                -english You just vivisect along, {{upon the chance;}}
+                -source-id scie
+            -example:
+                -lojban .i se mu'i bo ko ko {{lacri}} lo nu cadzu mo'i ca'u
+                -english So {{trust}} in yourself to walk forth!
+                -source-id rout
+            -example:
+                -lojban .i .e'e sai mi ji'a farvi .ai .i jo mi {{lacri}} fi tau le vacri
+                -english And I can change like the butterfly, if I {{trust}} in this wind
+                -source-id dans
+                -note This example is in tcekitau. Substitute the {{tau}} with {{tu'a}} to convert it into CLL/BPFK Lojban.
 
 -entry:
     -word lijda
