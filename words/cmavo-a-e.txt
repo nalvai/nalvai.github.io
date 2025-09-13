@@ -465,6 +465,38 @@
                 -source-id meta
 
 -entry:
+    -word coi
+    -gloss Vocative: greetings, hello
+    -type cmavo
+    -definition:
+        -selmaho COI
+        -meaning:
+            -exp Vocative. Used to express greeting. When followed by a sumti, the sumti is the intended listener/audience. When followed by a cmevla, it is understood as {{coi la CMEVLA}}. When followed by a selbri, it is understood as {{coi le SELBRI}}. {{coi}} opens a vocative phrase, which automatically closes when the sumti or selbri after {{coi}} is completed. The vocative phrase can also be closed explicitly with {{do'u}}.
+            -example:
+                -lojban {{coi la na'e vajni ku}} noi je'a vajni
+                -english {{Hello Not Important}}, who is indeed important!
+                -note "Not Important" is the name of the person greeted.
+                -source-id rolj
+                -speaker Lucilla
+            -example:
+                -lojban .ue {{coi norpan}} do pu no roi tavla
+                -english Whoa, {{hi norpan}}, you never talked before!
+                -source-id nict
+            -example:
+                -lojban {{coi lojbo}} .i mi zi facki fi lo jbobau .i .ai mi co'a cilre fi jy. ca la'e li 2023 .i ma zabna ke jbobau velcli
+                -english {{Hello Lojbanists}}, I just discovered about Lojban, and I intend to start learning it in 2023. What are good courses for Lojban?
+                -source-id rolj
+                -speaker la nalvai
+        -meaning:
+            -context ~ {{nai}}
+            -exp Synonym of {{co'o}}.
+            -note Very rare, and its usage is restricted to only a couple speakers. Some speakers take {{coi nai}} to mean "No hello to you", though there aren't any actual attestation for said usage.
+            -example:
+                -lojban &mdash; .i .ai mi citka co'o <br>&mdash; {{coinai}}
+                -english &mdash; I'm gonna eat, bye! <br>&mdash; {{Bye!}}
+                -source-id jbob
+                -speaker la ilmen, mklcp
+-entry:
     -word co'a
     -gloss Preposition (tense): initiative; event starts
     -type cmavo

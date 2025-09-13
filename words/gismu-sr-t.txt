@@ -146,6 +146,23 @@
                 -lojban .i mi mu'i gi no roi finti lo cmalu ke xanri daplu poi {{se tcima lo lenku}} gi ca co'a finti ri
                 -english And because, so far, I've never created a small island {{with a cold climate}}, I'll go for that!
                 -source-id layo
+                
+
+-entry:
+    -word terpa
+    -gloss to fear, to be afraid of ... &mdash; (of an event, object) fearful, scary
+    -type gismu
+    -definition:
+        -meaning:
+            -exp x_1 fears x_2; x_1 is afraid/scared/frightened by/fearful of x_2 (event/tu'a object).
+            -example:
+                -lojban .i .a'a do {{terpa}} ma
+                -english What are you {{afraid of}}?
+                -source-id nafe
+            -example:
+                -lojban .i ji'a mu'i lo ka {{terpa}} lo nu mi fliba cu ro roi bredi lo xlarai ku
+                -english And because I {{was scared of}} failure, I was always preparing myself for the worst...
+                -source-id rout
 -entry:
     -word tirna
     -gloss to hear &mdash; (of a sound) to be heard &mdash; (background) noise

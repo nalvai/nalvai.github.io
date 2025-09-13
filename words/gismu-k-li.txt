@@ -219,6 +219,21 @@
                 -note This example is in tcekitau. Substitute the {{tau}} with {{tu'a}} to convert it into CLL/BPFK Lojban.
 
 -entry:
+    -word lenku
+    -gloss cold &mdash; standard of coldness
+    -type gismu
+    -definition:
+        -meaning:
+            -exp x_1 is cold/cool by standard x_2.
+            -example:
+                -lojban .i le vensa mo'u {{lenku}} gi'e klaku so'i da se va'u do iu ce mi
+                -english A spring no longer {{cold}} - And crying tears for you, my beloved, and me
+                -source-id haru
+            -example:
+                -lojban .i mi mu'i gi no roi finti lo cmalu ke xanri daplu poi {{se tcima lo lenku}} gi ca co'a finti ri
+                -english And because, so far, I've never created a small island {{with a cold climate}}, I'll go for that!
+                -source-id layo
+-entry:
     -word lijda
     -gloss religion &mdash; believer (of a religion), to believe in (a religion) &mdash; doctrine, belief, practice (of a religion) 
     -type gismu
@@ -237,5 +252,25 @@
                 -lojban ni'o lo jalge be lo nu ko'a lanli cu zi binxo {{lo te lijda be lo jdasi'a}}
                 -english The queries of [the philosopher] soon became {{doctrines of the church}}.
                 -source-id cloc
+
+-entry:
+    -word lisri
+    -gloss story &mdash; content, subject (of a story) &mdash; to tell a story &mdash; audience (of a story)
+    -type gismu
+    -definition:
+        -meaning:
+            -exp x_1 is a story/tale/yarn/narrative about plot/subject/moral x_2 by storyteller x_3 to audience x_4.
+            -example:
+                -lojban ni'o {{lo lisri be la lian ku .e lo makfa burcu ku}} cu ve'u preja
+                -english {{The story of Liang and his magic paintbrush}} spread far and wide.
+                -source-id lian
+            -example:
+                -lojban .i la'e di'u {{lisri fi}} lo junri je racli
+                -english Such {{was the report of}} grave and critical [historians];
+                -source-id cloc
+            -example:
+                -lojban lu ko {{te lisri fo}} mi'a sei la cibmasti cicyractu cu cusku li'u
+                -english "{{Tell}} us {{a story}}!" said the March Hare.
+                -source-id alic
 
 

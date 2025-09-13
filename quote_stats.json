@@ -12,7 +12,7 @@
         "author": "Lewis Carroll",
         "translator": "la .xorxes.",
         "link": "https://mw.lojban.org/papri/lo_selfri_be_la_.alis._bei_bu%27u_la_selmacygu%27e",
-        "instance": 29
+        "instance": 30
     },
     "alwa": {
         "source": "Always With Me",
@@ -103,7 +103,7 @@
         "translator": "la .xorxes.",
         "link": "https://mw.lojban.org/papri/le_junla_zbasu",
         "originallink": "https://en.wikisource.org/wiki/The_Clockmaker",
-        "instance": 30
+        "instance": 31
     },
     "cmal": {
         "source": "lo cmalu",
@@ -151,7 +151,7 @@
         "author": "an unknown Arabic writer",
         "translator": "la gleki",
         "link": "https://lojban.pw/en/texts/emerald-tablet/",
-        "instance": 5
+        "instance": 6
     },
     "eggq": {
         "source": "The Egg",
@@ -180,7 +180,7 @@
         "author": "CRYCHIC",
         "translator": "tetsusquared (la .tirprij.)",
         "link": "https://www.youtube.com/watch?v=Ta72j7PZ0R4",
-        "instance": 1
+        "instance": 2
     },
     "head": {
         "source": "Headphone Actor",
@@ -212,7 +212,7 @@
     },
     "jbob": {
         "source": "jbobratca chatlog",
-        "instance": 18
+        "instance": 19
     },
     "jbin": {
         "source": "jbini canlu",
@@ -277,7 +277,7 @@
         "translator": "la darsi",
         "editor": "la gleki",
         "link": "https://docs.google.com/spreadsheets/d/1_vkiwqOIOIJPqZTiomzd4ApUSEQXhEY6CeyZD_6c-PA/edit?gid=768225989#gid=768225989",
-        "instance": 11
+        "instance": 12
     },
     "libr": {
         "source": "The Library of Babel",
@@ -355,7 +355,7 @@
         "source": "na fengu",
         "author": "Mèremim",
         "link": "https://meremim.bandcamp.com/album/na-fengu",
-        "instance": 6
+        "instance": 7
     },
     "neur": {
         "source": "Neuromancer",
@@ -368,7 +368,7 @@
         "source": "la nicte cadzu",
         "author": "Robin Lee Powell",
         "link": "https://mw.lojban.org/papri/Robin%27s_Palm_Writings:_la_nicte_cadzu",
-        "instance": 13
+        "instance": 14
     },
     "nufa": {
         "source": "la nu farlu lo plini",
@@ -387,7 +387,7 @@
         "source": "\"Official Lojban\"",
         "author": "la uakci",
         "link": "https://docs.google.com/spreadsheets/d/1_vkiwqOIOIJPqZTiomzd4ApUSEQXhEY6CeyZD_6c-PA/edit?gid=1862526252#gid=1862526252",
-        "instance": 11
+        "instance": 12
     },
     "pram": {
         "source": "prami simbi'o",
@@ -414,18 +414,18 @@
         "author": "Kenji Miyazawa",
         "translator": "la .tijlan.",
         "link": "https://docs.google.com/document/d/10Rnm80SieLrpFnk9kn_9bCuon96CNSPTA8hqVaWQYbQ/edit?tab=t.0",
-        "instance": 15
+        "instance": 16
     },
     "rolj": {
         "source": "roljbogu'e chatlog",
-        "instance": 100
+        "instance": 101
     },
     "rout": {
         "source": "Route Sphere",
         "author": "Last Note.",
         "translator": "tetsusquared (la .tirprij.)",
         "link": "https://www.youtube.com/watch?v=4aDrH3wEUtQ",
-        "instance": 5
+        "instance": 6
     },
     "scie": {
         "source": "The Scientific Ape",
@@ -459,7 +459,7 @@
         "author": "Jonathan Coulton",
         "translator": "la solpa'i",
         "link": "https://www.youtube.com/watch?v=hRrIioMA4w8",
-        "instance": 9
+        "instance": 10
     },
     "tabg": {
         "source": "tabgapci",

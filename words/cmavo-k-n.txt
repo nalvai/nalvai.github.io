@@ -265,6 +265,31 @@
                 -note The entire sentence is grammatical, but becomes ungrammatical when split in half. 
 
 -entry:
+    -word mei
+    -gloss Numeric selbri: (cardinal number), is ... in quantity 
+    -type cmavo
+    -definition:
+        -selmaho MOI
+        -meaning:
+            -exp Forms a selbri along with the preceding PA-string, lerfu-string or sumti. The resultant selbri means "x_1 is [number] in number/quantity".
+            -note The rest of the place structure is difficult to determine, as different sources give conflicting definitions. Additionally, changes in the interpretation of articles (selma'o {{LE}}) made different structures surface as the same (because {{lo}} can be whatever), further complicating the determination of its uses. The rest of place structure is given as:<ul><li>jbovlaste, CLL (for subjective/inexact numbers): ... formed from a set x_2 of [number] members, one or more of which is/are x_3, measured relative to the set x_4.</li><li>CLL (for exact numbers): ... formed from a set x_2 of [number] members, one or more of which is/are x_3.</li><li>BPFK: ... and is among x_2.</li></ul>
+            -example:
+                -lojban .i vi {{pa mei}} ke blaci patxu
+                -english ... with {{a [single]}} glass jar near it, ...
+                -source-id rest 
+            -example:
+                -lojban .i lo jicmu na se jicmu vo'a to va'i lo pa klesi {{na ro mei}} toi
+                -english The base is never the whole (the one dialect {{is not all [of the dialects]}}).
+                -source-id offi
+            -example:
+                -lojban .i .ei kurji {{lo so'i mei be lo cipra}}
+                -english I've {{experiments}} to run, ...
+                -source-id stil
+            -example:
+                -lojban .i je se ki'u bo se cmene fa mi zo irmis voi me {{le te ci mei be le'i prije}}
+                -english and for this I was called Hermes, {{thrice greatest in wisdom}}.
+                -source-id emer
+-entry:
     -word mo
     -gloss Selbri question
     -type cmavo

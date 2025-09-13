@@ -7356,7 +7356,7 @@
     },
     {
         "word": "coi",
-        "gloss": "greetings, hello, hey, hi, howdy",
+        "gloss": "Vocative: greetings, hello",
         "type": "cmavo",
         "freq": "758650",
         "rank": "5",
@@ -7369,11 +7369,51 @@
                 "selmaho": "COI",
                 "meaning": [
                     {
-                        "exp": "vocative: greetings/hello."
+                        "exp": "Vocative. Used to express greeting. When followed by a sumti, the sumti is the intended listener/audience. When followed by a cmevla, it is understood as {{coi la CMEVLA}}. When followed by a selbri, it is understood as {{coi le SELBRI}}. {{coi}} opens a vocative phrase, which automatically closes when the sumti or selbri after {{coi}} is completed. The vocative phrase can also be closed explicitly with {{do'u}}.",
+                        "example": [
+                            {
+                                "lojban": "{{coi la na'e vajni ku}} noi je'a vajni",
+                                "english": "{{Hello Not Important}}, who is indeed important!",
+                                "note": "\"Not Important\" is the name of the person greeted.",
+                                "source-id": "rolj",
+                                "speaker": "Lucilla",
+                                "source": "roljbogu'e chatlog"
+                            },
+                            {
+                                "lojban": ".ue {{coi norpan}} do pu no roi tavla",
+                                "english": "Whoa, {{hi norpan}}, you never talked before!",
+                                "source-id": "nict",
+                                "source": "la nicte cadzu",
+                                "author": "Robin Lee Powell",
+                                "link": "https://mw.lojban.org/papri/Robin%27s_Palm_Writings:_la_nicte_cadzu"
+                            },
+                            {
+                                "lojban": "{{coi lojbo}} .i mi zi facki fi lo jbobau .i .ai mi co'a cilre fi jy. ca la'e li 2023 .i ma zabna ke jbobau velcli",
+                                "english": "{{Hello Lojbanists}}, I just discovered about Lojban, and I intend to start learning it in 2023. What are good courses for Lojban?",
+                                "source-id": "rolj",
+                                "speaker": "la nalvai",
+                                "source": "roljbogu'e chatlog"
+                            }
+                        ]
+                    },
+                    {
+                        "context": "~ {{nai}}",
+                        "exp": "Synonym of {{co'o}}.",
+                        "note": "Very rare, and its usage is restricted to only a couple speakers. Some speakers take {{coi nai}} to mean \"No hello to you\", though there aren't any actual attestation for said usage.",
+                        "example": [
+                            {
+                                "lojban": "&mdash; .i .ai mi citka co'o <br>&mdash; {{coinai}}",
+                                "english": "&mdash; I'm gonna eat, bye! <br>&mdash; {{Bye!}}",
+                                "source-id": "jbob",
+                                "speaker": "la ilmen, mklcp",
+                                "source": "jbobratca chatlog"
+                            }
+                        ]
                     }
                 ]
             }
-        ]
+        ],
+        "good": true
     },
     {
         "word": "cokcu",
@@ -24267,7 +24307,7 @@
     },
     {
         "word": "lenku",
-        "gloss": "cold",
+        "gloss": "cold &mdash; standard of coldness",
         "type": "gismu",
         "freq": "7910",
         "rank": "488",
@@ -24279,11 +24319,31 @@
             {
                 "meaning": [
                     {
-                        "exp": "$x_{1}$ is cold/cool by standard $x_{2}$."
+                        "exp": "x_1 is cold/cool by standard x_2.",
+                        "example": [
+                            {
+                                "lojban": ".i le vensa mo'u {{lenku}} gi'e klaku so'i da se va'u do iu ce mi",
+                                "english": "A spring no longer {{cold}} - And crying tears for you, my beloved, and me",
+                                "source-id": "haru",
+                                "source": "Haruhikage",
+                                "author": "CRYCHIC",
+                                "translator": "tetsusquared (la .tirprij.)",
+                                "link": "https://www.youtube.com/watch?v=Ta72j7PZ0R4"
+                            },
+                            {
+                                "lojban": ".i mi mu'i gi no roi finti lo cmalu ke xanri daplu poi {{se tcima lo lenku}} gi ca co'a finti ri",
+                                "english": "And because, so far, I've never created a small island {{with a cold climate}}, I'll go for that!",
+                                "source-id": "layo",
+                                "source": "The Lay of the Land",
+                                "author": "Worldbuilding Notes",
+                                "link": "https://www.youtube.com/watch?v=ViGGR231zvQ"
+                            }
+                        ]
                     }
                 ]
             }
-        ]
+        ],
+        "good": true
     },
     {
         "word": "le'o",
@@ -24779,7 +24839,7 @@
     },
     {
         "word": "lisri",
-        "gloss": "story",
+        "gloss": "story &mdash; content, subject (of a story) &mdash; to tell a story &mdash; audience (of a story)",
         "type": "gismu",
         "freq": "11530",
         "rank": "360",
@@ -24791,11 +24851,43 @@
             {
                 "meaning": [
                     {
-                        "exp": "$x_1$ is a story/tale/yarn/narrative about plot/subject/moral $x_2$ by storyteller $x_3$ to audience $x_4$."
+                        "exp": "x_1 is a story/tale/yarn/narrative about plot/subject/moral x_2 by storyteller x_3 to audience x_4.",
+                        "example": [
+                            {
+                                "lojban": "ni'o {{lo lisri be la lian ku .e lo makfa burcu ku}} cu ve'u preja",
+                                "english": "{{The story of Liang and his magic paintbrush}} spread far and wide.",
+                                "source-id": "lian",
+                                "source": "Liang and the Magic Paintbrush",
+                                "author": "Demi",
+                                "translator": "la darsi",
+                                "editor": "la gleki",
+                                "link": "https://docs.google.com/spreadsheets/d/1_vkiwqOIOIJPqZTiomzd4ApUSEQXhEY6CeyZD_6c-PA/edit?gid=768225989#gid=768225989"
+                            },
+                            {
+                                "lojban": ".i la'e di'u {{lisri fi}} lo junri je racli",
+                                "english": "Such {{was the report of}} grave and critical [historians];",
+                                "source-id": "cloc",
+                                "source": "The Clockmaker",
+                                "author": "Robert Louis Stevenson",
+                                "translator": "la .xorxes.",
+                                "link": "https://mw.lojban.org/papri/le_junla_zbasu",
+                                "originallink": "https://en.wikisource.org/wiki/The_Clockmaker"
+                            },
+                            {
+                                "lojban": "lu ko {{te lisri fo}} mi'a sei la cibmasti cicyractu cu cusku li'u",
+                                "english": "\"{{Tell}} us {{a story}}!\" said the March Hare.",
+                                "source-id": "alic",
+                                "source": "Alice in Wonderland",
+                                "author": "Lewis Carroll",
+                                "translator": "la .xorxes.",
+                                "link": "https://mw.lojban.org/papri/lo_selfri_be_la_.alis._bei_bu%27u_la_selmacygu%27e"
+                            }
+                        ]
                     }
                 ]
             }
-        ]
+        ],
+        "good": true
     },
     {
         "word": "liste",
@@ -26570,7 +26662,7 @@
     },
     {
         "word": "mei",
-        "gloss": "cardinal selbri",
+        "gloss": "Numeric selbri: (cardinal number), is ... in quantity",
         "type": "cmavo",
         "freq": "12989",
         "rank": "332",
@@ -26583,11 +26675,50 @@
                 "selmaho": "MOI",
                 "meaning": [
                     {
-                        "exp": "convert number to cardinality selbri; $x_{1}$ is a mass formed from a set $x_{2}$ of n members, one or more of which is/are $x_{3}$, measured relative to the set $x_{4}$."
+                        "exp": "Forms a selbri along with the preceding PA-string, lerfu-string or sumti. The resultant selbri means \"x_1 is [number] in number/quantity\".",
+                        "note": "The rest of the place structure is difficult to determine, as different sources give conflicting definitions. Additionally, changes in the interpretation of articles (selma'o {{LE}}) made different structures surface as the same (because {{lo}} can be whatever), further complicating the determination of its uses. The rest of place structure is given as:<ul><li>jbovlaste, CLL (for subjective/inexact numbers): ... formed from a set x_2 of [number] members, one or more of which is/are x_3, measured relative to the set x_4.</li><li>CLL (for exact numbers): ... formed from a set x_2 of [number] members, one or more of which is/are x_3.</li><li>BPFK: ... and is among x_2.</li></ul>",
+                        "example": [
+                            {
+                                "lojban": ".i vi {{pa mei}} ke blaci patxu",
+                                "english": "... with {{a [single]}} glass jar near it, ...",
+                                "source-id": "rest",
+                                "source": "The Restaurant of Many Orders",
+                                "author": "Kenji Miyazawa",
+                                "translator": "la .tijlan.",
+                                "link": "https://docs.google.com/document/d/10Rnm80SieLrpFnk9kn_9bCuon96CNSPTA8hqVaWQYbQ/edit?tab=t.0"
+                            },
+                            {
+                                "lojban": ".i lo jicmu na se jicmu vo'a to va'i lo pa klesi {{na ro mei}} toi",
+                                "english": "The base is never the whole (the one dialect {{is not all [of the dialects]}}).",
+                                "source-id": "offi",
+                                "source": "\"Official Lojban\"",
+                                "author": "la uakci",
+                                "link": "https://docs.google.com/spreadsheets/d/1_vkiwqOIOIJPqZTiomzd4ApUSEQXhEY6CeyZD_6c-PA/edit?gid=1862526252#gid=1862526252"
+                            },
+                            {
+                                "lojban": ".i .ei kurji {{lo so'i mei be lo cipra}}",
+                                "english": "I've {{experiments}} to run, ...",
+                                "source-id": "stil",
+                                "source": "Still Alive",
+                                "author": "Jonathan Coulton",
+                                "translator": "la solpa'i",
+                                "link": "https://www.youtube.com/watch?v=hRrIioMA4w8"
+                            },
+                            {
+                                "lojban": ".i je se ki'u bo se cmene fa mi zo irmis voi me {{le te ci mei be le'i prije}}",
+                                "english": "and for this I was called Hermes, {{thrice greatest in wisdom}}.",
+                                "source-id": "emer",
+                                "source": "Emerald Tablet",
+                                "author": "an unknown Arabic writer",
+                                "translator": "la gleki",
+                                "link": "https://lojban.pw/en/texts/emerald-tablet/"
+                            }
+                        ]
                     }
                 ]
             }
-        ]
+        ],
+        "good": true
     },
     {
         "word": "mekso",
@@ -42391,7 +42522,7 @@
     },
     {
         "word": "terpa",
-        "gloss": "fear",
+        "gloss": "to fear, to be afraid of ... &mdash; (of an event, object) fearful, scary",
         "type": "gismu",
         "freq": "13080",
         "rank": "330",
@@ -42403,11 +42534,31 @@
             {
                 "meaning": [
                     {
-                        "exp": "$x_{1}$ fears $x_{2}$; $x_{1}$ is afraid/scared/frightened by/fearful of $x_{2}$ (event/tu'a object)."
+                        "exp": "x_1 fears x_2; x_1 is afraid/scared/frightened by/fearful of x_2 (event/tu'a object).",
+                        "example": [
+                            {
+                                "lojban": ".i .a'a do {{terpa}} ma",
+                                "english": "What are you {{afraid of}}?",
+                                "source-id": "nafe",
+                                "source": "na fengu",
+                                "author": "Mèremim",
+                                "link": "https://meremim.bandcamp.com/album/na-fengu"
+                            },
+                            {
+                                "lojban": ".i ji'a mu'i lo ka {{terpa}} lo nu mi fliba cu ro roi bredi lo xlarai ku",
+                                "english": "And because I {{was scared of}} failure, I was always preparing myself for the worst...",
+                                "source-id": "rout",
+                                "source": "Route Sphere",
+                                "author": "Last Note.",
+                                "translator": "tetsusquared (la .tirprij.)",
+                                "link": "https://www.youtube.com/watch?v=4aDrH3wEUtQ"
+                            }
+                        ]
                     }
                 ]
             }
-        ]
+        ],
+        "good": true
     },
     {
         "word": "terto",
