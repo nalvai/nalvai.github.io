@@ -158,6 +158,21 @@
                 -source-id muhe
 
 
+-entry:
+    -word krasi
+    -gloss origin, source &mdash; to originate from
+    -type gismu
+    -definition:
+        -meaning:
+            -exp x_1 (site/event) is a source/start/beginning/origin of x_2 (object/event/process).
+            -example:
+                -lojban .i {{lo krasi be mi}} zo'u drata
+                -english Things are different {{where I come from}}.
+                -source-id eggq
+            -example:
+                -lojban ni'o lo du'e djedi poi claxu lo ka pacna co balvi cu {{se krasi lo vercedra be fau lo zu'o ma'a pu zu se ckasu}}
+                -english Far too many days without hopes for the future {{started in our childhood, long ago when we were mocked}}
+                -source-id reed
 
 
 -entry:
@@ -233,6 +248,26 @@
                 -lojban .i mi mu'i gi no roi finti lo cmalu ke xanri daplu poi {{se tcima lo lenku}} gi ca co'a finti ri
                 -english And because, so far, I've never created a small island {{with a cold climate}}, I'll go for that!
                 -source-id layo
+
+-entry:
+    -word lifri
+    -gloss to experience, to face &mdash; experience, (of an event) to happen to ...
+    -type gismu
+    -definition:
+        -meaning:
+            -exp x_1 [person/passive/state] undergoes/experiences x_2 (event/experience); x_2 happens to x_1.
+            -example:
+                -lojban .i terpa lo nu pi ro lo botpi cu {{lifri}} lo nu venfu
+                -english it was to be feared the whole caraffe {{might be involved in}} his revenge.
+                -source-id cloc
+            -example:
+                -lojban .i ro lo se gleki ja se badri poi {{se lifri lo prenu}} ca da cu pu ja ba {{se lifri do}}
+                -english Every happy and sad moment ever {{experienced by any human}} was, or will be, {{experienced by you}}.
+                -source-id eggq
+            -example:
+                -lojban .i lo nu mi do penmi {{pu zancizra se lifri}}
+                -english Meeting you {{was a crazy experience}}.
+                -source-id pram
 -entry:
     -word lijda
     -gloss religion &mdash; believer (of a religion), to believe in (a religion) &mdash; doctrine, belief, practice (of a religion) 

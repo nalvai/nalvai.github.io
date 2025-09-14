@@ -183,7 +183,26 @@
                 -lojban .i la gregor cu {{se cizra}} lo vrici sance be lo nu citka
                 -english Gregor {{found}} the various sounds of eating {{strange}}.
                 -source-id meta
-
+-entry:
+    -word claxu
+    -gloss to lack, to be without &mash; lacking
+    -type gismu
+    -definition:
+        -meaning:
+            -exp x_1 is without/lacking/free of/lacks x_2; x_1 is x_2-less.
+            -note Under CLL Lojban, it was asserted that putting plain {{lo broda}} in {{claxu}}'s x_2 place is improper because {{lo}} by default makes an existential claim, which is too weak. For example, {{mi claxu lo xance}} would be true even though I have two hands &mdash; as the Lojban sentence means "There exists hand <i>x</i> such that I am without <i>x</i>", and I am certainly without <emph>your</emph> hands. The assertion wasn't taken seriously in texts written in Lojban, though.
+            -example:
+                -lojban .i {{vlipa claxu}} .ia fa mi
+                -english I'm so {{powerless}}.
+                -source-id guit
+            -example:
+                -lojban .i sa'u ko troci co'u lo nu {{claxu}} lo titnanba
+                -english You just keep on trying 'til you {{run out of}} cake
+                -source-id stil
+            -example:
+                -lojban ni'o lo du'e djedi {{poi claxu lo ka pacna co balvi}} cu se krasi lo vercedra be fau lo zu'o ma'a pu zu se ckasu
+                -english Far too many days {{without hopes for the future}} started in our childhood, long ago when we were mocked
+                -source-id reed
 
 -entry:
     -word cliva

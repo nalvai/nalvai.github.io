@@ -522,6 +522,48 @@
                 -source-id wond
 
 -entry:
+    -word co'o
+    -gloss Vocative: partings, goodbye
+    -type cmavo
+    -definition:
+        -selmaho COI
+        -meaning:
+            -exp Vocative. Used to express parting. When followed by a sumti, the sumti is the intended listener/audience. When followed by a cmevla, it is understood as {{co'o la CMEVLA}}. When followed by a selbri, it is understood as {{co'o le SELBRI}}. {{co'o}} opens a vocative phrase, which automatically closes when the sumti or selbri after {{co'o}} is completed. The vocative phrase can also be closed explicitly with {{do'u}}.
+            -example:
+                -lojban .i mi lu'ei {{co'o sai do}} li'au lo pu co'u pendo be mi
+                -english I said "{{Farewell}}." to my no-longer friend.
+                -source-id skab
+                -note {{lu'ei ... li'au}} encloses a grammatical Lojban text and turns it into a selbri meaning "x<sub>1</sub> says &lt;text&gt; to x<sub>2</sub> with expressive medium x<sub>3</sub>".
+            -example:
+                -lojban ni'o {{co'o pendo}} mi zi jukpa su'o ckafi
+                -english Anyway, {{bye friends}}, I'm gonna prepare some coffee.
+                -source-id rolj
+                -speaker la srasu
+            -example:
+                -lojban {{co'o ro do}} .i sarcu fa po mi co'a toljundi ti .i .e'o ko na dunku tau mi .i ro da jai dajbu .i mi kanro je gleki .i .a'o go'i fa ro do ji'a
+                -english {{Goodbye everyone}}, I need to direct my attention away from here now. Please don't worry about me; everything is okay. I'm well and happy. I hope the same for all of you.
+                -source-id rolj
+                -speaker Lucilla
+                -note This example is in tcekitau and jboponei. Substitute {{tau}} with {{tu'a}} and {{po}} with {{lo su'u}} to make it CLL/BPFK-compatible.
+        -meaning:
+            -context ~ {{nai}}
+            -exp Synonym for {{coi}}.
+            -note Very rare. See also {{coi nai}}, which uses a similar formation.
+            -example:
+                -lojban A &mdash; coi rodo <br>B &mdash; .i zabna fa lonu rodo cu xruti <br>C &mdash; {{co'o nai}}
+                -english A &mdash; Hello everyone <br>B &mdash; It's nice that all of you are returning <br>C &mdash; {{Hello}}
+                -source-id jbob
+                -speaker Robert Baruch, la srasu, la tsani 
+        -meaning:
+            -context ~ {{nai}}
+            -exp No goodbye to you. Used to express parting but denies the following noun as the intended listener/audience.
+            -note Hapax. See also the note in {{coi nai}}.
+            -example:
+                -lojban je'e .i za'a la roljbogu'e cu ba'ucu'i sorjbogu'e .i .e'o pensi le nabmi pe xei'e .i {{co'onai so'a do}} .i co'o pa xendo .i le pa se djica be mi cu nu jbota'a
+                -english Okay. I see that the "All-Lojban country" is really just "Many-Lojban country". Please think about the problems in this server. {{I'm out (to most of you here)}}, and goodbye to the single person who's friendly. The only thing I want is to talk in/about Lojban.
+                -source-id rolj
+                -speaker mattf
+-entry:
     -word co'u
     -gloss Preposition (tense): cessative; event stops
     -type cmavo

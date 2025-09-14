@@ -6626,7 +6626,7 @@
     },
     {
         "word": "claxu",
-        "gloss": "lack, without",
+        "gloss": "to lack, to be without &mash; lacking",
         "type": "gismu",
         "freq": "4160",
         "rank": "691",
@@ -6638,11 +6638,42 @@
             {
                 "meaning": [
                     {
-                        "exp": "$x_{1}$ is without/lacking/free of/lacks $x_{2}$; $x_{1}$ is $x_{2}$-less."
+                        "exp": "x_1 is without/lacking/free of/lacks x_2; x_1 is x_2-less.",
+                        "note": "Under CLL Lojban, it was asserted that putting plain {{lo broda}} in {{claxu}}'s x_2 place is improper because {{lo}} by default makes an existential claim, which is too weak. For example, {{mi claxu lo xance}} would be true even though I have two hands &mdash; as the Lojban sentence means \"There exists hand <i>x</i> such that I am without <i>x</i>\", and I am certainly without <emph>your</emph> hands. The assertion wasn't taken seriously in texts written in Lojban, though.",
+                        "example": [
+                            {
+                                "lojban": ".i {{vlipa claxu}} .ia fa mi",
+                                "english": "I'm so {{powerless}}.",
+                                "source-id": "guit",
+                                "source": "Guitar, Loneliness and Blue Planet",
+                                "author": "Kessoku Band",
+                                "translator": "tetsusquared (la .tirprij.)",
+                                "link": "https://www.youtube.com/watch?v=Kul_crM2RKg"
+                            },
+                            {
+                                "lojban": ".i sa'u ko troci co'u lo nu {{claxu}} lo titnanba",
+                                "english": "You just keep on trying 'til you {{run out of}} cake",
+                                "source-id": "stil",
+                                "source": "Still Alive",
+                                "author": "Jonathan Coulton",
+                                "translator": "la solpa'i",
+                                "link": "https://www.youtube.com/watch?v=hRrIioMA4w8"
+                            },
+                            {
+                                "lojban": "ni'o lo du'e djedi {{poi claxu lo ka pacna co balvi}} cu se krasi lo vercedra be fau lo zu'o ma'a pu zu se ckasu",
+                                "english": "Far too many days {{without hopes for the future}} started in our childhood, long ago when we were mocked",
+                                "source-id": "reed",
+                                "source": "Re-Education",
+                                "author": "Neru",
+                                "translator": "tetsusquared (la .tirprij.)",
+                                "link": "https://www.youtube.com/watch?v=XD6HKp77PbY"
+                            }
+                        ]
                     }
                 ]
             }
-        ]
+        ],
+        "good": true
     },
     {
         "word": "clika",
@@ -7457,7 +7488,7 @@
     },
     {
         "word": "co'o",
-        "gloss": "goodbye, partings",
+        "gloss": "Vocative: partings, goodbye",
         "type": "cmavo",
         "freq": "195780",
         "rank": "24",
@@ -7470,11 +7501,66 @@
                 "selmaho": "COI",
                 "meaning": [
                     {
-                        "exp": "vocative: partings/good-bye."
+                        "exp": "Vocative. Used to express parting. When followed by a sumti, the sumti is the intended listener/audience. When followed by a cmevla, it is understood as {{co'o la CMEVLA}}. When followed by a selbri, it is understood as {{co'o le SELBRI}}. {{co'o}} opens a vocative phrase, which automatically closes when the sumti or selbri after {{co'o}} is completed. The vocative phrase can also be closed explicitly with {{do'u}}.",
+                        "example": [
+                            {
+                                "lojban": ".i mi lu'ei {{co'o sai do}} li'au lo pu co'u pendo be mi",
+                                "english": "I said \"{{Farewell}}.\" to my no-longer friend.",
+                                "source-id": "skab",
+                                "note": "{{lu'ei ... li'au}} encloses a grammatical Lojban text and turns it into a selbri meaning \"x<sub>1</sub> says &lt;text&gt; to x<sub>2</sub> with expressive medium x<sub>3</sub>\".",
+                                "source": "la skaborfe'a",
+                                "author": "la .guskant.",
+                                "link": "https://fotono.tumblr.com/post/143537131514/coi-lo-se-jbobau-joau-zantufa-xi-papipare-i-la"
+                            },
+                            {
+                                "lojban": "ni'o {{co'o pendo}} mi zi jukpa su'o ckafi",
+                                "english": "Anyway, {{bye friends}}, I'm gonna prepare some coffee.",
+                                "source-id": "rolj",
+                                "speaker": "la srasu",
+                                "source": "roljbogu'e chatlog"
+                            },
+                            {
+                                "lojban": "{{co'o ro do}} .i sarcu fa po mi co'a toljundi ti .i .e'o ko na dunku tau mi .i ro da jai dajbu .i mi kanro je gleki .i .a'o go'i fa ro do ji'a",
+                                "english": "{{Goodbye everyone}}, I need to direct my attention away from here now. Please don't worry about me; everything is okay. I'm well and happy. I hope the same for all of you.",
+                                "source-id": "rolj",
+                                "speaker": "Lucilla",
+                                "note": "This example is in tcekitau and jboponei. Substitute {{tau}} with {{tu'a}} and {{po}} with {{lo su'u}} to make it CLL/BPFK-compatible.",
+                                "source": "roljbogu'e chatlog"
+                            }
+                        ]
+                    },
+                    {
+                        "context": "~ {{nai}}",
+                        "exp": "Synonym for {{coi}}.",
+                        "note": "Very rare. See also {{coi nai}}, which uses a similar formation.",
+                        "example": [
+                            {
+                                "lojban": "A &mdash; coi rodo <br>B &mdash; .i zabna fa lonu rodo cu xruti <br>C &mdash; {{co'o nai}}",
+                                "english": "A &mdash; Hello everyone <br>B &mdash; It's nice that all of you are returning <br>C &mdash; {{Hello}}",
+                                "source-id": "jbob",
+                                "speaker": "Robert Baruch, la srasu, la tsani",
+                                "source": "jbobratca chatlog"
+                            }
+                        ]
+                    },
+                    {
+                        "context": "~ {{nai}}",
+                        "exp": "No goodbye to you. Used to express parting but denies the following noun as the intended listener/audience.",
+                        "note": "Hapax. See also the note in {{coi nai}}.",
+                        "example": [
+                            {
+                                "lojban": "je'e .i za'a la roljbogu'e cu ba'ucu'i sorjbogu'e .i .e'o pensi le nabmi pe xei'e .i {{co'onai so'a do}} .i co'o pa xendo .i le pa se djica be mi cu nu jbota'a",
+                                "english": "Okay. I see that the \"All-Lojban country\" is really just \"Many-Lojban country\". Please think about the problems in this server. {{I'm out (to most of you here)}}, and goodbye to the single person who's friendly. The only thing I want is to talk in/about Lojban.",
+                                "source-id": "rolj",
+                                "speaker": "mattf",
+                                "source": "roljbogu'e chatlog"
+                            }
+                        ]
                     }
                 ]
             }
-        ]
+        ],
+        "good": true
     },
     {
         "word": "co'oi",
@@ -22679,7 +22765,7 @@
     },
     {
         "word": "krasi",
-        "gloss": "origin, source",
+        "gloss": "origin, source &mdash; to originate from",
         "type": "gismu",
         "freq": "4080",
         "rank": "704",
@@ -22691,11 +22777,32 @@
             {
                 "meaning": [
                     {
-                        "exp": "$x_{1}$ (site/event) is a source/start/beginning/origin of $x_{2}$ (object/event/process)."
+                        "exp": "x_1 (site/event) is a source/start/beginning/origin of x_2 (object/event/process).",
+                        "example": [
+                            {
+                                "lojban": ".i {{lo krasi be mi}} zo'u drata",
+                                "english": "Things are different {{where I come from}}.",
+                                "source-id": "eggq",
+                                "source": "The Egg",
+                                "author": "Andy Weir",
+                                "translator": "la nalvai",
+                                "link": "https://nalvai.neocities.org/translations/the-egg/"
+                            },
+                            {
+                                "lojban": "ni'o lo du'e djedi poi claxu lo ka pacna co balvi cu {{se krasi lo vercedra be fau lo zu'o ma'a pu zu se ckasu}}",
+                                "english": "Far too many days without hopes for the future {{started in our childhood, long ago when we were mocked}}",
+                                "source-id": "reed",
+                                "source": "Re-Education",
+                                "author": "Neru",
+                                "translator": "tetsusquared (la .tirprij.)",
+                                "link": "https://www.youtube.com/watch?v=XD6HKp77PbY"
+                            }
+                        ]
                     }
                 ]
             }
-        ]
+        ],
+        "good": true
     },
     {
         "word": "krati",
@@ -24627,7 +24734,7 @@
     },
     {
         "word": "lifri",
-        "gloss": "experience, face",
+        "gloss": "to experience, to face &mdash; experience, (of an event) to happen to ...",
         "type": "gismu",
         "freq": "6370",
         "rank": "554",
@@ -24639,11 +24746,41 @@
             {
                 "meaning": [
                     {
-                        "exp": "$x_{1}$ [person/passive/state] undergoes/experiences $x_{2}$ (event/experience); $x_{2}$ happens to $x_{1}$."
+                        "exp": "x_1 [person/passive/state] undergoes/experiences x_2 (event/experience); x_2 happens to x_1.",
+                        "example": [
+                            {
+                                "lojban": ".i terpa lo nu pi ro lo botpi cu {{lifri}} lo nu venfu",
+                                "english": "it was to be feared the whole caraffe {{might be involved in}} his revenge.",
+                                "source-id": "cloc",
+                                "source": "The Clockmaker",
+                                "author": "Robert Louis Stevenson",
+                                "translator": "la .xorxes.",
+                                "link": "https://mw.lojban.org/papri/le_junla_zbasu",
+                                "originallink": "https://en.wikisource.org/wiki/The_Clockmaker"
+                            },
+                            {
+                                "lojban": ".i ro lo se gleki ja se badri poi {{se lifri lo prenu}} ca da cu pu ja ba {{se lifri do}}",
+                                "english": "Every happy and sad moment ever {{experienced by any human}} was, or will be, {{experienced by you}}.",
+                                "source-id": "eggq",
+                                "source": "The Egg",
+                                "author": "Andy Weir",
+                                "translator": "la nalvai",
+                                "link": "https://nalvai.neocities.org/translations/the-egg/"
+                            },
+                            {
+                                "lojban": ".i lo nu mi do penmi {{pu zancizra se lifri}}",
+                                "english": "Meeting you {{was a crazy experience}}.",
+                                "source-id": "pram",
+                                "source": "prami simbi'o",
+                                "author": "Djemynai",
+                                "link": "https://www.youtube.com/watch?v=g3BQ-pE7ypY"
+                            }
+                        ]
                     }
                 ]
             }
-        ]
+        ],
+        "good": true
     },
     {
         "word": "li'i",
