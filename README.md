@@ -1,6 +1,6 @@
 # NALVAI: Nalvai's Assortment of Lojban Vocabulary Attestation Instances
 ## What is this?
-**NALVAI** is a Lojban dictionary that uses quotations from *real-world texts* as examples of usage. It currently contains **221 words** with [**611 quotations** from **80 Lojban texts**](https://github.com/nalvai/nalvai.github.io#sources). Please provide quotations and definitions to help the dictionary grow!
+**NALVAI** is a Lojban dictionary that uses quotations from *real-world texts* as examples of usage. It currently contains **222 words** with [**617 quotations** from **81 Lojban texts**](https://github.com/nalvai/nalvai.github.io#sources). Please provide quotations and definitions to help the dictionary grow!
 
 Here is how a word look like in this dictionary:
 ![The word a in this dictionary](https://raw.githubusercontent.com/nalvai/nalvai.github.io/refs/heads/master/example_a.png)
@@ -93,12 +93,12 @@ A Lojban word has its meaning encompass over different parts of speech in Englis
 ### Quote Sources
 Lojban texts with at least one quotation in this dictionary.
 
-- (104 quotes) roljbogu'e chatlog
+- (107 quotes) roljbogu'e chatlog
 - (45 quotes) [The Little Prince](https://mw.lojban.org/papri/le_cmalu_noltru) by Antoine de Saint-Exupéry, translation by la .xorxes.
 - (32 quotes) [The Clockmaker](https://mw.lojban.org/papri/le_junla_zbasu) by Robert Louis Stevenson, translation by la .xorxes. ([Original](https://en.wikisource.org/wiki/The_Clockmaker))
 - (30 quotes) [Alice in Wonderland](https://mw.lojban.org/papri/lo_selfri_be_la_.alis._bei_bu%27u_la_selmacygu%27e) by Lewis Carroll, translation by la .xorxes.
 - (24 quotes) [The Wonderful Wizard of Oz](https://selpahi.de/oz_plain.html) by L. Frank Baum, translation by la solpa'i
-- (20 quotes) jbobratca chatlog
+- (22 quotes) jbobratca chatlog
 - (17 quotes) [The Egg](https://nalvai.neocities.org/translations/the-egg/) by Andy Weir, translation by la nalvai
 - (17 quotes) [The Metamorphosis](https://mw.lojban.org/images/f/fc/lonubinxo.pdf) by Franz Kafka, translation by la .xorxes.
 - (16 quotes) [The Restaurant of Many Orders](https://docs.google.com/document/d/10Rnm80SieLrpFnk9kn_9bCuon96CNSPTA8hqVaWQYbQ/edit?tab=t.0) by Kenji Miyazawa, translation by la .tijlan.
@@ -164,6 +164,7 @@ Lojban texts with at least one quotation in this dictionary.
 - (1 quote) [How the enemy came to Thlunrana](https://lojban.pw/en/texts/how-the-enemy-came-to-thlunrana/) by Lord Dunsany, translation by la gleki
 - (1 quote) [Jitter Doll](https://www.youtube.com/watch?v=kkCQibMbN2s) by niki, translation by tetsusquared (la .tirprij.)
 - (1 quote) [ko gleki gau la cevni](https://www.youtube.com/watch?v=6swu1ESUw0E) by Noise and Bells (la janbe)
+- (1 quote) [Krótkość żywota](https://cezram.neocities.org/jbo/) by Daniel Naborowski, translation by la .ezras. ([Original](https://wolnelektury.pl/katalog/lektura/naborowski-krotkosc-zywota.html))
 - (1 quote) [lenrygu'i](https://www.youtube.com/watch?v=-q0gzt4w-o8) by la fagri
 - (1 quote) [ma zerfu'e](https://selpahi.de/mazerfuhe.html) by Unknown, translation by la solpa'i
 - (1 quote) [The Princess and the Pea](https://selpahi.de/dembi.html) by Hans Christian Andersen, translation by la solpa'i
@@ -176,10 +177,11 @@ Lojban texts with at least one quotation in this dictionary.
 
 The quotes from chatlogs are from the following speakers: (in no particular order)
 
-Stephen Dedalus, portal 2056, la ilmen, la samflir, la xrula, melody!, latkerlo, Lucilla, la nalvai, Haze, la tirprij, la fagri, la katador, Magnap, la solpa'i, AstroMacGuffin, la srasu, la lunbe, la varik, mattf, niftg, qimar, la melmi, la bakre'u, la evis, la bisri'e, la nonselcme, bancip, la lunra, la gleki, \_4Denthusiast, la .ilmen., dram, la tsani, Robert Baruch, la kanis, la kanba, mklcp, yeet kitty, la .zi., la ziren, la uakci, .kúblizel., Avaxar, misotanni, la janbe, la lalxu, la piier, 
+Robert Baruch, la piier, qimar, dram, niftg, AstroMacGuffin, la bisri'e, la nalvai, la bakre'u, la uakci, bancip, Avaxar, la ziren, la gleki, la .ilmen., Magnap, la samflir, la tirprij, mklcp, la .zi., Haze, yeet kitty, .kúblizel., la katador, Lucilla, la fagri, la janbe, misotanni, Stephen Dedalus, la lalxu, la lunbe, la srasu, la nonselcme, portal 2056, la solpa'i, la lunra, la kanis, la xrula, melody!, la tsani, la .tirprij., la evis, mattf, latkerlo, \_4Denthusiast, la melmi, la varik, la ilmen, la kanba, 
 
 Huge thanks to the following individuals who contributed to this project:
 
+- la ezras: **kantu**, 3 quotes.
 - la ninlat.: **to**, 3 quotes.
 - la janbe: 1 quote.
 - la lalxu: 1 quote.

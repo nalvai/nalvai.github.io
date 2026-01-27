@@ -32,6 +32,8 @@
                 -english Is there a text of {{the verse about this music video}}?
                 -source-id rolj
                 -speaker Avaxar
+                -message-link https://discord.com/channels/771781383361921024/771823364519755786/1291434064145940570
+                -timestamp 2024-10-04
             -example:
                 -lojban ni'o lo di'u se jinvi rai lo ka vlile cu se cusku {{lo cabna te pemci}}
                 -english Such opinions found a more violent expression in the mouths of {{contemporary poets}}:
@@ -60,6 +62,8 @@
                 -source-id rolj
                 -speaker la srasu
                 -note This examlpe is in JACU. To convert it to CLL/BPFK Lojban, substitute {{jecu}} with {{gi'e}}.
+                -message-link https://discord.com/channels/771781383361921024/873980119742545980/900115440225882142
+                -timestamp 2021-10-20
             -example:
                 -lojban .i la cíluuax. cy muvdu gi'e {{pencu fo le birka}} gi'e mlatse gi'ebabo pamjai
                 -english Sheelua moved to her, {{touched her arm}}, sit by her side, and then hugged her.
@@ -172,6 +176,8 @@
                 -source-id jbob
                 -speaker la lalxu
                 -note The only usage I can find for {{ponse}}'s x<sub>3</sub>.
+                -message-link https://discord.com/channels/230498134843850762/230498134843850762/469393381836193802
+                -timestamp 2018-07-19
 
 -entry:
     -word pluka
@@ -194,6 +200,8 @@
                 -english I really {{enjoy}} composing music.
                 -source-id rolj
                 -speaker la janbe
+                -message-link https://discord.com/channels/771781383361921024/771783577658064927/1094759080498843718
+                -timestamp 2023-04-10
 
 
 -entry:
@@ -359,3 +367,5 @@
                 -source-id rolj
                 -speaker la janbe
                 -noshownote changed {{jinka}} to {{jinku}} - I think it's a typo
+                -timestamp 2021-06-03
+                -message-link https://discord.com/channels/771781383361921024/771790685544120390/850035415385636895

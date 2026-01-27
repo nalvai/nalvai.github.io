@@ -28,6 +28,8 @@
                 -source-id rolj
                 -speaker la melmi
                 -noshownote The original has {{karsnu}} instead of {{karsna}}, which I take as a typo.
+                -message-link https://discord.com/channels/771781383361921024/771782464548896821/1109360326337642516
+                -timestamp 2023-05-20
         -meaning:
             -context {{te}} ~
             -exp Methodically doing (something) under conditions ...; Introduces an unnumbered sumti that plays the role of {{tadji}}'s x_3 in the sentence.
@@ -50,6 +52,8 @@
                 -source-id rolj
                 -speaker la janbe
                 -contributor la ninlat.
+                -message-link https://discord.com/channels/771781383361921024/1304486371183951884/1339457100128063488
+                -timestamp 2025-02-13
             -example:
                 -lojban le mi bruna {{to se rirni le se rirni pe le mamta pe le mi mamta toi}} cu bilma
                 -english My brother, {{(my mother's mother's child's child)}} is ill.
@@ -57,6 +61,8 @@
                 -speaker la kanis
                 -note Note that the {{toi}} in this sentence is elidable, as the content in the parentheses cannot take the second selbri introduced by {{cu}}.
                 -contributor la ninlat.
+                -message-link https://discord.com/channels/771781383361921024/1304486402418937931/1335942321182609460
+                -timestamp 2025-02-03
             -example:
                 -lojban .i da'i {{to se va'u lo nu darlu toi}} lo jmive je pensi cu kakne lo nu zasti ze'o lo bitmu be lo botpi
                 -english ..., granting {{(for the sake of argument)}} that life and thought exist beyond the walls of the caraffe.
@@ -82,6 +88,8 @@
                 -source-id rolj
                 -speaker la ziren
                 -contributor la ninlat.
+                -message-link https://discord.com/channels/771781383361921024/1304486337319272560/1370106243238072431
+                -timestamp 2025-05-09
         -meaning:
             -context ~ {{cu'i}}
             -exp Attitudinal: express ambuguity on the gain-loss scale. 
@@ -91,6 +99,8 @@
                 -source-id rolj
                 -speaker la srasu, la janbe
                 -note Nobody submitting stories means competitors (who ends up submitting their stories) will have a better chance at winning (gain), but there will be less Lojban content to be produced overall (loss). 
+                -message-link https://discord.com/channels/771781383361921024/771782826558357505/823396198178095126
+                -timestamp 2021-03-22
         -meaning:
             -context ~ {{nai}}
             -exp Attitudinal: express loss / desolation / lamentation / mourning.
@@ -176,16 +186,22 @@
                 -source-id rolj
                 -speaker Lucilla
                 -note This example is in jboponei.
+                -message-link https://discord.com/channels/771781383361921024/771782464548896821/1060986056696156160
+                -timestamp 2023-01-07
             -example:
                 -lojban {{xm}} mi toltugni i lo si'o cnitsa zo'u lu ge'esai li'u matmau
                 -english {{Hmm}} I disagree, for [expressing] strong emotions "ge'esai" is more appropriate. 
                 -source-id rolj
                 -speaker la uakci
+                -message-link https://discord.com/channels/771781383361921024/771782866233065472/772759845664849921
+                -timestamp 2020-11-02
             -example:
                 -lojban {{xmm}} simlu loka mi na ka'e kansa
                 -english {{Hmm}} seems that I cannot be with [you] 
                 -source-id rolj
                 -speaker la ziren
+                -message-link https://discord.com/channels/771781383361921024/771782464548896821/847583135197298688
+                -timestamp 2021-05-28
 
 -entry:
     -word za'a
@@ -202,9 +218,11 @@
             -example:
                 -lojban .i mi ca {{mabla za'a}} ciska fo lo batkyfoi
                 -english {{I see}} I'm typing {{badly}} with my keyboard now.
-                -source-id rolj
+                -source-id jbob
                 -speaker la srasu
                 -note The {{za'a}} applies directly to {{mabla}}, which emphasizes that it is the badness (of typing) that is observed.
+                -message-link https://discord.com/channels/230498134843850762/234028305374904320/565018298702495748
+                -timestamp 2019-04-09
             -example:
                 -lojban .i {{za'a dai}} mi jai katna lo plise lo re mei
                 -english {{See}}, I will cut the apple in half.
@@ -247,17 +265,19 @@
                 -source-id litt
         -meaning:
             -context When followed by a sumti
-            -variation CLL, BPFK
             -exp mark the following sumti as the unbounded time duration of the event.
             -note Although specified by <em>both</em> the CLL and the BPFK, this usage is unattested. See below.
         -meaning:
             -context When followed by a sumti
+            -variation Community
             -exp During the entirety of ...
             -example:
                 -lojban .i {{ze'e lo nunji'e be mi}} zo'u mi djica lo nu stuvi'e gy.
                 -english I {{always}} wanted to visit it {{in my whole life}}.
                 -source-id rolj
                 -speaker qimar
+                -timestamp 2024-02-08
+                -message-link https://discord.com/channels/771781383361921024/771782618856947752/1205029979482497044
 
 -entry:
     -word zi
@@ -278,6 +298,8 @@
                 -source-id rolj
                 -speaker la srasu, la evis
                 -note The middle sentence is in JACU. Substitute {{ji}} with {{je'i}} to convert it to CLL/BPFK Lojban.
+                -timestamp 2025-04-01
+                -message-link https://discord.com/channels/771781383361921024/1304486402418937931/1356452382493380821
         -meaning:
             -context When followed by a sumti 
             -variation CLL
@@ -377,5 +399,7 @@
                 -english Attitudinals are also part of English, like {{"lol"}} lol
                 -source-id rolj
                 -speaker la srasu
+                -message-link https://discord.com/channels/771781383361921024/771783577658064927/1255722104498946102
+                -timestamp 2024-06-27
 
 

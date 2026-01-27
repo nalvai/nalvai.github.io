@@ -212,7 +212,7 @@
     },
     "jbob": {
         "source": "jbobratca chatlog",
-        "instance": 20
+        "instance": 22
     },
     "jbin": {
         "source": "jbini canlu",
@@ -238,6 +238,14 @@
         "author": "Mèremim",
         "link": "https://meremim.bandcamp.com/album/koi-do-mi-na",
         "instance": 5
+    },
+    "krot": {
+        "source": "Krótkość żywota",
+        "author": "Daniel Naborowski",
+        "translator": "la .ezras.",
+        "link": "https://cezram.neocities.org/jbo/",
+        "originallink": "https://wolnelektury.pl/katalog/lektura/naborowski-krotkosc-zywota.html",
+        "instance": 1
     },
     "kuhi": {
         "source": "ku'i ba troci",
@@ -418,7 +426,7 @@
     },
     "rolj": {
         "source": "roljbogu'e chatlog",
-        "instance": 104
+        "instance": 107
     },
     "rout": {
         "source": "Route Sphere",

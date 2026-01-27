@@ -56,6 +56,8 @@
                 -english I think it's a little strange to believe that Chinese {{is the language of}} Heaven.
                 -source-id rolj
                 -speaker la nalvai
+                -message-link https://discord.com/channels/771781383361921024/1304486337319272560/1340515015261683762
+                -timestamp 2025-02-16
             -example:
                 -lojban .i ku'i mu'a la'a cu'i so'o da {{co'a se bangu}} 
                 -english But, for example, there might be some {{emerging speakers [of the language]}}.
@@ -76,6 +78,8 @@
                 -note Example of "(of a text) to be written in a language" expressed with x_3 of {{bangu}}.
                 -source-id rolj
                 -speaker la srasu
+                -message-link https://discord.com/channels/771781383361921024/771782814986272778/805816439520493609
+                -timestamp 2021-02-01
 
 -entry:
     -word bebna
@@ -97,6 +101,8 @@
                 -english No similar {{follies}} happened. Phew!
                 -source-id rolj
                 -speaker la lunbe
+                -message-link https://discord.com/channels/771781383361921024/779079939462922270/1079519230019506277
+                -timestamp 2023-02-27
             -example:
                 -lojban .i le du'u xu kau {{bebna lo ka nerkla}} cu ba se facki ca le nu bevri fi le bartu
                 -english Was {{[she] that dumb, did [she] go in}} or not, we'll see when they carry them out.
@@ -164,6 +170,8 @@
                 -source-id rolj
                 -speaker la ziren
                 -note This sentence is in JACU. To convert it to CLL Lojban, substitute {{jecu}} with {{gi'e}}.
+                -timestamp 2025-03-26
+                -message-link https://discord.com/channels/771781383361921024/771783577658064927/1354474287934738454
 
 -entry:
     -word binxo
@@ -212,11 +220,15 @@
                 -english You {{should}} say "la .lojban." or "lo jbobau".
                 -source-id rolj
                 -speaker la lunra
+                -message-link https://discord.com/channels/771781383361921024/771782630814515200/1174208422313480202
+                -timestamp 2023-11-15
             -example:
                 -lojban ni'o la .varik. cu {{te cadga fi}} lo nu la'oi .Mastodon. joi zo'e cu zenba pe'a le ka ce'u selpli lo jbopre
                 -english Varik {{thinks}} that Mastodon and some others {{should}} be used more by Lojbanists.
                 -source-id rolj
                 -speaker la varik
+                -timestamp 2025-05-24
+                -message-link https://discord.com/channels/771781383361921024/1304486402418937931/1375568395524640819
 
 -entry:
     -word cadzu
@@ -273,6 +285,8 @@
                 -english It's bad for {{talking about}} something not Lojban-related in Lojban.
                 -source-id rolj
                 -speaker la srasu
+                -message-link https://discord.com/channels/771781383361921024/1304486402418937931/1304497399263137893
+                -timestamp 2024-11-09
 
 -entry:
     -word catlu

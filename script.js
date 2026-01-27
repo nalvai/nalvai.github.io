@@ -131,11 +131,21 @@ function generateQuoteElement(quote){
   return result;
 }
 
+function generateVariatyElement(variation){
+  if (variation.includes("CLL") || variation.includes("BPFK")) {
+    return `<span class="wtype standard">${variation}</span> `;
+  } else if (variation.toLowerCase().includes("compatible")) {
+    return `<span class="wtype compatible">${variation}</span> `;
+  } else { // TODO: Mark semantic and syntactic variations differently
+    return `<span class="wtype variant">${variation}</span> `;
+  } 
+}
+
 function generateMeaningElement(meaning){
   const result = document.createElement('li');
   const explanation = document.createElement('p');
   if (meaning.variation !== undefined){
-    explanation.innerHTML += `(<i>${meaning.variation}</i>) `;
+    explanation.innerHTML += generateVariatyElement(meaning.variation);
   }
   if (meaning.context !== undefined){
     to_render = meaning.context.replaceAll("{{", "<b>").replaceAll("}}", "</b>");
@@ -162,10 +172,20 @@ function generateDefinitionElement(definition){
   const result = document.createElement('div');
   if (definition.selmaho !== undefined){
     const selmaho = document.createElement('p');
-    selmaho.innerHTML = `selma'o <b>${definition.selmaho}</b>:`;
+    if (definition.variation !== undefined){
+      selmaho.innerHTML = generateVariatyElement(definition.variation);
+    } else {
+      selmaho.innerHTML = `<span class="wtype standard">CLL/BPFK</span> `; 
+    }
+    selmaho.innerHTML += `selma'o <b>${definition.selmaho}</b>:`;
     result.appendChild(selmaho);
   }
-  const list = document.createElement('ul');
+  if (definition.head !== undefined){
+    const headexp = document.createElement('p');
+    headexp.innerHTML = definition.head;
+    result.appendChild(headexp);
+  }
+  const list = document.createElement('ol');
   for (meaning of definition.meaning){
     list.appendChild(generateMeaningElement(meaning));
   }

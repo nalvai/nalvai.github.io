@@ -47,9 +47,9 @@
             },
             {
                 "selmaho": "I",
+                "variation": "ajbo",
                 "meaning": [
                     {
-                        "variation": "ajbo",
                         "exp": "Equivalent to {{.i pau}}. Starts a sentence that is by default a question.",
                         "note": "Adopting ajbo prerequires adopting JACU. A sentence started with {{.a}} always contains a question marker ({{xu}}, {{ma}}, {{mo}} etc.)",
                         "example": [
@@ -58,6 +58,8 @@
                                 "english": "Did you just finished your job{{?}}",
                                 "source-id": "rolj",
                                 "speaker": "la srasu",
+                                "timestamp": "2022-01-19",
+                                "message-link": "https://discord.com/channels/771781383361921024/901453524926332989/933142376757743657",
                                 "source": "roljbogu'e chatlog"
                             },
                             {
@@ -66,12 +68,13 @@
                                 "source-id": "rolj",
                                 "speaker": "la melmi",
                                 "note": "The first sentence seems to be a question where the speaker is asking themselves or is expecting a negative answer, but it's hard to say for sure because there are no other instances of {{.anai}} in similar usage.",
+                                "timestamp": "2023-05-18",
+                                "message-link": "https://discord.com/channels/771781383361921024/771782826558357505/1108510152971276489",
                                 "source": "roljbogu'e chatlog"
                             }
                         ]
                     },
                     {
-                        "variation": "ajbo",
                         "context": "~ {{nai}}",
                         "exp": "Starts a response to a question.",
                         "example": [
@@ -80,13 +83,14 @@
                                 "english": "&mdash; How old are you (in years)? <br> &mdash; Twenty-seven.",
                                 "source-id": "rolj",
                                 "speaker": "la nonselcme, la srasu",
-                                "note": "The former sentence is compatible with CLL Lojban. The latter is in ajbo.",
+                                "note": "The former sentence is CLL/BPFK-compatible. The latter is in ajbo.",
+                                "timestamp": "2021-07-14",
+                                "message-link": "https://discord.com/channels/771781383361921024/771782464548896821/864549331671187456",
                                 "source": "roljbogu'e chatlog"
                             }
                         ]
                     },
                     {
-                        "variation": "ajbo",
                         "context": "~ {{nai}}",
                         "exp": "Starts a rhetorical question.",
                         "note": "This meaning is only attested once, making it a hapax. This usage is listed separately because this usage is mentioned (but not used) by other speakers.",
@@ -97,6 +101,8 @@
                                 "source-id": "rolj",
                                 "note": "This is the only instance of {{.a nai}} being used as a rhetorical question starter.",
                                 "speaker": ".kúblizel.",
+                                "timestamp": "2021-03-22",
+                                "message-link": "https://discord.com/channels/771781383361921024/771783577658064927/823341531489501246",
                                 "source": "roljbogu'e chatlog"
                             }
                         ]
@@ -185,6 +191,7 @@
                 "meaning": [
                     {
                         "exp": "Attitudinal: express intent / purpose / design.",
+                        "note": "Irrealis.",
                         "example": [
                             {
                                 "lojban": ".i {{.ai}} mi ba snada ro se troci",
@@ -199,12 +206,15 @@
                     {
                         "context": "~ {{cu'i}}",
                         "exp": "Attitudinal: express indecision / hesitation / vacillation / wavering.",
+                        "note": "Irrealis.",
                         "example": [
                             {
                                 "lojban": "― .i pu zi co'i mo'u tinzga 100 zo'e .ibo ca surla .i {{.aicu'i}} tinzga lo velvi'u 400mei",
                                 "english": "― Just finished listening to the first 100 and am now taking a break. {{Unsure if}} I'll listen to the remaining 400.",
                                 "source-id": "rolj",
                                 "speaker": "la lalxu",
+                                "timestamp": "2021-06-29",
+                                "message-link": "https://discord.com/channels/771781383361921024/771782630814515200/859146267169652747",
                                 "source": "roljbogu'e chatlog"
                             }
                         ]
@@ -213,6 +223,7 @@
                         "variation": "CLL",
                         "context": "~ {{nai}}",
                         "exp": "Attitudinal: express rejection / refusal.",
+                        "note": "Irrealis.",
                         "example": [
                             {
                                 "lojban": ".i go pu'o zei ganlo se morji gi ne'i la'e di'u milxe bacru za'a sei {{.ai nai}} tolmo'i",
@@ -272,9 +283,10 @@
                 "meaning": [
                     {
                         "exp": "Attitudinal: express hope / longing.",
+                        "note": "Irrealis.",
                         "example": [
                             {
-                                "lojban": ".i a'o ro da zabna",
+                                "lojban": ".i {{.a'o}} ro da zabna",
                                 "english": "{{I hope}} everything is good.",
                                 "source-id": "clax",
                                 "source": "claxu be do crisa",
@@ -286,6 +298,7 @@
                     {
                         "context": "~ {{nai}}",
                         "exp": "Attitudinal: express despair / hopelessness / dread / fear.",
+                        "note": "Realis.",
                         "example": [
                             {
                                 "lojban": ".i le trene pu zi co'a cliva se ka'a lo tcadu poi darno {{.a'o nai}}",
@@ -296,17 +309,30 @@
                                 "author": "inabakumori",
                                 "translator": "tetsusquared (la .tirprij.)",
                                 "link": "https://www.youtube.com/watch?v=f_NJsM8dces"
+                            },
+                            {
+                                "lojban": ".i {{.a'onai ru'e}} bu'o mi djica po se lanzu",
+                                "english": "{{(Slight despair)}} Now I want to be in a [Lojbanic] family...",
+                                "source-id": "rolj",
+                                "speaker": "la janbe",
+                                "timestamp": "2021-02-01",
+                                "message-link": "https://discord.com/channels/771781383361921024/771782464548896821/805620408858574848",
+                                "source": "roljbogu'e chatlog"
                             }
                         ]
                     },
                     {
+                        "variation": "Community",
                         "context": "~ {{nai}}",
                         "exp": "Attitudinal: express hope/longing that the opposite is true.",
+                        "note": "Irrealis.",
                         "example": [
                             {
                                 "lojban": ".i ra'apxu co zabnytce .i ti zabna bangu .i .ai mi xabju pe'a .i ta'o xu xekce {{.a'o nai}} .ie'i",
                                 "english": "It's a really nice rap. This is a nice language, I wanna live in it. BTW, is it xekce ({{I hope not}}, eww)?",
                                 "source-id": "rolj",
+                                "timestamp": "2021-08-19",
+                                "message-link": "https://discord.com/channels/771781383361921024/771782453224013864/877676346405425173",
                                 "speaker": "la lunbe",
                                 "contributor": "la janbe",
                                 "source": "roljbogu'e chatlog"
@@ -496,6 +522,8 @@
                                 "english": "I {{will}} be with [you] {{in about twenty minutes}}.",
                                 "source-id": "rolj",
                                 "speaker": "Lucilla",
+                                "message-link": "https://discord.com/channels/771781383361921024/901453524926332989/1122605492313788516",
+                                "timestamp": "2023-06-26",
                                 "source": "roljbogu'e chatlog"
                             }
                         ]
@@ -679,6 +707,7 @@
                                 "lojban": ".i ja'o mi bilga lo nu jmina finti {{ba'e so}} lo tricu",
                                 "english": "So I have to create {{<em>nine</em>}} more trees to add.",
                                 "source-id": "layo",
+                                "todo": "Delete",
                                 "source": "The Lay of the Land",
                                 "author": "Worldbuilding Notes",
                                 "link": "https://www.youtube.com/watch?v=ViGGR231zvQ"
@@ -688,6 +717,8 @@
                                 "english": "{{<em>This</em>}} week, I definitely can read every day what all my Lojban friends have written!",
                                 "source-id": "rolj",
                                 "speaker": "latkerlo",
+                                "timestamp": "2024-04-28",
+                                "message-link": "https://discord.com/channels/771781383361921024/771782618856947752/1233898455999582268",
                                 "source": "roljbogu'e chatlog"
                             },
                             {
@@ -1031,6 +1062,8 @@
                                 "english": "I think it's a little strange to believe that Chinese {{is the language of}} Heaven.",
                                 "source-id": "rolj",
                                 "speaker": "la nalvai",
+                                "message-link": "https://discord.com/channels/771781383361921024/1304486337319272560/1340515015261683762",
+                                "timestamp": "2025-02-16",
                                 "source": "roljbogu'e chatlog"
                             },
                             {
@@ -1068,6 +1101,8 @@
                                 "note": "Example of \"(of a text) to be written in a language\" expressed with x_3 of {{bangu}}.",
                                 "source-id": "rolj",
                                 "speaker": "la srasu",
+                                "message-link": "https://discord.com/channels/771781383361921024/771782814986272778/805816439520493609",
+                                "timestamp": "2021-02-01",
                                 "source": "roljbogu'e chatlog"
                             }
                         ]
@@ -1178,6 +1213,7 @@
                                 "lojban": ".i lo jitro be lo te lanme {{ba'o}} cliva lo ra cmana",
                                 "english": "The shepherd of the flock {{has already}} left his hill.",
                                 "source-id": "lojb",
+                                "todo": "Replace",
                                 "source": "lo jbobau cu mo",
                                 "author": "la solpa'i",
                                 "link": "https://www.youtube.com/watch?v=N-Y9eBBTrxU"
@@ -1502,6 +1538,8 @@
                                 "english": "However, gain for you that you can write {{in a language that isn't understood [by others]}}.",
                                 "source-id": "rolj",
                                 "speaker": "la janbe",
+                                "timestamp": "2025-04-03",
+                                "message-link": "https://discord.com/channels/771781383361921024/1304486402418937931/1357380955022823506",
                                 "source": "roljbogu'e chatlog"
                             }
                         ]
@@ -1515,6 +1553,8 @@
                                 "english": "\"Naylte\" is a word {{in the language of}} rabbits.",
                                 "source-id": "rolj",
                                 "speaker": "la nonselcme",
+                                "timestamp": "2021-06-03",
+                                "message-link": "https://discord.com/channels/771781383361921024/771783577658064927/849705077027766302",
                                 "source": "roljbogu'e chatlog"
                             },
                             {
@@ -1522,6 +1562,8 @@
                                 "english": "I {{am not a speaker of}} Musical-Lojban.",
                                 "source-id": "jbob",
                                 "speaker": "la gleki",
+                                "timestamp": "2019-04-19",
+                                "message-link": "https://discord.com/channels/230498134843850762/230498134843850762/568767362480996372",
                                 "source": "jbobratca chatlog"
                             }
                         ]
@@ -1709,6 +1751,8 @@
                                 "english": "No similar {{follies}} happened. Phew!",
                                 "source-id": "rolj",
                                 "speaker": "la lunbe",
+                                "message-link": "https://discord.com/channels/771781383361921024/779079939462922270/1079519230019506277",
+                                "timestamp": "2023-02-27",
                                 "source": "roljbogu'e chatlog"
                             },
                             {
@@ -2276,6 +2320,8 @@
                                 "source-id": "rolj",
                                 "speaker": "la ziren",
                                 "note": "This sentence is in JACU. To convert it to CLL Lojban, substitute {{jecu}} with {{gi'e}}.",
+                                "timestamp": "2025-03-26",
+                                "message-link": "https://discord.com/channels/771781383361921024/771783577658064927/1354474287934738454",
                                 "source": "roljbogu'e chatlog"
                             }
                         ]
@@ -2702,10 +2748,8 @@
         "definition": [
             {
                 "selmaho": "BO",
+                "head": "Short scope link. Used in various grammatical constructions and acts as a high precedence link, overriding usual left-grouping rules. Chains linked with {{bo}} are grouped to the right. Specific usages are explained below.",
                 "meaning": [
-                    {
-                        "exp": "Short scope link. Used in various grammatical constructions and acts as a high precedence link, overriding usual left-grouping rules. Chains linked with {{bo}} are grouped to the right. Specific usages are explained below."
-                    },
                     {
                         "context": "Inside a tanru",
                         "exp": "Joins tanru units, binding them together closely.",
@@ -2735,23 +2779,6 @@
                                 "author": "H. P. Lovecraft",
                                 "translator": "la gleki",
                                 "link": "https://lojban.pw/en/texts/the-book/"
-                            }
-                        ]
-                    },
-                    {
-                        "variation": "CLL",
-                        "context": "Between a NAhE and a sumti",
-                        "exp": "Binds NAhE and the sumti together.",
-                        "note": "Not required in later grammars such as camxes beta or zantufa.",
-                        "example": [
-                            {
-                                "lojban": ".i mi ka'e binxo lo makcu prenu noi se cinri no {{na'e bo}} lo namcu",
-                                "english": "I may become like the grown-ups who are interested in anything nothing {{other than}} figures.",
-                                "source-id": "litt",
-                                "source": "The Little Prince",
-                                "author": "Antoine de Saint-Exupéry",
-                                "translator": "la .xorxes.",
-                                "link": "https://mw.lojban.org/papri/le_cmalu_noltru"
                             }
                         ]
                     },
@@ -2823,9 +2850,27 @@
                         ]
                     },
                     {
+                        "variation": "CLL",
+                        "context": "Between a NAhE and a sumti",
+                        "exp": "Binds NAhE and the sumti together.",
+                        "note": "Not required in later grammars such as camxes beta or zantufa.",
+                        "example": [
+                            {
+                                "lojban": ".i mi ka'e binxo lo makcu prenu noi se cinri no {{na'e bo}} lo namcu",
+                                "english": "I may become like the grown-ups who are interested in anything nothing {{other than}} figures.",
+                                "source-id": "litt",
+                                "source": "The Little Prince",
+                                "author": "Antoine de Saint-Exupéry",
+                                "translator": "la .xorxes.",
+                                "link": "https://mw.lojban.org/papri/le_cmalu_noltru"
+                            }
+                        ]
+                    },
+                    {
+                        "variation": "Compatible",
                         "context": "After plain {{.i}}",
                         "exp": "Forms a sentence link along with {{.i}}. The resulting sentence link is formally the same as {{.i}}, but is used to indicate the two sentences linked are closely related.",
-                        "note": "In this usage, like a semicolon in English. This usage is not described in CLL or BPFK, but is compatible with them. See also {{.e}} in ajbo."
+                        "note": "In this usage, like a semicolon in English. See also {{.e}} in ajbo."
                     },
                     {
                         "context": "After plain {{.i}}",
@@ -3283,6 +3328,8 @@
                                 "source-id": "rolj",
                                 "note": "When determining the referent of a letteral pro-sumti, the gadri ({{lo}}, {{le}}, {{la}}) of a description sumti is ignored. In this utterance, {{nubu}} refers to {{lonu jufra lasna}}, as the description {{nu jufra lasna}} starts with the word {{nu}}.",
                                 "speaker": "la melmi",
+                                "timestamp": "2023-05-20",
+                                "message-link": "https://discord.com/channels/771781383361921024/771782630814515200/1109185640597303437",
                                 "source": "roljbogu'e chatlog"
                             },
                             {
@@ -4301,6 +4348,8 @@
                                 "english": "It's bad for {{talking about}} something not Lojban-related in Lojban.",
                                 "source-id": "rolj",
                                 "speaker": "la srasu",
+                                "message-link": "https://discord.com/channels/771781383361921024/1304486402418937931/1304497399263137893",
+                                "timestamp": "2024-11-09",
                                 "source": "roljbogu'e chatlog"
                             }
                         ]
@@ -5464,6 +5513,8 @@
                                 "english": "I'm {{learning how to play a flute}} for fun.",
                                 "source-id": "rolj",
                                 "speaker": "la ziren",
+                                "message-link": "https://discord.com/channels/771781383361921024/1304486337319272560/1343043310868234281",
+                                "timestamp": "2025-02-23",
                                 "source": "roljbogu'e chatlog"
                             },
                             {
@@ -5471,6 +5522,8 @@
                                 "english": "Related, I {{learned}} so much from Lunbe, who is now inactive in Lojbanistan :(",
                                 "source-id": "rolj",
                                 "speaker": "la janbe",
+                                "timestamp": "2023-11-16",
+                                "message-link": "https://discord.com/channels/771781383361921024/779079939462922270/1174730272542048346",
                                 "source": "roljbogu'e chatlog"
                             },
                             {
@@ -5486,6 +5539,8 @@
                                 "english": "Which means (entails) that [you] can {{learn by making Pokémon names}}.",
                                 "source-id": "rolj",
                                 "speaker": "la nonselcme",
+                                "timestamp": "2022-08-02",
+                                "message-link": "https://discord.com/channels/771781383361921024/771782464548896821/1003831315046596628",
                                 "source": "roljbogu'e chatlog"
                             }
                         ]
@@ -5735,6 +5790,8 @@
                                 "english": "It's planned with a desire of {{making [people] feel}} friendly and/or freedom.",
                                 "source-id": "rolj",
                                 "speaker": "la ziren",
+                                "message-link": "https://discord.com/channels/771781383361921024/771790685544120390/808043576940167198",
+                                "timestamp": "2021-02-08",
                                 "source": "roljbogu'e chatlog"
                             },
                             {
@@ -5774,6 +5831,8 @@
                                 "english": "&mdash; Did you see the new train?<br>&mdash; Yep, saw the picture of the Class 777. It didn't {{interest}} me.",
                                 "source-id": "rolj",
                                 "speaker": "latkerlo, la samflir",
+                                "message-link": "https://discord.com/channels/771781383361921024/771782464548896821/1062504091810541659",
+                                "timestamp": "2023-01-11",
                                 "source": "roljbogu'e chatlog"
                             },
                             {
@@ -5782,6 +5841,8 @@
                                 "source-id": "rolj",
                                 "speaker": "la lunbe",
                                 "note": "{{.i'y}} is a proposed cmavo equivalent to {{.i bu}}. Note that this example doesn't need {{jai}} because the x_1 of {{zekri}} is already an event.",
+                                "message-link": "https://discord.com/channels/771781383361921024/1304486402418937931/1335676784615624774",
+                                "timestamp": "2025-02-03",
                                 "source": "roljbogu'e chatlog"
                             },
                             {
@@ -5978,6 +6039,8 @@
                                 "english": "The \"la'e di'u cu zabna\" can {{go without the \"cu\"}}.",
                                 "source-id": "rolj",
                                 "speaker": "la lalxu",
+                                "message-link": "https://discord.com/channels/771781383361921024/771790672818470952/1353378452346245121",
+                                "timestamp": "2025-03-23",
                                 "source": "roljbogu'e chatlog"
                             }
                         ]
@@ -6044,9 +6107,11 @@
                             {
                                 "lojban": ".i mi ca mabla za'a {{ciska fo}} lo batkyfoi",
                                 "english": "I see I'm {{typing}} badly {{with}} my keyboard now.",
-                                "source-id": "rolj",
+                                "source-id": "jbob",
                                 "speaker": "la srasu",
-                                "source": "roljbogu'e chatlog"
+                                "message-link": "https://discord.com/channels/230498134843850762/234028305374904320/565018298702495748",
+                                "timestamp": "2019-04-09",
+                                "source": "jbobratca chatlog"
                             }
                         ]
                     }
@@ -6881,6 +6946,8 @@
                                 "english": "As for Salt [Lake] City: salt. It's really a city, but it's {{small small by large city standards}}.",
                                 "source-id": "rolj",
                                 "speaker": "la janbe",
+                                "timestamp": "2020-12-02",
+                                "message-link": "https://discord.com/channels/771781383361921024/771782464548896821/783544567773134869",
                                 "source": "roljbogu'e chatlog"
                             }
                         ]
@@ -6943,6 +7010,8 @@
                                 "source-id": "rolj",
                                 "speaker": "la varik",
                                 "note": "This sentence is in JACU. To convert it to CLL Lojban, substitute {{jonai}} with {{.onai}}. Also, {{cmavrfa}} is a type-3 zi'evla. {{cmavrfa}} = cmav-r-FA.",
+                                "message-link": "https://discord.com/channels/771781383361921024/771782814986272778/1146584227098415174",
+                                "timestamp": "2023-08-31",
                                 "source": "roljbogu'e chatlog"
                             },
                             {
@@ -6950,6 +7019,8 @@
                                 "english": "Now I want {{a CAhA (cmavo of class CAhA) that means similarly to <i>je'u</i>}}.",
                                 "source-id": "rolj",
                                 "speaker": "la srasu",
+                                "message-link": "https://discord.com/channels/771781383361921024/771782826558357505/912364030981734410",
+                                "timestamp": "2021-11-22",
                                 "source": "roljbogu'e chatlog"
                             },
                             {
@@ -6957,6 +7028,8 @@
                                 "english": "There are so many {{tense particles in Lojban...}}",
                                 "source-id": "jbob",
                                 "speaker": "la melmi",
+                                "message-link": "https://discord.com/channels/230498134843850762/230498134843850762/1109220584837087423",
+                                "timestamp": "2023-05-20",
                                 "source": "jbobratca chatlog"
                             }
                         ]
@@ -7408,6 +7481,8 @@
                                 "note": "\"Not Important\" is the name of the person greeted.",
                                 "source-id": "rolj",
                                 "speaker": "Lucilla",
+                                "message-link": "https://discord.com/channels/771781383361921024/771783577658064927/1057293278317391902",
+                                "timestamp": "2022-12-27",
                                 "source": "roljbogu'e chatlog"
                             },
                             {
@@ -7423,6 +7498,8 @@
                                 "english": "{{Hello Lojbanists}}, I just discovered about Lojban, and I intend to start learning it in 2023. What are good courses for Lojban?",
                                 "source-id": "rolj",
                                 "speaker": "la nalvai",
+                                "message-link": "https://discord.com/channels/771781383361921024/771782453224013864/1057297572244496455",
+                                "timestamp": "2022-12-27",
                                 "source": "roljbogu'e chatlog"
                             }
                         ]
@@ -7437,6 +7514,8 @@
                                 "english": "&mdash; I'm gonna eat, bye! <br>&mdash; {{Bye!}}",
                                 "source-id": "jbob",
                                 "speaker": "la ilmen, mklcp",
+                                "message-link": "https://discord.com/channels/230498134843850762/230498134843850762/358300181088960515",
+                                "timestamp": "2017-09-16",
                                 "source": "jbobratca chatlog"
                             }
                         ]
@@ -7517,6 +7596,8 @@
                                 "english": "Anyway, {{bye friends}}, I'm gonna prepare some coffee.",
                                 "source-id": "rolj",
                                 "speaker": "la srasu",
+                                "message-link": "https://discord.com/channels/771781383361921024/1304486337319272560/1384163422505140224",
+                                "timestamp": "2025-06-16",
                                 "source": "roljbogu'e chatlog"
                             },
                             {
@@ -7525,6 +7606,8 @@
                                 "source-id": "rolj",
                                 "speaker": "Lucilla",
                                 "note": "This example is in tcekitau and jboponei. Substitute {{tau}} with {{tu'a}} and {{po}} with {{lo su'u}} to make it CLL/BPFK-compatible.",
+                                "message-link": "https://discord.com/channels/771781383361921024/771783577658064927/1220732994910945343",
+                                "timestamp": "2024-03-22",
                                 "source": "roljbogu'e chatlog"
                             }
                         ]
@@ -7539,6 +7622,8 @@
                                 "english": "A &mdash; Hello everyone <br>B &mdash; It's nice that all of you are returning <br>C &mdash; {{Hello}}",
                                 "source-id": "jbob",
                                 "speaker": "Robert Baruch, la srasu, la tsani",
+                                "message-link": "https://discord.com/channels/230498134843850762/230498134843850762/710172204058280017",
+                                "timestamp": "2020-05-14",
                                 "source": "jbobratca chatlog"
                             }
                         ]
@@ -7553,6 +7638,8 @@
                                 "english": "Okay. I see that the \"All-Lojban country\" is really just \"Many-Lojban country\". Please think about the problems in this server. {{I'm out (to most of you here)}}, and goodbye to the single person who's friendly. The only thing I want is to talk in/about Lojban.",
                                 "source-id": "rolj",
                                 "speaker": "mattf",
+                                "message-link": "https://discord.com/channels/771781383361921024/836938363319746576/1095024655695360050",
+                                "timestamp": "2023-04-11",
                                 "source": "roljbogu'e chatlog"
                             }
                         ]
@@ -8674,6 +8761,9 @@
                                 "lojban": ".i my. {{cusku}} lo se du'u my. manci catlu po'o lo mi melbi lerfu",
                                 "english": "She (my mother) said she was just marvelling at my beautiful handwriting.",
                                 "source-id": "rolj",
+                                "speaker": "la nalvai",
+                                "message-link": "https://discord.com/channels/771781383361921024/1304486402418937931/1357259070507057263",
+                                "timestamp": "2025-04-03",
                                 "source": "roljbogu'e chatlog"
                             },
                             {
@@ -9464,6 +9554,8 @@
                                 "source-id": "rolj",
                                 "speaker": "la ziren",
                                 "note": "This example is in tcekitau. Substitute the {{tau}} with {{tu'a}} to convert it into CLL/BPFK Lojban.",
+                                "message-link": "https://discord.com/channels/771781383361921024/771782464548896821/802061779424510003",
+                                "timestamp": "2021-01-22",
                                 "source": "roljbogu'e chatlog"
                             },
                             {
@@ -9808,6 +9900,8 @@
                                 "source-id": "rolj",
                                 "speaker": "la xrula",
                                 "note": "This sentence is in JACU. To convert it to CLL Lojban, substitute {{je cu}} with {{gi'e}}.",
+                                "message-link": "https://discord.com/channels/771781383361921024/1304486402418937931/1388499979416375347",
+                                "timestamp": "2025-06-28",
                                 "source": "roljbogu'e chatlog"
                             }
                         ]
@@ -10190,6 +10284,8 @@
                                 "english": "I feel {{it trembling strongly}} multiple times.",
                                 "source-id": "rolj",
                                 "speaker": "bancip",
+                                "message-link": "https://discord.com/channels/771781383361921024/771782464548896821/1180988477177860117",
+                                "timestamp": "2023-12-04",
                                 "source": "roljbogu'e chatlog"
                             }
                         ]
@@ -11233,6 +11329,8 @@
                                 "source-id": "rolj",
                                 "speaker": "la ziren",
                                 "note": "This sentence is in JACU. To convert it to CLL Lojban, substitute {{ja}} with {{.a}}.",
+                                "timestamp": "2025-05-09",
+                                "message-link": "https://discord.com/channels/771781383361921024/1304486337319272560/1370107296213893120",
                                 "source": "roljbogu'e chatlog"
                             },
                             {
@@ -11240,6 +11338,8 @@
                                 "english": "And I don't have the {{correct}} font {{for it}}.",
                                 "source-id": "rolj",
                                 "speaker": "yeet kitty",
+                                "message-link": "https://discord.com/channels/771781383361921024/771782618856947752/1273436290024472717",
+                                "timestamp": "2024-08-15",
                                 "source": "roljbogu'e chatlog"
                             },
                             {
@@ -11247,6 +11347,8 @@
                                 "english": "Is it correct by Lojban standards?",
                                 "source-id": "rolj",
                                 "speaker": "dram",
+                                "timestamp": "2021-03-14",
+                                "message-link": "https://discord.com/channels/771781383361921024/771782826558357505/820350287469346816",
                                 "source": "roljbogu'e chatlog"
                             }
                         ]
@@ -11278,6 +11380,8 @@
                                 "source-id": "rolj",
                                 "speaker": "la janbe",
                                 "note": "The emoji and italics aren't standard parts of Lojban.",
+                                "timestamp": "2025-03-02",
+                                "message-link": "https://discord.com/channels/771781383361921024/836938363319746576/1345432111947190417",
                                 "source": "roljbogu'e chatlog"
                             },
                             {
@@ -11366,9 +11470,9 @@
             },
             {
                 "selmaho": "NU",
+                "variation": "tcekitau",
                 "meaning": [
                     {
-                        "variation": "tcekitau",
                         "exp": "Substitution for {{du'u}}.",
                         "example": [
                             {
@@ -11769,9 +11873,9 @@
             },
             {
                 "selmaho": "I",
+                "variation": "ajbo",
                 "meaning": [
                     {
-                        "variation": "ajbo",
                         "exp": "Equivalent to {{.i ji'a}}. Starts a sentence that is a direct continuation of the last sentence. Sentences separated with {{.e}} are considered to refer to the same event/concept, and are only seperated becuase of grammatical reasons.",
                         "note": "Adopting ajbo prerequires adopting JACU. {{.e nai}} is neither defined or used.",
                         "example": [
@@ -11781,6 +11885,8 @@
                                 "source-id": "rolj",
                                 "speaker": "la srasu",
                                 "note": "This utterance is in a divergent variety that has many differences with the baseline grammar: <ul><li>{{po}} is used as in jboponei, where it converts a bridi directly to a sumti, and corresponds to {{lo su'u}} in baseline.</li><li>{{.e}} is used as in ajbo, where it continues the same concept with another sentence, and corresponds to {{.i ji'a}} in baseline.</li><li>{{le'i}} is used as in gadganzu, where it functions as a demonstrative article (think of it as pointing to the &lt;picture&gt;), and corresponds to {{ti noi ... (ku'o)}} in baseline.</li></ul> This utterance serves as an example of the modularity of Lojban variaties, as said three differences from the baseline are unrelated to each other and can be employed independently.",
+                                "message-link": "https://discord.com/channels/771781383361921024/771782464548896821/927865896968544296",
+                                "timestamp": "2022-01-04",
                                 "source": "roljbogu'e chatlog"
                             }
                         ]
@@ -12302,6 +12408,8 @@
                                 "note": "This sentence is in JACU. To convert it to CLL Lojban, substitute {{je cu}} with {{gi'e}}.",
                                 "source-id": "rolj",
                                 "speaker": "la lunbe",
+                                "message-link": "https://discord.com/channels/771781383361921024/771790672818470952/1358616114107646122",
+                                "timestamp": "2025-04-07",
                                 "source": "roljbogu'e chatlog"
                             },
                             {
@@ -12310,6 +12418,8 @@
                                 "note": "The {{fo}} is not needed in this sentence.",
                                 "source-id": "rolj",
                                 "speaker": "la varik",
+                                "message-link": "https://discord.com/channels/771781383361921024/771782464548896821/1107468973089501234",
+                                "timestamp": "2023-05-15",
                                 "source": "roljbogu'e chatlog"
                             }
                         ]
@@ -12359,6 +12469,8 @@
                                 "english": "The tense words {{are distracting}} me haha",
                                 "source-id": "rolj",
                                 "speaker": "la melmi",
+                                "timestamp": "2023-05-21",
+                                "message-link": "https://discord.com/channels/771781383361921024/771782606932803606/1109582098077057054",
                                 "source": "roljbogu'e chatlog"
                             },
                             {
@@ -12571,6 +12683,8 @@
                                 "english": "What {{happened}} here?!",
                                 "source-id": "rolj",
                                 "speaker": "la ilmen",
+                                "timestamp": "2024-11-09",
+                                "message-link": "https://discord.com/channels/771781383361921024/1304486402418937931/1304496632594829453",
                                 "source": "roljbogu'e chatlog"
                             },
                             {
@@ -13264,6 +13378,8 @@
                                 "english": "Thanks, example-{{creator}}!",
                                 "source-id": "jbob",
                                 "speaker": "la fagri",
+                                "message-link": "https://discord.com/channels/230498134843850762/230498134843850762/461800804865802240",
+                                "timestamp": "2018-06-28",
                                 "source": "jbobratca chatlog"
                             },
                             {
@@ -13279,6 +13395,8 @@
                                 "english": "I think many newer songs {{by me}} are nice.",
                                 "source-id": "rolj",
                                 "speaker": "la janbe",
+                                "timestamp": "2024-02-10",
+                                "message-link": "https://discord.com/channels/771781383361921024/771823364519755786/1205751653261901844",
                                 "source": "roljbogu'e chatlog"
                             },
                             {
@@ -13295,7 +13413,18 @@
                     {
                         "context": "{{se}} ~",
                         "exp": "Creating work ...; Introduces an unnumbered sumti that plays the role of {{finti}}'s x<sub>2</sub> in the sentence.",
-                        "note": "The event described by the bridi is associated with the creation of the referent of the tagged sumti. {{se fi'e}} is unattested."
+                        "note": "The event described by the bridi is associated with the creation of the referent of the tagged sumti. {{se fi'e}} is unattested.",
+                        "example": [
+                            {
+                                "lojban": "{{sefi'e}} lo zgipemci be bau la .interglosas. cu facki lo du'u la .interglosas. cu mutce simsa le tokpono fi tu'a lo gerna",
+                                "english": "{{When making}} the Interglosa lyrics, [I] discovered that Interglosa is really similar to Toki Pona in grammar.",
+                                "source-id": "rolj",
+                                "speaker": "la .tirprij.",
+                                "timestamp": "2025-12-09",
+                                "message-link": "https://discord.com/channels/771781383361921024/859885029873156102/1447891894225862828",
+                                "source": "roljbogu'e chatlog"
+                            }
+                        ]
                     },
                     {
                         "context": "{{te}} ~",
@@ -13323,6 +13452,8 @@
                                 "english": "The difficulty in expressing something similar to \"javni\" {{from}} other meanings means that the official meaning is better IMO.",
                                 "source-id": "jbob",
                                 "speaker": "_4Denthusiast",
+                                "message-link": "https://discord.com/channels/230498134843850762/230498134843850762/262898052371578880",
+                                "timestamp": "2016-12-26",
                                 "source": "jbobratca chatlog"
                             }
                         ]
@@ -13505,6 +13636,8 @@
                                 "source-id": "rolj",
                                 "speaker": "la srasu",
                                 "note": "The sumti slot introduced by {{fi'o ve vreji fe'u}} is promoted to x<sub>1</sub> by {{jai}}.",
+                                "message-link": "https://discord.com/channels/771781383361921024/771782618856947752/807012280343461888",
+                                "timestamp": "2021-02-05",
                                 "source": "roljbogu'e chatlog"
                             }
                         ]
@@ -13852,6 +13985,8 @@
                                 "source-id": "rolj",
                                 "speaker": "la lunbe",
                                 "note": "This usage showcases the shifted meaning of {{fonxa}}, which is not compatible with the original meaning. This sentence is in JACU. To convert it to CLL Lojban, substitute {{je cu}} with {{gi'e}}. {{skuna}} is a synonym of {{cusku}}.",
+                                "message-link": "https://discord.com/channels/771781383361921024/1304486402418937931/1307685194328707143",
+                                "timestamp": "2024-11-17",
                                 "source": "roljbogu'e chatlog"
                             }
                         ]
@@ -14005,6 +14140,8 @@
                                 "english": "But I think some Chinese sentences {{mean different from}} their English originals.",
                                 "source-id": "rolj",
                                 "speaker": "la nalvai",
+                                "timestamp": "2025-02-20",
+                                "message-link": "https://discord.com/channels/771781383361921024/1304486402418937931/1342073111910027264",
                                 "source": "roljbogu'e chatlog"
                             },
                             {
@@ -14875,6 +15012,8 @@
                                 "source-id": "rolj",
                                 "speaker": "la lunbe",
                                 "note": "{{.i'y}} is a proposed cmavo equivalent to {{.i bu}}.",
+                                "message-link": "https://discord.com/channels/771781383361921024/1304486402418937931/1335676784615624774",
+                                "timestamp": "2025-02-03",
                                 "source": "roljbogu'e chatlog"
                             },
                             {
@@ -14883,6 +15022,8 @@
                                 "note": "This sentence showcase a common phenomenon of putting the effect in the seltau position of {{gasnu}}. In this sentence, {{tatpi gasnu}} is similar in meaning to {{gasnu lo nu tatpi}}. In such tanru formation, the x<sub>2</sub> of {{gasnu}} is usually left unfilled, and is assumed to be {{lo nu &lt;seltau&gt;}}.",
                                 "source-id": "rolj",
                                 "speaker": "qimar",
+                                "timestamp": "2024-04-13",
+                                "message-link": "https://discord.com/channels/771781383361921024/779079939462922270/1228421849143054506",
                                 "source": "roljbogu'e chatlog"
                             }
                         ]
@@ -18116,6 +18257,8 @@
                                 "source-id": "rolj",
                                 "speaker": "portal 2056, la nalvai",
                                 "note": "{{xe'ei}} is an abstractor (selma'o {{NU}}) meaning \"x_1 is the place where [bridi] takes place\".",
+                                "message-link": "https://discord.com/channels/771781383361921024/779079939462922270/1399343175235141747",
+                                "timestamp": "2025-07-28",
                                 "source": "roljbogu'e chatlog"
                             },
                             {
@@ -18123,6 +18266,8 @@
                                 "english": "Did the fire destroy your home? I hope it didn't. Is the fire still going, {{or}} has it already ended{{?}}",
                                 "source-id": "rolj",
                                 "speaker": "la .ilmen.",
+                                "timestamp": "2024-11-14",
+                                "message-link": "https://discord.com/channels/771781383361921024/1304486402418937931/1306314262498770965",
                                 "source": "roljbogu'e chatlog"
                             }
                         ]
@@ -18650,9 +18795,9 @@
             },
             {
                 "selmaho": "JA",
+                "variation": "JACU",
                 "meaning": [
                     {
-                        "variation": "JACU",
                         "exp": "Connective: connective question. Connects two grammatical constructs of the same type and asks the listener to supply a connective that makes the containing bridi true.",
                         "example": [
                             {
@@ -18661,6 +18806,8 @@
                                 "source-id": "rolj",
                                 "speaker": "la srasu, la evis",
                                 "note": "The middle sentence would be {{puzi <u>je'i</u> bazi}} under CLL Lojban.",
+                                "timestamp": "2025-04-01",
+                                "message-link": "https://discord.com/channels/771781383361921024/1304486402418937931/1356452382493380821",
                                 "source": "roljbogu'e chatlog"
                             }
                         ]
@@ -18692,6 +18839,7 @@
                                 "lojban": ".i lo munje cu palci je'u .i {{ji'a}} lo nu jmive cu nibli lo nu cortu",
                                 "english": "The world is truly evil, {{and}} living implies suffering.",
                                 "source-id": "kuhi",
+                                "todo": "Umm needs a better example",
                                 "source": "ku'i ba troci",
                                 "author": "Fyren",
                                 "link": "https://www.youtube.com/watch?v=Y3apKaaBK5c"
@@ -19418,6 +19566,8 @@
                                 "source-id": "jbob",
                                 "speaker": "la solpa'i",
                                 "note": "This sentence is in JACU. To convert it to CLL/BPFK Lojban, substitute {{je}} with {{.e}}.",
+                                "message-link": "https://discord.com/channels/230498134843850762/230775752012857344/371295517524754442",
+                                "timestamp": "2017-10-21",
                                 "source": "jbobratca chatlog"
                             }
                         ]
@@ -20418,7 +20568,6 @@
                 "selmaho": "CAhA",
                 "meaning": [
                     {
-                        "variation": "CLL, BPFK",
                         "exp": "Innate capability: signifies an innate or potential capability that may or may not be present at the moment due to certain conditions.",
                         "note": "Innate capability is unrelated to the condition present at the moment. From BPFK Sections (without the Lojban parts): \"[B]irds (except for few species) can fly but among them there are some that cannot do so now due to being crippled, too young, confined in small cage, etc.\"",
                         "example": [
@@ -20443,6 +20592,7 @@
                         ]
                     },
                     {
+                        "variation": "Community",
                         "exp": "Actual capability: signifies capability present at the moment.",
                         "note": "Under this meaning, {{x<sub>1</sub> ka'e SELBRI x<sub>2</sub> x<sub>3</sub> ...}} is usually synonymous with {{x<sub>1</sub> kakne lo ka (ce'u) SELBRI x<sub>2</sub> x<sub>3</sub> ...}}.",
                         "example": [
@@ -20457,6 +20607,7 @@
                         ]
                     },
                     {
+                        "variation": "Compatible",
                         "exp": "Possibility: signifies the bridi is possible to be true.",
                         "example": [
                             {
@@ -20472,6 +20623,7 @@
                         ]
                     },
                     {
+                        "variation": "Compatible",
                         "context": "When followed by a sumti",
                         "exp": "is possible under condition ...",
                         "note": "Defined in the Lojban definition of {{ka'e}} on jbovlaste, but isn't attested."
@@ -20634,6 +20786,8 @@
                                 "english": "Thanks, I {{can}} read it without help.",
                                 "source-id": "rolj",
                                 "speaker": "la bakre'u",
+                                "message-link": "https://discord.com/channels/771781383361921024/771782436807245835/1241457586507878440",
+                                "timestamp": "2024-05-19",
                                 "source": "roljbogu'e chatlog"
                             },
                             {
@@ -21046,7 +21200,7 @@
     },
     {
         "word": "kantu",
-        "gloss": "quantum",
+        "gloss": "quantum; smallest unit (of measurement) &mdash; (of a property) discrete",
         "type": "gismu",
         "freq": "1230",
         "rank": "1258",
@@ -21058,11 +21212,56 @@
             {
                 "meaning": [
                     {
-                        "exp": "$x_{1}$ is a quantum/ray/elementary particle/smallest measurable increment of property/activity $x_{2}$."
+                        "exp": "x_1 is a quantum/ray/elementary particle/smallest measurable increment of property/activity x_2.",
+                        "example": [
+                            {
+                                "lojban": ".i fi'o se jbini lonu morsi ce lonu jbena ku lonu jmive cu la'a cmalu traji {{kantu}}",
+                                "english": "Between death and birth, life is likely the smallest {{quantum}}.",
+                                "source-id": "krot",
+                                "contributor": "la ezras",
+                                "source": "Krótkość żywota",
+                                "author": "Daniel Naborowski",
+                                "translator": "la .ezras.",
+                                "link": "https://cezram.neocities.org/jbo/",
+                                "originallink": "https://wolnelektury.pl/katalog/lektura/naborowski-krotkosc-zywota.html"
+                            },
+                            {
+                                "lojban": "le bi'u nai bangu cu me'oi polysynthetic .i va'i lo'e valsi cu vasru pe'a so'i {{datni kantu}}",
+                                "english": "The aforementioned language is \"polysynthetic\". In other words, a word contains multiple {{pieces of information}}.",
+                                "source-id": "rolj",
+                                "speaker": "la .ilmen.",
+                                "contributor": "la ezras",
+                                "message-link": "https://discord.com/channels/771781383361921024/1304486371183951884/1339457100128063488",
+                                "timestamp": "2021-12-09",
+                                "source": "roljbogu'e chatlog"
+                            },
+                            {
+                                "lojban": ".i sarcu fa lo ka xaksu pi re mu loi mi {{renvi kantu}} .i ku'i te prali xunai",
+                                "english": "It's necessary to consume 25% of my {{HP}}. But isn't this beneficial?",
+                                "source-id": "rolj",
+                                "speaker": "la janbe",
+                                "contributor": "la ezras",
+                                "message-link": "https://discord.com/channels/771781383361921024/873980119742545980/1450663171764260986",
+                                "timestamp": "2025-12-17",
+                                "source": "roljbogu'e chatlog"
+                            },
+                            {
+                                "lojban": "i xunai la miranda cu cevni lo barda jbopre i ei go'i fi ro {{kantu be lo nu jmive fa vo'e}}",
+                                "english": "Isn't \"I surrender\" (a god) believed by the big Lojabnists? It has to be for every {{single part of their lives}}",
+                                "source-id": "jbob",
+                                "speaker": "la gleki",
+                                "message-link": "https://discord.com/channels/230498134843850762/230498134843850762/427804776781053952",
+                                "timestamp": "2018-03-26",
+                                "note": "The {{ro kantu be ...}} is used figuratively.",
+                                "source": "jbobratca chatlog"
+                            }
+                        ]
                     }
                 ]
             }
-        ]
+        ],
+        "contributor": "la ezras",
+        "good": true
     },
     {
         "word": "kanxe",
@@ -21475,6 +21674,8 @@
                                 "english": "Watch this cat {{playing}} the video game.",
                                 "source-id": "rolj",
                                 "speaker": "yeet kitty",
+                                "message-link": "https://discord.com/channels/771781383361921024/771782464548896821/1283458626668855407",
+                                "timestamp": "2024-09-12",
                                 "source": "roljbogu'e chatlog"
                             },
                             {
@@ -21482,7 +21683,9 @@
                                 "english": "[We're] {{playing}} \"guessing gismu from pictures\".",
                                 "source-id": "jbob",
                                 "speaker": "misotanni",
-                                "note": "A rare occasion of an event being in the x<sub>2</sub> of {{kelci}}. Judging from the conversation around it, the game seems to have rules of \"one person draws a picture, and others try to guess what gismu it represents\", and it is played on skribbl.io.",
+                                "note": "A rare occasion of an event being in the x<sub>2</sub> of {{kelci}}. The game is played on skribbl.io (judging from the conversation around it).",
+                                "message-link": "https://discord.com/channels/230498134843850762/230498134843850762/639608848230907924",
+                                "timestamp": "2019-11-01",
                                 "source": "jbobratca chatlog"
                             },
                             {
@@ -21766,10 +21969,8 @@
         "definition": [
             {
                 "selmaho": "UI6",
+                "head": "Discursive: indicates textual/linguistic/metalinguistic confusion.",
                 "meaning": [
-                    {
-                        "exp": "Discursive: indicates textual/linguistic/metalinguistic confusion."
-                    },
                     {
                         "exp": "Said when the speaker fails to make sense of the text received because of grammaitcal errors, unfamiliar grammatical structures or unfamiliar expressions/words.",
                         "example": [
@@ -21779,6 +21980,8 @@
                                 "source-id": "rolj",
                                 "speaker": "melody!, Lucilla",
                                 "note": "The first sentence is ungrammatical under CLL/BPFK Lojban, and means literally \"[It's] the fact that it is [an act of] deceiving\" under jboponei, although it's unclear if it's the intended meaning.",
+                                "message-link": "https://discord.com/channels/771781383361921024/771818560162496553/1081366009316909056",
+                                "timestamp": "2023-03-04",
                                 "source": "roljbogu'e chatlog"
                             },
                             {
@@ -21786,6 +21989,8 @@
                                 "english": "— Are you Basque? <br>— No, but I'm learning <i>skara</i> &lt;3 I'm not fluent <br>— \"skara\"{{?}} Do you mean \"skari\"?",
                                 "source-id": "rolj",
                                 "speaker": "Haze, la piier",
+                                "timestamp": "2022-10-23",
+                                "message-link": "https://discord.com/channels/771781383361921024/771782453224013864/1033514773184266301",
                                 "source": "roljbogu'e chatlog"
                             },
                             {
@@ -21793,6 +21998,8 @@
                                 "english": "— Today, I received an 2×2×2×2-cube puzzle by mail :D <br>— 2×2×2×2{{?}} Is it a four-dimensional cube?",
                                 "source-id": "rolj",
                                 "speaker": "la ziren, qimar",
+                                "message-link": "https://discord.com/channels/771781383361921024/771782464548896821/1289782052622962740",
+                                "timestamp": "2024-09-29",
                                 "source": "roljbogu'e chatlog"
                             }
                         ]
@@ -22108,6 +22315,8 @@
                                 "english": "Is it that (I slightly believe) the flies are so small {{the reason that flyswatters aren't useful}}?",
                                 "source-id": "rolj",
                                 "speaker": "niftg",
+                                "message-link": "https://discord.com/channels/771781383361921024/771782464548896821/1277984807334318080",
+                                "timestamp": "2024-08-27",
                                 "source": "roljbogu'e chatlog"
                             }
                         ]
@@ -23485,6 +23694,8 @@
                                 "note": "\"Not Important\" is the name of the person greeted. Note the {{ku}} in this expression: it closes the name. if the {{ku}} wasn't there the name becomes {{na'e vajni noi je'a vajni}}, in which the relative clause becomes part of the name.",
                                 "source-id": "rolj",
                                 "speaker": "Lucilla",
+                                "message-link": "https://discord.com/channels/771781383361921024/771783577658064927/1057293278317391902",
+                                "timestamp": "2022-12-27",
                                 "source": "roljbogu'e chatlog"
                             },
                             {
@@ -23493,6 +23704,8 @@
                                 "note": "Specifically chosen to showcase cmevla chaining, where multiple cmevla in a row functions as a single name. Also note the answer parses differently in regards to CBM: with CBM {{.lukifer.kailus.delikatus. no'u la .yu'orb.}} is a name; without CBM {{no'u la .yu'orb.}} is a relative phrase of {{la .lukifer.kailus.delikatus.}} signifying the equivalence between them. Also note {{yu'orb}} is not a standard Lojban cmevla because of the {{y}}.",
                                 "source-id": "rolj",
                                 "speaker": "la nalvai, la ilmen",
+                                "message-link": "https://discord.com/channels/771781383361921024/1304486402418937931/1342056174534791249",
+                                "timestamp": "2025-02-20",
                                 "source": "roljbogu'e chatlog"
                             }
                         ]
@@ -23515,6 +23728,8 @@
                                 "source-id": "jbob",
                                 "speaker": "la solpa'i",
                                 "note": "\"Seven Ways to Say 'I Love You'\" refers to <a href=\"https://pastebin.com/raw/qmE06Tm0\">a set of seven sentences in Toaq</a>. The quote is from June 2017, so the Toaq is supposedly not too distant from that.",
+                                "message-link": "https://discord.com/channels/230498134843850762/230498134843850762/320667007559270412",
+                                "timestamp": "2017-06-04",
                                 "source": "jbobratca chatlog"
                             }
                         ]
@@ -24662,6 +24877,8 @@
                                 "english": "Obviously I don't use all possible Lojban grammar equally, which are infinite, {{isn't it hard to understand?}}",
                                 "source-id": "jbob",
                                 "speaker": "la lunbe",
+                                "message-link": "https://discord.com/channels/230498134843850762/230498134843850762/886153261546082304",
+                                "timestamp": "2021-09-11",
                                 "source": "jbobratca chatlog"
                             }
                         ]
@@ -26260,6 +26477,8 @@
                                 "source-id": "rolj",
                                 "speaker": "la uakci",
                                 "note": "The main selbri, {{clira mapti}}, translated literally to \"early-suitable\", which is taken to be \"be early enough to be suitable\" in the translation given above.",
+                                "timestamp": "2021-10-24",
+                                "message-link": "https://discord.com/channels/771781383361921024/901453524926332989/901858890910695454",
                                 "source": "roljbogu'e chatlog"
                             }
                         ]
@@ -26898,6 +27117,8 @@
                                 "english": "&mdash; It's grayish blue now. It's {{beautiful}} to me. Is your sky {{beautiful}} to you? <br>&mdash; It's {{beautiful}} to me in that it's blue without clouds.",
                                 "source-id": "rolj",
                                 "speaker": "la lunbe, niftg",
+                                "message-link": "https://discord.com/channels/771781383361921024/779079939462922270/1359024000784793743",
+                                "timestamp": "2025-04-08",
                                 "source": "roljbogu'e chatlog"
                             },
                             {
@@ -26905,6 +27126,8 @@
                                 "english": "I think every language {{is beautiful in some ways}}.",
                                 "source-id": "rolj",
                                 "speaker": "la xrula",
+                                "timestamp": "2024-04-25",
+                                "message-link": "https://discord.com/channels/771781383361921024/779079939462922270/1232787491774529536",
                                 "source": "roljbogu'e chatlog"
                             },
                             {
@@ -26912,6 +27135,8 @@
                                 "english": "But I {{find}} your very deep voice {{beautiful}}.",
                                 "source-id": "rolj",
                                 "speaker": "la janbe",
+                                "timestamp": "2024-02-22",
+                                "message-link": "https://discord.com/channels/771781383361921024/771782464548896821/1209979216502980638",
                                 "source": "roljbogu'e chatlog"
                             }
                         ]
@@ -27411,6 +27636,8 @@
                                 "english": "Varik said {{something mildly similar-looking}}.",
                                 "source-id": "rolj",
                                 "speaker": "la varik",
+                                "message-link": "https://discord.com/channels/771781383361921024/771782814986272778/1163275782274162799",
+                                "timestamp": "2023-10-16",
                                 "source": "roljbogu'e chatlog"
                             },
                             {
@@ -28560,6 +28787,8 @@
                                 "english": "I dislike template websites in general, {{so [I] build something unique}}.",
                                 "source-id": "rolj",
                                 "speaker": "latkerlo",
+                                "message-link": "https://discord.com/channels/771781383361921024/771782618856947752/1043999739915546734",
+                                "timestamp": "2022-11-21",
                                 "source": "roljbogu'e chatlog"
                             }
                         ]
@@ -28827,6 +29056,8 @@
                                 "source-id": "rolj",
                                 "speaker": "la nalvai",
                                 "note": "To be overwhelmed = To feel an extreme emotion",
+                                "message-link": "https://discord.com/channels/771781383361921024/1304486402418937931/1357244197383438399",
+                                "timestamp": "2025-04-03",
                                 "source": "roljbogu'e chatlog"
                             }
                         ]
@@ -29234,6 +29465,8 @@
                                 "note": "The {{so'i cnima'o}} is raised with {{jai}} since {{nandu}} takes abstraction (event, etc.) as x<sub>1</sub>.",
                                 "source-id": "rolj",
                                 "speaker": "la lunbe",
+                                "message-link": "https://discord.com/channels/771781383361921024/771782826558357505/1104997431894081628",
+                                "timestamp": "2023-05-08",
                                 "source": "roljbogu'e chatlog"
                             },
                             {
@@ -29250,6 +29483,8 @@
                                 "english": "I assume it{{'s hard when}} it's ambiguous.",
                                 "source-id": "rolj",
                                 "speaker": "la melmi",
+                                "message-link": "https://discord.com/channels/771781383361921024/771782464548896821/1111760225117159474",
+                                "timestamp": "2023-05-27",
                                 "source": "roljbogu'e chatlog"
                             }
                         ]
@@ -30807,9 +31042,9 @@
             },
             {
                 "selmaho": "I",
+                "variation": "ajbo",
                 "meaning": [
                     {
-                        "variation": "ajbo",
                         "exp": "Equivalent to {{.i ko'oi}}. Starts a sentence that is a command.",
                         "note": "Adopting ajbo prerequires adopting JACU. A sentence started with {{.o}} often contains a {{ko}}, although it is not necessary. {{.o nai}} is neither defined or used.",
                         "example": [
@@ -30818,6 +31053,8 @@
                                 "english": "Yeah, {{spend time}} with your family!",
                                 "source-id": "rolj",
                                 "speaker": "la ziren",
+                                "message-link": "https://discord.com/channels/771781383361921024/771782464548896821/838830325173846016",
+                                "timestamp": "2021-05-04",
                                 "source": "roljbogu'e chatlog"
                             }
                         ]
@@ -30865,6 +31102,8 @@
                                 "source-id": "rolj",
                                 "note": "Said in response to a compliment about the speaker's ability to recall rafsi quickly.",
                                 "speaker": "niftg",
+                                "timestamp": "2021-05-06",
+                                "message-link": "https://discord.com/channels/771781383361921024/771782618856947752/839568205659504741",
                                 "source": "roljbogu'e chatlog"
                             }
                         ]
@@ -30878,6 +31117,8 @@
                                 "english": "Oops, {{shame on me}}, I dropped the \"ke\". Xekce me please?",
                                 "source-id": "rolj",
                                 "speaker": "la janbe",
+                                "timestamp": "2023-02-04",
+                                "message-link": "https://discord.com/channels/771781383361921024/771782866233065472/1071452734290661466",
                                 "source": "roljbogu'e chatlog"
                             }
                         ]
@@ -31968,6 +32209,8 @@
                                 "english": "Is there a text of {{the verse about this music video}}?",
                                 "source-id": "rolj",
                                 "speaker": "Avaxar",
+                                "message-link": "https://discord.com/channels/771781383361921024/771823364519755786/1291434064145940570",
+                                "timestamp": "2024-10-04",
                                 "source": "roljbogu'e chatlog"
                             },
                             {
@@ -32050,6 +32293,8 @@
                                 "source-id": "rolj",
                                 "speaker": "la srasu",
                                 "note": "This examlpe is in JACU. To convert it to CLL/BPFK Lojban, substitute {{jecu}} with {{gi'e}}.",
+                                "message-link": "https://discord.com/channels/771781383361921024/873980119742545980/900115440225882142",
+                                "timestamp": "2021-10-20",
                                 "source": "roljbogu'e chatlog"
                             },
                             {
@@ -33157,6 +33402,8 @@
                                 "english": "I really {{enjoy}} composing music.",
                                 "source-id": "rolj",
                                 "speaker": "la janbe",
+                                "message-link": "https://discord.com/channels/771781383361921024/771783577658064927/1094759080498843718",
+                                "timestamp": "2023-04-10",
                                 "source": "roljbogu'e chatlog"
                             }
                         ]
@@ -33219,15 +33466,16 @@
             },
             {
                 "selmaho": "LOhOI",
+                "variation": "jboponei",
                 "meaning": [
                     {
-                        "variation": "jboponei",
                         "exp": "Equivalent to {{lo su'u}}. Terminate with {{nei}} or {{tei}}.",
                         "example": [
                             {
                                 "lojban": ".i mi djuno {{po}} zanfu'a ri",
                                 "english": "I know {{[how]}} lucky they are.",
                                 "source-id": "koid",
+                                "todo": "Add more illustrative examples",
                                 "source": "koi do mi na",
                                 "author": "Mèremim",
                                 "link": "https://meremim.bandcamp.com/album/koi-do-mi-na"
@@ -33423,6 +33671,8 @@
                                 "source-id": "jbob",
                                 "speaker": "la lalxu",
                                 "note": "The only usage I can find for {{ponse}}'s x<sub>3</sub>.",
+                                "message-link": "https://discord.com/channels/230498134843850762/230498134843850762/469393381836193802",
+                                "timestamp": "2018-07-19",
                                 "source": "jbobratca chatlog"
                             }
                         ]
@@ -35564,6 +35814,8 @@
                                 "source-id": "rolj",
                                 "speaker": "la janbe",
                                 "noshownote": "changed {{jinka}} to {{jinku}} - I think it's a typo",
+                                "timestamp": "2021-06-03",
+                                "message-link": "https://discord.com/channels/771781383361921024/771790685544120390/850035415385636895",
                                 "source": "roljbogu'e chatlog"
                             }
                         ]
@@ -36534,6 +36786,8 @@
                                 "english": "{{To be precise}}, I want someone I can speak Lojban to IRL.",
                                 "source-id": "rolj",
                                 "speaker": "la tirprij",
+                                "timestamp": "2023-08-20",
+                                "message-link": "https://discord.com/channels/771781383361921024/771790685544120390/1142811034336378910",
                                 "source": "roljbogu'e chatlog"
                             },
                             {
@@ -38741,6 +38995,8 @@
                                 "english": "{{A computer}} can describe the grammatical structure.",
                                 "source-id": "rolj",
                                 "speaker": "la katador",
+                                "message-link": "https://discord.com/channels/771781383361921024/1304486337319272560/1353609653761609728",
+                                "timestamp": "2025-03-24",
                                 "source": "roljbogu'e chatlog"
                             },
                             {
@@ -38750,6 +39006,8 @@
                                 "speaker": "la srasu",
                                 "note": "This sentence is clipped from a much longer sentence. This sentence is in JACU. To convert it to CLL Lojban, substitute {{je}} with {{.e}}.",
                                 "noshownote": "The {{ka'e}} confuses me a little... I guess it's for specialized hardware for games that \"can become a computer\" by hacking?",
+                                "timestamp": "2023-03-25",
+                                "message-link": "https://discord.com/channels/771781383361921024/873980119742545980/1089206251013030011",
                                 "source": "roljbogu'e chatlog"
                             },
                             {
@@ -38758,6 +39016,8 @@
                                 "source-id": "jbob",
                                 "speaker": "la .zi.",
                                 "note": "{{samtcifi'i}} expands to {{skami tutci finti}}, Creating computer-tools = programming.",
+                                "timestamp": "2020-03-07",
+                                "message-link": "https://discord.com/channels/230498134843850762/230498134843850762/685676358113951766",
                                 "source": "jbobratca chatlog"
                             }
                         ]
@@ -39390,6 +39650,8 @@
                                 "english": "What's {{the meaning of}} {ta} in the last sentence?",
                                 "source-id": "rolj",
                                 "speaker": "la nalvai",
+                                "timestamp": "2025-03-16",
+                                "message-link": "https://discord.com/channels/771781383361921024/1304486337319272560/1350616155961688104",
                                 "source": "roljbogu'e chatlog"
                             },
                             {
@@ -39398,6 +39660,8 @@
                                 "source-id": "rolj",
                                 "speaker": "la janbe",
                                 "note": "The {{jai}} raises the quote, {{lo'u do cinmo ma doi ro do le'u}}, into an abstraction so it can go into the x<sub>1</sub> place.",
+                                "timestamp": "2025-06-04",
+                                "message-link": "https://discord.com/channels/771781383361921024/1304486402418937931/1379559370261532692",
                                 "source": "roljbogu'e chatlog"
                             },
                             {
@@ -40379,6 +40643,8 @@
                                 "english": "It mentions a type of Lojbanists who think Lojban is only for talking about grammar or correcting {{[other's] mistakes}}.",
                                 "source-id": "rolj",
                                 "speaker": "Lucilla",
+                                "timestamp": "2021-06-23",
+                                "message-link": "https://discord.com/channels/771781383361921024/799765456566878258/857014362756612096",
                                 "source": "roljbogu'e chatlog"
                             },
                             {
@@ -40387,6 +40653,8 @@
                                 "source-id": "jbob",
                                 "speaker": "la kanba",
                                 "note": "The previous sentence is the same speaker saying {{.i do tadni ma}}. Interestingly, {{tadni}} doesn't have its x<sub>3</sub> defined, so it's unclear what their intended meaning is.",
+                                "timestamp": "2022-07-25",
+                                "message-link": "https://discord.com/channels/230498134843850762/234028305374904320/1001026234165252107",
                                 "source": "jbobratca chatlog"
                             },
                             {
@@ -40775,6 +41043,8 @@
                                 "english": "Please examine {{my suggestions}} about the CLL.",
                                 "source-id": "jbob",
                                 "speaker": "la gleki",
+                                "message-link": "https://discord.com/channels/230498134843850762/230498134843850762/331853433755795456",
+                                "timestamp": "2017-07-05",
                                 "source": "jbobratca chatlog"
                             },
                             {
@@ -40782,6 +41052,8 @@
                                 "english": "The (stereotypical) Americans dislike {{being advised}} /j (I just learned this /gen)",
                                 "source-id": "jbob",
                                 "speaker": "la kanba",
+                                "timestamp": "2021-10-13",
+                                "message-link": "https://discord.com/channels/230498134843850762/230498134843850762/897563486454943744",
                                 "source": "jbobratca chatlog"
                             }
                         ]
@@ -41430,6 +41702,8 @@
                                 "english": "{{What subject}} is the exam about?",
                                 "source-id": "rolj",
                                 "speaker": "la janbe",
+                                "timestamp": "2021-04-18",
+                                "message-link": "https://discord.com/channels/771781383361921024/771782453224013864/833185226414620694",
                                 "source": "roljbogu'e chatlog"
                             }
                         ]
@@ -41535,6 +41809,8 @@
                                 "source-id": "rolj",
                                 "speaker": "la melmi",
                                 "noshownote": "The original has {{karsnu}} instead of {{karsna}}, which I take as a typo.",
+                                "message-link": "https://discord.com/channels/771781383361921024/771782464548896821/1109360326337642516",
+                                "timestamp": "2023-05-20",
                                 "source": "roljbogu'e chatlog"
                             }
                         ]
@@ -42009,6 +42285,8 @@
                                 "english": "Taking care of someone is indeed {{tiring}}.",
                                 "source-id": "rolj",
                                 "speaker": "niftg",
+                                "timestamp": "2025-02-23",
+                                "message-link": "https://discord.com/channels/771781383361921024/1304486402418937931/1343214684580347905",
                                 "source": "roljbogu'e chatlog"
                             }
                         ]
@@ -43258,6 +43536,8 @@
                                 "source-id": "rolj",
                                 "speaker": "la janbe",
                                 "contributor": "la ninlat.",
+                                "message-link": "https://discord.com/channels/771781383361921024/1304486371183951884/1339457100128063488",
+                                "timestamp": "2025-02-13",
                                 "source": "roljbogu'e chatlog"
                             },
                             {
@@ -43267,6 +43547,8 @@
                                 "speaker": "la kanis",
                                 "note": "Note that the {{toi}} in this sentence is elidable, as the content in the parentheses cannot take the second selbri introduced by {{cu}}.",
                                 "contributor": "la ninlat.",
+                                "message-link": "https://discord.com/channels/771781383361921024/1304486402418937931/1335942321182609460",
+                                "timestamp": "2025-02-03",
                                 "source": "roljbogu'e chatlog"
                             },
                             {
@@ -43921,6 +44203,8 @@
                                 "source-id": "jbob",
                                 "speaker": "Stephen Dedalus",
                                 "note": "The only usage I can find for {{troci}}'s x<sub>3</sub>.",
+                                "message-link": "https://discord.com/channels/230498134843850762/234028305374904320/459236305570889729",
+                                "timestamp": "2018-06-21",
                                 "source": "jbobratca chatlog"
                             }
                         ]
@@ -43962,14 +44246,18 @@
                                 "english": "{{Strong}} as in having powerful muscles?",
                                 "source-id": "jbob",
                                 "speaker": "la gleki",
+                                "timestamp": "2019-12-17",
+                                "message-link": "https://discord.com/channels/230498134843850762/230498134843850762/656205361157505025",
                                 "source": "jbobratca chatlog"
                             },
                             {
                                 "lojban": ".i {{tsali}} lo ka gradu kei lo sarcu be lo nu jdenoi fi lo tsunami",
-                                "english": "It{{'s so strong}} in magnitude that it met the threshold for tsumani alerts.",
+                                "english": "It{{'s so strong}} in magnitude that it met the threshold for tsunami alerts.",
                                 "source-id": "rolj",
                                 "speaker": "bancip",
                                 "note": "The only example I can find for {{tsali}}'s x<sub>3</sub>.",
+                                "timestamp": "2023-12-04",
+                                "message-link": "https://discord.com/channels/771781383361921024/771782464548896821/1180988477177860117",
                                 "source": "roljbogu'e chatlog"
                             }
                         ]
@@ -44498,6 +44786,8 @@
                                 "source-id": "rolj",
                                 "speaker": "la ziren",
                                 "contributor": "la ninlat.",
+                                "message-link": "https://discord.com/channels/771781383361921024/1304486337319272560/1370106243238072431",
+                                "timestamp": "2025-05-09",
                                 "source": "roljbogu'e chatlog"
                             }
                         ]
@@ -44512,6 +44802,8 @@
                                 "source-id": "rolj",
                                 "speaker": "la srasu, la janbe",
                                 "note": "Nobody submitting stories means competitors (who ends up submitting their stories) will have a better chance at winning (gain), but there will be less Lojban content to be produced overall (loss).",
+                                "message-link": "https://discord.com/channels/771781383361921024/771782826558357505/823396198178095126",
+                                "timestamp": "2021-03-22",
                                 "source": "roljbogu'e chatlog"
                             }
                         ]
@@ -44907,6 +45199,8 @@
                                 "english": "Risk of death is {{important in}} that it makes RPG players fear.",
                                 "source-id": "rolj",
                                 "speaker": "AstroMacGuffin",
+                                "timestamp": "2021-11-15",
+                                "message-link": "https://discord.com/channels/771781383361921024/771782618856947752/909784234187698186",
                                 "source": "roljbogu'e chatlog"
                             }
                         ]
@@ -46941,6 +47235,8 @@
                                 "note": "\"scans properly\" = \"correct in that the syllables makes a rhythm\".",
                                 "source-id": "rolj",
                                 "speaker": "Magnap",
+                                "message-link": "https://discord.com/channels/771781383361921024/771823364519755786/1279507090217500867",
+                                "timestamp": "2024-09-01",
                                 "source": "roljbogu'e chatlog"
                             },
                             {
@@ -47724,6 +48020,8 @@
                                 "english": "I'm dumb and {{bad at being a Lojbanist}}.",
                                 "source-id": "rolj",
                                 "speaker": "la bisri'e",
+                                "timestamp": "2023-05-11",
+                                "message-link": "https://discord.com/channels/771781383361921024/771823364519755786/1106249271365349376",
                                 "source": "roljbogu'e chatlog"
                             }
                         ]
@@ -47919,6 +48217,8 @@
                                 "source-id": "rolj",
                                 "speaker": "la ziren",
                                 "note": "This example is in tcekitau. Substitute the {{tau}} with {{tu'a}} to convert it into CLL/BPFK Lojban.",
+                                "message-link": "https://discord.com/channels/771781383361921024/771782464548896821/802061779424510003",
+                                "timestamp": "2021-01-22",
                                 "source": "roljbogu'e chatlog"
                             },
                             {
@@ -48381,10 +48681,12 @@
                             {
                                 "lojban": ".i mi ca {{mabla za'a}} ciska fo lo batkyfoi",
                                 "english": "{{I see}} I'm typing {{badly}} with my keyboard now.",
-                                "source-id": "rolj",
+                                "source-id": "jbob",
                                 "speaker": "la srasu",
                                 "note": "The {{za'a}} applies directly to {{mabla}}, which emphasizes that it is the badness (of typing) that is observed.",
-                                "source": "roljbogu'e chatlog"
+                                "message-link": "https://discord.com/channels/230498134843850762/234028305374904320/565018298702495748",
+                                "timestamp": "2019-04-09",
+                                "source": "jbobratca chatlog"
                             },
                             {
                                 "lojban": ".i {{za'a dai}} mi jai katna lo plise lo re mei",
@@ -48922,6 +49224,8 @@
                                 "source-id": "jbob",
                                 "speaker": "la srasu",
                                 "note": "This sentence is in gadganzu. {{le'i}} functions as a demonstrative article (think of it as pointing to a referent) here.",
+                                "timestamp": "2020-06-14",
+                                "message-link": "https://discord.com/channels/230498134843850762/233338740154564609/721413499871559700",
                                 "source": "jbobratca chatlog"
                             }
                         ]
@@ -49052,12 +49356,12 @@
                     },
                     {
                         "context": "When followed by a sumti",
-                        "variation": "CLL, BPFK",
                         "exp": "mark the following sumti as the unbounded time duration of the event.",
                         "note": "Although specified by <em>both</em> the CLL and the BPFK, this usage is unattested. See below."
                     },
                     {
                         "context": "When followed by a sumti",
+                        "variation": "Community",
                         "exp": "During the entirety of ...",
                         "example": [
                             {
@@ -49065,6 +49369,8 @@
                                 "english": "I {{always}} wanted to visit it {{in my whole life}}.",
                                 "source-id": "rolj",
                                 "speaker": "qimar",
+                                "timestamp": "2024-02-08",
+                                "message-link": "https://discord.com/channels/771781383361921024/771782618856947752/1205029979482497044",
                                 "source": "roljbogu'e chatlog"
                             }
                         ]
@@ -49327,6 +49633,8 @@
                                 "english": "For now I'm {{watching}} the video [series] \"Andor\".",
                                 "source-id": "rolj",
                                 "speaker": "qimar",
+                                "message-link": "https://discord.com/channels/771781383361921024/779079939462922270/1366664795738214482",
+                                "timestamp": "2025-04-29",
                                 "source": "roljbogu'e chatlog"
                             }
                         ]
@@ -49409,6 +49717,8 @@
                                 "source-id": "rolj",
                                 "speaker": "la srasu, la evis",
                                 "note": "The middle sentence is in JACU. Substitute {{ji}} with {{je'i}} to convert it to CLL/BPFK Lojban.",
+                                "timestamp": "2025-04-01",
+                                "message-link": "https://discord.com/channels/771781383361921024/1304486402418937931/1356452382493380821",
                                 "source": "roljbogu'e chatlog"
                             }
                         ]
@@ -49939,6 +50249,8 @@
                                 "english": "Attitudinals are also part of English, like {{\"lol\"}} lol",
                                 "source-id": "rolj",
                                 "speaker": "la srasu",
+                                "message-link": "https://discord.com/channels/771781383361921024/771783577658064927/1255722104498946102",
+                                "timestamp": "2024-06-27",
                                 "source": "roljbogu'e chatlog"
                             }
                         ]
@@ -50724,6 +51036,8 @@
                                 "source-id": "rolj",
                                 "speaker": "Lucilla",
                                 "note": "This example is in jboponei.",
+                                "message-link": "https://discord.com/channels/771781383361921024/771782464548896821/1060986056696156160",
+                                "timestamp": "2023-01-07",
                                 "source": "roljbogu'e chatlog"
                             },
                             {
@@ -50731,6 +51045,8 @@
                                 "english": "{{Hmm}} I disagree, for [expressing] strong emotions \"ge'esai\" is more appropriate.",
                                 "source-id": "rolj",
                                 "speaker": "la uakci",
+                                "message-link": "https://discord.com/channels/771781383361921024/771782866233065472/772759845664849921",
+                                "timestamp": "2020-11-02",
                                 "source": "roljbogu'e chatlog"
                             },
                             {
@@ -50738,6 +51054,8 @@
                                 "english": "{{Hmm}} seems that I cannot be with [you]",
                                 "source-id": "rolj",
                                 "speaker": "la ziren",
+                                "message-link": "https://discord.com/channels/771781383361921024/771782464548896821/847583135197298688",
+                                "timestamp": "2021-05-28",
                                 "source": "roljbogu'e chatlog"
                             }
                         ]
@@ -50777,6 +51095,8 @@
                                 "english": "You {{should}} say \"la .lojban.\" or \"lo jbobau\".",
                                 "source-id": "rolj",
                                 "speaker": "la lunra",
+                                "message-link": "https://discord.com/channels/771781383361921024/771782630814515200/1174208422313480202",
+                                "timestamp": "2023-11-15",
                                 "source": "roljbogu'e chatlog"
                             },
                             {
@@ -50784,6 +51104,8 @@
                                 "english": "Varik {{thinks}} that Mastodon and some others {{should}} be used more by Lojbanists.",
                                 "source-id": "rolj",
                                 "speaker": "la varik",
+                                "timestamp": "2025-05-24",
+                                "message-link": "https://discord.com/channels/771781383361921024/1304486402418937931/1375568395524640819",
                                 "source": "roljbogu'e chatlog"
                             }
                         ]
@@ -50818,6 +51140,8 @@
                                 "source-id": "rolj",
                                 "speaker": "la janbe",
                                 "note": "Note the air quotes in the translation. This sentence is in tcekitau + jboponei. The equivalent CLL-compatible expression is {{... lo <u>du'u</u> na vajni fa <u>lo su'u</u> lo valsi cu tordu}}.",
+                                "message-link": "https://discord.com/channels/771781383361921024/771782866233065472/783526965969551410",
+                                "timestamp": "2020-12-02",
                                 "source": "roljbogu'e chatlog"
                             },
                             {
@@ -50825,6 +51149,8 @@
                                 "english": "You're now {{criticizing [my] English}}!",
                                 "source-id": "jbob",
                                 "speaker": "yeet kitty",
+                                "timestamp": "2024-06-10",
+                                "message-link": "https://discord.com/channels/230498134843850762/230498134843850762/1249523008385716295",
                                 "source": "jbobratca chatlog"
                             },
                             {
@@ -50832,6 +51158,8 @@
                                 "english": "Yeah, I agree with Zearen. BTW, mlatu44: Don't care about {{the xekce}} here! (You) making errors is more important.",
                                 "source-id": "jbob",
                                 "speaker": "qimar",
+                                "message-link": "https://discord.com/channels/230498134843850762/230498134843850762/1331482721389777020",
+                                "timestamp": "2025-01-22",
                                 "source": "jbobratca chatlog"
                             }
                         ]
@@ -50874,6 +51202,8 @@
                                 "source-id": "rolj",
                                 "speaker": "la ziren",
                                 "noshownote": "{{loi ro ciksi}} would be \"all the explainers\"...",
+                                "message-link": "https://discord.com/channels/771781383361921024/771782618856947752/821410351748481056",
+                                "timestamp": "2021-03-16",
                                 "source": "roljbogu'e chatlog"
                             }
                         ]
@@ -50897,6 +51227,8 @@
                                 "source-id": "rolj",
                                 "speaker": "la ziren",
                                 "note": "This utterance is in tcekitau ({{du}} for CLL {{du'u}}) and ajbo, see the entry for {{.e}} for more explanation. The {{sy.}} refers to {{le do <u>s</u>muni}}.",
+                                "timestamp": "2021-02-25",
+                                "message-link": "https://discord.com/channels/771781383361921024/771782826558357505/814314664388722718",
                                 "source": "roljbogu'e chatlog"
                             }
                         ]

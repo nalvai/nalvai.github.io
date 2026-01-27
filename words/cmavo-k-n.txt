@@ -6,7 +6,6 @@
     -definition:
         -selmaho CAhA
         -meaning:
-            -variation CLL, BPFK
             -exp Innate capability: signifies an innate or potential capability that may or may not be present at the moment due to certain conditions.
             -note Innate capability is unrelated to the condition present at the moment. From BPFK Sections (without the Lojban parts): "[B]irds (except for few species) can fly but among them there are some that cannot do so now due to being crippled, too young, confined in small cage, etc."
             -example:
@@ -19,6 +18,7 @@
                 -note The {{co'a}} follows the BPFK interpretation.
                 -source-id pram
         -meaning:
+            -variation Community
             -exp Actual capability: signifies capability present at the moment.
             -note Under this meaning, {{x<sub>1</sub> ka'e SELBRI x<sub>2</sub> x<sub>3</sub> ...}} is usually synonymous with {{x<sub>1</sub> kakne lo ka (ce'u) SELBRI x<sub>2</sub> x<sub>3</sub> ...}}.
             -example:
@@ -26,12 +26,14 @@
                 -english The big person made it so that the small rabbit {{was unable to leave}}.
                 -source-id melb
         -meaning:
+            -variation Compatible
             -exp Possibility: signifies the bridi is possible to be true.
             -example:
                 -lojban {{ka'e ku}} lo prurai dinsauru cu cti'omni bu'u lo berti bolxadba
                 -english First dinosaurs {{may}} have been omnivores in the north hemisphere
                 -source-id firs
         -meaning:
+            -variation Compatible
             -context When followed by a sumti
             -exp is possible under condition ...
             -note Defined in the Lojban definition of {{ka'e}} on jbovlaste, but isn't attested.
@@ -65,8 +67,7 @@
     -type cmavo
     -definition:
         -selmaho UI6
-        -meaning:
-            -exp Discursive: indicates textual/linguistic/metalinguistic confusion. 
+        -head Discursive: indicates textual/linguistic/metalinguistic confusion. 
         -meaning:
             -exp Said when the speaker fails to make sense of the text received because of grammaitcal errors, unfamiliar grammatical structures or unfamiliar expressions/words.
             -example:
@@ -75,16 +76,22 @@
                 -source-id rolj
                 -speaker melody!, Lucilla
                 -note The first sentence is ungrammatical under CLL/BPFK Lojban, and means literally "[It's] the fact that it is [an act of] deceiving" under jboponei, although it's unclear if it's the intended meaning.
+                -message-link https://discord.com/channels/771781383361921024/771818560162496553/1081366009316909056
+                -timestamp 2023-03-04
             -example:
                 -lojban — xu do skalduna? <br>— .i na go'i .i ku'i mi ca'o cilre lo skara .iu .i mi na'e certu <br>— skara {{ki'a}} .i skari xu?
                 -english — Are you Basque? <br>— No, but I'm learning <i>skara</i> &lt;3 I'm not fluent <br>— "skara"{{?}} Do you mean "skari"?
                 -source-id rolj
                 -speaker Haze, la piier
+                -timestamp 2022-10-23
+                -message-link https://discord.com/channels/771781383361921024/771782453224013864/1033514773184266301
             -example:
                 -lojban — .i ca lo cabdei .i zo'ei mi mo'u te mrilu lo re pi'e re pi'e re pi'e re mei kubli se namkei vau .uisai.u'e <br>— {{ki'a}} re pi'e re pi'e re pi'e re .i xu ta vonselcimde kubli
                 -english — Today, I received an 2×2×2×2-cube puzzle by mail :D <br>— 2×2×2×2{{?}} Is it a four-dimensional cube?
                 -source-id rolj
                 -speaker la ziren, qimar
+                -message-link https://discord.com/channels/771781383361921024/771782464548896821/1289782052622962740
+                -timestamp 2024-09-29
         -meaning:
             -exp Said when the speaker encounters a word or a grammatical construction whose referent is unknown.
             -example:
@@ -119,6 +126,8 @@
                 -english Is it that (I slightly believe) the flies are so small {{the reason that flyswatters aren't useful}}?
                 -source-id rolj
                 -speaker niftg
+                -message-link https://discord.com/channels/771781383361921024/771782464548896821/1277984807334318080
+                -timestamp 2024-08-27
 
 -entry:
     -word la
@@ -135,12 +144,16 @@
                 -note "Not Important" is the name of the person greeted. Note the {{ku}} in this expression: it closes the name. if the {{ku}} wasn't there the name becomes {{na'e vajni noi je'a vajni}}, in which the relative clause becomes part of the name.
                 -source-id rolj
                 -speaker Lucilla
+                -message-link https://discord.com/channels/771781383361921024/771783577658064927/1057293278317391902
+                -timestamp 2022-12-27
             -example:
                 -lojban &mdash; .i ma jmina le jugbau jufra le kibypapri<br> &mdash; {{la .lukifer.kailus.delikatus.}} no'u {{la .yu'orb.}}
                 -english &mdash; Who added the Chiese sentences to the webpage?<br> &mdash; {{Lucifer Caelius Delicatus}} a.k.a. {{Yuorb}}
                 -note Specifically chosen to showcase cmevla chaining, where multiple cmevla in a row functions as a single name. Also note the answer parses differently in regards to CBM: with CBM {{.lukifer.kailus.delikatus. no'u la .yu'orb.}} is a name; without CBM {{no'u la .yu'orb.}} is a relative phrase of {{la .lukifer.kailus.delikatus.}} signifying the equivalence between them. Also note {{yu'orb}} is not a standard Lojban cmevla because of the {{y}}.
                 -source-id rolj
                 -speaker la nalvai, la ilmen
+                -message-link https://discord.com/channels/771781383361921024/1304486402418937931/1342056174534791249
+                -timestamp 2025-02-20
         -meaning:
             -context when used with an inner quantifier
             -variation CLL
@@ -157,6 +170,8 @@
                 -source-id jbob
                 -speaker la solpa'i
                 -note "Seven Ways to Say 'I Love You'" refers to <a href="https://pastebin.com/raw/qmE06Tm0">a set of seven sentences in Toaq</a>. The quote is from June 2017, so the Toaq is supposedly not too distant from that. 
+                -message-link https://discord.com/channels/230498134843850762/230498134843850762/320667007559270412
+                -timestamp 2017-06-04
 
 -entry:
     -word la'o
@@ -246,6 +261,8 @@
                 -english Obviously I don't use all possible Lojban grammar equally, which are infinite, {{isn't it hard to understand?}}
                 -source-id jbob
                 -speaker la lunbe
+                -message-link https://discord.com/channels/230498134843850762/230498134843850762/886153261546082304
+                -timestamp 2021-09-11
 
 -entry:
     -word lo'u
@@ -348,6 +365,8 @@
                 -english I dislike template websites in general, {{so [I] build something unique}}.
                 -source-id rolj
                 -speaker latkerlo
+                -message-link https://discord.com/channels/771781383361921024/771782618856947752/1043999739915546734
+                -timestamp 2022-11-21
         -meaning:
             -context {{te}} ~
             -exp Motive of person ...; Introduces an unnumbered sumti that plays the role of {{mukti}}'s x<sub>3</sub> in the sentence.

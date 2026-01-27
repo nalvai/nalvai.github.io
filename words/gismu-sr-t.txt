@@ -19,12 +19,16 @@
                 -english It mentions a type of Lojbanists who think Lojban is only for talking about grammar or correcting {{[other's] mistakes}}.
                 -source-id rolj
                 -speaker Lucilla
+                -timestamp 2021-06-23
+                -message-link https://discord.com/channels/771781383361921024/799765456566878258/857014362756612096
             -example:
                 -lojban .i .u'uru'e mi {{srera}} fi le nu dramau fa le nu cusku lu do tadni fi ma li'u
                 -english Oops, I {{made a mistake}}, saying "do tadni fi ma" would be more correct.
                 -source-id jbob
                 -speaker la kanba
                 -note The previous sentence is the same speaker saying {{.i do tadni ma}}. Interestingly, {{tadni}} doesn't have its x<sub>3</sub> defined, so it's unclear what their intended meaning is.
+                -timestamp 2022-07-25
+                -message-link https://discord.com/channels/230498134843850762/234028305374904320/1001026234165252107
             -example:
                 -lojban ni'o ky klasiko {{srera}} fo pa ky nupre be lo nu nonroi gasnu
                 -english He'd made the classic {{mistake}}, the one he'd sworn he'd never make.
@@ -47,11 +51,15 @@
                 -english Please examine {{my suggestions}} about the CLL.
                 -source-id jbob
                 -speaker la gleki
+                -message-link https://discord.com/channels/230498134843850762/230498134843850762/331853433755795456
+                -timestamp 2017-07-05
             -example:
                 -lojban .i zo'o to .ua zo'onai toi le'e merpre cu se tolpluka {{lo nu te stidi}}
                 -english The (stereotypical) Americans dislike {{being advised}} /j (I just learned this /gen)
                 -source-id jbob
                 -speaker la kanba
+                -timestamp 2021-10-13
+                -message-link https://discord.com/channels/230498134843850762/230498134843850762/897563486454943744
 
 
 -entry:
@@ -70,6 +78,8 @@
                 -english {{What subject}} is the exam about?
                 -source-id rolj
                 -speaker la janbe
+                -timestamp 2021-04-18
+                -message-link https://discord.com/channels/771781383361921024/771782453224013864/833185226414620694
 
 -entry:
     -word tatpi
@@ -91,6 +101,8 @@
                 -english Taking care of someone is indeed {{tiring}}.
                 -source-id rolj
                 -speaker niftg
+                -timestamp 2025-02-23
+                -message-link https://discord.com/channels/771781383361921024/1304486402418937931/1343214684580347905
 
 
 -entry:
@@ -232,6 +244,8 @@
                 -source-id jbob
                 -speaker Stephen Dedalus
                 -note The only usage I can find for {{troci}}'s x<sub>3</sub>.
+                -message-link https://discord.com/channels/230498134843850762/234028305374904320/459236305570889729
+                -timestamp 2018-06-21
 
 
 
@@ -252,10 +266,14 @@
                 -english {{Strong}} as in having powerful muscles?
                 -source-id jbob
                 -speaker la gleki
+                -timestamp 2019-12-17
+                -message-link https://discord.com/channels/230498134843850762/230498134843850762/656205361157505025
             -example:
                 -lojban .i {{tsali}} lo ka gradu kei lo sarcu be lo nu jdenoi fi lo tsunami
-                -english It{{'s so strong}} in magnitude that it met the threshold for tsumani alerts.
+                -english It{{'s so strong}} in magnitude that it met the threshold for tsunami alerts.
                 -source-id rolj
                 -speaker bancip
                 -note The only example I can find for {{tsali}}'s x<sub>3</sub>.
+                -timestamp 2023-12-04
+                -message-link https://discord.com/channels/771781383361921024/771782464548896821/1180988477177860117
 

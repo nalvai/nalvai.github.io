@@ -23,8 +23,8 @@
                 -source-id alic
     -definition:
         -selmaho I
+        -variation ajbo
         -meaning:
-            -variation ajbo
             -exp Equivalent to {{.i pau}}. Starts a sentence that is by default a question.
             -note Adopting ajbo prerequires adopting JACU. A sentence started with {{.a}} always contains a question marker ({{xu}}, {{ma}}, {{mo}} etc.) 
             -example:
@@ -32,14 +32,17 @@
                 -english Did you just finished your job{{?}}
                 -source-id rolj
                 -speaker la srasu
+                -timestamp 2022-01-19
+                -message-link https://discord.com/channels/771781383361921024/901453524926332989/933142376757743657
             -example:
                 -lojban {{.anai}} la loglan cu jbobau {{xu}} .i na go'i ni'i loka lujvo {{.a xu}} ku'i la loglan cu lojbo bangu
                 -english Is Loglan Lojban{{?}} It's not because of the lujvo [structure]. But is Loglan some kind of Lojban-ic language{{?}}
                 -source-id rolj
                 -speaker la melmi
                 -note The first sentence seems to be a question where the speaker is asking themselves or is expecting a negative answer, but it's hard to say for sure because there are no other instances of {{.anai}} in similar usage.
+                -timestamp 2023-05-18
+                -message-link https://discord.com/channels/771781383361921024/771782826558357505/1108510152971276489
         -meaning:
-            -variation ajbo
             -context ~ {{nai}}
             -exp Starts a response to a question.
             -example:
@@ -47,9 +50,10 @@
                 -english &mdash; How old are you (in years)? <br> &mdash; Twenty-seven.
                 -source-id rolj
                 -speaker la nonselcme, la srasu
-                -note The former sentence is compatible with CLL Lojban. The latter is in ajbo.
+                -note The former sentence is CLL/BPFK-compatible. The latter is in ajbo.
+                -timestamp 2021-07-14
+                -message-link https://discord.com/channels/771781383361921024/771782464548896821/864549331671187456
         -meaning:
-            -variation ajbo
             -context ~ {{nai}}
             -exp Starts a rhetorical question.
             -note This meaning is only attested once, making it a hapax. This usage is listed separately because this usage is mentioned (but not used) by other speakers.
@@ -59,6 +63,8 @@
                 -source-id rolj
                 -note This is the only instance of {{.a nai}} being used as a rhetorical question starter.
                 -speaker .kúblizel.
+                -timestamp 2021-03-22
+                -message-link https://discord.com/channels/771781383361921024/771783577658064927/823341531489501246
 
 
 -entry:
@@ -69,6 +75,7 @@
         -selmaho UI1
         -meaning:
             -exp Attitudinal: express intent / purpose / design.
+            -note Irrealis.
             -example:
                 -lojban .i {{.ai}} mi ba snada ro se troci
                 -english I{{'ll}} succeed in every one of my goal.
@@ -76,15 +83,19 @@
         -meaning:
             -context ~ {{cu'i}}
             -exp Attitudinal: express indecision / hesitation / vacillation / wavering.
+            -note Irrealis.
             -example:
                 -lojban ― .i pu zi co'i mo'u tinzga 100 zo'e .ibo ca surla .i {{.aicu'i}} tinzga lo velvi'u 400mei
                 -english ― Just finished listening to the first 100 and am now taking a break. {{Unsure if}} I'll listen to the remaining 400.
                 -source-id rolj
                 -speaker la lalxu
+                -timestamp 2021-06-29
+                -message-link https://discord.com/channels/771781383361921024/771782630814515200/859146267169652747
         -meaning:
             -variation CLL
             -context ~ {{nai}}
             -exp Attitudinal: express rejection / refusal.
+            -note Irrealis.
             -example:
                 -lojban .i go pu'o zei ganlo se morji gi ne'i la'e di'u milxe bacru za'a sei {{.ai nai}} tolmo'i
                 -english The unclosed memories, I hear whispers inside them that {{we never want to}} forget.
@@ -104,25 +115,38 @@
         -selmaho UI1
         -meaning:
             -exp Attitudinal: express hope / longing.
+            -note Irrealis.
             -example:
-                -lojban .i a'o ro da zabna
+                -lojban .i {{.a'o}} ro da zabna
                 -english {{I hope}} everything is good.
                 -source-id clax
         -meaning:
             -context ~ {{nai}}
             -exp Attitudinal: express despair / hopelessness / dread / fear.
+            -note Realis.
             -example:
                 -lojban .i le trene pu zi co'a cliva se ka'a lo tcadu poi darno {{.a'o nai}}
                 -english The train's just started to leave for the faraway city, {{oh no...}}
                 -source-id lagt
                 -noshownote The original has {{ca'o}} instead of {{co'a}}
+            -example:
+                -lojban .i {{.a'onai ru'e}} bu'o mi djica po se lanzu
+                -english {{(Slight despair)}} Now I want to be in a [Lojbanic] family...
+                -source-id rolj
+                -speaker la janbe
+                -timestamp 2021-02-01
+                -message-link https://discord.com/channels/771781383361921024/771782464548896821/805620408858574848
         -meaning:
+            -variation Community
             -context ~ {{nai}}
             -exp Attitudinal: express hope/longing that the opposite is true.
+            -note Irrealis.
             -example:
                 -lojban .i ra'apxu co zabnytce .i ti zabna bangu .i .ai mi xabju pe'a .i ta'o xu xekce {{.a'o nai}} .ie'i
                 -english It's a really nice rap. This is a nice language, I wanna live in it. BTW, is it xekce ({{I hope not}}, eww)?
                 -source-id rolj
+                -timestamp 2021-08-19
+                -message-link https://discord.com/channels/771781383361921024/771782453224013864/877676346405425173
                 -speaker la lunbe
                 -contributor la janbe
 
@@ -194,6 +218,8 @@
                 -english I {{will}} be with [you] {{in about twenty minutes}}.
                 -source-id rolj
                 -speaker Lucilla
+                -message-link https://discord.com/channels/771781383361921024/901453524926332989/1122605492313788516
+                -timestamp 2023-06-26
 
 -entry:
     -word ba'e
@@ -208,11 +234,14 @@
                 -lojban .i ja'o mi bilga lo nu jmina finti {{ba'e so}} lo tricu
                 -english So I have to create {{<em>nine</em>}} more trees to add.
                 -source-id layo
+                -todo Delete
             -example:
                 -lojban .e'e ju'o ca le {{ba'e ca}} jeftu mi roldei tcidu ro se ciska be ro le mi jbope'o
                 -english {{<em>This</em>}} week, I definitely can read every day what all my Lojban friends have written!
                 -source-id rolj
                 -speaker latkerlo
+                -timestamp 2024-04-28
+                -message-link https://discord.com/channels/771781383361921024/771782618856947752/1233898455999582268
             -example:
                 -lojban .i xu {{ba'e do}} nelci lo mlatu va'o lo nu da'i do me mi
                 -english Would {{<em>you</em>}} like cats if you were me?
@@ -232,6 +261,7 @@
                 -lojban .i lo jitro be lo te lanme {{ba'o}} cliva lo ra cmana
                 -english The shepherd of the flock {{has already}} left his hill.
                 -source-id lojb
+                -todo Replace
         -meaning:
             -context When followed by a sumti 
             -variation CLL
@@ -263,6 +293,8 @@
                 -english However, gain for you that you can write {{in a language that isn't understood [by others]}}.
                 -source-id rolj
                 -speaker la janbe
+                -timestamp 2025-04-03
+                -message-link https://discord.com/channels/771781383361921024/1304486402418937931/1357380955022823506
         -meaning:
             -context {{se}} ~
             -exp In (the) language of ...; Introduces an unnumbered sumti that plays the role of {{bangu}}'s x<sub>2</sub> in the sentence.
@@ -271,11 +303,15 @@
                 -english "Naylte" is a word {{in the language of}} rabbits.
                 -source-id rolj
                 -speaker la nonselcme
+                -timestamp 2021-06-03
+                -message-link https://discord.com/channels/771781383361921024/771783577658064927/849705077027766302
             -example:
                 -lojban mi {{na jai se bau}} zgijbo
                 -english I {{am not a speaker of}} Musical-Lojban.
                 -source-id jbob
                 -speaker la gleki
+                -timestamp 2019-04-19
+                -message-link https://discord.com/channels/230498134843850762/230498134843850762/568767362480996372
         -meaning:
             -context {{te}} ~
             -exp Expressing ...; Introduces an unnumbered sumti that plays the role of {{bangu}}'s x<sub>3</sub> in the sentence.
@@ -315,8 +351,7 @@
     -type cmavo
     -definition:
         -selmaho BO
-        -meaning: 
-            -exp Short scope link. Used in various grammatical constructions and acts as a high precedence link, overriding usual left-grouping rules. Chains linked with {{bo}} are grouped to the right. Specific usages are explained below.
+        -head Short scope link. Used in various grammatical constructions and acts as a high precedence link, overriding usual left-grouping rules. Chains linked with {{bo}} are grouped to the right. Specific usages are explained below.
         -meaning:
             -context Inside a tanru 
             -exp Joins tanru units, binding them together closely.
@@ -333,15 +368,6 @@
                 -english Yet I had read only the least fragment of that blasphemous rune before closing the book and bringing it away.
                 -source-id book
                 -note The English sentence is grouped as "I had read... before [closing the book and bringing it away]". If the underlined {{bo}} wasn't there, it'll group as "I had [read... before closing the book] and bringing it away". This example also shows the right-grouping rule with chained {{bo}}: The {{gi'e ba bo}} in the example has a lower priority because it is to the left of the underlined {{gi'e bo}}.
-        -meaning:
-            -variation CLL
-            -context Between a NAhE and a sumti 
-            -exp Binds NAhE and the sumti together.
-            -note Not required in later grammars such as camxes beta or zantufa.
-            -example:
-                -lojban .i mi ka'e binxo lo makcu prenu noi se cinri no {{na'e bo}} lo namcu
-                -english I may become like the grown-ups who are interested in anything nothing {{other than}} figures.
-                -source-id litt
         -meaning:
             -context After {{.i}} and a BAI modal 
             -exp Forms a sentence link along with {{.i}} and the BAI modal. The resulting sentence link ({{.i BAI bo}}) tags the latter bridi as a whole by the BAI modal, and incorporates it to the former (main) bridi. {{BRIDI<sub>1</sub> .i BAI bo BRIDI<sub>2</sub>}} has a similar meaning to {{BRIDI<sub>1</sub> BAI lo su'u BRIDI<sub>2</sub>}} or {{lo su'u BRIDI<sub>2</sub> cu SELBRI lo su'u BRIDI<sub>1</sub>}} (where {{BAI}} is the modal for {{SELBRI}}), but {{.i BAI bo}} also asserts that both the linked bridi are true.
@@ -375,9 +401,19 @@
                 -english Paint it with colorful pigments, {{and soon enough}} it'll be covered in black charcoal.
                 -source-id arma
         -meaning:
+            -variation CLL
+            -context Between a NAhE and a sumti 
+            -exp Binds NAhE and the sumti together.
+            -note Not required in later grammars such as camxes beta or zantufa.
+            -example:
+                -lojban .i mi ka'e binxo lo makcu prenu noi se cinri no {{na'e bo}} lo namcu
+                -english I may become like the grown-ups who are interested in anything nothing {{other than}} figures.
+                -source-id litt
+        -meaning:
+            -variation Compatible
             -context After plain {{.i}}
             -exp Forms a sentence link along with {{.i}}. The resulting sentence link is formally the same as {{.i}}, but is used to indicate the two sentences linked are closely related.
-            -note In this usage, like a semicolon in English. This usage is not described in CLL or BPFK, but is compatible with them. See also {{.e}} in ajbo.
+            -note In this usage, like a semicolon in English. See also {{.e}} in ajbo.
         -meaning:
             -context After plain {{.i}}
             -variation zantufa
@@ -400,6 +436,8 @@
                 -source-id rolj
                 -note When determining the referent of a letteral pro-sumti, the gadri ({{lo}}, {{le}}, {{la}}) of a description sumti is ignored. In this utterance, {{nubu}} refers to {{lonu jufra lasna}}, as the description {{nu jufra lasna}} starts with the word {{nu}}.
                 -speaker la melmi
+                -timestamp 2023-05-20
+                -message-link https://discord.com/channels/771781383361921024/771782630814515200/1109185640597303437
             -example:
                 -lojban .i lo glico panra be {{lu catni lojbo li'u}} se smuni lo du'u {{la'e lu bu lu'u}} po'o jetnu je drani je mulno lojbo noi fau lo nu masno farvi ku jai to'e sai lakne fai lo ka jetnu
                 -english The English equivalent of {{"Official Lojban"}} mostly implies that {{it}} is the only right, correct and  omplete Lojban, which, given the lack of progress over the last years, is a very improbable case.
@@ -478,6 +516,8 @@
                 -note "Not Important" is the name of the person greeted.
                 -source-id rolj
                 -speaker Lucilla
+                -message-link https://discord.com/channels/771781383361921024/771783577658064927/1057293278317391902
+                -timestamp 2022-12-27
             -example:
                 -lojban .ue {{coi norpan}} do pu no roi tavla
                 -english Whoa, {{hi norpan}}, you never talked before!
@@ -487,6 +527,8 @@
                 -english {{Hello Lojbanists}}, I just discovered about Lojban, and I intend to start learning it in 2023. What are good courses for Lojban?
                 -source-id rolj
                 -speaker la nalvai
+                -message-link https://discord.com/channels/771781383361921024/771782453224013864/1057297572244496455
+                -timestamp 2022-12-27
         -meaning:
             -context ~ {{nai}}
             -exp Synonym of {{co'o}}.
@@ -496,6 +538,8 @@
                 -english &mdash; I'm gonna eat, bye! <br>&mdash; {{Bye!}}
                 -source-id jbob
                 -speaker la ilmen, mklcp
+                -message-link https://discord.com/channels/230498134843850762/230498134843850762/358300181088960515
+                -timestamp 2017-09-16
 -entry:
     -word co'a
     -gloss Preposition (tense): initiative; event starts
@@ -539,12 +583,16 @@
                 -english Anyway, {{bye friends}}, I'm gonna prepare some coffee.
                 -source-id rolj
                 -speaker la srasu
+                -message-link https://discord.com/channels/771781383361921024/1304486337319272560/1384163422505140224
+                -timestamp 2025-06-16
             -example:
                 -lojban {{co'o ro do}} .i sarcu fa po mi co'a toljundi ti .i .e'o ko na dunku tau mi .i ro da jai dajbu .i mi kanro je gleki .i .a'o go'i fa ro do ji'a
                 -english {{Goodbye everyone}}, I need to direct my attention away from here now. Please don't worry about me; everything is okay. I'm well and happy. I hope the same for all of you.
                 -source-id rolj
                 -speaker Lucilla
                 -note This example is in tcekitau and jboponei. Substitute {{tau}} with {{tu'a}} and {{po}} with {{lo su'u}} to make it CLL/BPFK-compatible.
+                -message-link https://discord.com/channels/771781383361921024/771783577658064927/1220732994910945343
+                -timestamp 2024-03-22
         -meaning:
             -context ~ {{nai}}
             -exp Synonym for {{coi}}.
@@ -554,6 +602,8 @@
                 -english A &mdash; Hello everyone <br>B &mdash; It's nice that all of you are returning <br>C &mdash; {{Hello}}
                 -source-id jbob
                 -speaker Robert Baruch, la srasu, la tsani 
+                -message-link https://discord.com/channels/230498134843850762/230498134843850762/710172204058280017
+                -timestamp 2020-05-14
         -meaning:
             -context ~ {{nai}}
             -exp No goodbye to you. Used to express parting but denies the following noun as the intended listener/audience.
@@ -563,6 +613,8 @@
                 -english Okay. I see that the "All-Lojban country" is really just "Many-Lojban country". Please think about the problems in this server. {{I'm out (to most of you here)}}, and goodbye to the single person who's friendly. The only thing I want is to talk in/about Lojban.
                 -source-id rolj
                 -speaker mattf
+                -message-link https://discord.com/channels/771781383361921024/836938363319746576/1095024655695360050
+                -timestamp 2023-04-11
 -entry:
     -word co'u
     -gloss Preposition (tense): cessative; event stops
@@ -712,6 +764,8 @@
                 -source-id rolj
                 -speaker la xrula
                 -note This sentence is in JACU. To convert it to CLL Lojban, substitute {{je cu}} with {{gi'e}}.
+                -message-link https://discord.com/channels/771781383361921024/1304486402418937931/1388499979416375347
+                -timestamp 2025-06-28
         -meaning:
             -context When followed by a sumti 
             -variation CLL
@@ -789,8 +843,8 @@
                 -source-id cloc
     -definition:
         -selmaho NU
+        -variation tcekitau
         -meaning:
-            -variation tcekitau
             -exp Substitution for {{du'u}}.
             -example:
                 -lojban .i mi djuno {{lo du}} lo djedi ba banli
@@ -825,8 +879,8 @@
                 -source-id wond
     -definition:
         -selmaho I
-        -meaning:
-            -variation ajbo
+        -variation ajbo
+        -meaning:    
             -exp Equivalent to {{.i ji'a}}. Starts a sentence that is a direct continuation of the last sentence. Sentences separated with {{.e}} are considered to refer to the same event/concept, and are only seperated becuase of grammatical reasons.
             -note Adopting ajbo prerequires adopting JACU. {{.e nai}} is neither defined or used.
             -example:
@@ -835,4 +889,6 @@
                 -source-id rolj
                 -speaker la srasu
                 -note This utterance is in a divergent variety that has many differences with the baseline grammar: <ul><li>{{po}} is used as in jboponei, where it converts a bridi directly to a sumti, and corresponds to {{lo su'u}} in baseline.</li><li>{{.e}} is used as in ajbo, where it continues the same concept with another sentence, and corresponds to {{.i ji'a}} in baseline.</li><li>{{le'i}} is used as in gadganzu, where it functions as a demonstrative article (think of it as pointing to the &lt;picture&gt;), and corresponds to {{ti noi ... (ku'o)}} in baseline.</li></ul> This utterance serves as an example of the modularity of Lojban variaties, as said three differences from the baseline are unrelated to each other and can be employed independently.
+                -message-link https://discord.com/channels/771781383361921024/771782464548896821/927865896968544296
+                -timestamp 2022-01-04
 

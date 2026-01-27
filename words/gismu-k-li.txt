@@ -16,6 +16,8 @@
                 -english Thanks, I {{can}} read it without help.
                 -source-id rolj
                 -speaker la bakre'u
+                -message-link https://discord.com/channels/771781383361921024/771782436807245835/1241457586507878440
+                -timestamp 2024-05-19
             -example:
                 -lojban .i la'e di'u {{na se kakne}}
                 -english That's {{impossible}}.
@@ -70,8 +72,43 @@
                 -english So {{join me next time}}, where I’ll populate this island with animals.
                 -source-id layo
 
-
-
+-entry:
+    -word kantu
+    -gloss quantum; smallest unit (of measurement) &mdash; (of a property) discrete
+    -type gismu
+    -contributor la ezras
+    -definition:
+        -meaning:
+            -exp x_1 is a quantum/ray/elementary particle/smallest measurable increment of property/activity x_2.
+            -example:
+                -lojban .i fi'o se jbini lonu morsi ce lonu jbena ku lonu jmive cu la'a cmalu traji {{kantu}}
+                -english Between death and birth, life is likely the smallest {{quantum}}.
+                -source-id krot
+                -contributor la ezras
+            -example:
+                -lojban le bi'u nai bangu cu me'oi polysynthetic .i va'i lo'e valsi cu vasru pe'a so'i {{datni kantu}}
+                -english The aforementioned language is "polysynthetic". In other words, a word contains multiple {{pieces of information}}.
+                -source-id rolj
+                -speaker la .ilmen.
+                -contributor la ezras
+                -message-link https://discord.com/channels/771781383361921024/1304486371183951884/1339457100128063488
+                -timestamp 2021-12-09
+            -example:
+                -lojban .i sarcu fa lo ka xaksu pi re mu loi mi {{renvi kantu}} .i ku'i te prali xunai
+                -english It's necessary to consume 25% of my {{HP}}. But isn't this beneficial?
+                -source-id rolj
+                -speaker la janbe
+                -contributor la ezras
+                -message-link https://discord.com/channels/771781383361921024/873980119742545980/1450663171764260986
+                -timestamp 2025-12-17
+            -example:
+                -lojban i xunai la miranda cu cevni lo barda jbopre i ei go'i fi ro {{kantu be lo nu jmive fa vo'e}}
+                -english Isn't "I surrender" (a god) believed by the big Lojabnists? It has to be for every {{single part of their lives}}
+                -source-id jbob
+                -speaker la gleki
+                -message-link https://discord.com/channels/230498134843850762/230498134843850762/427804776781053952
+                -timestamp 2018-03-26
+                -note The {{ro kantu be ...}} is used figuratively.
 
                 
 -entry:
@@ -104,12 +141,16 @@
                 -english Watch this cat {{playing}} the video game.
                 -source-id rolj
                 -speaker yeet kitty
+                -message-link https://discord.com/channels/771781383361921024/771782464548896821/1283458626668855407
+                -timestamp 2024-09-12
             -example:
                 -lojban .i {{kelci}} lo nu gismu ke pixra smadi
                 -english [We're] {{playing}} "guessing gismu from pictures".
                 -source-id jbob
                 -speaker misotanni
-                -note A rare occasion of an event being in the x<sub>2</sub> of {{kelci}}. Judging from the conversation around it, the game seems to have rules of "one person draws a picture, and others try to guess what gismu it represents", and it is played on skribbl.io.
+                -note A rare occasion of an event being in the x<sub>2</sub> of {{kelci}}. The game is played on skribbl.io (judging from the conversation around it).
+                -message-link https://discord.com/channels/230498134843850762/230498134843850762/639608848230907924
+                -timestamp 2019-11-01
             -example:
                 -lojban lo cnino tadji cu {{se kelci}} se mau lo nu nandu se troci
                 -english The new method {{was}} more {{of a game}} than an effort.

@@ -166,6 +166,8 @@
                 -source-id jbob
                 -speaker la solpa'i
                 -note This sentence is in JACU. To convert it to CLL/BPFK Lojban, substitute {{je}} with {{.e}}.
+                -message-link https://discord.com/channels/230498134843850762/230775752012857344/371295517524754442
+                -timestamp 2017-10-21
 
 
 -entry:

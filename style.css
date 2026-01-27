@@ -137,6 +137,23 @@ table {
   font-weight: bold;
 }
 
+.standard {
+  color: #fff;
+  background-color: #f77;
+  border-color: #f77;
+}
+
+.compatible {
+  color: #fff;
+  background-color: #b77;
+  border-color: #b77;
+}
+
+.variant {
+  color: #fff;
+  background-color: #777;
+  border-color: #777;
+}
 
 .cmavo {
   color: #000000;

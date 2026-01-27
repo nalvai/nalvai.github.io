@@ -21,6 +21,8 @@
                 -english I feel {{it trembling strongly}} multiple times.
                 -source-id rolj
                 -speaker bancip
+                -message-link https://discord.com/channels/771781383361921024/771782464548896821/1180988477177860117
+                -timestamp 2023-12-04
 
 -entry:
     -word djica
@@ -92,16 +94,22 @@
                 -source-id rolj
                 -speaker la ziren 
                 -note This sentence is in JACU. To convert it to CLL Lojban, substitute {{ja}} with {{.a}}.
+                -timestamp 2025-05-09
+                -message-link https://discord.com/channels/771781383361921024/1304486337319272560/1370107296213893120
             -example:
                 -lojban .i je mi na ralte le ci'artai {{poi drani fi zo'e}}
                 -english And I don't have the {{correct}} font {{for it}}.
                 -source-id rolj
                 -speaker yeet kitty 
+                -message-link https://discord.com/channels/771781383361921024/771782618856947752/1273436290024472717
+                -timestamp 2024-08-15
             -example:
                 -lojban xu {{drani fo lo ka jbobau}}
                 -english Is it correct by Lojban standards?
                 -source-id rolj
                 -speaker dram 
+                -timestamp 2021-03-14
+                -message-link https://discord.com/channels/771781383361921024/771782826558357505/820350287469346816
 
 -entry:
     -word drata
@@ -116,6 +124,8 @@
                 -source-id rolj
                 -speaker la janbe
                 -note The emoji and italics aren't standard parts of Lojban.
+                -timestamp 2025-03-02
+                -message-link https://discord.com/channels/771781383361921024/836938363319746576/1345432111947190417
             -example:
                 -lojban lo voksa nu cenba cu {{na drata}} lo se bilma be fi lo lenku 
                 -english The change in his voice {{was no different from}} the sign of a cold. 
@@ -144,12 +154,16 @@
                 -note This sentence is in JACU. To convert it to CLL Lojban, substitute {{je cu}} with {{gi'e}}.
                 -source-id rolj
                 -speaker la lunbe
+                -message-link https://discord.com/channels/771781383361921024/771790672818470952/1358616114107646122
+                -timestamp 2025-04-07
             -example:
                 -lojban ni'o xu ranji fa le nu na djuno lo du'u ma kau zabna lo ka ce'u zmiku {{lo nu fanva fi lo glibau fo la .lojban.}}
                 -english Are [you] still unsure what is preferable for automatically {{translating from Lojban to English}}?
                 -note The {{fo}} is not needed in this sentence.
                 -source-id rolj
                 -speaker la varik
+                -message-link https://discord.com/channels/771781383361921024/771782464548896821/1107468973089501234
+                -timestamp 2023-05-15
               
 
 
@@ -175,6 +189,8 @@
                 -english The tense words {{are distracting}} me haha
                 -source-id rolj
                 -speaker la melmi
+                -timestamp 2023-05-21
+                -message-link https://discord.com/channels/771781383361921024/771782606932803606/1109582098077057054
             -example:
                 -lojban ni'o sy. ca lo nu ba'o xruti cu te cmene vo'a zo prije gi'e co'a {{jai fanza}} lo drata smani fai lo nu retsku lu ki'u ma lo smani na favysra li'u
                 -english He was no sooner back than he dubbed himself doctor and began {{to trouble}} his neighbours with the question: Why are not apes progressive?
@@ -237,6 +253,8 @@
                 -english What {{happened}} here?!
                 -source-id rolj
                 -speaker la ilmen
+                -timestamp 2024-11-09
+                -message-link https://discord.com/channels/771781383361921024/1304486402418937931/1304496632594829453
             -example:
                 -lojban .i ba {{lo fasnu}} so'i da denpa ca'u lo vorme pe lo tarci saske prenu ca lo nu ca'o kanji
                 -english After {{the event}}, crowds waited at the doors of astronomers while the calculations were being prepared.
@@ -322,6 +340,8 @@
                 -source-id rolj
                 -speaker la lunbe
                 -note This usage showcases the shifted meaning of {{fonxa}}, which is not compatible with the original meaning. This sentence is in JACU. To convert it to CLL Lojban, substitute {{je cu}} with {{gi'e}}. {{skuna}} is a synonym of {{cusku}}. 
+                -message-link https://discord.com/channels/771781383361921024/1304486402418937931/1307685194328707143
+                -timestamp 2024-11-17
 
 
 
@@ -338,6 +358,8 @@
                 -english But I think some Chinese sentences {{mean different from}} their English originals.
                 -source-id rolj
                 -speaker la nalvai
+                -timestamp 2025-02-20
+                -message-link https://discord.com/channels/771781383361921024/1304486402418937931/1342073111910027264
             -example:
                 -lojban ni'o lo cmalu noltru cu {{mutce frica}} lo makcu prenu lo ka ma kau sidbo lo se junri ce'u
                 -english The little prince {{was very different from}} those of the grown-ups on which ideas were matters of consequence.
@@ -390,12 +412,16 @@
                 -source-id rolj
                 -speaker la lunbe
                 -note {{.i'y}} is a proposed cmavo equivalent to {{.i bu}}.
+                -message-link https://discord.com/channels/771781383361921024/1304486402418937931/1335676784615624774
+                -timestamp 2025-02-03
             -example:
                 -lojban mi nelci lo'e gundi jibri .i ku'i ri {{tatpi gasnu}}
                 -english I like industrial jobs. But they {{are tiring}}.
                 -note This sentence showcase a common phenomenon of putting the effect in the seltau position of {{gasnu}}. In this sentence, {{tatpi gasnu}} is similar in meaning to {{gasnu lo nu tatpi}}. In such tanru formation, the x<sub>2</sub> of {{gasnu}} is usually left unfilled, and is assumed to be {{lo nu &lt;seltau&gt;}}.
                 -source-id rolj
                 -speaker qimar
+                -timestamp 2024-04-13
+                -message-link https://discord.com/channels/771781383361921024/779079939462922270/1228421849143054506
 
 -entry:
     -word gleki

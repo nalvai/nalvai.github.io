@@ -19,6 +19,8 @@
                 -english Risk of death is {{important in}} that it makes RPG players fear.
                 -source-id rolj
                 -speaker AstroMacGuffin
+                -timestamp 2021-11-15
+                -message-link https://discord.com/channels/771781383361921024/771782618856947752/909784234187698186
 
 -entry:
     -word valsi
@@ -112,6 +114,8 @@
                 -note "scans properly" = "correct in that the syllables makes a rhythm".
                 -source-id rolj
                 -speaker Magnap
+                -message-link https://discord.com/channels/771781383361921024/771823364519755786/1279507090217500867
+                -timestamp 2024-09-01
             -example:
                 -lojban .i je ku'i ri {{se xamgu}} ju'o lo nu lo plini cu glare zenba
                 -english But it certainly {{benefits from}} the planet warming.
@@ -134,16 +138,22 @@
                 -source-id rolj
                 -speaker la janbe
                 -note Note the air quotes in the translation. This sentence is in tcekitau + jboponei. The equivalent CLL-compatible expression is {{... lo <u>du'u</u> na vajni fa <u>lo su'u</u> lo valsi cu tordu}}.
+                -message-link https://discord.com/channels/771781383361921024/771782866233065472/783526965969551410
+                -timestamp 2020-12-02
             -example:
                 -lojban .i do {{xekce fi tu'a le glibau}}
                 -english You're now {{criticizing [my] English}}!
                 -source-id jbob
                 -speaker yeet kitty
+                -timestamp 2024-06-10
+                -message-link https://discord.com/channels/230498134843850762/230498134843850762/1249523008385716295
             -example:
                 -lojban .ie mi tugni la zearen .i ta'o doi mlatu44 ko na milxe se vajni {{lo xekce}} vi .i vajni zmadu fa lo si'o do srera
                 -english Yeah, I agree with Zearen. BTW, mlatu44: Don't care about {{the xekce}} here! (You) making errors is more important.
                 -source-id jbob
                 -speaker qimar
+                -message-link https://discord.com/channels/230498134843850762/230498134843850762/1331482721389777020
+                -timestamp 2025-01-22
         -meaning:
             -context See note
             -exp x_1 corrects x_2's Lojban text.
@@ -186,6 +196,8 @@
                 -english I'm dumb and {{bad at being a Lojbanist}}.
                 -source-id rolj
                 -speaker la bisri'e
+                -timestamp 2023-05-11
+                -message-link https://discord.com/channels/771781383361921024/771823364519755786/1106249271365349376
 
 -entry:
     -word xrani
@@ -210,6 +222,8 @@
                 -source-id rolj
                 -speaker la ziren
                 -note This example is in tcekitau. Substitute the {{tau}} with {{tu'a}} to convert it into CLL/BPFK Lojban.
+                -message-link https://discord.com/channels/771781383361921024/771782464548896821/802061779424510003
+                -timestamp 2021-01-22
             -example:
                 -lojban .i za'a {{lo ve xrani}} cu ba'o mo'u kanro binxo .i ki'u bo gy. ganse no sai lo fanza
                 -english {{[His] injuries}} must already have completely healed as he found no difficulty [in moving.]
@@ -312,6 +326,8 @@
                 -source-id jbob
                 -speaker la srasu
                 -note This sentence is in gadganzu. {{le'i}} functions as a demonstrative article (think of it as pointing to a referent) here.
+                -timestamp 2020-06-14
+                -message-link https://discord.com/channels/230498134843850762/233338740154564609/721413499871559700
 
 -entry:
     -word zgadi
@@ -331,6 +347,8 @@
                 -source-id rolj
                 -speaker la ziren
                 -noshownote {{loi ro ciksi}} would be "all the explainers"...
+                -message-link https://discord.com/channels/771781383361921024/771782618856947752/821410351748481056
+                -timestamp 2021-03-16
         -meaning:
             -exp x_1 should do x_2 (event/action).
             -note This sense isn't documented, but is mentioned once in roljbogu'e (and considered malgli by the mentioner). {{x<sub>1</sub> zgadi x<sub>2</sub>}} under this sense can be expressed with {{x<sub>1</sub> jai zgadi fai x<sub>2</sub>}} under the above sense.
@@ -344,6 +362,8 @@
                 -source-id rolj
                 -speaker la ziren
                 -note This utterance is in tcekitau ({{du}} for CLL {{du'u}}) and ajbo, see the entry for {{.e}} for more explanation. The {{sy.}} refers to {{le do <u>s</u>muni}}.
+                -timestamp 2021-02-25
+                -message-link https://discord.com/channels/771781383361921024/771782826558357505/814314664388722718
 
 -entry:
     -word zgana
@@ -370,6 +390,8 @@
                 -english For now I'm {{watching}} the video [series] "Andor".
                 -source-id rolj
                 -speaker qimar
+                -message-link https://discord.com/channels/771781383361921024/779079939462922270/1366664795738214482
+                -timestamp 2025-04-29
 
 
 -entry:

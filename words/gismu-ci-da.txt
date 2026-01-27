@@ -30,11 +30,15 @@
                 -english I'm {{learning how to play a flute}} for fun.
                 -source-id rolj
                 -speaker la ziren
+                -message-link https://discord.com/channels/771781383361921024/1304486337319272560/1343043310868234281
+                -timestamp 2025-02-23
             -example:
                 -lojban .i mi ra'a {{cilre}} so'i da fo la lunbe ku noi .uinai cando do'e le jbogu'e ca
                 -english Related, I {{learned}} so much from Lunbe, who is now inactive in Lojbanistan :(
                 -source-id rolj
                 -speaker la janbe
+                -timestamp 2023-11-16
+                -message-link https://discord.com/channels/771781383361921024/779079939462922270/1174730272542048346
             -example:
                 -lojban .i mu'i ku so'i da pilno {{lo laldo ve cilre}} lo ka {{cilre fi lo catni lojbo}}
                 -english Because of it, many used {{old textbooks}} to {{learn the official Lojban}}.
@@ -44,6 +48,8 @@
                 -english Which means (entails) that [you] can {{learn by making Pokémon names}}.
                 -source-id rolj
                 -speaker la nonselcme
+                -timestamp 2022-08-02
+                -message-link https://discord.com/channels/771781383361921024/771782464548896821/1003831315046596628
 
 
 
@@ -67,6 +73,8 @@
                 -english It's planned with a desire of {{making [people] feel}} friendly and/or freedom.
                 -source-id rolj
                 -speaker la ziren
+                -message-link https://discord.com/channels/771781383361921024/771790685544120390/808043576940167198
+                -timestamp 2021-02-08
             -example:
                 -lojban .i koi do na jungau ra po do ca {{cinmo}} ma kau ra
                 -english Do not tell her how you {{feel}} about her
@@ -85,12 +93,16 @@
                 -english &mdash; Did you see the new train?<br>&mdash; Yep, saw the picture of the Class 777. It didn't {{interest}} me. 
                 -source-id rolj
                 -speaker latkerlo, la samflir
+                -message-link https://discord.com/channels/771781383361921024/771782464548896821/1062504091810541659
+                -timestamp 2023-01-11
             -example:
                 -lojban xu nai lo zekri poi .i'y gasnu ke'a cu {{cinri}} do 
                 -english Doesn't the crime it ( = the word <b>ie'o</b>) caused {{interest}} you? 
                 -source-id rolj
                 -speaker la lunbe
                 -note {{.i'y}} is a proposed cmavo equivalent to {{.i bu}}. Note that this example doesn't need {{jai}} because the x_1 of {{zekri}} is already an event.
+                -message-link https://discord.com/channels/771781383361921024/1304486402418937931/1335676784615624774
+                -timestamp 2025-02-03
             -example:
                 -lojban .i lo nu citka cu cizra {{cinri}} sy.
                 -english The (act of) eating is strangely {{interesting}} to her ( = Susan).
@@ -124,6 +136,8 @@
                 -english The "la'e di'u cu zabna" can {{go without the "cu"}}.
                 -source-id rolj
                 -speaker la lalxu
+                -message-link https://discord.com/channels/771781383361921024/771790672818470952/1353378452346245121
+                -timestamp 2025-03-23
 
 
 -entry:
@@ -145,8 +159,10 @@
             -example:
                 -lojban .i mi ca mabla za'a {{ciska fo}} lo batkyfoi
                 -english I see I'm {{typing}} badly {{with}} my keyboard now.
-                -source-id rolj
+                -source-id jbob
                 -speaker la srasu
+                -message-link https://discord.com/channels/230498134843850762/234028305374904320/565018298702495748
+                -timestamp 2019-04-09
 
 -entry:
     -word citka
@@ -253,6 +269,8 @@
                 -english As for Salt [Lake] City: salt. It's really a city, but it's {{small small by large city standards}}. 
                 -source-id rolj
                 -speaker la janbe
+                -timestamp 2020-12-02
+                -message-link https://discord.com/channels/771781383361921024/771782464548896821/783544567773134869
 
 -entry:
     -word cmavo
@@ -272,16 +290,22 @@
                 -source-id rolj
                 -speaker la varik
                 -note This sentence is in JACU. To convert it to CLL Lojban, substitute {{jonai}} with {{.onai}}. Also, {{cmavrfa}} is a type-3 zi'evla. {{cmavrfa}} = cmav-r-FA.
+                -message-link https://discord.com/channels/771781383361921024/771782814986272778/1146584227098415174
+                -timestamp 2023-08-31
             -example:
                 -lojban .icaku mi djica tu'a {{lo cmavo be ma'oi ca'a bei tu'a zo je'u}}
                 -english Now I want {{a CAhA (cmavo of class CAhA) that means similarly to <i>je'u</i>}}.
                 -source-id rolj
                 -speaker la srasu
+                -message-link https://discord.com/channels/771781383361921024/771782826558357505/912364030981734410
+                -timestamp 2021-11-22
             -example:
                 -lojban .i so'ida .oiru'e {{temci cmavo fo lo jbobau}}
                 -english There are so many {{tense particles in Lojban...}}
                 -source-id jbob
                 -speaker la melmi
+                -message-link https://discord.com/channels/230498134843850762/230498134843850762/1109220584837087423
+                -timestamp 2023-05-20
 
 
 -entry:
@@ -398,6 +422,9 @@
                 -lojban .i my. {{cusku}} lo se du'u my. manci catlu po'o lo mi melbi lerfu
                 -english She (my mother) said she was just marvelling at my beautiful handwriting.
                 -source-id rolj
+                -speaker la nalvai
+                -message-link https://discord.com/channels/771781383361921024/1304486402418937931/1357259070507057263
+                -timestamp 2025-04-03
             -example:
                 -lojban .i lo zbasu noi {{manku cusku fo lo drata se zbasu}} cu simlu lo ka bacru lo jetnu voksa se pi'o lo junla
                 -english The creator, who {{spoke obscurely in his other works}}, seemed to utter an authentic voice with the clock;
@@ -453,6 +480,8 @@
                 -source-id rolj
                 -speaker la ziren
                 -note This example is in tcekitau. Substitute the {{tau}} with {{tu'a}} to convert it into CLL/BPFK Lojban.
+                -message-link https://discord.com/channels/771781383361921024/771782464548896821/802061779424510003
+                -timestamp 2021-01-22
             -example:
                 -lojban .i ku'i va'o lo nu ra renvi lo ka se lanli zo'u {{lo se darlu be ri'oi bende}} na ka'e jai se nafsku 
                 -english But if they hold up under scrutiny, {{the team's case}} is undeniable.

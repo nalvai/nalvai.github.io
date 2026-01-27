@@ -15,6 +15,8 @@
                 -source-id rolj
                 -speaker la uakci
                 -note The main selbri, {{clira mapti}}, translated literally to "early-suitable", which is taken to be "be early enough to be suitable" in the translation given above.
+                -timestamp 2021-10-24
+                -message-link https://discord.com/channels/771781383361921024/901453524926332989/901858890910695454
 
 -entry:
     -word megdo
@@ -45,16 +47,22 @@
                 -english &mdash; It's grayish blue now. It's {{beautiful}} to me. Is your sky {{beautiful}} to you? <br>&mdash; It's {{beautiful}} to me in that it's blue without clouds.
                 -source-id rolj
                 -speaker la lunbe, niftg
+                -message-link https://discord.com/channels/771781383361921024/779079939462922270/1359024000784793743
+                -timestamp 2025-04-08
             -example:
                 -lojban .i pe'i ro bangu cu {{melbi fi da}}
                 -english I think every language {{is beautiful in some ways}}.
                 -source-id rolj
                 -speaker la xrula
+                -timestamp 2024-04-25
+                -message-link https://discord.com/channels/771781383361921024/779079939462922270/1232787491774529536
             -example:
                 -lojban .i ku'i mi {{se melbi}} le do ganto'a sai voksa
                 -english But I {{find}} your very deep voice {{beautiful}}.
                 -source-id rolj
                 -speaker la janbe
+                -timestamp 2024-02-22
+                -message-link https://discord.com/channels/771781383361921024/771782464548896821/1209979216502980638
 
 
 -entry:
@@ -74,6 +82,8 @@
                 -english Varik said {{something mildly similar-looking}}. 
                 -source-id rolj
                 -speaker la varik
+                -message-link https://discord.com/channels/771781383361921024/771782814986272778/1163275782274162799
+                -timestamp 2023-10-16
             -example:
                 -lojban .i je lo ji'a sai pilka cu {{crino milxe}}
                 -english And even [his] skin {{was of a greenish tint}}.
@@ -220,6 +230,8 @@
                 -source-id rolj
                 -speaker la nalvai
                 -note To be overwhelmed = To feel an extreme emotion
+                -message-link https://discord.com/channels/771781383361921024/1304486402418937931/1357244197383438399
+                -timestamp 2025-04-03
 
 
 -entry:
@@ -239,6 +251,8 @@
                 -note The {{so'i cnima'o}} is raised with {{jai}} since {{nandu}} takes abstraction (event, etc.) as x<sub>1</sub>.
                 -source-id rolj
                 -speaker la lunbe
+                -message-link https://discord.com/channels/771781383361921024/771782826558357505/1104997431894081628
+                -timestamp 2023-05-08
             -example:
                 -lojban ni'o lo ralju be {{lo nandu be la .alis.}} ca lo cfari cu nu jitro lo fagycpi
                 -english The chief {{difficulty Alice found}} at first was in managing her flamingo. 
@@ -248,6 +262,8 @@
                 -english I assume it{{'s hard when}} it's ambiguous.
                 -source-id rolj
                 -speaker la melmi
+                -message-link https://discord.com/channels/771781383361921024/771782464548896821/1111760225117159474
+                -timestamp 2023-05-27
 
 -entry:
     -word nelci

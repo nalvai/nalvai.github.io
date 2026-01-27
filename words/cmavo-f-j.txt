@@ -59,6 +59,8 @@
                 -english Thanks, example-{{creator}}!
                 -source-id jbob
                 -speaker la fagri
+                -message-link https://discord.com/channels/230498134843850762/230498134843850762/461800804865802240
+                -timestamp 2018-06-28
             -example:
                 -lojban clani kerlo {{fi'e}} la fagri
                 -english Long Ears, {{by}} Fagri
@@ -68,6 +70,8 @@
                 -english I think many newer songs {{by me}} are nice.
                 -source-id rolj
                 -speaker la janbe
+                -timestamp 2024-02-10
+                -message-link https://discord.com/channels/771781383361921024/771823364519755786/1205751653261901844
             -example:
                 -lojban .i gidva ro da fa lo se platu {{be fi'e mi}}
                 -english {{My}} plans were guiding everything.
@@ -76,6 +80,13 @@
             -context {{se}} ~
             -exp Creating work ...; Introduces an unnumbered sumti that plays the role of {{finti}}'s x<sub>2</sub> in the sentence.
             -note The event described by the bridi is associated with the creation of the referent of the tagged sumti. {{se fi'e}} is unattested.
+            -example:
+                -lojban {{sefi'e}} lo zgipemci be bau la .interglosas. cu facki lo du'u la .interglosas. cu mutce simsa le tokpono fi tu'a lo gerna
+                -english {{When making}} the Interglosa lyrics, [I] discovered that Interglosa is really similar to Toki Pona in grammar.
+                -source-id rolj
+                -speaker la .tirprij.
+                -timestamp 2025-12-09
+                -message-link https://discord.com/channels/771781383361921024/859885029873156102/1447891894225862828
         -meaning:
             -context {{te}} ~
             -exp Creating with purpose ...; Introduces an unnumbered sumti that plays the role of {{finti}}'s x<sub>3</sub> in the sentence.
@@ -93,6 +104,8 @@
                 -english The difficulty in expressing something similar to "javni" {{from}} other meanings means that the official meaning is better IMO. 
                 -source-id jbob
                 -speaker _4Denthusiast
+                -message-link https://discord.com/channels/230498134843850762/230498134843850762/262898052371578880
+                -timestamp 2016-12-26
 
 
 -entry:
@@ -122,6 +135,8 @@
                 -source-id rolj
                 -speaker la srasu
                 -note The sumti slot introduced by {{fi'o ve vreji fe'u}} is promoted to x<sub>1</sub> by {{jai}}.
+                -message-link https://discord.com/channels/771781383361921024/771782618856947752/807012280343461888
+                -timestamp 2021-02-05
 
 
 -entry:
@@ -218,11 +233,15 @@
                 -source-id rolj
                 -speaker portal 2056, la nalvai
                 -note {{xe'ei}} is an abstractor (selma'o {{NU}}) meaning "x_1 is the place where [bridi] takes place".
+                -message-link https://discord.com/channels/771781383361921024/779079939462922270/1399343175235141747
+                -timestamp 2025-07-28
             -example:
                 -lojban .i xu lo fagri cu daspo lo do zdani .i .a'o na go'i .i ca'o {{je'i}} ba'o fagri
                 -english Did the fire destroy your home? I hope it didn't. Is the fire still going, {{or}} has it already ended{{?}}
                 -source-id rolj
                 -speaker la .ilmen.
+                -timestamp 2024-11-14
+                -message-link https://discord.com/channels/771781383361921024/1304486402418937931/1306314262498770965
 
 -entry:
     -word ji
@@ -241,8 +260,8 @@
                 -source-id alic
     -definition:
         -selmaho JA
+        -variation JACU
         -meaning:
-            -variation JACU
             -exp Connective: connective question. Connects two grammatical constructs of the same type and asks the listener to supply a connective that makes the containing bridi true. 
             -example:
                 -lojban ― coi jbope'o mi'e zi sipna <br> ― puzi {{ji}} bazi <br> ― naje li'abu'o u'i
@@ -250,6 +269,8 @@
                 -source-id rolj
                 -speaker la srasu, la evis
                 -note The middle sentence would be {{puzi <u>je'i</u> bazi}} under CLL Lojban.
+                -timestamp 2025-04-01
+                -message-link https://discord.com/channels/771781383361921024/1304486402418937931/1356452382493380821
 
 
 
@@ -267,3 +288,4 @@
                 -lojban .i lo munje cu palci je'u .i {{ji'a}} lo nu jmive cu nibli lo nu cortu
                 -english The world is truly evil, {{and}} living implies suffering.
                 -source-id kuhi
+                -todo Umm needs a better example

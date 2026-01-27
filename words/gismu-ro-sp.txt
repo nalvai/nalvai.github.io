@@ -77,6 +77,8 @@
                 -english {{A computer}} can describe the grammatical structure.
                 -source-id rolj
                 -speaker la katador
+                -message-link https://discord.com/channels/771781383361921024/1304486337319272560/1353609653761609728
+                -timestamp 2025-03-24
             -example:
                 -lojban su'o da kelci secau leka ponse le selkei je {{le ka'e skami be ri}}
                 -english ... several people [can] play without having the game and {{the (can-be) computer for it}}.
@@ -84,12 +86,16 @@
                 -speaker la srasu
                 -note This sentence is clipped from a much longer sentence. This sentence is in JACU. To convert it to CLL Lojban, substitute {{je}} with {{.e}}. 
                 -noshownote The {{ka'e}} confuses me a little... I guess it's for specialized hardware for games that "can become a computer" by hacking? 
+                -timestamp 2023-03-25
+                -message-link https://discord.com/channels/771781383361921024/873980119742545980/1089206251013030011
             -example:
                 -lojban .i mi terve'u lo cnino {{skami be lo nu samtcifi'i}}
                 -english I bought a new {{computer for programming}}.
                 -source-id jbob
                 -speaker la .zi.
                 -note {{samtcifi'i}} expands to {{skami tutci finti}}, Creating computer-tools = programming.
+                -timestamp 2020-03-07
+                -message-link https://discord.com/channels/230498134843850762/230498134843850762/685676358113951766
 
 -entry:
     -word skari
@@ -192,12 +198,16 @@
                 -english What's {{the meaning of}} {ta} in the last sentence?
                 -source-id rolj
                 -speaker la nalvai
+                -timestamp 2025-03-16
+                -message-link https://discord.com/channels/771781383361921024/1304486337319272560/1350616155961688104
             -example:
                 -lojban .i ru'a lo'u do cinmo ma doi ro do le'u {{se djica jai smuni}}
                 -english I assume "do cinmo ma doi ro do" {{is what [you] want it to mean}}.
                 -source-id rolj
                 -speaker la janbe
                 -note The {{jai}} raises the quote, {{lo'u do cinmo ma doi ro do le'u}}, into an abstraction so it can go into the x<sub>1</sub> place.
+                -timestamp 2025-06-04
+                -message-link https://discord.com/channels/771781383361921024/1304486402418937931/1379559370261532692
             -example:
                 -lojban .i lo du'u da de natfe cu {{se smuni}} lo du'u da .o nai de ka'e jetnu
                 -english "A contradicts B" {{means}} only one of A and B can be true.

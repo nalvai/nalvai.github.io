@@ -107,6 +107,10 @@ def process_quotes(entry):
                                 if index not in chatlog_speakers:
                                     chatlog_speakers[index] = {}
                                 chatlog_speakers[index][speaker.strip()] = chatlog_speakers[index].get(speaker.strip(), 0) + 1
+                            if "message-link" not in quote:
+                                print(f"Warning: message quote at {entry['word']} has no link!")
+                            if "timestamp" not in quote:
+                                print(f"Warning: message quote at {entry['word']} has no timestamp!")
                         if get_clean_quote(quote["lojban"]) not in quotes:
                             quotes.add(get_clean_quote(quote["lojban"]))
                             source["instance"] = source.get("instance", 0) + 1
